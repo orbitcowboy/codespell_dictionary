@@ -55,7 +55,6 @@ accordian->accordion
 accoring->according
 accoustic->acoustic
 accpet->accept
-accpet->accept
 accquainted->acquainted
 accrediation->accreditation
 accredidation->accreditation
@@ -366,7 +365,6 @@ aquiantance->acquaintance
 aquire->acquire
 aquired->acquired
 aquiring->acquiring
-aquisition->acquisition
 aquisition->acquisition
 aquitted->acquitted
 aranged->arranged
@@ -885,7 +883,6 @@ communciation->communication
 communiation->communication
 communites->communities
 compability->compatibility
-comparision->comparison
 comparision->comparison
 comparisions->comparisons
 comparitive->comparative
@@ -1549,7 +1546,6 @@ essentual->essential
 essesital->essential
 estabishes->establishes
 establised->established
-establised->established
 establishd->established
 establising->establishing
 ethnocentricm->ethnocentrism
@@ -1599,7 +1595,6 @@ excisted->existed
 exculsivly->exclusively
 execising->exercising
 exection->execution
-exectued->executed
 exectued->executed
 exeedingly->exceedingly
 exelent->excellent
@@ -3792,7 +3787,6 @@ substatial->substantial
 substituded->substituted
 substracted->subtracted
 substracting->subtracting
-substraction->subtraction
 substraction->subtraction
 substracts->subtracts
 substract->subtract
