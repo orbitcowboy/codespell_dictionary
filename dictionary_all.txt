@@ -3639,7 +3639,8 @@ similiar->similar
 simmilar->similar
 simpley->simply
 simplier->simpler
-simpliy->simplifiy
+simplifiy->simplify
+simpliy->simplify
 simultanously->simultaneously
 simultanous->simultaneous
 sincerley->sincerely
