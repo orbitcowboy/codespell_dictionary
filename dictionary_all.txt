@@ -244,6 +244,7 @@ alotted->allotted
 alowed->allowed
 alowing->allowing
 alreayd->already
+alrogithm->algorithm
 alse->else
 alsot->also
 alternitives->alternatives
@@ -579,6 +580,7 @@ beng->being
 benificial->beneficial
 benifit->benefit
 benifits->benefits
+be references by->be referenced by 
 bergamont->bergamot
 Bernouilli->Bernoulli
 beseige->besiege
@@ -616,6 +618,7 @@ breif->brief
 breifly->briefly
 brethen->brethren
 bretheren->brethren
+brievity->brevity
 briliant->brilliant
 brillant->brilliant
 brimestone->brimstone
@@ -624,6 +627,7 @@ Brittish->British
 broacasted->broadcast
 broadacasting->broadcasting
 broady->broadly
+brough->brought
 Buddah->Buddha
 Buddist->Buddhist
 buisness->business
@@ -635,6 +639,7 @@ burried->buried
 busineses->business, businesses,
 busness->business
 bussiness->business
+bwloe->below
 caculater->calculator
 cacuses->caucuses
 cahracters->characters
@@ -1011,6 +1016,7 @@ contaiminate->contaminate
 containes->contains
 contamporaries->contemporaries
 contamporary->contemporary
+contant->contact,constant
 contempoary->contemporary
 contemporaneus->contemporaneous
 contempory->contemporary
@@ -1243,6 +1249,7 @@ devide->divide
 devistating->devastating
 devolopement->development
 diablical->diabolical
+diagramatic->diagrammatic
 diamons->diamonds
 diaster->disaster
 dichtomy->dichotomy
@@ -1435,6 +1442,7 @@ embarrasment->embarrassment
 embeded->embedded
 embezelled->embezzled
 emblamatic->emblematic
+emblazen->emblazon
 eminated->emanated
 eminate->emanate
 emision->emission
@@ -2034,6 +2042,7 @@ implimented->implemented
 impliment->implement
 imploys->employs
 importamt->important
+impracticle->impractical
 impresson->impression
 imprioned->imprisoned
 imprisonned->imprisoned
@@ -2172,6 +2181,7 @@ instuments->instruments
 instutionalized->institutionalized
 instutions->intuitions
 insurence->insurance
+insurmoutable->insurmountable
 intantion->instantiation
 intelectual->intellectual
 inteligence->intelligence
@@ -2275,6 +2285,7 @@ kindergarden->kindergarten
 klenex->kleenex
 knifes->knives
 knive->knife
+knowledgee->knowledge
 knowlegeable->knowledgeable
 knowlege->knowledge
 knwo->know
@@ -2348,6 +2359,7 @@ litterally->literally
 liuke->like
 livley->lively
 lmits->limits
+loca->local
 loev->love
 lonelyness->loneliness
 longitudonal->longitudinal
@@ -2460,6 +2472,7 @@ meterologist->meteorologist
 meterology->meteorology
 methaphor->metaphor
 methaphors->metaphors
+method define how->method defines how
 methodes->methods
 Michagan->Michigan
 micoscopy->microscopy
@@ -2600,6 +2613,7 @@ neccessities->necessities
 necesarily->necessarily
 necesary->necessary
 necessiate->necessitate
+neeed->need
 negitive->negative
 neglible->negligible
 negligable->negligible
@@ -2725,6 +2739,7 @@ officaly->officially
 officialy->officially
 offred->offered
 oftenly->often
+ofthe-> of the
 oging->going, ogling,
 omision->omission
 omited->omitted
@@ -3121,6 +3136,7 @@ procedings->proceedings
 proceedure->procedure
 proces->process
 processer->processor
+proceudres->procedures
 proclaimation->proclamation
 proclamed->proclaimed
 proclaming->proclaiming
@@ -3615,6 +3631,7 @@ shouldnt->shouldn't
 shouldnt'->shouldn't
 shreak->shriek
 shrinked->shrunk
+shuld->should
 sicne->since
 sideral->sidereal
 siezed->seized, sized,
@@ -3639,6 +3656,7 @@ similiar->similar
 simmilar->similar
 simpley->simply
 simplier->simpler
+simplifed->simplified
 simplifiy->simplify
 simpliy->simplify
 simultanously->simultaneously
@@ -3695,6 +3713,7 @@ soverign->sovereign
 soverignty->sovereignty
 spagetti->spaghetti
 spainish->Spanish
+spcified->specified
 speach->speech
 specfic->specific
 speciallized->specialised, specialized,
@@ -3705,6 +3724,7 @@ spectauclar->spectacular
 spectaulars->spectaculars
 spects->aspects, expects,
 spectum->spectrum
+speficied->specified
 speices->species
 spendour->splendour
 spermatozoan->spermatozoon
@@ -3721,6 +3741,7 @@ spred->spread
 spriritual->spiritual
 spritual->spiritual
 sqaure->square
+squirreled->squirrelled
 squres->squares
 stablility->stability
 stainlees->stainless
@@ -3892,6 +3913,7 @@ surrouding->surrounding
 surrundering->surrendering
 surveilence->surveillance
 surveill->surveil
+surveryed->surveyed
 surveyer->surveyor
 survivers->survivors
 surviver->survivor
@@ -3981,6 +4003,7 @@ therafter->thereafter
 therby->thereby
 theri->their
 ther->there, their, the,
+the the->the
 theyre->they're,
 thgat->that
 thge->the
