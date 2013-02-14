@@ -968,6 +968,7 @@ consentrates->concentrates
 consept->concept
 consequentually->consequently
 consequeseces->consequences
+consequtive->consecutive
 consern->concern
 conserned->concerned
 conserning->concerning
@@ -1260,6 +1261,7 @@ dieties->deities
 diety->deity
 diferent->different
 diferrent->different
+different between->difference between
 differentiatiations->differentiations
 differnt->different
 difficulity->difficulty
@@ -1344,6 +1346,7 @@ divice->device
 divison->division
 divisons->divisions
 dize of->size of
+dize->size
 doccument->document
 doccumented->documented
 doccuments->documents
@@ -2013,6 +2016,7 @@ imigrant->emigrant, immigrant,
 imigrated->emigrated, immigrated,
 imigration->emigration, immigration,
 iminent->eminent, imminent, immanent,
+immediated->immediately
 immediatelly->immediately
 immediatley->immediately
 immediatly->immediately
@@ -2614,6 +2618,7 @@ nescessary->necessary
 nessasarily->necessarily
 nessecary->necessary
 nestin->nesting
+netwok->network
 neverthless->nevertheless
 newletters->newsletters
 Newyorker->New Yorker
@@ -4019,6 +4024,7 @@ tkae->take
 tkaing->taking
 tlaking->talking
 tobbaco->tobacco
+to connects to-> to connect to
 todays->today's, disable because of var names
 todya->today
 toghether->together
@@ -4188,6 +4194,7 @@ unsuprizing->unsurprising
 unsurprized->unsurprised
 unsurprizingly->unsurprisingly
 unsurprizing->unsurprising
+unterminate->unterminated
 untill->until
 untranslateable->untranslatable
 unusal->unusual
