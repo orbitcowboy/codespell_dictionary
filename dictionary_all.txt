@@ -3252,6 +3252,7 @@ pseudonyn->pseudonym
 psuedo->pseudo
 psycology->psychology
 psyhic->psychic
+ptach->patch
 pubilsher->publisher
 pubisher->publisher
 publiaher->publisher
