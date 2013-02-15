@@ -1093,6 +1093,7 @@ correponding->corresponding
 correposding->corresponding
 correspondant->correspondent
 correspondants->correspondents
+correspons->corresponds
 corresponsing->corresponding
 corridoors->corridors
 corrispondant->correspondent
@@ -3867,6 +3868,7 @@ subjudgation->subjugation
 sublassed->subclassed
 sublass->subclass
 submachne->submachine
+submobules->submodules
 subpecies->subspecies
 subsidary->subsidiary
 subsiduary->subsidiary
