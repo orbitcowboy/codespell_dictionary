@@ -248,6 +248,7 @@ alot->a lot
 alotted->allotted
 alowed->allowed
 alowing->allowing
+alphabethically->alphabetically
 alreayd->already
 alrogithm->algorithm
 alse->else
@@ -613,6 +614,7 @@ bombardement->bombardment
 bombarment->bombardment
 bondary->boundary
 Bonnano->Bonanno
+boostrap->bootstrap
 boradcast->broadcast
 borke->broke
 borken->broken
@@ -720,6 +722,7 @@ carthographer->cartographer
 cartilege->cartilage
 cartilidge->cartilage
 cartrige->cartridge
+cascade->casade
 casette->cassette
 casion->caisson
 cassawory->cassowary
@@ -1629,6 +1632,7 @@ excercise->exercise
 excerciser->exerciser
 exchanching->exchanging
 excisted->existed
+excpetion->exception
 exculsivly->exclusively
 execising->exercising
 exection->execution
@@ -2032,6 +2036,7 @@ idaes->ideas
 idealogies->ideologies
 idealogy->ideology
 identicial->identical
+identifer->identifier
 identifers->identifiers
 ideosyncratic->idiosyncratic
 idesa->ideas, ides,
@@ -2470,6 +2475,7 @@ marrage->marriage
 marraige->marriage
 marrtyred->martyred
 marryied->married
+martch->march
 Massachussets->Massachusetts
 Massachussetts->Massachusetts
 massmedia->mass media
@@ -3297,6 +3303,7 @@ Queenland->Queensland
 QUERTY->quwerty
 questonable->questionable
 quicklyu->quickly
+quikc->quick
 quinessential->quintessential
 quitted->quit
 quizes->quizzes
@@ -3484,6 +3491,8 @@ reprtoire->repertoire
 repsectively->respectively
 reptition->repetition
 reqest->request
+requet->request
+requets->requests
 requirment->requirement
 requred->required
 resaurant->restaurant
@@ -4426,6 +4435,7 @@ wiht->with
 wih->with
 wille->will
 willingless->willingness
+wioth->with
 wirting->writing
 withdrawl->withdrawal, withdraw,
 witheld->withheld
