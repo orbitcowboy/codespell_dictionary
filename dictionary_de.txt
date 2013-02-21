@@ -253,3 +253,4 @@ Stellenzeige->Stellenanzeige
 qualitätssicherende->qualitätssichernde
 signifikatner->signifikanter
 notewendige->notwendige
+Entdckung->Entdeckung
