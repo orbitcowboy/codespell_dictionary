@@ -254,3 +254,4 @@ qualitätssicherende->qualitätssichernde
 signifikatner->signifikanter
 notewendige->notwendige
 Entdckung->Entdeckung
+Wettezll->Wettzell
