@@ -256,3 +256,4 @@ notewendige->notwendige
 Entdckung->Entdeckung
 Wettezll->Wettzell
 Haurat->Hausrat
+montalichen->monatlichen
