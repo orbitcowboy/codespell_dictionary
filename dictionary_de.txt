@@ -255,3 +255,4 @@ signifikatner->signifikanter
 notewendige->notwendige
 Entdckung->Entdeckung
 Wettezll->Wettzell
+Haurat->Hausrat
