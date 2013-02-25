@@ -87,6 +87,7 @@ acomplishment->accomplishment
 acomplishments->accomplishments
 acording->according
 acordingly->accordingly
+acount->account
 acquaintence->acquaintance
 acquaintences->acquaintances
 acquiantence->acquaintance
@@ -657,6 +658,7 @@ caculater->calculator
 cacuses->caucuses
 cahracters->characters
 calaber->caliber
+calander->calendar
 calander->calendar, calender, colander,
 calbibration->calibration
 calcalation->calculation
@@ -1109,6 +1111,7 @@ costitution->constitution
 cotrol->control
 coucil->council
 coudl->could, cloud,
+could of->could have
 coulnd't->couldn't
 councellor->councillor, counselor, councilor,
 councellors->councillors, counselors, councilors,
@@ -1294,6 +1297,7 @@ dicovery->discovery
 dicussed->discussed
 didnt->didn't
 didnt'->didn't
+didnt->didn't, did not
 diea->idea, die,
 dieing->dying, dyeing,
 dieties->deities
@@ -1398,11 +1402,13 @@ documenatry->documentary
 doens->does
 doesnt->doesn't
 doesnt'->doesn't
+doesnt->doesn't, does not
 doign->doing
 dominaton->domination
 dominent->dominant
 dominiant->dominant
 donig->doing
+dont->don't, do not
 dosent'->doesn't
 dosen't->doesn't
 doub->doubt, daub,
@@ -1728,6 +1734,7 @@ fatc->fact
 faught->fought
 favoutrable->favourable
 feasable->feasible
+febuary->february
 Febuary->February
 Feburary->February
 fedreally->federally
@@ -2344,6 +2351,7 @@ juducial->judicial
 juristiction->jurisdiction
 juristictions->jurisdictions
 kenrel->kernel
+kernal->kernel
 keybord->keyboard
 kindergarden->kindergarten
 klenex->kleenex
@@ -3713,6 +3721,7 @@ shoudln->should, shouldn't,
 shoudl->should
 shouldnt->shouldn't
 shouldnt'->shouldn't
+should of->should have
 shreak->shriek
 shrinked->shrunk
 shuld->should
@@ -3884,6 +3893,7 @@ sturcture->structure
 subcatagories->subcategories
 subcatagory->subcategory
 subconsiously->subconsciously
+subcribe->subscribe
 subjudgation->subjugation
 sublassed->subclassed
 sublass->subclass
@@ -4183,6 +4193,7 @@ transcendentational->transcendental
 transcripting->transcribing, transcription,
 transending->transcending
 transesxuals->transsexuals
+transexual->transsexual
 transfered->transferred
 transfering->transferring
 transformaton->transformation
@@ -4432,6 +4443,7 @@ webserver->web server
 wehn->when
 weilded->wielded
 weild->wield, wild,
+wendesday->wednesday
 wendsay->Wednesday
 wensday->Wednesday
 wereabouts->whereabouts
@@ -4483,6 +4495,7 @@ workststion->workstation
 worls->world
 worstened->worsened
 woudl->would
+would of->would of
 wresters->wrestlers
 wriet->write
 writen->written
