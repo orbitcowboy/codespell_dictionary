@@ -43,6 +43,7 @@ accomadating->accommodating
 accomadation->accommodation
 accomadations->accommodations
 accomdate->accommodate
+accommodation->accomodation
 accomodate->accommodate
 accomodated->accommodated
 accomodates->accommodates
@@ -662,6 +663,7 @@ calcalation->calculation
 calclulation->calculation
 calculater->calculator
 calculs->calculus
+calender->calendar
 calenders->calendars
 caligraphy->calligraphy
 callin->calling
@@ -790,6 +792,7 @@ charaterized->characterized
 chariman->chairman
 charistics->characteristics
 chasr->chaser, chase,
+chauffer->chauffeur
 cheif->chief
 cheifs->chiefs
 chek->check
@@ -1143,6 +1146,7 @@ culiminating->culminating
 cumulatative->cumulative
 curch->church
 curcuit->circuit
+curiousity->curiosity
 currenly->currently
 curriculem->curriculum
 cxan->cyan
@@ -1304,6 +1308,7 @@ difficulity->difficulty
 diffrent->different
 dificulties->difficulties
 dificulty->difficulty
+dilemna->dilemma
 dimenions->dimensions
 dimentional->dimensional
 dimention->dimension
@@ -1359,6 +1364,7 @@ dissapear->disappear
 dissapeared->disappeared
 dissapearing->disappearing
 dissapears->disappears
+dissapoint->disappoint
 dissappear->disappear
 dissappears->disappears
 dissappointed->disappointed
@@ -1428,6 +1434,7 @@ eceonomy->economy
 ecidious->deciduous
 eclispe->eclipse
 ecomonic->economic
+ecstacy->ecstasy
 ect->etc
 eearly->early
 efect->effect
@@ -1711,6 +1718,7 @@ facilites->facilities
 facillitate->facilitate
 facinated->fascinated
 facist->fascist
+familar->familiar
 familes->families
 familliar->familiar
 famoust->famous
@@ -1826,6 +1834,7 @@ gauarana->guaraná
 gauranteed->guaranteed
 gaurantee->guarantee
 gaurantees->guarantees
+gaurd->guard
 gaurd->guard, gourd,
 gaurenteed->guaranteed
 gaurentee->guarantee
@@ -1842,6 +1851,7 @@ geometrician->geometer
 geometricians->geometers
 gerat->great
 Ghandi->Gandhi
+glamourous->glamorous
 glight->flight
 gnawwed->gnawed
 godesses->goddesses
@@ -1931,6 +1941,7 @@ harrasment->harassment
 harrasments->harassments
 harrassed->harassed
 harrasses->harassed
+harrass->harass
 harrassing->harassing
 harrassment->harassment
 harrassments->harassments
@@ -1992,6 +2003,7 @@ homestate->home state
 homogeneized->homogenized
 homogeneize->homogenize
 honory->honorary
+honourary->honorary
 horrifing->horrifying
 hosited->hoisted
 hospitible->hospitable
@@ -2011,6 +2023,7 @@ humer->humor, humour,
 humerous->humorous, humerus,
 huminoid->humanoid
 humoural->humoral
+humourous->humorous
 humurous->humorous
 husban->husband
 hvae->have
@@ -2315,6 +2328,7 @@ Japanes->Japanese
 jaques->jacques
 jeapardy->jeopardy
 jewllery->jewellery
+jist->gist
 Johanine->Johannine
 Jospeh->Joseph
 jouney->journey
@@ -2374,6 +2388,7 @@ levetate->levitate
 levetates->levitates
 levetating->levitating
 levle->level
+liase->liaise
 liasion->liaison
 liason->liaison
 liasons->liaisons
@@ -2411,6 +2426,7 @@ livley->lively
 lmits->limits
 loca->local
 loev->love
+lollypop->lollipop
 lonelyness->loneliness
 longitudonal->longitudinal
 longuer->longer
@@ -2656,6 +2672,7 @@ naturely->naturally
 naturually->naturally
 naturual->natural
 Nazereth->Nazareth
+Neandertal->Neanderthal
 neccesarily->necessarily
 neccesary->necessary
 neccessarily->necessarily
@@ -2981,6 +2998,7 @@ pertubation->perturbation
 pertubations->perturbations
 pessiary->pessary
 petetion->petition
+pharoah->pharaoh
 Pharoah->Pharaoh
 phenomenom->phenomenon
 phenomenonal->phenomenal
@@ -3450,6 +3468,7 @@ relitavely->relatively
 relized->realised, realized,
 relpacement->replacement
 remaing->remaining
+rember->remember
 remeber->remember
 rememberable->memorable
 rememberance->remembrance
@@ -3651,6 +3670,7 @@ seinor->senior
 seldomly->seldom
 semgentation->segmentation
 senarios->scenarios
+sence->sense
 sence->sense, since,
 senstive->sensitive
 sensure->censure
@@ -3929,6 +3949,7 @@ sufficent->sufficient
 sumary->summary
 sunglases->sunglasses
 suop->soup
+supercede->supersede
 superceeded->superseded
 superflous->superfluous
 superintendant->superintendent
@@ -4020,6 +4041,7 @@ targetted->targeted
 targetting->targeting
 tast->taste
 tath->that
+tatoo->tattoo
 tattooes->tattoos
 taxanomic->taxonomic
 taxanomy->taxonomy
@@ -4069,6 +4091,7 @@ themselfs->themselves
 themslves->themselves
 therafter->thereafter
 therby->thereby
+therefor->therefore
 theri->their
 ther->there, their, the,
 the the->the
@@ -4232,6 +4255,7 @@ unequalities->inequalities
 unforetunately->unfortunately
 unforgetable->unforgettable
 unforgiveable->unforgivable
+unforseen->unforeseen
 unfortunatley->unfortunately
 unfortunatly->unfortunately
 unfourtunately->unfortunately
