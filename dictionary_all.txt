@@ -4495,7 +4495,7 @@ workststion->workstation
 worls->world
 worstened->worsened
 woudl->would
-would of->would of
+would of->would have
 wresters->wrestlers
 wriet->write
 writen->written
