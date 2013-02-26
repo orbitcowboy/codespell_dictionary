@@ -664,6 +664,7 @@ calander->calendar, calender, colander,
 calbibration->calibration
 calcalation->calculation
 calclulation->calculation
+calculare->calculate
 calculater->calculator
 calculs->calculus
 calender->calendar
