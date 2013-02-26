@@ -53,6 +53,7 @@ accomodations->accommodations
 accompanyed->accompanied
 accordeon->accordion
 accordian->accordion
+accorind->according
 accoring->according
 accoustic->acoustic
 accpet->accept
