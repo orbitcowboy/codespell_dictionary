@@ -546,6 +546,7 @@ banruptcy->bankruptcy
 baout->about, bout,
 basicaly->basically
 basicly->basically
+batchmonitor->batch monitor
 bcak->back
 beachead->beachhead
 beacuse->because
@@ -613,6 +614,7 @@ blessure->blessing
 Blitzkreig->Blitzkrieg
 boaut->bout, boat, about,
 bodydbuilder->bodybuilder
+boink->boinc
 bombardement->bombardment
 bombarment->bombardment
 bondary->boundary
@@ -1051,6 +1053,7 @@ contibuted->contributed
 contibutes->contributes
 contigent->contingent
 contigious->contiguous
+contiguration->configuration
 contined->continued
 continous->continuous
 continously->continuously
@@ -2341,6 +2344,7 @@ jist->gist
 Johanine->Johannine
 Jospeh->Joseph
 jouney->journey
+journalling->journaling
 journied->journeyed
 journies->journeys
 jstu->just
@@ -2932,6 +2936,7 @@ particualr->particular
 particuarly->particularly
 particularily->particularly
 particulary->particularly
+partipants->participants
 pary->party
 pased->passed
 pasengers->passengers
@@ -3851,6 +3856,7 @@ startegy->strategy
 stateman->statesman
 statememts->statements
 statment->statement
+stayd->stayed
 steriods->steroids
 sterotypes->stereotypes
 stilus->stylus
@@ -4494,6 +4500,8 @@ wokr->work
 wonderfull->wonderful
 wordlwide->worldwide
 workststion->workstation
+workunits->work units
+workunit->work unit
 worls->world
 worstened->worsened
 woudl->would
