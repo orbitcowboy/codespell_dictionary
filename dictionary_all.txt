@@ -1092,6 +1092,7 @@ coorperations->corporations
 copmetitors->competitors
 coputer->computer
 copywrite->copyright
+corectness->correctness
 coresponding->corresponding
 coridal->cordial
 cornmitted->committed
@@ -1099,6 +1100,7 @@ corosion->corrosion
 corparate->corporate
 corperations->corporations
 correcters->correctors
+correctnes->correctness
 correponding->corresponding
 correposding->corresponding
 correspondant->correspondent
@@ -1517,6 +1519,7 @@ emphsis->emphasis
 emphysyma->emphysema
 empirial->empirical, imperial,
 emprisoned->imprisoned
+emtpy->empty
 enameld->enameled
 enchancement->enhancement
 encouraing->encouraging
