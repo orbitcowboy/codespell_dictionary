@@ -835,6 +835,7 @@ clinicaly->clinically
 cmo->com, disabled due to lots of false positives
 cmoputer->computer
 coctail->cocktail
+coefficiens->coefficients
 coform->conform
 cognizent->cognizant
 coincedentally->coincidentally
@@ -3587,6 +3588,7 @@ resurecting->resurrecting
 retalitated->retaliated
 retalitation->retaliation
 retreive->retrieve
+retun value->return value
 returnd->returned
 revaluated->reevaluated
 reveiw->review
