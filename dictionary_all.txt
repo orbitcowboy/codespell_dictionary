@@ -950,6 +950,7 @@ compulsary->compulsory
 compulsery->compulsory
 computarized->computerized
 concensus->consensus
+concernig->concerning
 concider->consider
 concidered->considered
 concidering->considering
@@ -1131,6 +1132,7 @@ coururier->courier, couturier,
 coverted->converted, covered, coveted,
 cpoy->coy, copy,
 creaeted->created
+createc->created
 creche->crèche
 creedence->credence
 critereon->criterion
@@ -1211,6 +1213,7 @@ definatly->definitely
 definetly->definitely
 definining->defining
 definit->definite
+definitition->definition
 definitly->definitely
 definiton->definition
 defintion->definition
@@ -1613,6 +1616,7 @@ establishd->established
 establising->establishing
 ethnocentricm->ethnocentrism
 ethose->those, ethos,
+eturn->return
 Europian->European
 Europians->Europeans
 Eurpean->European
@@ -4452,7 +4456,6 @@ watseful->wasteful
 wayword->wayward
 weaponary->weaponry
 weas->was
-webserver->web server
 wehn->when
 weilded->wielded
 weild->wield, wild,
