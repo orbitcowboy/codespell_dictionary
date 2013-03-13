@@ -239,6 +239,7 @@ alligned->aligned
 alliviate->alleviate
 allopone->allophone
 allopones->allophones
+allread->already
 allready->already
 allthough->although
 alltime->all-time
@@ -1828,6 +1829,7 @@ fufill->fulfill
 fulfiled->fulfilled
 fullfilled->fulfilled
 fullfill->fulfill
+functio->function
 fundametal->fundamental
 fundametals->fundamentals
 funguses->fungi
@@ -1869,6 +1871,7 @@ genialia->genitalia
 geographicial->geographical
 geometrician->geometer
 geometricians->geometers
+gerater->greater
 gerat->great
 Ghandi->Gandhi
 glamourous->glamorous
