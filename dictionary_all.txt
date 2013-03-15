@@ -796,6 +796,7 @@ charactor->character
 charactors->characters
 charasmatic->charismatic
 charaterized->characterized
+charcter->character
 chariman->chairman
 charistics->characteristics
 chasr->chaser, chase,
@@ -836,6 +837,7 @@ clinicaly->clinically
 cmo->com, disabled due to lots of false positives
 cmoputer->computer
 coctail->cocktail
+codeed->coded
 coefficiens->coefficients
 coform->conform
 cognizent->cognizant
@@ -1027,6 +1029,7 @@ consonents->consonants
 consorcium->consortium
 conspiracys->conspiracies
 conspiriator->conspirator
+constains->contains
 constaints->constraints
 constanly->constantly
 constarnation->consternation
@@ -1738,6 +1741,7 @@ facilites->facilities
 facillitate->facilitate
 facinated->fascinated
 facist->fascist
+fals->false
 familar->familiar
 familes->families
 familliar->familiar
