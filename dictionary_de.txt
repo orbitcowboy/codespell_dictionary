@@ -1,3 +1,10 @@
+Entdckung->Entdeckung
+Wettezll->Wettzell
+Haurat->Hausrat
+montalichen->monatlichen
+zu Gurte->zu Gute
+Stelleschrauben->Stellschrauben
+Gehhllfen->Gehhilfen
 Abstatzstil->Absatzstil
 Addresse->Adresse
 Ananlyse->Analyse
@@ -253,9 +260,3 @@ Stellenzeige->Stellenanzeige
 qualitätssicherende->qualitätssichernde
 signifikatner->signifikanter
 notewendige->notwendige
-Entdckung->Entdeckung
-Wettezll->Wettzell
-Haurat->Hausrat
-montalichen->monatlichen
-zu Gurte->zu Gute
-Stelleschrauben->Stellschrauben
