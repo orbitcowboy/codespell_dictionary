@@ -548,6 +548,7 @@ baout->about, bout,
 basicaly->basically
 basicly->basically
 batchmonitor->batch monitor
+baudrate->baud rate
 bcak->back
 beachead->beachhead
 beacuse->because
@@ -668,6 +669,7 @@ calbibration->calibration
 calcalation->calculation
 calclulation->calculation
 calculare->calculate
+calculat->calculate
 calculater->calculator
 calculs->calculus
 calender->calendar
@@ -1179,6 +1181,7 @@ dalmation->dalmatian
 damenor->demeanor
 dammage->damage
 Dardenelles->Dardanelles
+datatyp->data type
 daugher->daughter
 deaktivated->deactivated
 debateable->debatable
@@ -2276,6 +2279,7 @@ intenational->international
 intented->intended, indented,
 intepretation->interpretation
 intepretator->interpretor
+interal->internal
 interational->international
 interative->interactive
 interbread->interbreed, interbred,
@@ -3290,6 +3294,7 @@ proprietory->proprietary
 proseletyzing->proselytizing
 protaganist->protagonist
 protaganists->protagonists
+protesses->process
 protocal->protocol
 protoganist->protagonist
 protrayed->portrayed
@@ -3718,6 +3723,7 @@ sepina->subpoena
 sepulchure->sepulchre, sepulcher,
 sepulcre->sepulchre, sepulcher,
 sergent->sergeant
+seriell->serial
 serveral->several
 settelement->settlement
 settlment->settlement
@@ -3843,6 +3849,7 @@ spectauclar->spectacular
 spectaulars->spectaculars
 spects->aspects, expects,
 spectum->spectrum
+speedvalue->speed value
 speficied->specified
 speices->species
 spendour->splendour
@@ -3870,6 +3877,7 @@ stange->strange
 startegic->strategic
 startegies->strategies
 startegy->strategy
+startin->starting
 stateman->statesman
 statememts->statements
 statment->statement
