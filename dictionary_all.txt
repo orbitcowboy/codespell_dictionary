@@ -724,6 +724,7 @@ carreer->career
 carrers->careers
 Carribbean->Caribbean
 Carribean->Caribbean
+carrige->carriage
 cartdridge->cartridge
 Carthagian->Carthaginian
 carthesian->cartesian
