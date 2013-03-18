@@ -3870,6 +3870,7 @@ sqaure->square
 squirreled->squirrelled
 squres->squares
 stablility->stability
+stabl->stable
 stainlees->stainless
 staion->station
 standars->standards
