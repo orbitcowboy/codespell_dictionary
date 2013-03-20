@@ -513,6 +513,7 @@ authrorities->authorities
 autochtonous->autochthonous
 autoctonous->autochthonous
 autoincrememnt->autoincrement
+automaticaly->automatically
 automaticly->automatically
 automibile->automobile
 automonomous->autonomous
@@ -4537,6 +4538,7 @@ wresters->wrestlers
 wriet->write
 writen->written
 writting->writing
+wrods->words
 wroet->wrote
 wroking->working
 wrok->work
