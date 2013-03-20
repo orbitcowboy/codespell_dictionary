@@ -4345,6 +4345,7 @@ unrepentent->unrepentant
 unrepetant->unrepentant
 unrepetent->unrepentant
 unsed->unused
+unsing->using
 unsubstanciated->unsubstantiated
 unsuccesfully->unsuccessfully
 unsuccesful->unsuccessful
