@@ -1,3 +1,4 @@
+anbgeboten->angeboten
 Entdckung->Entdeckung
 Wettezll->Wettzell
 Haurat->Hausrat
