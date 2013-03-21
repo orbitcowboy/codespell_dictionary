@@ -869,6 +869,7 @@ comando->commando
 comandos->commandos
 comany->company
 comapany->company
+comata->commas
 comback->comeback
 combanations->combinations
 combinatins->combinations
@@ -892,6 +893,7 @@ comitted->committed
 comittee->committee
 comitting->committing
 commandoes->commandos
+commata->commas
 commedic->comedic
 commemerative->commemorative
 commemmorate->commemorate
@@ -1041,6 +1043,7 @@ constanly->constantly
 constarnation->consternation
 constatn->constant
 constinually->continually
+constinue->continue
 constituant->constituent
 constituants->constituents
 constituional->constitutional
@@ -1679,6 +1682,7 @@ exeedingly->exceedingly
 exelent->excellent
 exellent->excellent
 exemple->example
+exeperiment->experiment
 exept->except
 exeptional->exceptional
 exerbated->exacerbated
@@ -2534,6 +2538,7 @@ Massachussets->Massachusetts
 Massachussetts->Massachusetts
 massmedia->mass media
 masterbation->masturbation
+masure->maser
 mataphysical->metaphysical
 materalists->materialist
 mathamatics->mathematics
@@ -3927,6 +3932,7 @@ studdy->study
 studing->studying
 stuggling->struggling
 sturcture->structure
+sturday->saturday
 subcatagories->subcategories
 subcatagory->subcategory
 subconsiously->subconsciously
