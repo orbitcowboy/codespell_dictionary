@@ -840,7 +840,7 @@ cleareance->clearance
 clera->clear, sclera,
 clincial->clinical
 clinicaly->clinically
-cmo->com, disabled due to lots of false positives
+cmo->com
 cmoputer->computer
 coctail->cocktail
 codeed->coded
@@ -986,6 +986,7 @@ confidental->confidential
 confidentally->confidentially
 confids->confides
 configuartion->configuration
+configuraiton->configuration
 configureable->configurable
 confortable->comfortable
 congradulations->congratulations
@@ -2138,6 +2139,7 @@ imprioned->imprisoned
 imprisonned->imprisoned
 improvision->improvisation
 improvments->improvements
+imput->input
 inablility->inability
 inaccesible->inaccessible
 inaccessable->inaccessible
@@ -3492,7 +3494,7 @@ reigining->reigning
 reknowned->renowned
 reknown->renown
 relaly->really
-rela->real, disabled due to lots of false positives
+rela->real
 relatiopnship->relationship
 relativly->relatively
 relected->reelected
