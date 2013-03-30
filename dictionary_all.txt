@@ -1464,6 +1464,7 @@ earnt->earned
 ecclectic->eclectic
 eceonomy->economy
 ecidious->deciduous
+eclapsed->elapsed
 eclispe->eclipse
 ecomonic->economic
 ecstacy->ecstasy
@@ -1753,6 +1754,7 @@ facilites->facilities
 facillitate->facilitate
 facinated->fascinated
 facist->fascist
+failiure->failure
 fals->false
 familar->familiar
 familes->families
@@ -2143,6 +2145,7 @@ imput->input
 inablility->inability
 inaccesible->inaccessible
 inaccessable->inaccessible
+inactiv->inactive
 inadiquate->inadequate
 inadquate->inadequate
 inadvertant->inadvertent
@@ -3765,6 +3768,7 @@ should of->should have
 shreak->shriek
 shrinked->shrunk
 shuld->should
+shure->sure
 sicne->since
 sideral->sidereal
 siezed->seized, sized,
