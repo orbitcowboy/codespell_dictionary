@@ -1996,6 +1996,8 @@ headquatered->headquartered
 headquater->headquarter
 headquaters->headquarters
 healthercare->healthcare
+heappend->happend
+heappens->happens
 heared->heard
 heathy->healthy
 Heidelburg->Heidelberg
