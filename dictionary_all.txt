@@ -533,6 +533,7 @@ availible->available
 avalable->available
 avalance->avalanche
 avaliable->available
+avalible->available
 avation->aviation
 avengence->a vengeance
 averageed->averaged
@@ -1135,6 +1136,7 @@ cotrol->control
 coucil->council
 coudl->could, cloud,
 could of->could have
+coulnd't->could not
 coulnd't->couldn't
 councellor->councillor, counselor, councilor,
 councellors->councillors, counselors, councilors,
@@ -2364,6 +2366,7 @@ irresistably->irresistibly
 isnt->isn't
 isnt'->isn't
 Israelies->Israelis
+is setted->is set
 issueing->issuing
 itnroduced->introduced
 iunior->junior
@@ -2621,6 +2624,7 @@ mirrorred->mirrored
 miscelaneous->miscellaneous
 miscellanious->miscellaneous
 miscellanous->miscellaneous
+miscelleneous->miscellaneous
 mischeivous->mischievous
 mischevious->mischievous
 mischievious->mischievous
@@ -3780,6 +3784,7 @@ siezing->seizing, sizing,
 siezure->seizure
 siezures->seizures
 siginificant->significant
+siglans->signals
 signficant->significant
 signficiant->significant
 signfies->signifies
@@ -4399,6 +4404,7 @@ useage->usage
 usefull->useful
 usefuly->usefully
 useing->using
+usigned->unsigned
 usin->using
 usualy->usually
 ususally->usually
