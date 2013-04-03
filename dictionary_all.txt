@@ -2035,6 +2035,7 @@ hinderance->hindrance
 hinderence->hindrance
 hindrence->hindrance
 hipopotamus->hippopotamus
+hirarchy->hierarchy
 hismelf->himself
 histocompatability->histocompatibility
 historicians->historians
