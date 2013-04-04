@@ -2594,6 +2594,7 @@ methaphor->metaphor
 methaphors->metaphors
 method define how->method defines how
 methodes->methods
+metter->matter
 Michagan->Michigan
 micoscopy->microscopy
 midwifes->midwives
