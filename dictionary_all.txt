@@ -452,6 +452,7 @@ artifically->artificially
 artillary->artillery
 arund->around
 as check->as checked
+as checkled->as checked
 asetic->ascetic
 asfar->as far
 asign->assign
@@ -695,6 +696,7 @@ Brittish->British
 broacasted->broadcast
 broadacasting->broadcasting
 broady->broadly
+broklen->broken
 brough->brought
 broughl->brought
 Buddah->Buddha
@@ -2621,6 +2623,8 @@ kernet->kernel
 keybord->keyboard
 kindergarden->kindergarten
 klenex->kleenex
+klernel->kernel
+kleyboard->keyboard
 knifes->knives
 knive->knife
 knowledgee->knowledge
