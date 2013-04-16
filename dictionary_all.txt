@@ -206,6 +206,7 @@ airporta->airports
 airrcraft->aircraft
 aisian->asian
 ajustments->adjustments
+aktivate->activate
 albiet->albeit
 alchohol->alcohol
 alchoholic->alcoholic
