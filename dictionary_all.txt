@@ -4445,6 +4445,8 @@ venemous->venomous
 vengance->vengeance
 vengence->vengeance
 verfication->verification
+verfiy->verify
+verfy->verify
 verisons->versions
 verison->version
 vermillion->vermilion
