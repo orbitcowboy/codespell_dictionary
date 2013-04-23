@@ -2124,6 +2124,7 @@ imigrant->emigrant, immigrant,
 imigrated->emigrated, immigrated,
 imigration->emigration, immigration,
 iminent->eminent, imminent, immanent,
+imlementation->implementation
 immediated->immediately
 immediatelly->immediately
 immediatley->immediately
