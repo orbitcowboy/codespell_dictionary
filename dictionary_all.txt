@@ -4544,6 +4544,7 @@ whlch->which
 whn->when
 wholey->wholly
 wholy->wholly, holy,
+whould->would
 whta->what
 whther->whether
 wich->which
