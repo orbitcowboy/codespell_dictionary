@@ -1,4 +1,5 @@
 abandonned->abandoned
+abbriviations->abbreviations
 aberation->aberration
 abilties->abilities
 abilty->ability
@@ -635,6 +636,7 @@ boundry->boundary
 bouyancy->buoyancy
 bouyant->buoyant
 boyant->buoyant
+brak->break
 Brasillian->Brazilian
 breakthough->breakthrough
 breakthroughts->breakthroughs
@@ -990,6 +992,7 @@ confids->confides
 configuartion->configuration
 configuraiton->configuration
 configureable->configurable
+confiugre->configure
 confortable->comfortable
 congradulations->congratulations
 congresional->congressional
@@ -1440,8 +1443,8 @@ dominent->dominant
 dominiant->dominant
 donig->doing
 dont->don't, do not
-dosent'->doesn't
 dosen't->doesn't
+dosent'->doesn't
 doub->doubt, daub,
 doubele->double
 doulbe->double
@@ -2113,6 +2116,7 @@ illiegal->illegal
 illution->illusion
 ilness->illness
 ilogical->illogical
+ilumination->illumination
 imagenary->imaginary
 imaginery->imaginary, imagery,
 imagin->imagine
@@ -2173,6 +2177,7 @@ incidently->incidentally
 inclreased->increased
 includ->include
 includng->including
+inclue->include
 incomming->incoming
 incompatabilities->incompatibilities
 incompatability->incompatibility
@@ -2229,6 +2234,7 @@ indpendently->independently
 indulgue->indulge
 indutrial->industrial
 indviduals->individuals
+indx->index
 inefficent->inefficient
 inefficienty->inefficiently
 inevatible->inevitable
@@ -2325,6 +2331,7 @@ interrugum->interregnum
 interrups->interrupts
 intertaining->entertaining
 interupt->interrupt
+Interupt->Interrupt
 intervalls->intervals
 intervines->intervenes
 intevene->intervene
@@ -2350,10 +2357,10 @@ invertibrates->invertebrates
 investingate->investigate
 invokation->invocation
 involvment->involvement
-IPAddres->IPAddress
 IP-Addres->IP-Address
-IPAdress->IPAddress
+IPAddres->IPAddress
 IP-Adress->IP-Address
+IPAdress->IPAddress
 irelevent->irrelevant
 iresistable->irresistible
 iresistably->irresistibly
@@ -2374,6 +2381,7 @@ Israelies->Israelis
 is setted->is set
 issueing->issuing
 itnroduced->introduced
+it you want->if you want
 iunior->junior
 iwll->will
 iwth->with
@@ -2694,6 +2702,8 @@ motiviated->motivated
 mounth->month
 movei->movie, disabled due to assembly code
 movment->movement
+mqde->mode
+mqdes->modes
 mroe->more
 mucuous->mucous
 mudering->murdering
@@ -2707,8 +2717,8 @@ multifuction->multifunction
 multipled->multiplied
 multiplers->multipliers
 multi-thread->multithread
-multythread->multithread
 multy-thread->multithread
+multythread->multithread
 munbers->numbers
 muncipalities->municipalities
 muncipality->municipality
@@ -3899,6 +3909,7 @@ spritual->spiritual
 sqaure->square
 squirreled->squirrelled
 squres->squares
+srtucture->structure
 stablility->stability
 stabl->stable
 stainlees->stainless
@@ -4219,6 +4230,7 @@ tobbaco->tobacco
 to connects to-> to connect to
 todays->today's, disable because of var names
 todya->today
+toggeling->toggling
 toghether->together
 toke->took
 tolerence->tolerance
@@ -4238,6 +4250,7 @@ tounge->tongue
 tourch->torch, touch,
 towords->towards
 towrad->toward
+tracability->traceability
 tradionally->traditionally
 traditionaly->traditionally
 traditionnal->traditional

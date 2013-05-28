@@ -1,3 +1,6 @@
+sprigst->springst
+befel->befehl
+befele->befehle
 anbgeboten->angeboten
 Entdckung->Entdeckung
 Wettezll->Wettzell
