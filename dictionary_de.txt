@@ -1,3 +1,5 @@
+Bewerbungfotos->Bewerbungsfotos
+Bewerbunggespräche->Bewerbungsgespräche
 ziffernblatt->zifferblatt
 sprigst->springst
 befel->befehl
