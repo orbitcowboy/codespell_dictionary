@@ -645,6 +645,7 @@ breifly->briefly
 brethen->brethren
 bretheren->brethren
 brievity->brevity
+brightnes->brightness
 briliant->brilliant
 brillant->brilliant
 brimestone->brimstone
