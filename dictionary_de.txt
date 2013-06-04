@@ -1,3 +1,4 @@
+Besprechungsprtokoll->Besprechungsprotokoll
 geaschlossen->geschlossen
 Fehlfuktion->Fehlfunktion
 Bewerbungfotos->Bewerbungsfotos
