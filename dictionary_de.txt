@@ -1,3 +1,5 @@
+geaschlossen->geschlossen
+Fehlfuktion->Fehlfunktion
 Bewerbungfotos->Bewerbungsfotos
 Bewerbunggespräche->Bewerbungsgespräche
 ziffernblatt->zifferblatt
