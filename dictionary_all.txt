@@ -1201,6 +1201,7 @@ deaktivated->deactivated
 debateable->debatable
 debg->debug
 debuging->debugging
+decalre->declare
 decendant->descendant
 decendants->descendants
 decendent->descendant
