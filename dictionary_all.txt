@@ -1218,6 +1218,7 @@ decideable->decidable
 decidely->decidedly
 decieved->deceived
 decison->decision
+declartion->declaration
 decomissioned->decommissioned
 decomposit->decompose
 decomposited->decomposed
