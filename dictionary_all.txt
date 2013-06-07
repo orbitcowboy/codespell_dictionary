@@ -2539,6 +2539,7 @@ maintinaing->maintaining
 maintioned->mentioned
 majoroty->majority
 maked->marked, made,
+makefiel->makefile
 makse->makes
 Malcom->Malcolm
 maltesian->Maltese
@@ -3159,6 +3160,7 @@ polysaccharid->polysaccharide
 pomegranite->pomegranate
 pomotion->promotion
 poping->popping
+poping up->popping up
 poportional->proportional
 popoulation->population
 popularaty->popularity
@@ -3288,6 +3290,7 @@ privilage->privilege
 priviledge->privilege
 priviledges->privileges
 privledge->privilege
+privledges->privileges
 privte->private
 prliminary->preliminary
 probabilaty->probability
