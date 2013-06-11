@@ -1246,6 +1246,7 @@ definance->defiance
 definate->definite
 definately->definitely
 definatly->definitely
+defined as globals->defined as global
 definetly->definitely
 definining->defining
 definit->definite
