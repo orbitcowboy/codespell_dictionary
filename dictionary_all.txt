@@ -152,6 +152,7 @@ adressable->addressable
 adress->address
 adressed->addressed
 adressing->addressing
+adustable->adjustable
 adventrous->adventurous
 advertisment->advertisement
 advertisments->advertisements
@@ -623,6 +624,7 @@ blaim->blame
 blaimed->blamed
 blessure->blessing
 Blitzkreig->Blitzkrieg
+blockout->blackout
 boaut->bout, boat, about,
 bodydbuilder->bodybuilder
 boink->boinc
@@ -1116,6 +1118,7 @@ convery->convert
 conveyer->conveyor
 conviced->convinced
 convienient->convenient
+coordiante->coordinate
 coordiantion->coordination
 coorperation->cooperation, corporation,
 coorperations->corporations
@@ -1357,6 +1360,7 @@ difficulity->difficulty
 diffrent->different
 dificulties->difficulties
 dificulty->difficulty
+diits->digits
 dilemna->dilemma
 dimenions->dimensions
 dimentional->dimensional
@@ -2514,6 +2518,7 @@ livley->lively
 lmits->limits
 loca->local
 loev->love
+Logitude->Longitude
 lollypop->lollipop
 lonelyness->loneliness
 longitudonal->longitudinal
@@ -2966,6 +2971,7 @@ originnally->originally
 origional->original
 orignally->originally
 orignially->originally
+orwithout->or without
 otehr->other
 oublisher->publisher
 ouevre->oeuvre
@@ -3186,6 +3192,7 @@ posessing->possessing
 posession->possession
 posessions->possessions
 posess->possess
+posibility->possibility
 posion->poison
 positon->position
 possable->possible
@@ -3345,6 +3352,7 @@ prominant->prominent
 prominately->prominently, predominately,
 promiscous->promiscuous
 promotted->promoted
+promted->promoted
 pronomial->pronominal
 pronouced->pronounced
 pronounched->pronounced
@@ -4318,6 +4326,7 @@ transesxuals->transsexuals
 transexual->transsexual
 transfered->transferred
 transfering->transferring
+transfert->transfer
 transformaton->transformation
 transistion->transition
 translaters->translators
