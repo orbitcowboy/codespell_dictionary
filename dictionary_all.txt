@@ -3989,6 +3989,7 @@ strikely->strikingly
 strnad->strand
 stroy->story, destroy,
 structual->structural
+strucuture->structure
 stubborness->stubbornness
 stuctured->structured
 stucture->structure
