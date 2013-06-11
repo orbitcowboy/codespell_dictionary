@@ -1920,6 +1920,7 @@ geometricians->geometers
 gerater->greater
 gerat->great
 Ghandi->Gandhi
+gigits->digits
 glamourous->glamorous
 glight->flight
 gnawwed->gnawed
@@ -2524,6 +2525,7 @@ lonelyness->loneliness
 longitudonal->longitudinal
 Longitued->Longitude
 longuer->longer
+Lonitude->Longitude
 lonley->lonely
 lonly->lonely, only,
 loose->lose
