@@ -2514,6 +2514,7 @@ loev->love
 lollypop->lollipop
 lonelyness->loneliness
 longitudonal->longitudinal
+Longitued->Longitude
 longuer->longer
 lonley->lonely
 lonly->lonely, only,
@@ -2689,6 +2690,7 @@ mkaing->making
 mkea->make
 modeled->modelled
 moderm->modem
+modifyable->modifiable
 modle->model
 moduel->module
 moduels->modules
@@ -2826,6 +2828,7 @@ noticable->noticeable
 noticably->noticeably
 noticeing->noticing
 noticible->noticeable
+notifaction->notification
 notifcation->notification
 notwhithstanding->notwithstanding
 noveau->nouveau
@@ -3069,6 +3072,7 @@ peristent->persistent
 perjery->perjury
 perjorative->pejorative
 permanant->permanent
+permanentely->permanently
 permenantly->permanently
 permenant->permanent
 permissable->permissible
