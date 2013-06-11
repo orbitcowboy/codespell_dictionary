@@ -1368,6 +1368,7 @@ dimunitive->diminutive
 diosese->diocese
 diphtong->diphthong
 diphtongs->diphthongs
+diplay->display
 diplomancy->diplomacy
 dipthong->diphthong
 dipthongs->diphthongs
@@ -2252,6 +2253,7 @@ indulgue->indulge
 indutrial->industrial
 indviduals->individuals
 indx->index
+ineartial->initiated,inertial 
 inefficent->inefficient
 inefficienty->inefficiently
 inevatible->inevitable
@@ -2451,6 +2453,7 @@ larg->large
 largst->largest
 larrry->larry
 lastr->last
+latitute->latitude
 lattitude->latitude
 launchs->launch, launches,
 launhed->launched
@@ -3198,6 +3201,7 @@ possiblilty->possibility
 possiblities->possibilities
 possiblity->possibility
 possition->position
+possoble->possible
 Postdam->Potsdam
 posthomous->posthumous
 postion->position
