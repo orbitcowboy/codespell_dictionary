@@ -1884,6 +1884,8 @@ fufill->fulfill
 fulfiled->fulfilled
 fullfilled->fulfilled
 fullfill->fulfill
+funciton->function
+funcitoning->functioning
 functio->function
 fundametal->fundamental
 fundametals->fundamentals
@@ -2863,6 +2865,7 @@ nuculear->nuclear
 nuisanse->nuisance
 Nullabour->Nullarbor
 numberous->numerous
+nummeric->numeric
 Nuremburg->Nuremberg
 nusance->nuisance
 nutritent->nutrient
@@ -3894,6 +3897,7 @@ Skagerak->Skagerrak
 skateing->skating
 slaugterhouses->slaughterhouses
 slighly->slightly
+sliip->slip
 slowy->slowly
 smae->same
 smealting->smelting
