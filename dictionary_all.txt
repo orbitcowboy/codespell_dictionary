@@ -4620,6 +4620,7 @@ wiht->with
 wih->with
 wille->will
 willingless->willingness
+will shall->shall
 wioth->with
 wirting->writing
 withdrawl->withdrawal, withdraw,
