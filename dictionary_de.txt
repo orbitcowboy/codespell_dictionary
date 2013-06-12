@@ -1,3 +1,4 @@
+duch->durch
 erlischen, wenn->erloschen sein, wenn
 Besprechungsprtokoll->Besprechungsprotokoll
 geaschlossen->geschlossen
