@@ -196,6 +196,7 @@ agressively->aggressively
 agressor->aggressor
 agricuture->agriculture
 agrieved->aggrieved
+agument->argument
 ahev->have
 ahppen->happen
 ahve->have
@@ -411,9 +412,13 @@ archtype->archetype
 archtypes->archetypes
 aready->already
 areodynamics->aerodynamics
+argment->argument
 argubly->arguably
 arguement->argument
 arguements->arguments
+argumens->arguments
+argumetns->arguments
+argumets->arguments
 arised->arose
 arival->arrival
 armamant->armament
@@ -1954,6 +1959,7 @@ grammaticaly->grammatically
 grammer->grammar
 grat->great
 gratuitious->gratuitous
+greater then->greater than
 greatful->grateful
 greatfully->gratefully
 greif->grief
@@ -2298,6 +2304,7 @@ initiaitive->initiative
 initializiation->initialization
 initilization->initialization
 initilize->initialize
+initital->initial
 inlcuding->including
 inmigrant->immigrant
 inmigrants->immigrants
@@ -4371,6 +4378,7 @@ tyrranies->tyrannies
 tyrrany->tyranny
 ubiquitious->ubiquitous
 ublisher->publisher
+uesful->useful
 uglyness->ugliness
 uise->use
 Ukranian->Ukrainian
