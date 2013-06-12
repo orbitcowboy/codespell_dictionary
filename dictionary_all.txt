@@ -482,6 +482,7 @@ athenean->athenian
 atheneans->athenians
 athiesm->atheism
 athiest->atheist
+Atlimeter->Altimeter
 atorney->attorney
 atound->around
 atribute->attribute
