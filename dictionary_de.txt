@@ -1,3 +1,4 @@
+prinizpiell->prinzipiell
 duch->durch
 erlischen, wenn->erloschen sein, wenn
 Besprechungsprtokoll->Besprechungsprotokoll
