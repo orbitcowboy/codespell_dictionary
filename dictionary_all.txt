@@ -1474,6 +1474,7 @@ doesnt->doesn't
 doesnt'->doesn't
 doesnt->doesn't, does not
 doign->doing
+dokumentation->documentation
 dominaton->domination
 dominent->dominant
 dominiant->dominant
