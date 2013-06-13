@@ -3513,6 +3513,8 @@ reacll->recall
 readmition->readmission
 realitvely->relatively
 realsitic->realistic
+realtion->relation
+realtionship->relationship
 realtions->relations
 realyl->really
 realy->really
