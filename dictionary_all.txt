@@ -1328,6 +1328,7 @@ desoriented->disoriented
 desparate->desperate, disparate,
 despict->depict
 despiration->desperation
+desribed->described
 dessicated->desiccated
 dessigned->designed
 destablized->destabilized
@@ -4291,6 +4292,7 @@ theif->thief
 theives->thieves
 themselfs->themselves
 themslves->themselves
+theorie->theory
 therafter->thereafter
 therby->thereby
 therefor->therefore
