@@ -1,3 +1,4 @@
+a a->a
 abandonned->abandoned
 abbriviations->abbreviations
 aberation->aberration
@@ -161,6 +162,7 @@ adviced->advised
 aeriel->aerial
 aeriels->aerials
 afair->affair
+affect on->effect on
 afficianados->aficionados
 afficionado->aficionado
 afficionados->aficionados
@@ -290,6 +292,7 @@ amunition->ammunition
 analagous->analogous
 analitic->analytic
 analogeous->analogous
+an an->an
 anarchim->anarchism
 anarchistm->anarchism
 anbd->and
@@ -419,6 +422,7 @@ arguements->arguments
 argumens->arguments
 argumetns->arguments
 argumets->arguments
+argumsnt->argument
 arised->arose
 arival->arrival
 armamant->armament
@@ -440,6 +444,7 @@ as check->as checked
 asetic->ascetic
 asfar->as far
 asign->assign
+a simply->a simple
 aslo->also
 asociated->associated
 asorbed->absorbed
@@ -456,6 +461,7 @@ assassintation->assassination
 assemple->assemble
 assertation->assertion
 asside->aside
+assigne->assign
 assignes->assigns
 assisnate->assassinate
 assitant->assistant
@@ -485,6 +491,7 @@ atempting->attempting
 atheistical->atheistic
 athenean->athenian
 atheneans->athenians
+a the->the
 athiesm->atheism
 athiest->atheist
 Atlimeter->Altimeter
@@ -535,6 +542,7 @@ auxillaries->auxiliaries
 auxillary->auxiliary
 auxilliaries->auxiliaries
 auxilliary->auxiliary
+avaialble->available
 availabe->available
 availablity->availability
 availaible->available
@@ -811,6 +819,7 @@ challanged->challenged
 challege->challenge
 Champange->Champagne
 changable->changeable
+changeble->changeable
 charachter->character
 charachters->characters
 charactersistic->characteristic
@@ -876,6 +885,7 @@ collaguaes->colleagues
 collecton->collection
 collegue->colleague
 collegues->colleagues
+collext->collect
 collonade->colonnade
 collonies->colonies
 collony->colony
@@ -1043,9 +1053,11 @@ consiciousness->consciousness
 consicousness->consciousness
 considerd->considered
 consideres->considers
+considure->consider
 consious->conscious
 consistant->consistent
 consistantly->consistently
+consitent->consistent
 consituencies->constituencies
 consituency->constituency
 consituted->constituted
@@ -1508,6 +1520,7 @@ efel->evil
 effeciency->efficiency
 effecient->efficient
 effeciently->efficiently
+effectivley->effectively
 efficency->efficiency
 efficent->efficient
 efficently->efficiently
@@ -1670,6 +1683,7 @@ Europian->European
 Europians->Europeans
 Eurpean->European
 Eurpoean->European
+evaluted->evaluated
 evenhtually->eventually
 eventally->eventually
 eventhough->even though
@@ -1845,6 +1859,7 @@ forbad->forbade
 forbiden->forbidden
 foreward->foreword
 forfiet->forfeit
+for for->for
 forhead->forehead
 foriegn->foreign
 Formalhaut->Fomalhaut
@@ -1964,6 +1979,7 @@ grammaticaly->grammatically
 grammer->grammar
 grat->great
 gratuitious->gratuitous
+greater the->greater than
 greater then->greater than
 greatful->grateful
 greatfully->gratefully
@@ -1990,6 +2006,7 @@ Guilia->Giulia
 Guilio->Giulio
 Guiness->Guinness
 Guiseppe->Giuseppe
+GUI's->GUIs
 gunanine->guanine
 guranteed->guaranteed
 gurantee->guarantee
@@ -2142,6 +2159,7 @@ identifers->identifiers
 ideosyncratic->idiosyncratic
 idesa->ideas, ides,
 idiosyncracy->idiosyncrasy
+if ones set->if one sets
 Ihaca->Ithaca
 illegimacy->illegitimacy
 illegitmate->illegitimate
@@ -2178,6 +2196,7 @@ impecabbly->impeccably
 impedence->impedance
 implamenting->implementing
 implemantation->implementation
+implictly->implicitly
 implimented->implemented
 impliment->implement
 implmentation->implementation
@@ -2201,6 +2220,7 @@ inadvertantly->inadvertently
 inagurated->inaugurated
 inaguration->inauguration
 inappropiate->inappropriate
+inapropriate->inappropriate
 inaugures->inaugurates
 inbalanced->imbalanced
 inbalance->imbalance
@@ -2277,6 +2297,7 @@ inefficienty->inefficiently
 inevatible->inevitable
 inevitible->inevitable
 inevititably->inevitably
+inexistant->inexistent
 infalability->infallibility
 infallable->infallible
 infectuous->infectious
@@ -2377,6 +2398,7 @@ Interupt->Interrupt
 intervalls->intervals
 intervines->intervenes
 intevene->intervene
+in the future->in future
 intial->initial
 intialization->initialization
 intialize->initialize
@@ -2422,7 +2444,9 @@ isnt'->isn't
 Israelies->Israelis
 is setted->is set
 issueing->issuing
+it it->it
 itnroduced->introduced
+it still can->it can still
 it you want->if you want
 iunior->junior
 iwll->will
@@ -2500,6 +2524,7 @@ liase->liaise
 liasion->liaison
 liason->liaison
 liasons->liaisons
+libaries->libraries
 libary->library
 libell->libel
 libguistic->linguistic
@@ -2636,6 +2661,7 @@ meerkrat->meerkat
 melieux->milieux
 membranaphone->membranophone
 memeber->member
+memort->memory
 menally->mentally
 meranda->veranda, Miranda,
 mercentile->mercantile
@@ -2765,6 +2791,7 @@ multifuction->multifunction
 multipled->multiplied
 multiplers->multipliers
 multi-thread->multithread
+multithreded->multithreaded
 multy-thread->multithread
 multythread->multithread
 munbers->numbers
@@ -2775,6 +2802,7 @@ muscels->mussels, muscles,
 muscial->musical
 muscician->musician
 muscicians->musicians
+must exists->must exist
 mutiliated->mutilated
 myraid->myriad
 mysef->myself
@@ -2838,6 +2866,7 @@ noncombatents->noncombatants
 noninteractive->non-interactive
 nonsence->nonsense
 nontheless->nonetheless
+non-trival->nontrivial
 noone->no one
 Noone->No-one
 norhern->northern
@@ -2949,6 +2978,7 @@ omniverous->omnivorous
 omre->more
 onot->note, not,
 onyl->only
+openeing->opening
 openend->opened
 openess->openness
 openin->opening
@@ -2990,6 +3020,7 @@ origional->original
 orignally->originally
 orignially->originally
 orwithout->or without
+OSXoperating systems->OSX operating systems
 otehr->other
 oublisher->publisher
 ouevre->oeuvre
@@ -3283,6 +3314,7 @@ preocupation->preoccupation
 prepair->prepare
 prepartion->preparation
 prepatory->preparatory
+pre-pended->prepended
 preperation->preparation
 preperations->preparations
 prepresent->represent
@@ -3708,6 +3740,7 @@ retalitated->retaliated
 retalitation->retaliation
 retreive->retrieve
 retun value->return value
+returing->returning
 returnd->returned
 revaluated->reevaluated
 reveiw->review
@@ -3822,6 +3855,7 @@ seperating->separating
 seperation->separation
 seperatism->separatism
 seperatist->separatist
+seperator->separator
 sepina->subpoena
 sepulchure->sepulchre, sepulcher,
 sepulcre->sepulchre, sepulcher,
@@ -3852,6 +3886,7 @@ shorly->shortly
 shortwhile->short while
 shoudln->should, shouldn't,
 shoudl->should
+should not have happen->should not have happened
 shouldnt->shouldn't
 shouldnt'->shouldn't
 should of->should have
@@ -4367,6 +4402,7 @@ tremelo->tremolo
 triger->trigger
 triguered->triggered
 triology->trilogy
+trival->trivial
 troling->trolling
 troups->troupes, troops,
 troup->troupe
@@ -4393,6 +4429,7 @@ ublisher->publisher
 uesful->useful
 uglyness->ugliness
 uise->use
+uknown->unknown
 Ukranian->Ukrainian
 ultimely->ultimately
 unaccessible->inaccessible
@@ -4518,6 +4555,7 @@ vacinity->vicinity
 vaguaries->vagaries
 vaieties->varieties
 vailidty->validity
+vairable->variable
 valetta->valletta
 valuble->valuable
 valueable->valuable
@@ -4598,6 +4636,7 @@ wardobe->wardrobe
 waring->warning
 warrent->warrant
 warrriors->warriors
+was ignore->was ignored
 wasnt->wasn't
 wasnt'->wasn't
 wass->was
