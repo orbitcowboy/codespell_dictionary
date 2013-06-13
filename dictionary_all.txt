@@ -1343,6 +1343,7 @@ devasted->devastated
 develope->develop
 developement->development
 developped->developed
+develops->developers
 develpment->development
 devels->delves
 devestated->devastated
@@ -1453,6 +1454,7 @@ distingished->distinguished
 distingishes->distinguishes
 distingishing->distinguishing
 distingquished->distinguished
+distingush->distinguish
 distrubution->distribution
 distruction->destruction
 distructive->destructive
@@ -2734,6 +2736,7 @@ Missisippi->Mississippi
 missle->missile
 missmatch->mismatch
 missonary->missionary
+missspelling->misspelling
 misterious->mysterious
 mistery->mystery
 misteryous->mysterious
