@@ -1300,6 +1300,7 @@ descriibes->describes
 descripters->descriptors
 descripton->description
 desctruction->destruction
+desctructor->destructor
 descuss->discuss
 desgined->designed
 deside->decide
@@ -3520,6 +3521,7 @@ recomending->recommending
 recomend->recommend
 recomends->recommends
 recommedations->recommendations
+recommeded->recommended
 reconaissance->reconnaissance
 reconcilation->reconciliation
 reconized->recognized
