@@ -4438,6 +4438,7 @@ tyrranies->tyrannies
 tyrrany->tyranny
 ubiquitious->ubiquitous
 ublisher->publisher
+Ubunut->Ubuntu
 uesful->useful
 uglyness->ugliness
 uise->use
