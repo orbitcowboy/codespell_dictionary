@@ -2851,6 +2851,7 @@ nestin->nesting
 netwok->network
 neverthless->nevertheless
 newletters->newsletters
+nework->network
 Newyorker->New Yorker
 nickle->nickel
 nightfa;;->nightfall
@@ -3689,6 +3690,7 @@ resaurant->restaurant
 resembelance->resemblance
 resembes->resembles
 resemblence->resemblance
+reseting->resetting
 resevoir->reservoir
 residental->residential
 resignement->resignment
@@ -3769,6 +3771,7 @@ rucuperate->recuperate
 rudimentatry->rudimentary
 rulle->rule
 runing->running
+runnig->running
 runnning->running
 runnung->running
 russina->Russian
@@ -4035,6 +4038,7 @@ stirrs->stirs
 stlye->style
 stomache->stomach
 stong->strong
+stoped->stopped
 stopry->story
 storeis->stories
 storise->stories
@@ -4146,6 +4150,7 @@ superflous->superfluous
 superintendant->superintendent
 suphisticated->sophisticated
 suplimented->supplemented
+suported->supported
 suposedly->supposedly
 suposed->supposed
 suposes->supposes
