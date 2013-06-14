@@ -300,6 +300,7 @@ ancestory->ancestry
 ancilliary->ancillary
 androgenous->androgynous
 androgeny->androgyny
+and then and then->and then
 anihilation->annihilation
 aniversary->anniversary
 annoint->anoint
@@ -2958,6 +2959,7 @@ ocurrance->occurrence
 ocurred->occurred
 ocurrence->occurrence
 ocurr->occur
+od having->of having
 oeperator->operator
 offcers->officers
 offcially->officially
@@ -2969,6 +2971,7 @@ officaly->officially
 officialy->officially
 offred->offered
 oftenly->often
+ofter->often
 ofthe-> of the
 oging->going, ogling,
 omision->omission
@@ -2983,6 +2986,7 @@ ommitting->omitting
 omniverously->omnivorously
 omniverous->omnivorous
 omre->more
+once nice->one nice
 onot->note, not,
 onyl->only
 openeing->opening
@@ -3507,6 +3511,7 @@ radiactive->radioactive
 radify->ratify
 raelly->really
 rarified->rarefied
+rases->raises
 reaccurring->recurring
 reacing->reaching
 reacll->recall
@@ -3936,6 +3941,7 @@ simpliy->simplify
 simultanously->simultaneously
 simultanous->simultaneous
 sincerley->sincerely
+sinc ethe->since the
 singsog->singsong
 sinse->sines, since,
 Sionists->Zionists
