@@ -1865,6 +1865,7 @@ forbiden->forbidden
 foreward->foreword
 forfiet->forfeit
 for for->for
+forground->foreground
 forhead->forehead
 foriegn->foreign
 Formalhaut->Fomalhaut
