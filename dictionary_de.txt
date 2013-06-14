@@ -1,3 +1,4 @@
+beeendet->beendet
 prinizpiell->prinzipiell
 duch->durch
 erlischen, wenn->erloschen sein, wenn

@@ -359,6 +359,7 @@ applicaiton->application
 applicaitons->applications
 appologies->apologies
 appology->apology
+appproximated->approximated
 apprearance->appearance
 apprieciate->appreciate
 approachs->approaches
@@ -651,6 +652,7 @@ boostrap->bootstrap
 boradcast->broadcast
 borke->broke
 borken->broken
+Bostom->Boston
 boundries->boundaries
 boundry->boundary
 bouyancy->buoyancy
@@ -833,6 +835,7 @@ chariman->chairman
 charistics->characteristics
 chasr->chaser, chase,
 chauffer->chauffeur
+checksuming->checksumming
 cheif->chief
 cheifs->chiefs
 chek->check
@@ -1898,6 +1901,7 @@ Fransiscan->Franciscan
 Fransiscans->Franciscans
 freind->friend
 freindly->friendly
+frequecny->frequency
 frequentily->frequently
 fromed->formed
 frome->from
@@ -2056,6 +2060,7 @@ harrassing->harassing
 harrassment->harassment
 harrassments->harassments
 harware->hardware
+has has->has
 hasnt->hasn't
 hasnt'->hasn't
 Hatian->Haitian
@@ -2897,6 +2902,7 @@ noticeing->noticing
 noticible->noticeable
 notifaction->notification
 notifcation->notification
+not not->not
 notwhithstanding->notwithstanding
 noveau->nouveau
 Novermber->November
@@ -3150,6 +3156,7 @@ permanentely->permanently
 permenantly->permanently
 permenant->permanent
 permissable->permissible
+permissopns->permissions
 perogative->prerogative
 peronal->personal
 perosnality->personality
@@ -3406,6 +3413,7 @@ proffesional->professional
 proffesion->profession
 proffesor->professor
 profilic->prolific
+profliling->profiling
 progessed->progressed
 programable->programmable
 progrom->pogrom, program,
@@ -4380,6 +4388,7 @@ tornadoe->tornado
 torpeados->torpedoes
 torpedos->torpedoes
 tothe->to the
+to to->to
 toubles->troubles
 tounge->tongue
 tourch->torch, touch,
@@ -4708,6 +4717,7 @@ wih->with
 wille->will
 willingless->willingness
 will shall->shall
+will will->will
 wioth->with
 wirting->writing
 withdrawl->withdrawal, withdraw,
@@ -4716,6 +4726,7 @@ withh->with
 withing->within
 withold->withhold
 witht->with
+with with->with
 witn->with
 wiull->will
 wnated->wanted
