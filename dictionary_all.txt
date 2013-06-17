@@ -2576,7 +2576,6 @@ detiberatety->deliberately
 detirious->delirious
 detremental->detrimental
 detrimentat->detrimental
-det->set
 detusivety->delusively
 detves->delves
 devaslaled->devastated
