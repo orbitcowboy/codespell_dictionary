@@ -4822,6 +4822,7 @@ lemporary->temporary
 lendencies->tendencies
 lendency->tendency
 lenght->length
+lenghty->lengthy
 lenglh->length
 lengt->length
 lenlacles->tentacles
