@@ -12,6 +12,10 @@ ziffernblatt->zifferblatt
 sprigst->springst
 befel->befehl
 befele->befehle
+integation->integration
+interresting->interesting
+dynamicaly->dynamically
+comming->coming
 anbgeboten->angeboten
 Entdckung->Entdeckung
 Wettezll->Wettzell
