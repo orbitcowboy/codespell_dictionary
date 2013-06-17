@@ -3470,6 +3470,7 @@ fascisl->fascist
 fatc->fact
 fatse->false
 faught->fought
+faulure->failure
 favourabte->favourable
 favoutrable->favourable
 feasable->feasible
@@ -7036,6 +7037,7 @@ requets->requests
 requiremenl->requirement
 requirment->requirement
 requred->required
+requrements->requirements
 resaurant->restaurant
 resembelance->resemblance
 resembes->resembles
@@ -7706,6 +7708,7 @@ statememts->statements
 statment->statement
 staughterhouses->slaughterhouses
 stayd->stayed
+stdudio->studio
 steriods->steroids
 sterotypes->stereotypes
 stightty->slightly

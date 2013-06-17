@@ -1,3 +1,4 @@
+beinghaltet->beinhaltet
 beeendet->beendet
 prinizpiell->prinzipiell
 duch->durch
