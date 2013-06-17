@@ -291,6 +291,7 @@ affort->afford, effort,
 affort->effort
 aforememtioned->aforementioned
 aforemenlioned->aforementioned
+after reception->after receiving
 againnst->against
 agains->against
 againsl->against
@@ -5074,6 +5075,7 @@ maintance->maintenance
 maintenence->maintenance
 maintinaing->maintaining
 maintioned->mentioned
+maintnence->maintenance
 mainty->mainly
 majorily->majority
 majoroty->majority
