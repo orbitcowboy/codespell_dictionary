@@ -5636,7 +5636,6 @@ ninht->ninth
 ninlh->ninth
 ninteenth->nineteenth
 ninties->1990s
-nint->ninth
 ninty->ninety
 nkow->know
 nkwo->know
