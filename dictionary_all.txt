@@ -483,6 +483,7 @@ alternitives->alternatives
 altho->although
 althought->although
 al-time->all-time
+Altimenter->Altimeter
 altogehter->altogether
 altogeter->altogether
 altorney->attorney
@@ -1662,6 +1663,7 @@ clinicaly->clinically
 cmo->com
 cmo->com, disabled due to lots of false positives
 cmoputer->computer
+cnitializing->initializing
 coasl->coast
 cocklail->cocktail
 cocktait->cocktail
@@ -2574,6 +2576,7 @@ detiberatety->deliberately
 detirious->delirious
 detremental->detrimental
 detrimentat->detrimental
+det->set
 detusivety->delusively
 detves->delves
 devaslaled->devastated
@@ -4457,6 +4460,7 @@ initalise->initialise
 initalization->initialization
 initalize->initialize
 initally->initially
+initated->initiated
 initation->initiation
 initiaitive->initiative
 initializiation->initialization
@@ -6480,6 +6484,7 @@ primordal->primordial
 primordiat->primordial
 principat->principal
 principte->principle
+priorization->prioritization
 privalege->privilege
 privaleges->privileges
 privale->private
@@ -7402,6 +7407,7 @@ shadasloo->shadaloo
 shadatoo->shadaloo
 shaddow->shadow
 shadoloo->shadaloo
+shall be defined as globals->shall be defined global
 shamen->shaman
 shamen->shamans
 shamen->shaman, shamans,
