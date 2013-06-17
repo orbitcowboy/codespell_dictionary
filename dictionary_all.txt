@@ -8255,6 +8255,7 @@ Tolkein->Tolkien
 tomatos->tomatoes
 tommorow->tomorrow
 tommorrow->tomorrow
+to much time->too much time
 tonetiness->loneliness
 tonety->lonely
 tonger->longer
