@@ -2534,6 +2534,7 @@ desiccaled->desiccated
 deside->decide
 desigining->designing
 desinations->destinations
+desing->design
 desintegrated->disintegrated
 desintegration->disintegration
 desirabte->desirable
@@ -5330,6 +5331,7 @@ minialure->miniature
 minislries->ministries
 minislry->ministry
 ministery->ministry
+minized->minimized
 minstries->ministries
 minstry->ministry
 minumum->minimum
@@ -6562,6 +6564,7 @@ profliling->profiling
 progessed->progressed
 programable->programmable
 programmabte->programmable
+programms->programs
 progrom->pogrom
 progrom->pogrom, program,
 progrom->program
@@ -8212,6 +8215,7 @@ timetamp->timestamp
 timits->limits
 timming->timing
 timne->time
+timsort->timesort
 tinguistic->linguistic
 tinguistics->linguistics
 tinnaean->linnaean
