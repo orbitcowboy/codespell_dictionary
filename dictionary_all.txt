@@ -178,6 +178,7 @@ adapler->adapter
 adaptor->adapter
 adavanced->advanced
 adbandon->abandon
+addapt->adapt
 adddress->address
 addilion->addition
 addilional->additional
@@ -5784,6 +5785,7 @@ octohedra->octahedra
 octohedron->octahedron
 ocuntries->countries
 ocuntry->country
+ocured->occurred
 ocurrance->occurrence
 ocurred->occurred
 ocurrence->occurrence
