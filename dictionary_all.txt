@@ -3380,6 +3380,7 @@ expeditonary->expeditionary
 expeiments->experiments
 expell->expel
 expells->expels
+expereince->experience
 experianced->experienced
 experiance->experience
 experimenl->experiment
@@ -6255,6 +6256,7 @@ pleasent->pleasant
 plebicite->plebiscite
 plebiscile->plebiscite
 plesant->pleasant
+plugiins->plugins
 poelry->poetry
 poenis->penis
 poeoples->peoples
@@ -6594,6 +6596,7 @@ prominenlly->prominently
 prominenl->prominent
 prominentty->prominently
 promiscous->promiscuous
+promissing->promising
 promoled->promoted
 promolion->promotion
 promotted->promoted
