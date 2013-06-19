@@ -2631,6 +2631,7 @@ dieing->dying, dyeing,
 dieties->deities
 diety->deity
 diferent->different
+diferential->differential
 diferrent->different
 difference belween->difference between
 differenciate->differentiate
@@ -7646,6 +7647,7 @@ soverignity->sovereignty
 soverign->sovereign
 soverignty->sovereignty
 soviels->soviets
+soving->solving
 spagetti->spaghetti
 spaghelli->spaghetti
 spaghelti->spaghetti
@@ -7685,6 +7687,7 @@ speices->species
 spendour->splendour
 spermalozoon->spermatozoon
 spermatozoan->spermatozoon
+sphereically->spherically
 spirilual->spiritual
 spirituat->spiritual
 spoace->space
@@ -8920,6 +8923,7 @@ wrillen->written
 wrilten->written
 writen->written
 writlen->written
+writter->writer
 writting->writing
 wrods->words
 wroet->wrote
