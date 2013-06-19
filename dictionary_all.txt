@@ -3237,6 +3237,7 @@ eventially->eventually
 even tough->even though
 eventualy->eventually
 eventuatty->eventually
+everithing->everything
 everthing->everything
 everyhting->everything
 everylhing->everything
@@ -4530,6 +4531,7 @@ inpolite->impolite
 inprisonment->imprisonment
 inproving->improving
 inpul->input
+insall->install
 inseclivorous->insectivorous
 insectiverous->insectivorous
 insensative->insensitive
