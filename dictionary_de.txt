@@ -12,6 +12,7 @@ ziffernblatt->zifferblatt
 sprigst->springst
 befel->befehl
 befele->befehle
+Ordunung->Ordnung
 integation->integration
 interresting->interesting
 dynamicaly->dynamically
