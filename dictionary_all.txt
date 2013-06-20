@@ -8442,6 +8442,7 @@ unforgivabte->unforgivable
 unforgiveable->unforgivable
 unforlunalely->unfortunately
 unforseen->unforeseen
+unfortunatelly->unfortunately
 unfortunatety->unfortunately
 unfortunatley->unfortunately
 unfortunatly->unfortunately
