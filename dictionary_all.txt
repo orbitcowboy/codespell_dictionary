@@ -2347,6 +2347,7 @@ currenly->currently
 currentty->currently
 curriculem->curriculum
 curricutum->curriculum
+customise->customize
 cutminating->culminating
 cxan->cyan
 cyclinder->cylinder
@@ -2885,6 +2886,8 @@ efforl->effort
 efforls->efforts
 efftuence->effluence
 effulence->effluence
+e.g->e.g.
+eg.->e.g.
 ehtnocentrism->ethnocentrism
 ehtos->ethos
 eighht->eighth
@@ -7079,6 +7082,7 @@ responsibitity->responsibility
 responsiblities->responsibilities
 responsiblity->responsibility
 responsibte->responsible
+resposibility->responsibility
 ressemblance->resemblance
 ressembled->resembled
 ressemblence->resemblance
