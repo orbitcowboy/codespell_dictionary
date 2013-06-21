@@ -4244,6 +4244,7 @@ inbalance->imbalance
 inbetween->between
 incarceraled->incarcerated
 incarcirated->incarcerated
+incase->in case
 incidenlally->incidentally
 incidentaly->incidentally
 incidentatty->incidentally
@@ -7032,6 +7033,7 @@ requiremenls->requirements
 requirment->requirement
 requred->required
 requrements->requirements
+requriements->requirements
 resaurant->restaurant
 reselting->resetting
 resembelance->resemblance
@@ -7471,6 +7473,7 @@ similiar->similar
 simitarity->similarity
 simitarty->similarly
 simmilar->similar
+simpleset->simplest
 simpley->simply
 simplier->simpler
 simplifed->simplified
