@@ -113,6 +113,7 @@ accuslom->accustom
 accuslomed->accustomed
 accussed->accused
 acedemic->academic
+acenstral->ancestral
 acess->access
 acheive->achieve
 acheived->achieved
@@ -1998,6 +1999,7 @@ Conneclicul->Connecticut
 conneclion->connection
 conneclix->connectix
 Conneticut->Connecticut
+connetion->connection
 connolalion->connotation
 connolalions->connotations
 conotation->connotation
@@ -2366,6 +2368,7 @@ dammage->damage
 Dardaneles->Dardanelles
 Dardanettes->Dardanelles
 Dardenelles->Dardanelles
+darw->draw
 datatyp->data type
 datmatian->dalmatian
 daugher->daughter
@@ -2998,6 +3001,7 @@ emply->empty
 emprisoned->imprisoned
 emptoys->employs
 emtpy->empty
+enable enable->enable
 enameld->enameled
 enameted->enameled
 enchancement->enhancement
@@ -5179,6 +5183,7 @@ mathmaticians->mathematicians
 matler->matter
 matrixes->matrices
 Mattese->Maltese
+may has been->may have been
 mccarhtyist->mccarthyist
 mccarlhyisl->mccarthyist
 mccarthyst->mccarthyist
@@ -7408,6 +7413,7 @@ short white->short while
 shoudln->should
 shoudln->shouldn't
 shoudl->should
+should have not->should not have
 shouldn'l->shouldn't
 should nol have happened->should not have happened
 should not have happen->should not have happened
@@ -8209,6 +8215,7 @@ tkaes->takes
 tkae->take
 tkaing->taking
 tlaking->talking
+to allocated->to allocate
 tobbaco->tobacco
 tocat->local
 to commect to->to connect to
