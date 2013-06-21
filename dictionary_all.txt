@@ -2377,6 +2377,7 @@ daughler->daughter
 deaclivaled->deactivated
 deaktivated->deactivated
 deat->deal
+Debain->Debian
 debalable->debatable
 debatabte->debatable
 debateable->debatable
@@ -8490,6 +8491,7 @@ uninterupted->uninterrupted
 unitateratty->unilaterally
 unitaterat->unilateral
 UnitesStates->UnitedStates
+unitialized ->uninitialized
 univeral->universal
 univeristies->universities
 univeristy->university
