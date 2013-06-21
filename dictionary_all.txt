@@ -2890,6 +2890,7 @@ eigth->eighth
 eihter->either
 eilher->either
 eiter->either
+eiterh->either
 elc->etc
 elction->election
 elecled->elected
@@ -4072,6 +4073,7 @@ idaeidae->idea
 idaes->ideas
 idealogies->ideologies
 idealogy->ideology
+idempotant->indempotent
 idenlical->identical
 idenlifier->identifier
 idenlifiers->identifiers
@@ -6824,6 +6826,7 @@ recruiling->recruiting
 recuiting->recruiting
 recuperale->recuperate
 recuring->recurring
+recurisively->recursively
 recurrance->recurrence
 rediculous->ridiculous
 reedeming->redeeming
@@ -7093,6 +7096,7 @@ restauraunt->restaurant
 resteraunt->restaurant
 resteraunts->restaurants
 resticted->restricted
+restor->restore
 restraunt->restaurant
 restraunt->restraint
 resturant->restaurant
