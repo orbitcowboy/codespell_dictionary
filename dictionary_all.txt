@@ -896,6 +896,7 @@ assualted->assaulted
 assumpted->assumed
 assymetrical->asymmetrical
 assymetric->asymmetric
+ast->as
 asteriod->asteroid
 asthetic->aesthetic
 asthetical->aesthetical
@@ -1075,6 +1076,7 @@ avalable->available
 avalance->avalanche
 avaliable->available
 avalible->available
+a variables->a variable
 avatanche->avalanche
 avation->aviation
 avengence->a vengeance
