@@ -3206,8 +3206,10 @@ Europians->Europeans
 Eurpean->European
 Eurpoean->European
 evalualed->evaluated
+evalutation->evaluation
 evaluted->evaluated
 evatuated->evaluated
+evaulation->evaluation
 even htough->even though
 evenhtually->eventually
 even lhough->even though
@@ -5324,6 +5326,7 @@ minumum->minimum
 mircocontroller->microcontroller
 mirgate->migrate
 mirrorred->mirrored
+misassignement->misassignment
 miscelaneous->miscellaneous
 miscellanious->miscellaneous
 miscellanous->miscellaneous
