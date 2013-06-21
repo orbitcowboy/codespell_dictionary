@@ -4067,6 +4067,7 @@ hydropilic->hydrophilic
 hydropobe->hydrophobe
 hydropobic->hydrophobic
 hygeine->hygiene
+HyperThreading->Hyper Threading
 hypocracy->hypocrisy
 hypocrasy->hypocrisy
 hypocricy->hypocrisy
