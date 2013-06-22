@@ -11,6 +11,8 @@ Bewerbunggespräche->Bewerbungsgespräche
 ziffernblatt->zifferblatt
 sprigst->springst
 befel->befehl
+einaml->einmal
+and->unds
 befele->befehle
 Ordunung->Ordnung
 integation->integration
