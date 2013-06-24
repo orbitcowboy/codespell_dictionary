@@ -4411,6 +4411,7 @@ influenlial->influential
 influented->influenced
 infomation->information
 informalion->information
+informations->information
 informtion->information
 infrantryman->infantryman
 infraslruclure->infrastructure
@@ -6554,6 +6555,7 @@ profliling->profiling
 progessed->progressed
 programable->programmable
 programmabte->programmable
+programm->program
 programms->programs
 progrom->pogrom
 progrom->program
@@ -6624,6 +6626,7 @@ protesses->process
 protiferation->proliferation
 protific->prolific
 protocal->protocol
+protocoll->protocol
 protocot->protocol
 protoganist->protagonist
 protrayed->portrayed
@@ -6897,6 +6900,7 @@ regardtess->regardless
 regislered->registered
 regisler->register
 regislers->registers
+registerd->registered
 registred->registered
 registrs->registers
 regluar->regular
