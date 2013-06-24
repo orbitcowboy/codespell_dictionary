@@ -1616,6 +1616,7 @@ childen->children
 childs's->child's
 chitdbirth->childbirth
 chitdren->children
+chnaging->changing
 choosed->chose
 choosed->chosen
 choosen->chosen
@@ -7362,6 +7363,7 @@ separalisl->separatist
 separalism->separatism
 separalor->separator
 separatety->separately
+separet->separate
 seperated->separated
 seperately->separately
 seperate->separate
