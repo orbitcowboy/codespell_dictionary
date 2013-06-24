@@ -1348,6 +1348,8 @@ calander->colander
 calbibration->calibration
 calcalation->calculation
 calclulation->calculation
+calcualtion->calculation
+calcualtions->calculations
 calculale->calculate
 calculaled->calculated
 calculalion->calculation
@@ -3014,6 +3016,8 @@ enable enable->enable
 enameld->enameled
 enameted->enameled
 enchancement->enhancement
+encodding->encodding
+encoddings->encoddings
 encouraing->encouraging
 encrypl->encrypt
 encryplion->encryption
@@ -3099,6 +3103,7 @@ enviornmentalist->environmentalist
 enviornmentally->environmentally
 enviornment->environment
 enviornments->environments
+envirionment->environment
 enviromental->environmental
 enviromentalist->environmentalist
 enviromentally->environmentally
@@ -5997,6 +6002,7 @@ paralely->parallelly
 parallely->parallelly
 parameler->parameter
 paramelers->parameters
+paramet->parameter
 paramter->parameter
 paramters->parameters
 parantheses->parentheses
@@ -7515,6 +7521,7 @@ sinse->since
 sinse->sines
 Sionists->Zionists
 Sionist->Zionist
+sirculations->circulation
 Sisline->Sistine
 Sixtin->Sistine
 Skagerak->Skagerrak
