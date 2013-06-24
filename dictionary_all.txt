@@ -1717,6 +1717,7 @@ comander->commandeer
 comander->commander
 comando->commando
 comandos->commandos
+comands->commands
 comany->company
 comapany->company
 comata->commas
@@ -1780,6 +1781,7 @@ commerically->commercially
 commericial->commercial
 commericially->commercially
 commerorative->commemorative
+commig->commit
 commilled->committed
 commillee->committee
 commilling->committing
@@ -2457,6 +2459,7 @@ delagates->delegates
 delailed->detailed
 delapidated->dilapidated
 delecl->detect
+deleet ->delete
 delegales->delegates
 delerioraled->deteriorated
 deleriorale->deteriorate
@@ -3969,6 +3972,7 @@ highesl->highest
 highlighl->highlight
 highligt->highlight
 hightight->highlight
+hightlighting->highlighting
 higlight->highlight
 higway->highway
 hillarious->hilarious
@@ -5945,6 +5949,7 @@ outpulling->outputting
 outpulting->outputting
 outputing->outputting
 outputling->outputting
+outuput->output
 oveerun->overrun
 over htere->over there
 over lhere->over there
@@ -5960,6 +5965,7 @@ owudl->would
 oxigen->oxygen
 oximoron->oxymoron
 p0enis->penis
+pading->padding
 pageanl->pageant
 pahts->paths
 paide->paid
@@ -7930,6 +7936,7 @@ supressed->suppressed
 supresses->suppresses
 supressing->suppressing
 supress->suppress
+supress->suppresss
 suprised->surprised
 suprise->surprise
 suprisingly->surprisingly
