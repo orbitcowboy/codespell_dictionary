@@ -835,6 +835,7 @@ artilery->artillery
 artillary->artillery
 artittery->artillery
 arund->around
+ARV Studio->AVR Studio
 ascelic->ascetic
 as check->as checked
 as checkled->as checked
@@ -894,6 +895,7 @@ assosication->assassination
 asssassans->assassins
 assualt->assault
 assualted->assaulted
+assumimg->assuming
 assumpted->assumed
 assymetrical->asymmetrical
 assymetric->asymmetric
@@ -4453,6 +4455,7 @@ initally->initially
 initated->initiated
 initation->initiation
 initiaitive->initiative
+initialialized->initialized 
 initializiation->initialization
 initialy->initially
 initiat->initial
@@ -6872,6 +6875,7 @@ referencs->references
 refereneced->referenced
 referenece->reference
 refereneces->references
+refere to->refer to
 referiang->referring
 refering->referring
 refernce->reference
@@ -8381,6 +8385,7 @@ tyhat->that
 tyhe->they
 typahead->typeahead
 typcial->typical
+type have a->type has a
 typicaly->typically
 typicat->typical
 typicatty->typically
