@@ -6940,6 +6940,7 @@ referrat->referral
 referrence->reference
 referrences->references
 referrs->refers
+refert->refer
 reffered->referred
 refference->reference
 reffering->referring
@@ -7889,7 +7890,9 @@ substace->substance
 substancial->substantial
 substantiat->substantial
 substatial->substantial
+substite->substitute
 substituded->substituted
+substitude->substitute
 substracted->subtracted
 substracting->subtracting
 substraction->subtraction
