@@ -1611,6 +1611,7 @@ childbirht->childbirth
 childbirlh->childbirth
 childbirt->childbirth
 childen->children
+childs's->child's
 chitdbirth->childbirth
 chitdren->children
 choosed->chose
@@ -2375,6 +2376,7 @@ datmatian->dalmatian
 daugher->daughter
 daughler->daughter
 deaclivaled->deactivated
+deafult->default
 deaktivated->deactivated
 deat->deal
 Debain->Debian

@@ -13,6 +13,8 @@ sprigst->springst
 befel->befehl
 einaml->einmal
 and->unds
+hiefür->hierfür
+git->gibt
 befele->befehle
 Ordunung->Ordnung
 integation->integration
