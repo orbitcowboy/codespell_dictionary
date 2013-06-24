@@ -5482,6 +5482,7 @@ multifuction->multifunction
 multihtreaded->multithreaded
 multihtread->multithread
 multipled->multiplied
+multiple inclusion->multiple inclusions
 multiplers->multipliers
 multi-thread->multithread
 multithreded->multithreaded
@@ -6038,6 +6039,7 @@ partipants->participants
 pary->party
 pased->passed
 pasengers->passengers
+pasing->passing
 paslime->pastime
 pasloral->pastoral
 passerbys->passersby
