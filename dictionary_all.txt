@@ -1005,6 +1005,7 @@ attophones->allophones
 attotted->allotted
 attowed->allowed
 attowing->allowing
+attribuets->attributes
 attributred->attributed
 attright->allright
 attrocities->atrocities
@@ -1229,6 +1230,7 @@ binery->binary
 binomiat->binomial
 binominal->binomial
 bitateratty->bilaterally
+bitfileds->bitfields
 bitinguatism->bilingualism
 bizzare->bizarre
 blackoul->blackout
@@ -1405,6 +1407,7 @@ cannol->cannot
 cannonical->canonical
 cannotation->connotation
 cannotations->connotations
+canonicalise->canonicalize
 canonicat->canonical
 canot->cannot
 cant->can't
@@ -1430,6 +1433,7 @@ caracterized->characterized
 carcas->Caracas
 carcas->carcass
 carefull->careful
+carefuly->carefully
 carefut->careful
 careing->caring
 Carhtaginian->Carthaginian
@@ -2185,6 +2189,7 @@ coorperation->cooperation
 coorperation->corporation
 coorperations->corporations
 copmetitors->competitors
+Copright->Copyright
 coputer->computer
 copyrighl->copyright
 copywrite->copyright
@@ -2438,6 +2443,7 @@ definately->definitely
 definatly->definitely
 defined as globals->defined as globals
 defined as gtobats->defined as globals
+definetely->definitely
 definetly->definitely
 definile->definite
 definilely->definitely
@@ -2500,6 +2506,7 @@ dependant->dependent
 dependend->dependent
 dependenl->dependent
 depicl->depict
+depricated->deprecated
 deram->dram
 deram->dream
 derectory->directory
@@ -2570,6 +2577,7 @@ detegates->delegates
 deteoriated->deteriorated
 deteriate->deteriorate
 deterioriating->deteriorating
+determin->determine
 determinining->determining
 detiberatety->deliberately
 detirious->delirious
@@ -2638,6 +2646,7 @@ different between->difference between
 differentiat->differential
 differentiatiations->differentiations
 differnt->different
+differrences->differences
 difficulity->difficulty
 difficullies->difficulties
 difficully->difficulty
@@ -2793,6 +2802,7 @@ doccuments->documents
 doclrines->doctrines
 docrines->doctrines
 doctines->doctrines
+documenation->documentation
 documenatry->documentary
 documenlalion->documentation
 documenlary->documentary
@@ -3032,8 +3042,10 @@ endevors->endeavors
 endevour->endeavour
 endiammess->endianness
 endiamness->endianness
+endianes->endianness
 endianess->endianness
 endianmess->endianness
+endiannes->endianness
 endig->ending
 endolihts->endoliths
 endolilhs->endoliths
@@ -3392,6 +3404,7 @@ explanalion->explanation
 explaning->explaining
 explicilly->explicitly
 explicitely->explicitly
+explict->explicit
 explictly->explicitly
 exploilalion->exploitation
 exploilalive->exploitative
@@ -3458,6 +3471,7 @@ fals->false
 familar->familiar
 familes->families
 familiies->families
+familiy->family
 familliar->familiar
 famitiar->familiar
 famities->families
@@ -3516,6 +3530,7 @@ finaly->finally
 financialy->financially
 financiat->financial
 financiatty->financially
+finanlize->finalize
 finatty->finally
 finile->finite
 firends->friends
@@ -3736,6 +3751,7 @@ Giutia->Giulia
 Giutio->Giulio
 glamourous->glamorous
 glight->flight
+gllowed->allowed
 gnawwed->gnawed
 godesses->goddesses
 godess->goddess
@@ -4296,6 +4312,7 @@ incomptetent->incompetent
 inconsislenl->inconsistent
 inconsistant->inconsistent
 inconsitent->inconsistent
+inconstent->inconsistent
 incoroporated->incorporated
 incorperation->incorporation
 incorporaled->incorporated
@@ -4599,6 +4616,7 @@ intercontinetal->intercontinental
 intered->interned
 intered->interred
 interelated->interrelated
+interessting->interesting
 interferance->interference
 interfereing->interfering
 interger->integer
@@ -4779,6 +4797,7 @@ lalked->talked
 lalking->talking
 lalloos->tattoos
 lalloo->tattoo
+langauge->language
 largeled->targeted
 largeling->targeting
 largesl->largest
@@ -5104,6 +5123,7 @@ malhemalically->mathematically
 malhemalician->mathematician
 malhemalicians->mathematicians
 malhemalics->mathematics
+malicous->malicious
 maller->matter
 Mallese->Maltese
 malrices->matrices
@@ -5256,6 +5276,7 @@ menlally->mentally
 menlioned->mentioned
 mentaly->mentally
 mentatty->mentally
+meory->memory
 meranda->Miranda
 meranda->veranda
 mercanlile->mercantile
@@ -5571,6 +5592,7 @@ Neanderthat->Neanderthal
 neccesarily->necessarily
 neccesary->necessary
 neccessarily->necessarily
+neccessary->neccessary
 neccessary->necessary
 neccessities->necessities
 necesarily->necessarily
@@ -6068,6 +6090,7 @@ pateotithic->paleolithic
 Patestinian->Palestinian
 Patestinians->Palestinians
 patette->palette
+pathe->path
 pathes->paths
 paticular->particular
 pattented->patented
@@ -6413,6 +6436,7 @@ preceedence->precedence
 preceeding->preceding
 preceed->precede
 preceeds->precedes
+precendence->precedence
 precentage->percentage
 precice->precise
 precisety->precisely
@@ -7015,6 +7039,7 @@ repatition->repartition
 repatition->repetition
 repealedly->repeatedly
 repeatedty->repeatedly
+repeate->repeat
 repectively->respectively
 repeition->repetition
 repelilion->repetition
