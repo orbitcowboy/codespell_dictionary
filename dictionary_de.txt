@@ -12,10 +12,12 @@ ziffernblatt->zifferblatt
 sprigst->springst
 befel->befehl
 einaml->einmal
+auschalten->ausschalten
 and->unds
 hiefür->hierfür
 git->gibt
 togglen->toggeln
+marcro->macro
 befele->befehle
 Ordunung->Ordnung
 integation->integration
