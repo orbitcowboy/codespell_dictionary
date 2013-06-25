@@ -15,6 +15,7 @@ einaml->einmal
 and->unds
 hiefür->hierfür
 git->gibt
+togglen->toggeln
 befele->befehle
 Ordunung->Ordnung
 integation->integration
