@@ -8546,6 +8546,7 @@ unitateratty->unilaterally
 unitaterat->unilateral
 UnitesStates->UnitedStates
 unitialized ->uninitialized
+unitialized->uninitialized
 univeral->universal
 univeristies->universities
 univeristy->university
