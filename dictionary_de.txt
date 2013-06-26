@@ -39,6 +39,7 @@ agressiv->aggressiv
 assozial->asozial
 Akkustik->Akustik
 Amalgan->Amalgam
+referencies->references
 Amaturenbrett->Armaturenbrett
 Athmosphäre->Atmosphäre
 Artzt->Arzt
