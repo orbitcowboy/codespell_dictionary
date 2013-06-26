@@ -541,6 +541,7 @@ amongsl->amongst
 amoung->among
 amoungst->amongst
 amounl->amount
+Amtel->Atmel
 amung->among
 amunition->ammunition
 analagous->analogous
@@ -1850,6 +1851,7 @@ comparision->comparison
 comparisions->comparisons
 comparitive->comparative
 comparitively->comparatively
+comparsion->comparison
 compatabilities->compatibilities
 compatability->compatibility
 compatable->compatible
@@ -2012,6 +2014,7 @@ conneclion->connection
 conneclix->connectix
 Conneticut->Connecticut
 connetion->connection
+connnection->connection
 connolalion->connotation
 connolalions->connotations
 conotation->connotation
@@ -2741,6 +2744,7 @@ dispair->despair
 disparagingty->disparagingly
 disparale->disparate
 disparingly->disparagingly
+dispay->display
 dispenced->dispensed
 dispence->dispense
 dispencing->dispensing
@@ -5007,6 +5011,7 @@ lonley->lonely
 lonly->lonely
 lonly->only
 loo much lime->too much time
+loopbak->loopback
 loose->lose
 loosing->losing
 lorch->torch
@@ -7100,6 +7105,7 @@ resembtes->resembles
 resembting->resembling
 reseting->resetting
 resetling->resetting
+resettet->resetted
 resevoir->reservoir
 residenlial->residential
 residenl->resident
