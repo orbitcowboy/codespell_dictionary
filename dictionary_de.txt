@@ -40,6 +40,10 @@ assozial->asozial
 Akkustik->Akustik
 Amalgan->Amalgam
 referencies->references
+aplication->application
+compliation->compilation
+comaand-->command
+thoese->those
 Amaturenbrett->Armaturenbrett
 Athmosphäre->Atmosphäre
 Artzt->Arzt
