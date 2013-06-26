@@ -2912,6 +2912,7 @@ efforls->efforts
 efftuence->effluence
 effulence->effluence
 e.g->e.g.
+eg->e.g.
 eg.->e.g.
 ehtnocentrism->ethnocentrism
 ehtos->ethos
@@ -5611,6 +5612,7 @@ necessilale->necessitate
 necessilies->necessities
 neeed->need
 negalive->negative
+negativ->negative
 negitive->negative
 neglible->negligible
 negligable->negligible
@@ -6367,6 +6369,7 @@ posibility->possibility
 posilion->position
 posilive->positive
 posion->poison
+positiv->positive
 positon->position
 poslhumous->posthumous
 possable->possible
