@@ -5384,6 +5384,8 @@ misile->missile
 mismalch->mismatch
 misogynisl->misogynist
 Misouri->Missouri
+mispeld->misspelled
+mispelld->misspelled
 mispelled->misspelled
 mispelling->misspelling
 mispell->misspell
@@ -5394,6 +5396,7 @@ missite->missile
 missle->missile
 missmatch->mismatch
 missonary->missionary
+misspeld->misspelled
 misspeled->misspelled
 misspeling->misspelling
 misspel->misspell
