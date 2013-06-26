@@ -1115,7 +1115,6 @@ batleship->battleship
 batlleship->battleship
 battteship->battleship
 baud rale->baud rate
-baudrate->baud rate
 bcak->back
 beachead->beachhead
 beacuse->because
