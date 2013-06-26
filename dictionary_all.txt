@@ -1590,6 +1590,7 @@ characlers->characters
 charactersistic->characteristic
 charactor->character
 charactors->characters
+charakter->character
 charasmatic->charismatic
 charaterized->characterized
 charcter->character
