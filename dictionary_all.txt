@@ -1623,6 +1623,7 @@ childen->children
 childs's->child's
 chitdbirth->childbirth
 chitdren->children
+chnage->change
 chnaging->changing
 choosed->chose
 choosed->chosen
@@ -1715,6 +1716,7 @@ colum->column
 columm->column
 columms->columns
 colums->columns
+comaand-->command
 comamnd->command
 comand->command
 comandeer->commandeer
@@ -1894,6 +1896,7 @@ completedthe->completed the
 completelyl->completely
 completetion->completion
 completly->completely
+compliation->compilation
 complier->compiler
 componant->component
 componenl->component
@@ -2443,6 +2446,7 @@ deffine->define
 definance->defiance
 definate->definite
 definately->definitely
+defination->definition
 definatly->definitely
 defined as globals->defined as globals
 defined as gtobats->defined as globals
@@ -2639,6 +2643,7 @@ diety->deity
 diferent->different
 diferential->differential
 diferrent->different
+diffcult->difficult
 difference belween->difference between
 differenciate->differentiate
 differenl->different
@@ -3181,6 +3186,7 @@ erralic->erratic
 erraticaly->erratically
 erraticatty->erratically
 erronous->erroneous
+errro->error
 errror->error
 errupted->erupted
 erupled->erupted
@@ -5851,7 +5857,6 @@ of lhe->of the
 oftenly->often
 of te->of the
 ofter->often
-ofthe-> of the
 ofthe->of the
 oging->going
 oging->ogling
@@ -6811,6 +6816,7 @@ reacll->recall
 readmition->readmission
 realislic->realistic
 realitvely->relatively
+realsied->realized
 realsitic->realistic
 realtion->relation
 realtionship->relationship
@@ -6919,6 +6925,7 @@ refereces->references
 refered->referred
 referemce->reference
 referemces->references
+referencies->references
 referencs->references
 refereneced->referenced
 referenece->reference
@@ -6938,6 +6945,7 @@ refference->reference
 reffering->referring
 reflecl->reflect
 reformisl->reformist
+refreash->refresh
 refrence->reference
 refrences->references
 refrers->refers
@@ -7442,6 +7450,7 @@ setdom->seldom
 setlement->settlement
 setllement->settlement
 settelement->settlement
+settign->setting
 settlment->settlement
 setttement->settlement
 severat->several
@@ -7450,7 +7459,6 @@ severety->severity
 severily->severity
 severley->severely
 severly->severely
-sever not reachable-> server not reachable
 sever not reachable->server not reachable
 sevice->service
 shadasloo->shadaloo
@@ -8222,7 +8230,9 @@ thne->then
 thnigs->things
 thnig->thing
 thn->then
+thoese->those
 thoroughty->thoroughly
+thorugh->through
 thoughout->throughout
 threatend->threatened
 threatning->threatening
@@ -8299,7 +8309,6 @@ to commect to->to connect to
 to comnect to->to connect to
 to conect to->to connect to
 to conmect to->to connect to
-to connects to-> to connect to
 to connects to->to connect to
 todays->today's
 todya->today
@@ -8315,6 +8324,7 @@ toke->took
 tolerence->tolerance
 Tolkein->Tolkien
 tomatos->tomatoes
+tommoro->tomorrow
 tommorow->tomorrow
 tommorrow->tomorrow
 to much time->too much time
