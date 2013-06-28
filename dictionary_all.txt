@@ -900,7 +900,6 @@ assumimg->assuming
 assumpted->assumed
 assymetrical->asymmetrical
 assymetric->asymmetric
-ast->as
 asteriod->asteroid
 asthetic->aesthetic
 asthetical->aesthetical
@@ -3599,7 +3598,6 @@ forfeil->forfeit
 forfiet->forfeit
 for for->for
 forground->foreground
-forhead->forehead
 foriegn->foreign
 forlies->forties
 forly->forty
@@ -7664,6 +7662,7 @@ sophicated->sophisticated
 sophislicaled->sophisticated
 sophmore->sophomore
 sorceror->sorcerer
+sorce->source
 sorrounding->surrounding
 sotdiers->soldiers
 sotd->sold
@@ -7809,8 +7808,6 @@ stradegy->strategy
 stratagically->strategically
 strategicaly->strategically
 strategicatty->strategically
-strat->start
-strat->strata
 streamtining->streamlining
 streemlining->streamlining
 stregth->strength
