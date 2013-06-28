@@ -2,6 +2,9 @@ beinghaltet->beinhaltet
 beeendet->beendet
 prinizpiell->prinzipiell
 duch->durch
+resetet->führt einen Reset durch
+kunfktionsfähig->funktionsfähig
+Koordiantenarten->Koordinatenarten
 erlischen, wenn->erloschen sein, wenn
 Besprechungsprtokoll->Besprechungsprotokoll
 geaschlossen->geschlossen
