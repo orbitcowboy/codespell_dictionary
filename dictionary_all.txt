@@ -5060,6 +5060,7 @@ Austrralia->Australia
 Austrralian->Australian
 Austtralia->Australia
 Austtralian->Australian
+authentification->authentication
 auther->author
 authhor->author
 authhoritative->authoritative
@@ -10673,6 +10674,7 @@ conviinced->convinced
 convincaed->convinced
 convincedd->convinced
 convinceed->convinced
+convinient->convenient
 convnient->convenient
 convntional->conventional
 convrsion->conversion
