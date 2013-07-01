@@ -15,6 +15,7 @@ ziffernblatt->zifferblatt
 sprigst->springst
 befel->befehl
 einaml->einmal
+Softwwareversion->Softwareversion
 auschalten->ausschalten
 and->unds
 dne->den
