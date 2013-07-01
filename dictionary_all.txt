@@ -10969,6 +10969,7 @@ coovered->covered
 cooveted->coveted
 cooy->coy
 coperation->cooperation
+copiler->compiler
 copmetitors->competitors
 coppyright->copyright
 Coppyright->Copyright
@@ -42985,6 +42986,7 @@ unnoticeabble->unnoticeable
 unnoticeablle->unnoticeable
 unnoticeabte->unnoticeable
 unnoticeaeble->unnoticeable
+unnoticedly->unnoticed
 unnoticeeablee->unnoticeable
 unnotiiceable->unnoticeable
 unnotikeable->unnoticeable
