@@ -7005,6 +7005,7 @@ capilal->capital
 capitall->capital
 capitat->capital
 capithal->capital
+capitialize->capitalize
 capittal->capital
 caplured->captured
 cappabilities->capabilities
@@ -12913,6 +12914,7 @@ deskthop->desktop
 desktiop->desktop
 desktoop->desktop
 desktopp->desktop
+desktp->desktop
 deskttop->desktop
 deslabilized->destabilized
 deslinalion->destination

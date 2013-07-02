@@ -16,6 +16,7 @@ ziffernblatt->zifferblatt
 sprigst->springst
 befel->befehl
 leezeichen->Leerzeichen
+Studenabrechnung->Stundenabrechnung
 albel->Label
 einaml->einmal
 Softwwareversion->Softwareversion
