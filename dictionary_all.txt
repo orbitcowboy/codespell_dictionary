@@ -41344,6 +41344,7 @@ tokenizzed->tokenized
 tokennizationn->tokenization
 tokennized->tokenized
 toke->took
+tokinezer->tokenizer
 tokkenization->tokenization
 tokkenized->tokenized
 toklenization->tokenization
