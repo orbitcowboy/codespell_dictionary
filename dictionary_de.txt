@@ -2,6 +2,7 @@ beinghaltet->beinhaltet
 beeendet->beendet
 prinizpiell->prinzipiell
 duch->durch
+neuseten->neuesten
 resetet->führt einen Reset durch
 kunfktionsfähig->funktionsfähig
 Koordiantenarten->Koordinatenarten
@@ -14,6 +15,7 @@ Bewerbunggespräche->Bewerbungsgespräche
 ziffernblatt->zifferblatt
 sprigst->springst
 befel->befehl
+leezeichen->Leerzeichen
 albel->Label
 einaml->einmal
 Softwwareversion->Softwareversion
