@@ -11341,6 +11341,7 @@ covveted->coveted
 coyy->coy
 cpoy->copy
 cpoy->coy
+cppchck->cppcheck
 craeataed->created
 craedaencae->credence
 craeted->created
@@ -42770,6 +42771,7 @@ uninitiallized->uninitialized
 uninitiatized->uninitialized
 uninittialized->uninitialized
 uninlerrupled->uninterrupted
+uninstanciated->uninstantiated
 unintaerruptaed->uninterrupted
 uninteerrupteed->uninterrupted
 uninterrrrupted->uninterrupted
