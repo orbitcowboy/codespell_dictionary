@@ -9,6 +9,7 @@ Koordiantenarten->Koordinatenarten
 erlischen, wenn->erloschen sein, wenn
 Besprechungsprtokoll->Besprechungsprotokoll
 geaschlossen->geschlossen
+ursprünglcih->ursprünglich
 Fehlfuktion->Fehlfunktion
 Bewerbungfotos->Bewerbungsfotos
 Bewerbunggespräche->Bewerbungsgespräche
