@@ -40894,6 +40894,7 @@ thereffore->therefore
 therefoore->therefore
 therefor->therefore
 therefroe->therefore
+therfore->therefore
 theri->their
 theroy->theory
 therreafterr->thereafter
