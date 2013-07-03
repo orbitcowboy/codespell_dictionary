@@ -10,6 +10,7 @@ erlischen, wenn->erloschen sein, wenn
 Besprechungsprtokoll->Besprechungsprotokoll
 geaschlossen->geschlossen
 ursprünglcih->ursprünglich
+detailierte->detaillierte
 Fehlfuktion->Fehlfunktion
 Bewerbungfotos->Bewerbungsfotos
 Bewerbunggespräche->Bewerbungsgespräche
