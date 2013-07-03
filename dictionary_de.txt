@@ -14,9 +14,13 @@ Bewerbungfotos->Bewerbungsfotos
 Bewerbunggespräche->Bewerbungsgespräche
 ziffernblatt->zifferblatt
 sprigst->springst
+Initiialisierung->Initialisierung
+entwickleln->entwickeln
+Fotrderungen->Forderungen
 befel->befehl
 leezeichen->Leerzeichen
 Studenabrechnung->Stundenabrechnung
+beinghaltet->beinhaltet
 albel->Label
 einaml->einmal
 Softwwareversion->Softwareversion
