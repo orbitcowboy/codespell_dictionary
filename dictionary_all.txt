@@ -15001,6 +15001,7 @@ eficiently->efficiently
 efluence->effluence
 efort->effort
 eforts->efforts
+ e g.->e.g.
 e.g->e.g.
 eg->e.g.
 eg.->e.g.
@@ -17058,6 +17059,7 @@ extraaordinaary->extraordinary
 extraaterrestriaal->extraterrestrial
 extraaterrestriaals->extraterrestrials
 extraavaagaant->extravagant
+extrac->extract
 extraddition->extradition
 extradiction->extradition
 extradiitiion->extradition
