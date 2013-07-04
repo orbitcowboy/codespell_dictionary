@@ -14669,6 +14669,7 @@ ectectic->eclectic
 ect->etc
 ectipse->eclipse
 ectsasy->ecstasy
+editr->editor
 eeach->each
 eearlieer->earlier
 eearlieest->earliest

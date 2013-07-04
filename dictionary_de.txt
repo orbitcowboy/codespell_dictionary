@@ -3,6 +3,7 @@ beeendet->beendet
 prinizpiell->prinzipiell
 duch->durch
 Noitz->Notiz
+eingschaltet->eingeschaltet
 neuseten->neuesten
 resetet->führt einen Reset durch
 kunfktionsfähig->funktionsfähig
