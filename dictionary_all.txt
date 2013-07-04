@@ -37924,6 +37924,7 @@ sotubte->soluble
 sotving->solving
 sotyr->satyr
 sotyr->story
+soucr code->source code
 soudn->sound
 soudns->sounds
 sougght->sought

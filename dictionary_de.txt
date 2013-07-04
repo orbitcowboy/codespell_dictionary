@@ -2,6 +2,7 @@ beinghaltet->beinhaltet
 beeendet->beendet
 prinizpiell->prinzipiell
 duch->durch
+Noitz->Notiz
 neuseten->neuesten
 resetet->führt einen Reset durch
 kunfktionsfähig->funktionsfähig
