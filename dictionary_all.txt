@@ -8438,6 +8438,7 @@ coefficientss->coefficients
 coefficientts->coefficients
 coeffiiciients->coefficients
 coeficients->coefficients
+cofigured->configured
 coform->conform
 coggnizant->cognizant
 cogniizant->cognizant
