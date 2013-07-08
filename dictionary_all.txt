@@ -3538,6 +3538,7 @@ antropologist->anthropologist
 antropology->anthropology
 antropomorphization->anthropomorphization
 anttarcttic->antarctic
+ant the->and the
 antthropologistt->anthropologist
 antthropology->anthropology
 antthropomorphizattion->anthropomorphization
@@ -17757,6 +17758,7 @@ fitament->filament
 fite->file
 fites->files
 fitesystem->filesystem
+fixed pint arithmetic->fixed point arithmetic
 flaagged->flagged
 flaammaable->flammable
 flaawless->flawless
@@ -19467,6 +19469,7 @@ Hattoween->Halloween
 havae->have
 havee->have
 haveing->having
+have they been->they have been
 hav->have
 haviest->heaviest
 haviing->having
@@ -26102,6 +26105,7 @@ merchandiise->merchandise
 merchandisse->merchandise
 merchanndise->merchandise
 merchhandise->merchandise
+mercural->mercurial
 merkantile->mercantile
 merkat->meerkat
 merkhandise->merchandise
@@ -32620,11 +32624,14 @@ prograem->program
 prograems->programs
 prograessaed->progressed
 programable->programmable
+programatically->programmatically
+programaticaly->programmatically
 programmabble->programmable
 programmablae->programmable
 programmablee->programmable
 programmablle->programmable
 programmabte->programmable
+programmaticaly->programmatically
 programmmmable->programmable
 programm->program
 programms->programs
@@ -38785,6 +38792,7 @@ staintess->stainless
 staion->station
 standarrds->standards
 standars->standards
+standart->standard
 standdardds->standards
 stange->strange
 stanndards->standards
@@ -41221,6 +41229,7 @@ ticence->licence
 ticensed->licensed
 ticense->license
 tickening->thickening
+tideouse->tedious
 tief->thief
 tiem->item
 tiem->time
@@ -43703,6 +43712,7 @@ verannda->veranda
 verfication->verification
 verfiy->verify
 verfy->verify
+verifcation->verification
 veriffication->verification
 veriffy->verify
 verificaation->verification
