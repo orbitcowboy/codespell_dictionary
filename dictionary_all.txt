@@ -7063,6 +7063,7 @@ Caribbbbean->Caribbean
 Caribbeann->Caribbean
 Caribbeean->Caribbean
 Caribean->Caribbean
+carige->carriage
 Cariibbean->Caribbean
 cariing->caring
 caringg->caring
@@ -9412,6 +9413,7 @@ concaept->concept
 concaernaed->concerned
 concaern->concern
 concaerning->concerning
+concatinate->concatenate
 conceeiteed->conceited
 conceeiveed->conceived
 conceentratee->concentrate
@@ -24724,6 +24726,8 @@ limmaean->linnaean
 limmits->limits
 limnaean->linnaean
 linaean->linnaean
+linefeed->line feed
+linefeeds->line feeds
 lingguistic->linguistic
 lingguistics->linguistics
 linguisitic->linguistic
@@ -26263,6 +26267,7 @@ method defines howw->method defines how
 method definess how->method defines how
 method definnes how->method defines how
 methodds->methods
+methode->method
 methodes->methods
 methodss->methods
 methood defines hoow->method defines how
@@ -35105,6 +35110,7 @@ repeatedty->repeatedly
 repeate->repeat
 repeathedly->repeatedly
 repeath->repeat
+repeatitions->repetitions
 repeattedly->repeatedly
 repeatt->repeat
 repectively->respectively
@@ -39500,6 +39506,7 @@ subtrakting->subtracting
 subtraktion->subtraction
 subtrakts->subtracts
 subtrakt->subtract
+subtrings->substrings
 subtrracted->subtracted
 subtrracting->subtracting
 subtrraction->subtraction
