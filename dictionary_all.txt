@@ -8047,6 +8047,7 @@ characterizedd->characterized
 characterizzed->characterized
 charactersistic->characteristic
 characterss->characters
+characterstics->characteristics
 characther->character
 charactheristhic->characteristic
 charactheristhics->characteristics
@@ -10683,6 +10684,7 @@ conviinced->convinced
 convincaed->convinced
 convincedd->convinced
 convinceed->convinced
+convinience->convenience
 convinient->convenient
 convnient->convenient
 convntional->conventional
@@ -12557,6 +12559,7 @@ delerioraling->deteriorating
 delerious->delirious
 delermine->determine
 delermining->determining
+delet->delete
 delethe->delete
 delette->delete
 delevopment->development
@@ -18159,6 +18162,7 @@ Fraenciscaen->Franciscan
 Fraenciscaens->Franciscans
 fraequaency->frequency
 fraequaently->frequently
+fragementation->fragmentation
 framaebuffaer->framebuffer
 frambuffer->framebuffer
 framebbuffer->framebuffer
@@ -19115,6 +19119,7 @@ guardd->guard
 guarenteed->guaranteed
 guarentee->guarantee
 guarentees->guarantees
+guarnateed->guaranteed
 guarraná->guaraná
 guarranteed->guaranteed
 guarrantee->guarantee
@@ -40809,6 +40814,7 @@ terrrrorrist->terrorist
 tese->these
 tesiticular->testicular
 tessticular->testicular
+testcases->test cases
 testiccular->testicular
 testiclular->testicular
 testiculaar->testicular
@@ -42902,6 +42908,7 @@ unmaaneuveraable->unmaneuverable
 unmaanoeuvraable->unmanoeuvrable
 unmaeneuveraeble->unmaneuverable
 unmaenoeuvraeble->unmanoeuvrable
+unmaged->unmanaged
 unmanaeuvaerablae->unmaneuverable
 unmaneeuveerablee->unmaneuverable
 unmaneuveerable->unmaneuverable
