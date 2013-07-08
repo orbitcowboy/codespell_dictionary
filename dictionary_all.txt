@@ -5087,6 +5087,7 @@ authorative->authoritative
 authoriitatiive->authoritative
 authoriitiies->authorities
 authoriity->authority
+authorised->authorized
 authoritativae->authoritative
 authoritativ->authoritative
 authoritativee->authoritative
@@ -21398,6 +21399,7 @@ inccreased->increased
 inccredible->incredible
 inccrementally->incrementally
 inccunabula->incunabula
+incepted->inserted
 incidaentally->incidentally
 inciddentally->incidentally
 incideentally->incidentally
@@ -29283,6 +29285,8 @@ organim->organism
 organisae->organise
 organisalion->organisation
 organisathion->organisation
+organisational->organizational
+organisation->organization
 organisattion->organisation
 organisee->organise
 organismm->organism
@@ -29307,6 +29311,7 @@ orgganization->organization
 orggan->organ
 orginally->originally
 orginal->original
+orginisation->organization
 orginize->organise
 orgin->organ
 orgin->origin
