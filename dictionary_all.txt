@@ -27276,6 +27276,7 @@ muder->murder
 muhammadan->muslim
 mukous->mucous
 mulilaled->mutilated
+mulithread->multi-thread,multi thread
 mulitplexer->multiplexer
 mulitplicator->multiplicator
 mulitthread->multithread
@@ -27318,6 +27319,7 @@ multifuncction->multifunction
 multifunctioon->multifunction
 multifunktion->multifunction
 multifunnctionn->multifunction
+multihread->multi-thread,multi thread
 multihtreaded->multithreaded
 multihtread->multithread
 multiiculturaliism->multiculturalism
@@ -27374,6 +27376,7 @@ multithreaad->multithread
 multithreaddedd->multithreaded
 multithreadd->multithread
 multi-thread->multithread
+multithread->multi-thread,multi thread
 multithreaeded->multithreaded
 multithreaed->multithread
 multithreded->multithreaded
