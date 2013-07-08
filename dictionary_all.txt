@@ -3721,6 +3721,7 @@ apperances->appearances
 appereance->appearance
 appereances->appearances
 appliaed->applied
+applicablity->applicability
 applicaiton->application
 applicaitons->applications
 applicalion->application
@@ -9282,6 +9283,7 @@ compiller->compiler
 compitation->compilation
 compitent->competent
 compiter->compiler
+complable->compilable
 complaetaed thae->completed the
 complaetaely->completely
 complaetion->completion
