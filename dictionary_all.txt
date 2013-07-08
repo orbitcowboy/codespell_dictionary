@@ -8750,6 +8750,7 @@ commandds->commands
 commandeeeer->commandeer
 commandeerr->commandeer
 commanderr->commander
+commandline->command line,command-line
 commandoes->commandos
 commandoss->commandos
 commandss->commands
@@ -22538,6 +22539,7 @@ insaectivorous->insectivorous
 insaensitivae->insensitive
 insaeparablae->inseparable
 insall->install
+insance->instance
 insecctivorous->insectivorous
 inseclivorous->insectivorous
 insecthivorous->insectivorous
@@ -30921,6 +30923,7 @@ pllugins->plugins
 pluggins->plugins
 plugiins->plugins
 pluginns->plugins
+plugin->plug in
 pluginss->plugins
 pluugins->plugins
 poaem->poem

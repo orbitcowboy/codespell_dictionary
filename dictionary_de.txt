@@ -5,7 +5,10 @@ duch->durch
 Noitz->Notiz
 eingschaltet->eingeschaltet
 gefixed->gefixt
+impelmentiert->implementiert
+Beleuchtunsprobe->Beleuchtungsprobe
 neuseten->neuesten
+allle->alle
 resetet->führt einen Reset durch
 kunfktionsfähig->funktionsfähig
 Koordiantenarten->Koordinatenarten
