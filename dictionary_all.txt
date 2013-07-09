@@ -8037,6 +8037,7 @@ characteers->characters
 characteriistiic->characteristic
 characteriistiics->characteristics
 characteriized->characterized
+characterisctics->characteristics
 characterisitic->characteristic
 characterisitics->characteristics
 characterisstic->characteristic
@@ -8062,6 +8063,7 @@ charactterized->characterized
 charactters->characters
 charakter->character
 charasmatic->charismatic
+charater->character
 charaterized->characterized
 charcter->character
 chariismatiic->charismatic
@@ -18663,6 +18665,7 @@ geoometer->geometer
 geoometers->geometers
 gerater->greater
 gerat->great
+gererates->generates
 gerrilla->guerrilla
 gerrillas->guerrillas
 gesswork->guesswork
@@ -19863,6 +19866,7 @@ hierogtyphs->hieroglyphs
 hierooglyph->hieroglyph
 hierooglyphics->hieroglyphics
 hierooglyphs->hieroglyphs
+hierrachy->hierarchy
 hierrarrchical->hierarchical
 hierrarrchies->hierarchies
 hierrarrchy->hierarchy
@@ -23727,6 +23731,7 @@ keyboardd->keyboard
 keyboarrd->keyboard
 keybooard->keyboard
 keybord->keyboard
+keypress->key press
 keyyboard->keyboard
 khairman->chairman
 khallenge->challenge
@@ -36328,6 +36333,7 @@ Salurdays->Saturdays
 salyr->satyr
 samae->same
 samee->same
+samle->sample
 samme->same
 sancctioned->sanctioned
 sancctioning->sanctioning
@@ -42543,6 +42549,7 @@ unchattengeabte->unchallengeable
 unchhallengeable->unchallengeable
 unchhangeable->unchangeable
 uncknown->unknown
+unclude->include
 uncnown->unknown
 uncommpetitive->uncompetitive
 uncompaetitivae->uncompetitive
@@ -42838,6 +42845,7 @@ UnithedSthathes->UnitedStates
 unitialized ->uninitialized
 unitialized->uninitialized
 UnittedSttattes->UnitedStates
+unittests->unit tests
 univaersal->universal
 univaersitiaes->universities
 univaersity->university
@@ -43563,6 +43571,7 @@ variationns->variations
 variationss->variations
 variatioons->variations
 variattions->variations
+varible->variable
 varieetiees->varieties
 varieety->variety
 varielies->varieties
@@ -44294,6 +44303,7 @@ wasn'l->wasn't
 wasnn't->wasn't
 wasn'th->wasn't
 wasn'tt->wasn't
+wasnt->was not,wasn't
 wasnt->wasn't
 wasnt'->wasn't
 wass ignored->was ignored
@@ -44444,6 +44454,7 @@ whikh->which
 whilae->while
 whilee->while
 whille->while
+whitespaces->white spaces
 whith->with
 whlch->which
 whn->when
