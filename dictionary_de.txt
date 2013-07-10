@@ -9,6 +9,7 @@ impelmentiert->implementiert
 Beleuchtunsprobe->Beleuchtungsprobe
 neuseten->neuesten
 allle->alle
+reperatur->Reparatur
 resetet->führt einen Reset durch
 kunfktionsfähig->funktionsfähig
 Koordiantenarten->Koordinatenarten
