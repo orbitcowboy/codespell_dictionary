@@ -2757,6 +2757,7 @@ alheislic->atheistic
 alheism->atheism
 alhenian->athenian
 alhenians->athenians
+alhpanumeric->alphanumeric
 alhtough->although
 aliaenating->alienating
 alieenating->alienating
@@ -44454,7 +44455,6 @@ whikh->which
 whilae->while
 whilee->while
 whille->while
-whitespaces->white spaces
 whith->with
 whlch->which
 whn->when
