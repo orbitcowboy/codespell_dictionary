@@ -1411,6 +1411,7 @@ adjustablae->adjustable
 adjustablee->adjustable
 adjustablle->adjustable
 adjustabte->adjustable
+adjustements->adjustments
 adjusthable->adjustable
 adjusthmenths->adjustments
 adjustmaents->adjustments
