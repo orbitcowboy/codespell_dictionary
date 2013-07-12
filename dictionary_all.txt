@@ -27416,7 +27416,6 @@ multithreaaded->multithreaded
 multithreaad->multithread
 multithreaddedd->multithreaded
 multithreadd->multithread
-multi-thread->multithread
 multithread->multi-thread,multi thread
 multithreaeded->multithreaded
 multithreaed->multithread
