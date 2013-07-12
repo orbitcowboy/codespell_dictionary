@@ -6156,6 +6156,7 @@ Bonnano->Bonanno
 booat->boat
 boodybuilder->bodybuilder
 booinc->boinc
+boolian->boolean
 boolslrap->bootstrap
 boombardment->bombardment
 Boonannoo->Bonanno
@@ -28952,6 +28953,7 @@ ommision->omission
 ommission->omission
 ommited->omitted
 ommiting->omitting
+ommit->omit
 ommitted->omitted
 ommitting->omitting
 ommivorously->omnivorously
