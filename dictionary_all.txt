@@ -14645,6 +14645,7 @@ eassier->easier
 easthetic->aesthetic
 easthetical->aesthetical
 easthetically->aesthetically
+Eaxample->example
 eccleccticc->eclectic
 ecclectic->eclectic
 ecclipse->eclipse
@@ -32646,6 +32647,7 @@ proggrammable->programmable
 proggram->program
 proggrams->programs
 proggressed->progressed
+progmatically->programmatically
 prograammaable->programmable
 prograam->program
 prograams->programs
