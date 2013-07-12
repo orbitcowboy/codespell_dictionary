@@ -3563,6 +3563,7 @@ any otherr->any other
 any othher->any other
 any otther->any other
 anythhing->anything
+anythign->anything
 anythiing->anything
 anythingg->anything
 anyting->anything
@@ -8092,6 +8093,7 @@ chaserr->chaser
 chasr->chase
 chasr->chaser
 chasser->chaser
+chatch->catch
 chattenge->challenge
 chattenged->challenged
 chattenging->challenging
@@ -8235,6 +8237,7 @@ choosed->chosen
 choosen->chosen
 chosae->chose
 chosaen->chosen
+chose->choose
 chosee->chose
 choseen->chosen
 chosenn->chosen
@@ -18979,6 +18982,7 @@ gratefut->grateful
 gratefutty->gratefully
 gratefuul->grateful
 gratefuully->gratefully
+gratfully->gratefully
 grat->great
 gratheful->grateful
 grathefully->gratefully
@@ -21145,6 +21149,7 @@ importaent->important
 importamt->important
 importannt->important
 importhanth->important
+importnat->important
 importtantt->important
 imporvements->improvements
 imporving->improving
@@ -26415,6 +26420,7 @@ milionaire->millionaire
 milion->million
 milipede->millipede
 miliraty->military
+miliseconds->milliseconds
 militaary->military
 militaery->military
 militarry->military
@@ -37313,6 +37319,7 @@ shrunnk->shrunk
 shruunk->shrunk
 shuld->should
 shure->sure
+shutdown->shut down
 siaegae->siege
 sicne->since
 sidaeraeal->sidereal
@@ -44397,6 +44404,7 @@ whaet->what
 whal->what
 whants->wants
 whant->want
+whaqt->what
 whath->what
 whatt->what
 whcih->which
