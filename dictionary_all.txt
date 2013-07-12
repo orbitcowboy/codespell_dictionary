@@ -1646,6 +1646,7 @@ advesary->adversary
 adviced->advised
 adviised->advised
 advisaed->advised
+advise->advice
 adviseed->advised
 advissed->advised
 advnturous->adventurous
