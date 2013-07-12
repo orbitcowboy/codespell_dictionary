@@ -4184,6 +4184,7 @@ arguuments->arguments
 arial->aerial
 arials->aerials
 arised->arose
+arithmetik->arithmetic
 arival->arrival
 arkhaeologist->archaeologist
 arkhaeologists->archaeologists
@@ -5040,6 +5041,7 @@ aulomaled->automated
 aulomalically->automatically
 aulomobile->automobile
 aulonomous->autonomous
+aumplitude->amplitude
 auromated->automated
 Ausitralia->Australia
 Ausitralian->Australian
@@ -5334,6 +5336,7 @@ awwarded->awarded
 awway->away
 awwkwward->awkward
 awya->away
+axactly->exactly
 baack->back
 baackground->background
 baackgrounds->backgrounds
@@ -12532,6 +12535,8 @@ deitties->deities
 deitty->deity
 deityy->deity
 dekeived->deceived
+dekete->delete
+deketete->delete
 dekidable->decidable
 dekide->decide
 dekidedly->decidedly
@@ -12569,6 +12574,7 @@ delerious->delirious
 delermine->determine
 delermining->determining
 delet->delete
+deletete->delete
 delethe->delete
 delette->delete
 delevopment->development
@@ -13119,6 +13125,7 @@ determiningg->determining
 determinining->determining
 determinne->determine
 determinninng->determining
+determinted->determined
 determmine->determine
 determmining->determining
 deterriorrated->deteriorated
@@ -14368,6 +14375,7 @@ doeesn't->doesn't
 doens->does
 doesn'l->doesn't
 does nnot->does not
+doesn not->does not
 doesnn't->doesn't
 does nol->does not
 does noth->does not
@@ -17689,8 +17697,12 @@ filamment->filament
 filee->file
 filees->files
 fileesysteem->filesystem
+fileextension->file extension
+fileextensions->file extensions
+filepath->file path
 filess->files
 filessysstem->filesystem
+filestream->file stream
 filesysitem->filesystem
 filesyslem->filesystem
 filesystemm->filesystem
@@ -17698,6 +17710,7 @@ filesysthem->filesystem
 filesysttem->filesystem
 filesytsem->filesystem
 filesyystem->filesystem
+filetime->file time
 filiament->filament
 fillament->filament
 fillesystem->filesystem
@@ -19037,6 +19050,7 @@ griief->grief
 grooup->group
 groow->grow
 gropu->group
+GroupID->Group ID
 groupp->group
 grouup->group
 groww->grow
@@ -19979,6 +19993,7 @@ hippopotamuus->hippopotamus
 hippopothamus->hippopotamus
 hippopottamus->hippopotamus
 hippppoppotamus->hippopotamus
+hirarchie->hierarchy
 hirarchy->hierarchy
 hisitocompatibility->histocompatibility
 hisitorians->historians
@@ -23422,6 +23437,7 @@ issueing->issuing
 issuingg->issuing
 issuinng->issuing
 issuuing->issuing
+ist->is
 isuing->issuing
 Itaca->Ithaca
 itaem->item
@@ -24746,6 +24762,8 @@ limitts->limits
 limmaean->linnaean
 limmits->limits
 limnaean->linnaean
+limt->limit
+limts->limits
 linaean->linnaean
 linefeed->line feed
 linefeeds->line feeds
@@ -24769,6 +24787,7 @@ linguitsic->linguistic
 linguitsics->linguistics
 linguuistic->linguistic
 linguuistics->linguistics
+linke->link
 linmaean->linnaean
 linnaaeaan->linnaean
 linnaaean->linnaean
@@ -28489,6 +28508,7 @@ Nullarboor->Nullarbor
 Nullarbro->Nullarbor
 Nullarrborr->Nullarbor
 Nullllarbor->Nullarbor
+nullpointer->null pointer
 nulrienl->nutrient
 nulrienls->nutrients
 numaeric->numeric
@@ -29103,6 +29123,7 @@ opeenneess->openness
 opeerator->operator
 opemmess->openness
 opemness->openness
+opend->opened
 openedd->opened
 openeing->opening
 openend->opened
@@ -30027,6 +30048,7 @@ pathh->path
 pathhs->paths
 pathience->patience
 pathss->paths
+pathtotest->path to test
 patiaencae->patience
 paticular->particular
 patieencee->patience
@@ -30040,9 +30062,11 @@ patsoral->pastoral
 pattch->patch
 pattented->patented
 pattentted->patented
+patternstring->string pattern
 patth->path
 patths->paths
 pattience->patience
+pattner->pattern
 paveilion->pavilion
 paviiliion->pavilion
 pavilionn->pavilion
@@ -31103,6 +31127,7 @@ polute->pollute
 polutes->pollutes
 poluting->polluting
 polution->pollution
+polynom->polynomial
 polyphhonic->polyphonic
 polyphonicc->polyphonic
 polyphoniic->polyphonic
@@ -31302,6 +31327,7 @@ porrtrraying->portraying
 porrtuguese->portuguese
 Porrtuguese->Portuguese
 porselytizing->proselytizing
+portabilitity->portability
 portagonist->protagonist
 portagonists->protagonists
 portait->portrait
@@ -32296,6 +32322,7 @@ preverse->perverse
 preverse->preserve
 previious->previous
 previoous->previous
+previosly->previously
 previouss->previous
 previouus->previous
 previvous->previous
@@ -34334,6 +34361,7 @@ recursivelly->recursively
 recursivelyy->recursively
 recursivety->recursively
 recursivly->recursively
+recursiv->recursive
 recursivvely->recursively
 recurssively->recursively
 recuuperate->recuperate
@@ -34849,6 +34877,7 @@ relalions->relations
 relalively->relatively
 relaly->really
 rela->real
+relase->release
 relathion->relation
 relathionship->relationship
 relathions->relations
@@ -36717,6 +36746,7 @@ searchedd->searched
 searchhed->searched
 searchhes->searches
 searchh->search
+searchstring->search string
 searkhed->searched
 searkhes->searches
 searkh->search
@@ -39332,6 +39362,7 @@ subcoonscioously->subconsciously
 subcribe->subscribe
 subctassed->subclassed
 subctass->subclass
+subfolder->sub folder
 subjjugation->subjugation
 subjudgation->subjugation
 subjugaation->subjugation
@@ -39375,6 +39406,7 @@ submodulees->submodules
 submodulles->submodules
 submodutes->submodules
 submoodules->submodules
+subpath->sub path
 subpecies->subspecies
 subpoaena->subpoena
 subpoeena->subpoena
@@ -39605,6 +39637,7 @@ succeessivee->successive
 succeessor->successor
 succeess->success
 succeses->successes
+succesfull->successful
 succesfully->successfully
 succesful->successful
 succesfuly->successfully
@@ -40328,6 +40361,7 @@ symnetrically->symmetrically
 symnetrical->symmetrical
 symnetric->symmetric
 symnetry->symmetry
+symobolic->symbolic
 symphhony->symphony
 symphonny->symphony
 symphoony->symphony
@@ -41514,6 +41548,7 @@ toouch->touch
 toowards->towards
 tooward->toward
 toown->town
+toplevel->top level
 torcch->torch
 torchh->torch
 toriodal->toroidal
@@ -43371,6 +43406,7 @@ usefuly->usefully
 usefutty->usefully
 usefut->useful
 useing->using
+UserID->User ID
 usigned->unsigned
 usiing->using
 usingg->using
@@ -43771,6 +43807,7 @@ verificatioon->verification
 verificattion->verification
 verificcation->verification
 verifikation->verification
+verifiy->verify
 verifyy->verify
 veriifiicatiion->verification
 veriify->verify
@@ -44748,6 +44785,7 @@ wrillen->written
 wrilten->written
 writaer->writer
 writae->write
+writeable->writable
 writeer->writer
 writee->write
 writen->written
