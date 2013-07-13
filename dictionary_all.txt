@@ -19593,6 +19593,7 @@ heaviets->heaviest
 heaviiest->heaviest
 heavve->heave
 heavviest->heaviest
+heavy weight->heavyweight
 heeadquarteereed->headquartered
 heeadquarteer->headquarter
 heeadquarteers->headquarters
@@ -28425,6 +28426,7 @@ notorieety->notoriety
 notorietyy->notoriety
 notoriiety->notoriety
 notorriety->notoriety
+notpad->notepad
 notroiety->notoriety
 nottable->notable
 nottably->notably

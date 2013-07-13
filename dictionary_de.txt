@@ -9,6 +9,8 @@ impelmentiert->implementiert
 Beleuchtunsprobe->Beleuchtungsprobe
 neuseten->neuesten
 allle->alle
+ist die das->ist es das
+ganzahlig->ganzzahlig
 reperatur->Reparatur
 resetet->führt einen Reset durch
 kunfktionsfähig->funktionsfähig
