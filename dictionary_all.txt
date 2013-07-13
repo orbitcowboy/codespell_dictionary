@@ -19836,6 +19836,7 @@ hiaerarchy->hierarchy
 hiaeroglyph->hieroglyph
 hiaeroglyphics->hieroglyphics
 hiaeroglyphs->hieroglyphs
+hiearchy->hierarchy
 hieerarchical->hierarchical
 hieerarchiees->hierarchies
 hieerarchy->hierarchy
@@ -38968,6 +38969,7 @@ sthylus->stylus
 stightty->slightly
 stiirriing->stirring
 stiirs->stirs
+stil->still
 stilus->stylus
 stingent->stringent
 stip->slip
