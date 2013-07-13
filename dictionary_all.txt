@@ -4181,7 +4181,6 @@ argumsnt->argument
 arguuably->arguably
 arguument->argument
 arguuments->arguments
-arial->aerial
 arials->aerials
 arised->arose
 arithmetik->arithmetic
@@ -38585,7 +38584,6 @@ ssiness->sines
 ssingssong->singsong
 ssized->sized
 ssize of->size of
-ssize->size
 ssizing->sizing
 sskating->skating
 sslaughterhoussess->slaughterhouses
