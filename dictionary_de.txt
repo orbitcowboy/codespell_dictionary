@@ -9,6 +9,7 @@ impelmentiert->implementiert
 Beleuchtunsprobe->Beleuchtungsprobe
 neuseten->neuesten
 allle->alle
+angzeigt->angezeigt
 numerierrung->nummerierung
 englsich->englisch
 ist die das->ist es das

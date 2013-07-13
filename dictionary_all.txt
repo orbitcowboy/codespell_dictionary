@@ -6044,6 +6044,7 @@ bitateratty->bilaterally
 bitffields->bitfields
 bitfiaelds->bitfields
 bitfieelds->bitfields
+bitfield->bit field
 bitfieldds->bitfields
 bitfieldss->bitfields
 bitfiellds->bitfields
@@ -12909,6 +12910,7 @@ desiigned->designed
 desiigniing->designing
 desiirable->desirable
 desikkated->desiccated
+desination->destination
 desinations->destinations
 desing->design
 desintegrated->disintegrated
@@ -16036,6 +16038,7 @@ equilibrrium->equilibrium
 equilibrum->equilibrium
 equillibrium->equilibrium
 equiped->equipped
+equipement->equipment
 equipmenl->equipment
 equipmennt->equipment
 equipmenth->equipment
@@ -17814,6 +17817,7 @@ flammmmable->flammable
 flamnable->flammable
 flanmable->flammable
 flannable->flammable
+flasing->flashing
 flawess->flawless
 flawlaess->flawless
 flawleess->flawless
@@ -19514,6 +19518,7 @@ haviest->heaviest
 haviing->having
 havingg->having
 havinng->having
+havn't->haven't
 havve->have
 havving->having
 heaadquaartered->headquartered
@@ -41532,6 +41537,7 @@ tooggling->toggling
 tookenizatioon->tokenization
 tookenized->tokenized
 tookk->took
+toolbar->toolbar,tool-bar
 toolerance->tolerance
 Toolkien->Tolkien
 toomatooes->tomatoes
@@ -41896,6 +41902,7 @@ transmissiblae->transmissible
 transmissiblee->transmissible
 transmissiblle->transmissible
 transmissibte->transmissible
+transmited->transmitted
 transmiting->transmitting
 transmitling->transmitting
 transmittingg->transmitting
@@ -44053,6 +44060,7 @@ visualizeed->visualized
 visualizzed->visualized
 visuallized->visualized
 visualysed->visualized
+visualy->visually
 visuatized->visualized
 visuualized->visualized
 vitification->vilification
