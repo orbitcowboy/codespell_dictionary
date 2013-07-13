@@ -32143,6 +32143,7 @@ preferrinng->preferring
 prefferably->preferably
 prefferred->preferred
 prefferring->preferring
+preform->perform
 pregancies->pregnancies
 preggnancies->pregnancies
 pregnaancies->pregnancies
@@ -44315,6 +44316,7 @@ want too->want to
 wantts->wants
 wantt tto->want to
 wantt->want
+wan->want
 warantee->warranty
 warant->warrant
 waranty->warranty
