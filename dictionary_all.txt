@@ -6960,6 +6960,7 @@ cannotations->connotations
 cannoth->cannot
 cannott->cannot
 cann't->can't
+canocalized->canonicalized
 canonicalise->canonicalize
 canonicalizae->canonicalize
 canonicalizee->canonicalize
@@ -23471,7 +23472,6 @@ ith->it
 it it->it
 it kan still->it can still
 itnroduced->introduced
-its->it is, it's
 it still can->it can still
 itt can sttill->it can still
 ittegal->illegal
