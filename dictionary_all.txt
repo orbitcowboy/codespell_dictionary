@@ -8454,6 +8454,7 @@ coefficientss->coefficients
 coefficientts->coefficients
 coeffiiciients->coefficients
 coeficients->coefficients
+cofee->coffee
 cofigured->configured
 coform->conform
 coggnizant->cognizant
@@ -18982,6 +18983,7 @@ granmar->grammar
 granmatically->grammatically
 grannar->grammar
 grannatically->grammatically
+graphiz->graphviz
 grataeful->grateful
 grataefully->gratefully
 grateeful->grateful
@@ -21686,6 +21688,7 @@ indduce->induce
 inddulge->indulge
 inddustrial->industrial
 inddustry->industry
+indecation->indication
 indeefiniteely->indefinitely
 indeempoteent->indempotent
 indeentation->indentation
@@ -35903,6 +35906,7 @@ riggorous->rigorous
 riggor->rigor
 riggour->rigour
 riggueur->rigueur
+righ->right
 rigooroous->rigorous
 rigoor->rigor
 rigoorus->rigorous
@@ -37745,6 +37749,7 @@ slaughtterhouses->slaughterhouses
 slaugterhouses->slaughterhouses
 slaugtherhouses->slaughterhouses
 slauughterhouuses->slaughterhouses
+sleceted->selected
 slereolypes->stereotypes
 sleroids->steroids
 sligghtly->slightly
@@ -41185,6 +41190,7 @@ tho thhe->to the
 thouch->touch
 thougght->thought
 thoughout->throughout
+though->through
 thought->though
 thougth->thought
 thouught->thought
