@@ -8954,6 +8954,7 @@ committttee->committee
 committtting->committing
 commived->connived
 commmemorated->commemorated
+commmited->committed
 commmmand->command
 commmmandeer->commandeer
 commmmander->commander
@@ -12666,6 +12667,7 @@ demoonstratioon->demonstration
 demorcracy->democracy
 demostration->demonstration
 demotition->demolition
+demp->temp
 demulitplexer->demultiplexer
 demulliplexer->demultiplexer
 demulltipllexer->demultiplexer
@@ -20397,6 +20399,7 @@ hyypocrisyy->hypocrisy
 hyypocrite->hypocrite
 hyypocrites->hypocrites
 icconocclasticc->iconoclastic
+icluded->included
 iconclastic->iconoclastic
 iconnoclastic->iconoclastic
 iconoclaastic->iconoclastic
@@ -41177,6 +41180,7 @@ tho thhe->to the
 thouch->touch
 thougght->thought
 thoughout->throughout
+thought->though
 thougth->thought
 thouught->thought
 thowards->towards
