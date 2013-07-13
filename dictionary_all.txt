@@ -2994,6 +2994,7 @@ alphabeticcally->alphabetically
 alphabetiically->alphabetically
 alphabetikally->alphabetically
 alphabettically->alphabetically
+alphanumberic->alphanumeric
 alphhabetically->alphabetically
 alpphabetically->alphabetically
 alraeady->already
@@ -13345,6 +13346,7 @@ diffeereent->different
 diffeereential->differential
 diffeereentiatee->differentiate
 diffeereentiations->differentiations
+differance->difference
 differencce between->difference between
 differencces->differences
 difference bbetween->difference between
@@ -18075,6 +18077,7 @@ formalllly->formally
 formallyy->formally
 formaly->formally
 formaly->formerly
+formating->formatting
 formatized->formalized
 formatize->formalize
 formatty->formally
@@ -27829,6 +27832,7 @@ neeceessary->necessary
 neeceessitatee->necessitate
 neeceessitiees->necessities
 needd->need
+needeed->needed
 neeed->need
 neeeed->need
 neegativee->negative
@@ -40933,6 +40937,7 @@ thaking->taking
 thalked->talked
 thalking->talking
 thann->than
+thans->thanks
 thargethed->targeted
 thargething->targeting
 thask->task
@@ -41642,6 +41647,7 @@ towarrd->toward
 townn->town
 towords->towards
 towrad->toward
+tow->two
 towwards->towards
 towward->toward
 towwn->town
