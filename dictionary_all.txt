@@ -19512,6 +19512,7 @@ Hattoween->Halloween
 havae->have
 havee->have
 haveing->having
+havent->haven't
 have they been->they have been
 hav->have
 haviest->heaviest
@@ -37002,6 +37003,7 @@ sepparatist->separatist
 sepparator->separator
 seppulcher->sepulcher
 seppulchre->sepulchre
+seprated->separated
 sepulccher->sepulcher
 sepulcchre->sepulchre
 sepulcherr->sepulcher
