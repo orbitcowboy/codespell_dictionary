@@ -15532,7 +15532,6 @@ encoddingg->encoding
 encoddinggs->encodings
 encoddings->encodings
 encoddingss->encodings
-encodings->encodings
 encoodding->encoding
 encooddings->encodings
 encoouraging->encouraging
