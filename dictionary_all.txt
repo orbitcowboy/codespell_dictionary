@@ -3555,6 +3555,7 @@ anyhwere->anywhere
 anylhing->anything
 any ohter->any other
 any olher->any other
+any one->anyone
 any oother->any other
 any oter->any other
 any othaer->any other
@@ -5970,6 +5971,7 @@ bessiege->besiege
 bessieged->besieged
 bessieging->besieging
 besstiality->bestiality
+bestarted->be started
 besthialithy->bestiality
 bestiaality->bestiality
 bestiaelity->bestiality
@@ -8701,6 +8703,7 @@ comemorating->commemorating
 comemoration->commemoration
 comemorative->commemorative
 comemoretion->commemoration
+coment->comment
 comercial->commercial
 comercially->commercially
 comffortable->comfortable
@@ -14659,6 +14662,7 @@ eartiest->earliest
 earty->early
 easierr->easier
 easiier->easier
+easilly->easily
 eassier->easier
 easthetic->aesthetic
 easthetical->aesthetical
@@ -20355,6 +20359,7 @@ hygienne->hygiene
 hygiiene->hygiene
 Hypaer Thraeading->Hyper Threading
 Hypeer Threeading->Hyper Threading
+hyper link->hyperlink
 Hyperr Thrreading->Hyper Threading
 Hyper Thhreading->Hyper Threading
 Hyper Thraeding->Hyper Threading
@@ -20412,6 +20417,7 @@ Hyyper Threading->Hyper Threading
 hyypocrisyy->hypocrisy
 hyypocrite->hypocrite
 hyypocrites->hypocrites
+iam->i am
 icconocclasticc->iconoclastic
 icluded->included
 iconclastic->iconoclastic
@@ -26583,6 +26589,7 @@ Miraendae->Miranda
 Mirandda->Miranda
 Mirannda->Miranda
 mircocontroller->microcontroller
+Mircosoft->Microsoft
 mirgate->migrate
 mirored->mirrored
 mirorred->mirrored
@@ -28039,6 +28046,7 @@ neverthless->nevertheless
 neverttheless->nevertheless
 nevrtheless->nevertheless
 nevvertheless->nevertheless
+newbee->newbie
 Newffoundland->Newfoundland
 Newfooundland->Newfoundland
 Newfounddlandd->Newfoundland
@@ -38073,6 +38081,7 @@ soupp->soup
 sourcae->source
 sourcce->source
 sourcee->source
+soure->source
 sourke->source
 sourrce->source
 sourthern->southern
@@ -41364,6 +41373,7 @@ timesstamp->timestamp
 timestaamp->timestamp
 timestaemp->timestamp
 timestampp->timestamp
+time stamps->timestamps
 timetamp->timestamp
 timetsamp->timestamp
 timingg->timing
