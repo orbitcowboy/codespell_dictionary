@@ -3199,6 +3199,7 @@ amounnt->amount
 amounth->amount
 amountt->amount
 amouunt->amount
+ampercent->ampersand
 Amtel->Atmel
 amung->among
 amunition->ammunition
@@ -32067,6 +32068,7 @@ predecessro->predecessor
 predecessros->predecessors
 predecessssor->predecessor
 predecessssorss->predecessors
+predefined->pre defined
 predekessor->predecessor
 predekessors->predecessors
 predicatble->predictable
@@ -43640,6 +43642,7 @@ varaible->variable
 varations->variations
 variabbles->variables
 variabble->variable
+variabes->variables
 variablaes->variables
 variablae->variable
 variabla->variable
