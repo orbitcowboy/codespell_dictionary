@@ -12739,6 +12739,7 @@ depencies->dependencies
 dependance->dependence
 dependancy->dependency
 dependant->dependent
+dependcies->dependencies
 dependencce->dependence
 dependenccies->dependencies
 dependenccy->dependency
