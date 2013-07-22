@@ -24810,6 +24810,7 @@ linguitsics->linguistics
 linguuistic->linguistic
 linguuistics->linguistics
 linke->link
+linkes->links
 linmaean->linnaean
 linnaaeaan->linnaean
 linnaaean->linnaean
@@ -40919,6 +40920,7 @@ tevitated->levitated
 tevitate->levitate
 tevitates->levitates
 tevitating->levitating
+texbox->text box
 tey're->they're
 tey->they
 tghe->the
