@@ -25704,6 +25704,7 @@ manouver->manoeuvre
 manouvers->maneuvers
 manouvers->manoeuvres
 mantained->maintained
+mantaining->maintaining
 manuever->maneuver
 manuever->manoeuvre
 manuevers->maneuvers
@@ -36724,6 +36725,7 @@ screenwrither->screenwriter
 screenwritter->screenwriter
 screenwwriter->screenwriter
 screnwriter->screenwriter
+screwability->screw ability
 scriipt->script
 scripl->script
 scrippt->script
