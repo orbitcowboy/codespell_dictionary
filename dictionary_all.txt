@@ -19980,6 +19980,7 @@ hilarioous->hilarious
 hilariouss->hilarious
 hilariouus->hilarious
 hilarrious->hilarious
+hilight->highlight
 hillarious->hilarious
 hil singles->hit singles
 himmself->himself
