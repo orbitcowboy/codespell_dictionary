@@ -8407,6 +8407,9 @@ cllearlly->clearly
 cllinicall->clinical
 cllinicalllly->clinically
 clloud->cloud
+clockspeed->clock speed
+clockspeeds->clock speeds
+clok->clock
 clooud->cloud
 cloudd->cloud
 clouud->cloud
