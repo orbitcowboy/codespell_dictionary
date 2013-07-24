@@ -6962,6 +6962,7 @@ cannonnicalize->canonicalize
 cannoot->cannot
 cannotation->connotation
 cannotations->connotations
+can not->cannot
 cannoth->cannot
 cannott->cannot
 cann't->can't
@@ -28735,6 +28736,7 @@ occasionnal->occasional
 occasionned->occasioned
 occasionn->occasion
 occasionns->occasions
+occasion->occasion
 occassionally->occasionally
 occassional->occasional
 occassionaly->occasionally
@@ -28891,6 +28893,7 @@ officcially->officially
 officcial->official
 officcials->officials
 officeers->officers
+officel->official
 officerrs->officers
 officerss->officers
 officiaally->officially
