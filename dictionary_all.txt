@@ -28697,6 +28697,7 @@ obveious->obvious
 obviious->obvious
 obviouss->obvious
 obviouus->obvious
+obvous->obvious
 obvvious->obvious
 ocasionally->occasionally
 ocasional->occasional
