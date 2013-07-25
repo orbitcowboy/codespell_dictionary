@@ -18373,6 +18373,7 @@ functhioning->functioning
 functiion->function
 functiioniing->functioning
 functio->function
+functionalies->functionalities
 functioningg->functioning
 functioon->function
 functiooning->functioning
@@ -26628,6 +26629,7 @@ minnistry->ministry
 minstries->ministries
 minstry->ministry
 minumum->minimum
+minuted->minutes
 Miraandaa->Miranda
 Miraendae->Miranda
 Mirandda->Miranda
@@ -32802,6 +32804,7 @@ prohibitionn->prohibition
 prohibittion->prohibition
 prohiibiitiion->prohibition
 projcedure->procedure
+projetcs->projects
 prokedure->procedure
 prokedures->procedures
 prokeeded->proceeded
