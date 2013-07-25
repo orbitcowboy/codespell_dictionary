@@ -18814,6 +18814,7 @@ glamroous->glamorous
 glight->flight
 gllamorous->glamorous
 gllowed->allowed
+gloabls->globals
 gnaawed->gnawed
 gnaewed->gnawed
 gnawaed->gnawed
