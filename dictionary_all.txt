@@ -5306,6 +5306,7 @@ aviathion->aviation
 aviationn->aviation
 aviatioon->aviation
 aviattion->aviation
+aview->a view
 aviiatiion->aviation
 avilable->available
 a vngeance->a vengeance
@@ -34521,6 +34522,7 @@ reeheearsal->rehearsal
 reeigning->reigning
 reeincarnation->reincarnation
 reeinforceed->reinforced
+reelase->release
 reelation->relation
 reelationship->relationship
 reelations->relations
