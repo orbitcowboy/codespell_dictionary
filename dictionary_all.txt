@@ -729,7 +729,6 @@ accidentallyy->accidentally
 accidentaly->accidentally
 accidentatty->accidentally
 accidenthally->accidentally
-accidently->accidentally
 accidenttally->accidentally
 acciidentally->accidentally
 accknowledged->acknowledged
@@ -1646,7 +1645,6 @@ advesary->adversary
 adviced->advised
 adviised->advised
 advisaed->advised
-advise->advice
 adviseed->advised
 advissed->advised
 advnturous->adventurous
@@ -19769,6 +19767,7 @@ hesithanth->hesitant
 hesittantt->hesitant
 hessitant->hesitant
 hestant->hesitant
+hestitate->hesitate
 heteorgeneous->heterogeneous
 heterogeneouss->heterogeneous
 heterogeneouus->heterogeneous
@@ -42543,6 +42542,7 @@ Ubunut->Ubuntu
 Ubuuntuu->Ubuntu
 Uckrainian->Ukrainian
 Ucrainian->Ukrainian
+udenfined->undefined
 uesful->useful
 uesr->user
 uggliness->ugliness
