@@ -6758,6 +6758,9 @@ Calalina->Catalina
 calander->calendar
 calander->calender
 calander->colander
+calback->callback
+calbak->callback
+calbaks->callbacks
 calbibration->calibration
 calcalation->calculation
 calclulation->calculation
@@ -6843,6 +6846,8 @@ caliiber->caliber
 caliibratiion->calibration
 Caliline->Catiline
 caling->calling
+callbak->callback
+callbaks->callbacks
 callcullate->calculate
 callcullated->calculated
 callcullation->calculation
@@ -19038,6 +19043,7 @@ gratuitious->gratuitous
 gratuitoous->gratuitous
 gratuitouss->gratuitous
 gratuuitouus->gratuitous
+gray-scale->grayscale
 greaater->greater
 greaater thaan->greater than
 greaat->great
