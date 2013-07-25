@@ -14734,6 +14734,7 @@ ectectic->eclectic
 ect->etc
 ectipse->eclipse
 ectsasy->ecstasy
+editior->editor
 editr->editor
 eeach->each
 eearlieer->earlier
@@ -22893,6 +22894,7 @@ intaerrupts->interrupts
 intaervaenae->intervene
 intaervaenaes->intervenes
 intaervals->intervals
+intall->install
 intantion->instantiation
 intead->instead
 inteegeer->integer
