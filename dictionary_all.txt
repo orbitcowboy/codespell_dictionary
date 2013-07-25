@@ -8241,6 +8241,7 @@ chitdbirth->childbirth
 chitdren->children
 chitd's->child's
 chnage->change
+chnaged->changed
 chnaging->changing
 choosed->chose
 choosed->chosen
@@ -13288,6 +13289,7 @@ diagrammathic->diagrammatic
 diagrammaticc->diagrammatic
 diagrammatik->diagrammatic
 diagrammattic->diagrammatic
+diagramm->diagram
 diagrammmmatic->diagrammatic
 diagramnatic->diagrammatic
 diagranmatic->diagrammatic
@@ -28866,6 +28868,7 @@ oeuuvre->oeuvre
 oeuvere->oeuvre
 oeuvrre->oeuvre
 oeuvvre->oeuvre
+ofcourse->of course
 ofered->offered
 oferings->offerings
 offaeraed->offered
@@ -34021,6 +34024,7 @@ reacing->reaching
 reacll->recall
 readdmission->readmission
 readibility->readability
+Read me->Readme
 readmiissiion->readmission
 readmision->readmission
 readmissionn->readmission
@@ -40350,6 +40354,7 @@ swwear->swear
 swwept->swept
 swwimming->swimming
 syas->says
+syetem->system
 syle->style
 symetrically->symmetrically
 symetrical->symmetrical
@@ -41465,6 +41470,7 @@ todayy's->today's
 todayy->today
 todday's->today's
 todday->today
+todolist->todo list
 todya->today
 togaethaer->together
 togeetheer->together
@@ -42608,6 +42614,7 @@ unbelievvable->unbelievable
 unbeliievable->unbelievable
 unbellievablle->unbelievable
 unbetievabte->unbelievable
+unbvelievable->unbelievable
 uncaertainty->uncertainty
 unccertainty->uncertainty
 uncchallengeable->unchallengeable
