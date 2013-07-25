@@ -6567,6 +6567,7 @@ bussiness->business
 bussinessss->business
 bussinessssess->businesses
 bussinessssman->businessman
+buton->button
 Buuddha->Buddha
 Buuddhist->Buddhist
 buuild->build
@@ -23692,6 +23693,7 @@ juristictions->jurisdictions
 jurrisdiction->jurisdiction
 jurrisdictions->jurisdictions
 jusit->just
+jus->just
 jusl->just
 jusst->just
 justh->just
@@ -25429,6 +25431,7 @@ maintainance->maintenance
 maintainedd->maintained
 maintaineed->maintained
 maintainence->maintenance
+maintainign->maintaining
 maintainingg->maintaining
 maintance->maintenance
 mainteenancee->maintenance
@@ -26151,6 +26154,7 @@ memort->memory
 memoryy->memory
 memroable->memorable
 memroy->memory
+memssaga->message
 menally->mentally
 menlally->mentally
 menlioned->mentioned
@@ -35569,6 +35573,7 @@ respectivly->respectively
 respectivvely->respectively
 respecttively->respectively
 respektively->respectively
+respoding->responding
 responce->response
 responibilities->responsibilities
 responisble->responsible
@@ -42165,6 +42170,7 @@ truuly->truly
 truunk->trunk
 truust->trust
 truustworthiness->trustworthiness
+trys->tries
 tryy->try
 tsability->stability
 tsable->stable
@@ -44519,6 +44525,7 @@ whal->what
 whants->wants
 whant->want
 whaqt->what
+whare->where
 whath->what
 whatt->what
 whcih->which
