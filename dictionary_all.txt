@@ -39112,6 +39112,7 @@ straetegicaelly->strategically
 straetegic->strategic
 straetegies->strategies
 straetegy->strategy
+straight forward->straightforward
 strandd->strand
 strangae->strange
 strangee->strange
