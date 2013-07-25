@@ -3793,6 +3793,7 @@ appreciale->appreciate
 appreciathe->appreciate
 appreciatte->appreciate
 appreciiate->appreciate
+apprecitaes->appreciates
 appreeciatee->appreciate
 appreeheensivee->apprehensive
 apprehennsive->apprehensive
@@ -5151,6 +5152,7 @@ autoincrrement->autoincrement
 autoinkrement->autoincrement
 autoinncremennt->autoincrement
 autokhthonous->autochthonous
+autologin->auto login
 automataed->automated
 automatedd->automated
 automateed->automated
@@ -12755,6 +12757,7 @@ departtmentt->department
 departtmentts->departments
 depencies->dependencies
 dependance->dependence
+dependancies->dependencies
 dependancy->dependency
 dependant->dependent
 dependcies->dependencies
@@ -16176,6 +16179,7 @@ especiallyy->especially
 especialy->especially
 especiatty->especially
 especiially->especially
+espeically->especially
 espekially->especially
 esppecially->especially
 essencce->essence
@@ -17526,6 +17530,7 @@ fedreally->federally
 feeasiblee->feasible
 feebruary->february
 Feebruary->February
+feedack->feedback
 feedeerally->federally
 feeeel->feel
 feeeels->feels
@@ -17805,6 +17810,7 @@ firts->first
 firts->flirts
 firware->firmware
 fisionable->fissionable
+fisrt->first
 fissionaable->fissionable
 fissionabble->fissionable
 fissionablae->fissionable
@@ -20100,6 +20106,7 @@ hoisteed->hoisted
 hoisthed->hoisted
 hoistted->hoisted
 hoitsed->hoisted
+hole report->whole report
 holidaay->holiday
 holidaey->holiday
 holidayy->holiday
@@ -22173,6 +22180,7 @@ infringemment->infringement
 infringgement->infringement
 infringuement->infringement
 infromation->information
+infront->in front
 infrrastrructurre->infrastructure
 infrringement->infringement
 inftamed->inflamed
@@ -27041,6 +27049,7 @@ modees->modes
 modeled->modelled
 modelllled->modelled
 modell->model
+modell's->models
 moderm->modem
 modess->modes
 modet->model
@@ -32083,6 +32092,7 @@ precisety->precisely
 precisly->precisely
 precissely->precisely
 precisse->precise
+pre conditions->preconditions
 precurser->precursor
 precursoor->precursor
 precursro->precursor
@@ -35569,6 +35579,7 @@ reslrainl->restraint
 reslricled->restricted
 reson->reason
 resoources->resources
+resouce->resource
 resourcces->resources
 resourkes->resources
 resouurces->resources
@@ -37080,6 +37091,7 @@ seputcher->sepulcher
 seputchre->sepulchre
 sepuulcher->sepulcher
 sepuulchre->sepulchre
+sequnce->sequence
 sergaent->sergeant
 sergeaant->sergeant
 sergeaent->sergeant
@@ -37968,6 +37980,7 @@ sollilloquy->soliloquy
 sollitary->solitary
 sollublle->soluble
 sollving->solving
+soltion->solution
 soluable->soluble
 solubble->soluble
 solublae->soluble
@@ -39359,6 +39372,7 @@ stuudying->studying
 stuudy->study
 stylae->style
 stylee->style
+style sheet->stylesheet
 stylle->style
 styllus->stylus
 styluus->stylus
@@ -41218,6 +41232,7 @@ thna->than
 thne->then
 thnigs->things
 thnig->thing
+thnks->thanks
 thn->then
 tho allocathe->to allocate
 thobacco->tobacco
@@ -44520,6 +44535,7 @@ weild->wield
 weild->wild
 weirdd->weird
 weirrd->weird
+wellknown->well known
 wellll->well
 wel->well
 wendesday->wednesday
