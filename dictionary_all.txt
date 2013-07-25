@@ -3379,6 +3379,7 @@ annomaly->anomaly
 annonnymity->anonymity
 annoounced->announced
 annoouncement->announcement
+annote->annotate
 annother->another
 annouced->announced
 annoucement->announcement
@@ -11383,6 +11384,7 @@ craeataed->created
 craedaencae->credence
 craeted->created
 creaated->created
+creaed->created
 creaeted->created
 crealed->created
 createc->created
@@ -39170,6 +39172,7 @@ striictest->strictest
 striikiingly->strikingly
 striingent->stringent
 strikely->strikingly
+strike-through->strikethrough
 strikinggly->strikingly
 strikinglly->strikingly
 strikinglyy->strikingly
