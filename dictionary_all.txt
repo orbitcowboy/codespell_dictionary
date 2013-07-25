@@ -24233,6 +24233,7 @@ labelledd->labelled
 labetted->labelled
 labled->labeled
 labled->labelled
+lable->label
 labooratoory->laboratory
 laboralory->laboratory
 laborathory->laboratory
@@ -26205,6 +26206,7 @@ messaggingg->messaging
 messagiing->messaging
 messagin->messaging
 messaginng->messaging
+messag->message
 messanger->messenger
 messengerr->messenger
 messengger->messenger
@@ -30367,6 +30369,7 @@ performss->performs
 perfromance->performance
 perfromed->performed
 perfromers->performers
+perfrom->perform
 perfroms->performs
 perhaaps->perhaps
 perhaeps->perhaps
@@ -31299,6 +31302,7 @@ popullarity->popularity
 popullar->popular
 popullation->population
 popullations->populations
+popup->pop up
 poputarity->popularity
 poputar->popular
 poputation->population
@@ -33495,6 +33499,7 @@ Puertto Rican->Puerto Rican
 Puertto Ricans->Puerto Ricans
 Pukkini->Puccini
 pulisher->publisher
+pull dow->pull down
 pulting->putting
 pumkin->pumpkin
 pummpkin->pumpkin
@@ -38950,6 +38955,7 @@ stationn->station
 statioon->station
 statment->statement
 staughterhouses->slaughterhouses
+stauts->status
 stayaed->stayed
 stayd->stayed
 stayedd->stayed
@@ -39020,6 +39026,7 @@ sthylus->stylus
 stightty->slightly
 stiirriing->stirring
 stiirs->stirs
+stile->style
 stil->still
 stilus->stylus
 stingent->stringent
@@ -42495,6 +42502,7 @@ Ubuuntuu->Ubuntu
 Uckrainian->Ukrainian
 Ucrainian->Ukrainian
 uesful->useful
+uesr->user
 uggliness->ugliness
 ugliiness->ugliness
 uglinaess->ugliness
