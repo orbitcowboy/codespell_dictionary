@@ -11401,6 +11401,7 @@ credennce->credence
 creeateed->created
 creedeencee->credence
 creedence->credence
+creepin->creeping
 criiteriia->criteria
 criiteriion->criterion
 criitiical->critical
@@ -18296,6 +18297,7 @@ fromm->from
 froniter->frontier
 fronlier->frontier
 fronntier->frontier
+frontend->front end
 fronthier->frontier
 frontiaer->frontier
 frontieer->frontier
@@ -35784,6 +35786,8 @@ retalitated->retaliated
 retalitation->retaliation
 retalliated->retaliated
 retalliation->retaliation
+retargettable->retargetable
+retargetted->retargeted
 retatiated->retaliated
 retatiation->retaliation
 retation->relation
@@ -38410,6 +38414,7 @@ spirituall->spiritual
 spirituat->spiritual
 spirituual->spiritual
 spirritual->spiritual
+spiting->spitting
 splaendour->splendour
 spleendour->splendour
 splenddour->splendour
