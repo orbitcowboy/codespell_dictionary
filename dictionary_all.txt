@@ -4451,6 +4451,7 @@ asociation->association
 asorbed->absorbed
 aspaects->aspects
 aspeccts->aspects
+a specify->a specific
 aspecls->aspects
 aspecst->aspects
 aspecths->aspects
@@ -5441,6 +5442,7 @@ baettleship->battleship
 baetwaeaen->between
 baeud raete->baud rate
 baeutiful->beautiful
+baically->basically
 bak->back
 bakc->back
 bakground->background
@@ -24793,6 +24795,7 @@ likelihod->likelihood
 likelihoodd->likelihood
 likelihooood->likelihood
 likelyhood->likelihood
+like may parts->like many parts
 likenke->licence
 likensed->licensed
 likense->license
@@ -29087,6 +29090,7 @@ onee nicee->one nice
 one nicce->one nice
 one niice->one nice
 one nike->one nice
+one think i->one thing i
 onlly->only
 onlyy->only
 onne nnice->one nice
@@ -43733,6 +43737,7 @@ variationns->variations
 variationss->variations
 variatioons->variations
 variattions->variations
+varibles->variables
 varible->variable
 varieetiees->varieties
 varieety->variety
