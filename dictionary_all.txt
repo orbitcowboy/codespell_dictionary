@@ -17784,6 +17784,7 @@ finanlize->finalize
 finatize->finalize
 finatty->finally
 findd->find
+find our more->find out more
 finile->finite
 finitae->finite
 finitee->finite
