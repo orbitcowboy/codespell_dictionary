@@ -6961,6 +6961,7 @@ can'l->can't
 canmot->cannot
 canndidate->candidate
 canndidates->candidates
+Cannical->Canonical
 cannister->canister
 cannisters->canisters
 cannnnot->cannot
@@ -12580,6 +12581,7 @@ dekomposing->decomposing
 dekrees->decrees
 dekrementor->decrementor
 dekrypt->decrypt
+dektop->desktop
 delached->detached
 delagates->delegates
 delailed->detailed
@@ -41606,6 +41608,7 @@ tomorroww->tomorrow
 tomorrrrow->tomorrow
 tomrorow->tomorrow
 to much time->too much time
+to much->too much
 tonetiness->loneliness
 tonety->lonely
 tonger->longer
