@@ -37129,6 +37129,7 @@ seputcher->sepulcher
 seputchre->sepulchre
 sepuulcher->sepulcher
 sepuulchre->sepulchre
+seqeunce->sequence
 sequnce->sequence
 sequnece->sequence
 sergaent->sergeant
