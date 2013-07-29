@@ -21604,6 +21604,7 @@ incompleetee->incomplete
 incomplele->incomplete
 incomplethe->incomplete
 incomplette->incomplete
+incompliant->noncompliant
 incompllete->incomplete
 incomppatibilities->incompatibilities
 incomppatibility->incompatibility
