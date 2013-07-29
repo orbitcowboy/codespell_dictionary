@@ -4564,6 +4564,7 @@ assiigns->assigns
 assiistant->assistant
 assiist->assist
 a ssimple->a simple
+assing->assign
 assisitant->assistant
 assisit->assist
 assislanl->assistant
@@ -13974,6 +13975,7 @@ diskovers->discovers
 diskovery->discovery
 diskuss->discuss
 diskussed->discussed
+dislay->display
 dislinclion->distinction
 dislinclive->distinctive
 dislinguish->distinguish
@@ -24418,6 +24420,7 @@ lavatoryy->lavatory
 lavatroy->lavatory
 lavattory->lavatory
 laveatory->lavatory
+Laview->LabView
 lavvatory->lavatory
 laxonomic->taxonomic
 laxonomy->taxonomy
@@ -29230,6 +29233,7 @@ openty->openly
 operaator->operator
 operaetor->operator
 operalor->operator
+operaotor->operator
 operathor->operator
 operatro->operator
 operattor->operator
@@ -29996,6 +30000,7 @@ parliiament->parliament
 parliment->parliament
 parlliamentarian->parliamentarian
 parlliament->parliament
+paroject->project
 parrade->parade
 parrakeets->parakeets
 parralel->parallel
@@ -32570,6 +32575,7 @@ privvate->private
 privvileged->privileged
 privvilege->privilege
 privvileges->privileges
+prjec->project
 prliminary->preliminary
 probaabilistic->probabilistic
 probaability->probability
@@ -39856,6 +39862,7 @@ suffrrage->suffrage
 suficiently->sufficiently
 suficient->sufficient
 sufrage->suffrage
+suggestiong->suggesting
 suiccidal->suicidal
 suiccide->suicide
 suicidaal->suicidal
@@ -42464,6 +42471,7 @@ Tuucson->Tucson
 tuuesday->tuesday
 tuurnkey->turnkey
 twaelfth->twelfth
+tweek->tweak
 tweelfth->twelfth
 twelffth->twelfth
 twelfht->twelfth
@@ -43949,6 +43957,7 @@ verifiy->verify
 verifyy->verify
 veriifiicatiion->verification
 veriify->verify
+verion->version
 verisons->versions
 verison->version
 verlices->vertices
