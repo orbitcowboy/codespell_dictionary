@@ -1301,6 +1301,7 @@ additionallyy->additionally
 additionaly->additionally
 additionat->additional
 additionatty->additionally
+additionional->additional
 additionn->addition
 additionnal->additional
 additionnally->additionally
@@ -3146,6 +3147,7 @@ ammateur->amateur
 ammeliorate->ameliorate
 ammend->amend
 ammended->amended
+ammended->amended 
 ammendment->amendment
 ammendments->amendments
 ammendmment->amendment
@@ -11133,6 +11135,7 @@ correesponding->corresponding
 correesponds->corresponds
 correponding->corresponding
 correposding->corresponding
+correspomding->corresponding
 correspondant->correspondent
 correspondants->correspondents
 correspondd->correspond
@@ -12877,6 +12880,7 @@ descendents->descendants
 descenndannt->descendant
 descenndannts->descendants
 descibed->described
+descibing->describing 
 desciptor->descriptor
 descision->decision
 descisions->decisions
@@ -41270,6 +41274,7 @@ thinnks->thinks
 thinnk->think
 thirdd->third
 thirrd->third
+thisis->this is
 thiss->this
 thiunk->think
 thna->than
@@ -42247,6 +42252,7 @@ truunk->trunk
 truust->trust
 truustworthiness->trustworthiness
 tryd->tried
+tryed->tried
 trys->tries
 tryy->try
 tsability->stability
@@ -44608,6 +44614,7 @@ whants->wants
 whant->want
 whaqt->what
 whare->where
+whar->what
 whath->what
 whatt->what
 whcih->which
