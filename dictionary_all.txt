@@ -16406,6 +16406,7 @@ everyhting->everything
 everylhing->everything
 every lime->every time
 everythhing->everything
+everythign->everything
 everythiing->everything
 every thime->every time
 everythingg->everything
@@ -17865,6 +17866,7 @@ fledd->fled
 fleed->fled
 fleed->freed
 Fleemish->Flemish
+fle->file
 Flemiish->Flemish
 Flemishh->Flemish
 Flemissh->Flemish
@@ -33772,6 +33774,7 @@ quuantity->quantity
 quuarantine->quarantine
 Quueensland->Queensland
 quuestionable->questionable
+quueue->queue
 quuickly->quickly
 quuick->quick
 quuiet->quiet
@@ -38325,6 +38328,7 @@ speciffic->specific
 speciffied->specified
 speciffying->specifying
 speciffy->specify
+specifiaclly->specifically
 specifiedd->specified
 specifiying->specifying
 specif->specific
