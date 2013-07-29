@@ -11024,6 +11024,7 @@ cooy->coy
 coperation->cooperation
 copiler->compiler
 copmetitors->competitors
+coponents->components
 coppyright->copyright
 Coppyright->Copyright
 Copright->Copyright
@@ -12808,6 +12809,7 @@ depreccated->deprecated
 deprekated->deprecated
 depricated->deprecated
 deprrecated->deprecated
+dequence->sequence
 deram->dram
 deram->dream
 derectory->directory
