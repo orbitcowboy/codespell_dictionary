@@ -9626,6 +9626,7 @@ configurae->configure
 configuraetion->configuration
 configuraiton->configuration
 configuralion->configuration
+configurartion->configuration
 configurathion->configuration
 configurattion->configuration
 configureable->configurable
