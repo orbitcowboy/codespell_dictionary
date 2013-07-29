@@ -10090,6 +10090,7 @@ consistant->consistent
 consistantly->consistently
 consisteent->consistent
 consisteently->consistently
+consistenly->consistently
 consistentlly->consistently
 consistentlyy->consistently
 consistentty->consistently
@@ -19029,6 +19030,7 @@ granmatically->grammatically
 grannar->grammar
 grannatically->grammatically
 graphiz->graphviz
+GraphVis->GraphViz
 grataeful->grateful
 grataefully->gratefully
 grateeful->grateful
@@ -45024,6 +45026,7 @@ wwrite->write
 wwriting->writing
 wwritten->written
 wwrote->wrote
+wysiwig->wysiwyg
 xaenophobia->xenophobia
 xeenophobia->xenophobia
 xennophobia->xenophobia
