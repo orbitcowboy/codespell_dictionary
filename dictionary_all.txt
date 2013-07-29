@@ -16068,6 +16068,7 @@ equatoriial->equatorial
 equatorrial->equatorial
 equatroial->equatorial
 equattorial->equatorial
+equence->sequence
 equialent->equivalent
 equiiliibriium->equilibrium
 equiipment->equipment
@@ -24802,6 +24803,7 @@ liiquefy->liquefy
 liisteners->listeners
 liiterally->literally
 liiterature->literature
+liitle->little
 liittle->little
 liived->lived
 liively->lively
