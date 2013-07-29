@@ -2868,6 +2868,7 @@ allilude->attitude
 Allimeler->Altimeter
 allitude->attitude
 alliviate->alleviate
+alll->all
 all-lime->all-time
 allllege->allege
 alllleged->alleged
@@ -5628,6 +5629,7 @@ bbusinessman->businessman
 bcak->back
 beaachheaad->beachhead
 beaautiful->beautiful
+beable->be able
 beacchhead->beachhead
 beachead->beachhead
 beachheadd->beachhead
@@ -15824,6 +15826,7 @@ enourmous->enormous
 enourmously->enormously
 enromous->enormous
 enromously->enormously
+enrty->entry
 enscconcced->ensconced
 ensconcedd->ensconced
 ensconsed->ensconced
@@ -18840,6 +18843,7 @@ glamorouus->glamorous
 glamorrous->glamorous
 glamourous->glamorous
 glamroous->glamorous
+gleamed->gelaned
 glight->flight
 gllamorous->glamorous
 gllowed->allowed
@@ -24204,6 +24208,7 @@ kouturier->couturier
 kovenant->covenant
 kovered->covered
 koveted->coveted
+kown->known
 koy->coy
 kreated->created
 kredenke->credence
@@ -37121,6 +37126,7 @@ seputchre->sepulchre
 sepuulcher->sepulcher
 sepuulchre->sepulchre
 sequnce->sequence
+sequnece->sequence
 sergaent->sergeant
 sergeaant->sergeant
 sergeaent->sergeant
@@ -39552,6 +39558,7 @@ subscriibe->subscribe
 subscrribe->subscribe
 subseequeently->subsequently
 subseequeent->subsequent
+subseqence->subsequence
 subseqquently->subsequently
 subseqquent->subsequent
 subsequenlly->subsequently
@@ -42234,6 +42241,7 @@ truuly->truly
 truunk->trunk
 truust->trust
 truustworthiness->trustworthiness
+tryd->tried
 trys->tries
 tryy->try
 tsability->stability
