@@ -5440,6 +5440,7 @@ baettleship->battleship
 baetwaeaen->between
 baeud raete->baud rate
 baeutiful->beautiful
+bahviour->behaviour
 baically->basically
 bak->back
 bakc->back
@@ -35580,6 +35581,7 @@ resitricted->restricted
 resitsance->resistance
 resitsant->resistant
 resitsible->resistible
+re-size->resize
 reslarled->restarted
 reslauraleur->restaurateur
 reslauraleurs->restaurateurs
