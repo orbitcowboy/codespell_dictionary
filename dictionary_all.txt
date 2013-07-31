@@ -8693,6 +8693,7 @@ comback->comeback
 combanations->combinations
 combbinations->combinations
 combbustion->combustion
+combersome->cumbersome
 combiinatiions->combinations
 combinaations->combinations
 combinaetions->combinations
@@ -32818,6 +32819,7 @@ prograessaed->progressed
 programable->programmable
 programatically->programmatically
 programaticaly->programmatically
+programers->programmers
 programmabble->programmable
 programmablae->programmable
 programmablee->programmable
@@ -37097,6 +37099,7 @@ separattion->separation
 separattism->separatism
 separattistt->separatist
 separattor->separator
+separeted->separate
 separet->separate
 separrated->separated
 separrately->separately
