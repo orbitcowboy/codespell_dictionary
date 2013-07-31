@@ -3934,6 +3934,7 @@ aquueduuct->aqueduct
 aranged->arranged
 arangement->arrangement
 arangements->arrangements
+arays->arrays
 arbbitrarily->arbitrarily
 arbbitrary->arbitrary
 arbiitrariily->arbitrarily
@@ -6061,11 +6062,11 @@ bitateratty->bilaterally
 bitffields->bitfields
 bitfiaelds->bitfields
 bitfieelds->bitfields
-bitfield->bit field
 bitfieldds->bitfields
 bitfieldss->bitfields
 bitfiellds->bitfields
 bitfietds->bitfields
+bitfild->bitfield
 bitfileds->bitfields
 bithfields->bitfields
 bitinguatism->bilingualism
@@ -13947,6 +13948,7 @@ disenchantted->disenchanted
 disenchhanted->disenchanted
 disenkhanted->disenchanted
 disennchannted->disenchanted
+disgard->discard
 disinlegraled->disintegrated
 disinlegralion->disintegration
 disinntegrated->disintegrated
@@ -39423,6 +39425,7 @@ style sheet->stylesheet
 stylle->style
 styllus->stylus
 styluus->stylus
+stytem->system
 styte->style
 stytus->stylus
 styyle->style
@@ -43543,6 +43546,7 @@ up tho->up to
 up too->up to
 upto->up to
 up tto->up to
+ur->our
 usaable->usable
 usaage->usage
 usabble->usable
