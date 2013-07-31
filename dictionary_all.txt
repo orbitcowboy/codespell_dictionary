@@ -10434,6 +10434,7 @@ contemproary->contemporary
 contendder->contender
 contenderr->contender
 contendor->contender
+contentes->contents
 conthacth->contact
 conthains->contains
 conthaminathe->contaminate
@@ -21694,6 +21695,7 @@ incorruptibte->incorruptible
 incorrupttible->incorruptible
 incorruuptible->incorruptible
 incoruptible->incorruptible
+incosistencies->inconsistencies
 incraeasaed->increased
 incraediblae->incredible
 incraemaentally->incrementally
@@ -22668,6 +22670,7 @@ inprisonment->imprisonment
 inproving->improving
 inpul->input
 inputh->input
+inputted->input
 inputt->input
 inpuut->input
 insaectivorous->insectivorous
@@ -44606,6 +44609,7 @@ wendesday->wednesday
 wendsay->Wednesday
 wensday->Wednesday
 wereabouts->whereabouts
+were're->we're
 wether->whether
 wett->well
 whaat->what
