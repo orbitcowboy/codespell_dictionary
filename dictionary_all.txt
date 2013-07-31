@@ -11715,6 +11715,7 @@ cyaan->cyan
 cyaen->cyan
 cyann->cyan
 cyclinder->cylinder
+cycyles->cycles
 cyggwin->cygwin
 cygin->cygwin
 cygwiin->cygwin
