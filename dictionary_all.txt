@@ -42476,6 +42476,7 @@ tuesdayy->tuesday
 tuesdday->tuesday
 tuessday->tuesday
 Tukson->Tucson
+tuorial->tutorial
 turncey->turnkey
 turnckey->turnkey
 turnkaey->turnkey
