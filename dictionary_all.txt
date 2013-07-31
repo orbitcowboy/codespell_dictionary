@@ -41025,6 +41025,7 @@ testicutar->testicular
 testicuular->testicular
 testiicular->testicular
 testikular->testicular
+tests's->test's
 tetephony->telephony
 tetevision->television
 tethat->lethal
@@ -42138,6 +42139,7 @@ triviael->trivial
 triviall->trivial
 triviat->trivial
 trivvial->trivial
+triyed->tried
 troch->torch
 troling->trolling
 trolliing->trolling
@@ -44681,6 +44683,7 @@ whilae->while
 whilee->while
 whille->while
 whith->with
+whit->with
 whlch->which
 whn->when
 wholae->whole
@@ -44921,6 +44924,7 @@ wortdwide->worldwide
 wortd->world
 worte->wrote
 woudl->would
+woud->would
 wouldd have->would have
 wouldd->would
 would haave->would have
