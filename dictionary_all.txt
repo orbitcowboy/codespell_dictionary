@@ -26670,6 +26670,7 @@ Mirandda->Miranda
 Mirannda->Miranda
 mircocontroller->microcontroller
 Mircosoft->Microsoft
+Mircrosoft->Microsoft
 mirgate->migrate
 mirored->mirrored
 mirorred->mirrored
@@ -27068,6 +27069,7 @@ mmyriad->myriad
 mmyself->myself
 mmysterious->mysterious
 mmystery->mystery
+moching->mocking
 modaellaed->modelled
 modael->model
 modaem->modem
@@ -39425,7 +39427,6 @@ style sheet->stylesheet
 stylle->style
 styllus->stylus
 styluus->stylus
-stytem->system
 styte->style
 stytus->stylus
 styyle->style
