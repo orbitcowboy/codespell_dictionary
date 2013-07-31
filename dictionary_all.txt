@@ -21496,6 +21496,8 @@ incarrcerrated->incarcerated
 in casae->in case
 in casee->in case
 incase->in case
+incase of->in case of
+incaseof-> in case of
 in casse->in case
 inccarccerated->incarcerated
 in ccase->in case
@@ -23845,7 +23847,6 @@ keyboardd->keyboard
 keyboarrd->keyboard
 keybooard->keyboard
 keybord->keyboard
-keypress->key press
 keyyboard->keyboard
 khairman->chairman
 khallenge->challenge
@@ -31101,7 +31102,6 @@ pllugins->plugins
 pluggins->plugins
 plugiins->plugins
 pluginns->plugins
-plugin->plug in
 pluginss->plugins
 pluugins->plugins
 poaem->poem
@@ -31365,7 +31365,6 @@ popullarity->popularity
 popullar->popular
 popullation->population
 popullations->populations
-popup->pop up
 poputarity->popularity
 poputar->popular
 poputation->population
@@ -32132,7 +32131,6 @@ precisety->precisely
 precisly->precisely
 precissely->precisely
 precisse->precise
-pre conditions->preconditions
 precurser->precursor
 precursoor->precursor
 precursro->precursor
@@ -32153,7 +32151,6 @@ predecessro->predecessor
 predecessros->predecessors
 predecessssor->predecessor
 predecessssorss->predecessors
-predefined->pre defined
 predekessor->predecessor
 predekessors->predecessors
 predicatble->predictable
@@ -39552,7 +39549,6 @@ submodulees->submodules
 submodulles->submodules
 submodutes->submodules
 submoodules->submodules
-subpath->sub path
 subpecies->subspecies
 subpoaena->subpoena
 subpoeena->subpoena
@@ -41678,7 +41674,6 @@ tooggling->toggling
 tookenizatioon->tokenization
 tookenized->tokenized
 tookk->took
-toolbar->toolbar,tool-bar
 toolerance->tolerance
 Toolkien->Tolkien
 toomatooes->tomatoes
