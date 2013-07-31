@@ -817,6 +817,7 @@ accomodathion->accomodation
 accomodatiion->accomodation
 accomodating->accommodating
 accomodation->accommodation
+accomodation->accomodation
 accomodationn->accomodation
 accomodations->accommodations
 accomodattion->accomodation
@@ -1102,7 +1103,9 @@ acommodated->accommodated
 acommodates->accommodates
 acommodating->accommodating
 acommodation->accommodation
+acommodation->accomodation
 acommodations->accommodations
+acomodate->accommodate
 acomodation->accomodation
 acompanied->accompanied
 acomplish->accomplish
