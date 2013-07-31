@@ -19567,6 +19567,7 @@ harware->hardware
 has has->has
 hasn'l->hasn't
 hasnn't->hasn't
+hasnt->has not
 hasnt->hasn't
 hasnt'->hasn't
 hasn'th->hasn't
@@ -19749,6 +19750,7 @@ hemorrhague->hemorrhage
 hemorrrrhage->hemorrhage
 hemrorhage->hemorrhage
 henn->hen
+hense->hence
 heores->heroes
 heor->hero
 Heraa->Hera
@@ -29244,6 +29246,7 @@ opend->opened
 openedd->opened
 openeing->opening
 openend->opened
+openening->opening
 openess->openness
 openiing->opening
 openingg->opening
@@ -29323,6 +29326,7 @@ oppened->opened
 oppening->opening
 oppenly->openly
 oppenness->openness
+oppen->open
 opperator->operator
 opphthalmic->ophthalmic
 opphthalmologist->ophthalmologist
@@ -32012,6 +32016,7 @@ practicatty->practically
 practicee->practice
 practicioner->practitioner
 practicioners->practitioners
+practicle->practical
 practicly->practically
 practiically->practically
 practiical->practical
@@ -33749,6 +33754,7 @@ quicckly->quickly
 quicck->quick
 quiccly->quickly
 quicc->quick
+quicker->quickly
 quickkly->quickly
 quickk->quick
 quicklly->quickly
@@ -37219,6 +37225,7 @@ settlment->settlement
 setttement->settlement
 setttting->setting
 settttlementt->settlement
+seveal->several
 seveeral->several
 seveerely->severely
 seveerity->severity
