@@ -25086,6 +25086,7 @@ loday's->today's
 loday->today
 loev->love
 logelher->together
+loggging->logging
 loggling->toggling
 Logitude->Longitude
 lohtringen->lothringen
@@ -26089,6 +26090,7 @@ meaniing->meaning
 meaningg->meaning
 meaninng->meaning
 meanninng->meaning
+mean time->meantime
 mear->mare
 mear->mere
 mear->wear
