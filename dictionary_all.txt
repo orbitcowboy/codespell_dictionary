@@ -13296,6 +13296,7 @@ devike->device
 devistating->devastating
 devlop->develop
 devloped->developed
+devloper->developer
 devlopers->developers
 devlopment->development
 devolopement->development
@@ -19490,6 +19491,7 @@ handliing->handling
 handlingg->handling
 handlling->handling
 handting->handling
+hanged->hangs
 hangged->hanged
 hanndlinng->handling
 hapend->happend
@@ -32283,6 +32285,7 @@ preferriing->preferring
 preferringg->preferring
 preferrinng->preferring
 prefferably->preferably
+preffer->prefer
 prefferred->preferred
 prefferring->preferring
 preform->perform
