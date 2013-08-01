@@ -10526,6 +10526,7 @@ contorls->controls
 contorversial->controversial
 contorversies->controversies
 contorversy->controversy
+contraint->constraint
 contravercial->controversial
 contraversy->controversy
 contribbute->contribute
@@ -14292,6 +14293,7 @@ distribuution->distribution
 districcts->districts
 districst->districts
 distrikts->districts
+distritution->distribution
 distrributed->distributed
 distrribution->distribution
 distrricts->districts
@@ -17405,6 +17407,7 @@ facititate->facilitate
 facititates->facilitates
 facitities->facilities
 facl->fact
+facotry->factory
 facth->fact
 factt->fact
 faeael->feel
@@ -18452,6 +18455,7 @@ funndamenntal->fundamental
 funndamenntals->fundamentals
 funngi->fungi
 funtion->function
+funtions->functions
 furhter->further
 furhtermore->furthermore
 furlher->further
@@ -20586,6 +20590,7 @@ ideotogy->ideology
 idesa->ideas
 idesa->ides
 idess->ides
+idicators->indicators
 idioosyncrasy->idiosyncrasy
 idioosyncratic->idiosyncratic
 idiossyncrassy->idiosyncrasy
@@ -24427,6 +24432,7 @@ latitute->latitude
 latituude->latitude
 lattittude->latitude
 lattitude->latitude
+lauch->launch
 laughl->taught
 launcched->launched
 launcches->launches
@@ -26682,6 +26688,7 @@ minnistries->ministries
 minnistry->ministry
 minstries->ministries
 minstry->ministry
+minuite->minute
 minumum->minimum
 minuted->minutes
 Miraandaa->Miranda
@@ -40635,6 +40642,7 @@ systhemathically->systematically
 systhem->system
 systtemattically->systematically
 systtem->system
+sytax->syntax
 sytem->system
 sytle->style
 sytsematically->systematically
@@ -41018,6 +41026,7 @@ terestrial->terrestrial
 tere->there
 teritories->territories
 teritory->territory
+termminals->terminals
 terorist->terrorist
 terorrist->terrorist
 terresitrial->terrestrial
@@ -41162,6 +41171,7 @@ themslves->themselves
 themsselvess->themselves
 thendencies->tendencies
 thendency->tendency
+then end->the end
 thennis player->tennis player
 thenn->then
 thenthacles->tentacles
@@ -44741,6 +44751,7 @@ wholy->holy
 wholy->wholly
 whoole->whole
 whoolly->wholly
+whose->who's
 whote->whole
 whotty->wholly
 whould->would
@@ -44853,6 +44864,7 @@ withh->with
 withing->within
 withinn->within
 withold->withhold
+withouyt->without
 witht->with
 with with->with
 witin->within
