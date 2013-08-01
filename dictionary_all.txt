@@ -39957,6 +39957,7 @@ sungtasses->sunglasses
 sunmary->summary
 sunnary->summary
 sunnglasses->sunglasses
+sunsequent->subsequent
 suop->soup
 supaerfluous->superfluous
 supaerintaendaent->superintendent
@@ -40724,6 +40725,7 @@ talekd->talked
 talkaed->talked
 talkedd->talked
 talkeed->talked
+talke->talk
 talkiing->talking
 talkingg->talking
 talkinng->talking
