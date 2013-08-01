@@ -5343,6 +5343,7 @@ awarrded->awarded
 awayy->away
 awckward->awkward
 awcward->awkward
+awhile->a while
 awkkward->awkward
 awkwardd->awkward
 awkwarrd->awkward
@@ -17014,6 +17015,7 @@ expliccit->explicit
 expliccitly->explicitly
 explicil->explicit
 explicilly->explicitly
+explicite->explicit
 explicitely->explicitly
 explicith->explicit
 explicithly->explicitly
@@ -21231,6 +21233,7 @@ implementt->implement
 implementting->implementing
 impliccitly->implicitly
 implicilly->implicitly
+implicite->implicit
 implicithly->implicitly
 implicitlyy->implicitly
 implicittly->implicitly
@@ -37223,6 +37226,7 @@ servval->serval
 servver not reachable->server not reachable
 servvice->service
 servvile->servile
+sesison->session
 setdom->seldom
 seththing->setting
 seththlementh->settlement
@@ -40480,6 +40484,7 @@ swwear->swear
 swwept->swept
 swwimming->swimming
 syas->says
+sychronously->synchronously
 syetem->system
 syle->style
 symetrically->symmetrically
@@ -40571,6 +40576,7 @@ synchronizattion->synchronization
 synchronizzation->synchronization
 synchroonizatioon->synchronization
 synchrronization->synchronization
+synch->sync
 syncronization->synchronization
 synkhronization->synchronization
 synmetrically->symmetrically
@@ -43612,6 +43618,7 @@ UserID->User ID
 usigned->unsigned
 usiing->using
 usingg->using
+usings->using
 usinng->using
 usin->using
 ussable->usable
@@ -45200,6 +45207,7 @@ yoousef->yousef
 yooutube->youtube
 yoou->you
 yotube->youtube
+youir->your
 youlube->youtube
 yourrself->yourself
 yoursaelf->yourself
