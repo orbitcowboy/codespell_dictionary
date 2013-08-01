@@ -21647,6 +21647,7 @@ inconsislenl->inconsistent
 inconsistaent->inconsistent
 inconsistant->inconsistent
 inconsisteent->inconsistent
+in consistency->inconsistency
 inconsisthenth->inconsistent
 inconsisttentt->inconsistent
 inconsitent->inconsistent
@@ -23589,6 +23590,7 @@ ittumination->illumination
 ittusion->illusion
 it you want->if you want
 iunior->junior
+ive->i have,i've
 iwll->will
 iwth->with
 jaacques->jacques
