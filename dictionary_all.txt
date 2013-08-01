@@ -4732,6 +4732,7 @@ asyncchronous->asynchronous
 asynchhronous->asynchronous
 asynchornous->asynchronous
 asynchronouus->asynchronous
+asynchronus->asynchronous
 asynchroonoous->asynchronous
 asynchrronous->asynchronous
 asyncronous->asynchronous
@@ -8907,6 +8908,7 @@ commericially->commercially
 commerorative->commemorative
 commerrcial->commercial
 commerrcially->commercially
+commets->comments
 commfortable->comfortable
 commig->commit
 commiissiion->commission
@@ -13273,6 +13275,7 @@ developmment->development
 developp->develop
 developped->developed
 developpers->developers
+developping->developing
 developpment->development
 develops->developers
 develpment->development
@@ -14329,6 +14332,7 @@ divergged->diverged
 divergued->diverged
 diverrged->diverged
 diverrse->diverse
+divers->diverse
 diversed->diverged
 diversed->diverse
 diversse->diverse
@@ -16732,6 +16736,7 @@ executte->execute
 executtes->executes
 executting->executing
 executtion->execution
+executuon->execution
 execuuted->executed
 execuute->execute
 execuutes->executes
@@ -18276,6 +18281,7 @@ Fransiscan->Franciscan
 Fransiscans->Franciscans
 fred->freed
 freedd->freed
+freeed->freed
 freeeed->freed
 freequeency->frequency
 freequeently->frequently
@@ -18347,6 +18353,7 @@ frontiier->frontier
 fronttier->frontier
 froom->from
 froontier->frontier
+frosen->frozen
 froties->forties
 froty->forty
 frramebufferr->framebuffer
@@ -19478,6 +19485,7 @@ handliing->handling
 handlingg->handling
 handlling->handling
 handting->handling
+hangged->hanged
 hanndlinng->handling
 hapend->happend
 hapened->happened
@@ -20345,6 +20353,7 @@ humroal->humoral
 humro->humor
 humroous->humorous
 humurous->humorous
+hungs->hangs
 husbaand->husband
 husbaend->husband
 husbandd->husband
@@ -25453,6 +25462,7 @@ magiciann->magician
 magiiciian->magician
 magikian->magician
 magincian->magician
+magnager->manager
 magnifficent->magnificent
 magnificaent->magnificent
 magnificcent->magnificent
@@ -27948,6 +27958,7 @@ neeighbour->neighbour
 neeighbours->neighbours
 neeolithic->neolithic
 neesting->nesting
+neet->neat
 neetwork->network
 neeveertheeleess->nevertheless
 Neewfoundland->Newfoundland
@@ -32641,6 +32652,7 @@ probaly->probably
 probbabbilistic->probabilistic
 probbabbility->probability
 probbabbly->probably
+probbed->probed
 probblem->problem
 probelm->problem
 problaem->problem
@@ -32803,6 +32815,7 @@ profusiion->profusion
 profusionn->profusion
 profussion->profusion
 profuusion->profusion
+progarm->program
 progessed->progressed
 proggrammable->programmable
 proggram->program
@@ -35687,6 +35700,7 @@ responsibte->responsible
 responsiibiiliitiies->responsibilities
 responsiibiiliity->responsibility
 responsiible->responsible
+responsing->responding
 respoonse->response
 respoonses->responses
 respoonsibilities->responsibilities
@@ -36739,6 +36753,7 @@ scenaerios->scenarios
 scenariios->scenarios
 scenarioos->scenarios
 scenarrios->scenarios
+scenearios->scenarios
 scennarios->scenarios
 schaedulae->schedule
 scheddule->schedule
@@ -40459,6 +40474,7 @@ swimmmming->swimming
 swimning->swimming
 swinming->swimming
 swinning->swimming
+swith->switch
 swwears->swears
 swwear->swear
 swwept->swept
@@ -41031,7 +41047,6 @@ terrrrorrist->terrorist
 tese->these
 tesiticular->testicular
 tessticular->testicular
-testcases->test cases
 testiccular->testicular
 testiclular->testicular
 testiculaar->testicular
@@ -44701,6 +44716,7 @@ whikh->which
 whilae->while
 whilee->while
 whille->while
+whithout->without
 whith->with
 whit->with
 whlch->which
