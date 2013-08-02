@@ -11236,6 +11236,7 @@ cotumns->columns
 coucil->council
 coudl->cloud
 coudl->could
+coul'd->could
 couldd->could
 couldd have->could have
 couldd not->could not
@@ -19493,6 +19494,7 @@ halp->help
 hamorrhage->haemorrhage
 handdling->handling
 handeling->handling
+handels->handles
 handliing->handling
 handlingg->handling
 handlling->handling
@@ -23028,6 +23030,7 @@ intelllligence->intelligence
 intelllligent->intelligent
 intenational->international
 intenddedd->intended
+intensional->intentional
 intented->indented
 intented->intended
 intepretation->interpretation
@@ -23536,6 +23539,7 @@ irrrritated->irritated
 isn'l->isn't
 isnn't->isn't
 isn'th->isn't
+isnt->is not
 isnt->isn't
 isnt'->isn't
 isn'tt->isn't
@@ -37869,6 +37873,7 @@ size off->size of
 size oof->size of
 sizingg->sizing
 sizinng->sizing
+siz->size
 sizzed->sized
 sizze of->size of
 sizze->size
@@ -45244,6 +45249,7 @@ yoou->you
 yotube->youtube
 youir->your
 youlube->youtube
+youre->you're
 yourrself->yourself
 yoursaelf->yourself
 yourseelf->yourself
