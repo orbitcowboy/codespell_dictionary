@@ -23079,6 +23079,7 @@ interegnum->interregnum
 interelated->interrelated
 interesiting->interesting
 interesit->interest
+interessted->interested 
 interessting->interesting
 interesst->interest
 interestingg->interesting
@@ -30983,6 +30984,7 @@ pineeapplee->pineapple
 pinnaple->pineapple
 pinneapple->pineapple
 pinoneered->pioneered
+pin pointing->pinpointing
 pionaeaeraed->pioneered
 pioneeeereed->pioneered
 pioneeredd->pioneered
