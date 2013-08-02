@@ -14373,6 +14373,7 @@ doccument->document
 doccumented->documented
 doccuments->documents
 doclrines->doctrines
+docoding->decoding
 docrines->doctrines
 docthrines->doctrines
 doctines->doctrines
@@ -16447,6 +16448,7 @@ every timme->every time
 everyting->everything
 everytthing->everything
 every ttime->every time
+everytyhing->everything
 everyy->every
 everyything->everything
 everyy time->every time
@@ -23279,6 +23281,7 @@ intsruction->instruction
 intsrumental->instrumental
 intsrument->instrument
 intsruments->instruments
+intstall->install
 intteger->integer
 inttegratted->integrated
 inttegrattion->integration
@@ -24731,6 +24734,7 @@ libraaries->libraries
 libraary->library
 libraeries->libraries
 libraery->library
+libraly->library
 librariaes->libraries
 librariees->libraries
 librariess->libraries
