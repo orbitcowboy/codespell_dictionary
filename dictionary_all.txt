@@ -6583,6 +6583,7 @@ bussinessss->business
 bussinessssess->businesses
 bussinessssman->businessman
 buton->button
+buttton->button
 Buuddha->Buddha
 Buuddhist->Buddhist
 buuild->build
@@ -8127,6 +8128,7 @@ chasr->chase
 chasr->chaser
 chasser->chaser
 chatch->catch
+chatper->chapter
 chattenge->challenge
 chattenged->challenged
 chattenging->challenging
@@ -9642,6 +9644,7 @@ configuralion->configuration
 configurartion->configuration
 configurathion->configuration
 configurattion->configuration
+configur->configure
 configureable->configurable
 configuree->configure
 configurrable->configurable
@@ -10642,6 +10645,7 @@ contsitution->constitution
 contsraints->constraints
 contsruction->construction
 contsructs->constructs
+contstant->constant
 conttactt->contact
 conttains->contains
 conttaminatte->contaminate
@@ -20994,6 +20998,7 @@ imbatance->imbalance
 imbbalanced->imbalanced
 imbbalance->imbalance
 imcomplete->incomplete
+imediatelly->immediately
 imediately->immediately
 imense->immense
 imigrant->emigrant
@@ -44904,6 +44909,7 @@ wonderfut->wonderful
 wonderfuul->wonderful
 wonderrful->wonderful
 wonnderful->wonderful
+wont->won't
 woonderful->wonderful
 woords->words
 woorking->working
