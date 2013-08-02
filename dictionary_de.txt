@@ -10,6 +10,8 @@ Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
 and->unds
+Ereignisandzeige->Ereignisanzeige
+Erignisprotokoll->Ereignisprotokoll
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt
