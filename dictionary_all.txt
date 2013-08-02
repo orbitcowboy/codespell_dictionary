@@ -31571,6 +31571,7 @@ posithion->position
 posithive->positive
 posithumous->posthumous
 positiong->positioning
+positionned->positioned
 positionn->position
 positivae->positive
 positivee->positive
@@ -33796,6 +33797,7 @@ quicckly->quickly
 quicck->quick
 quiccly->quickly
 quicc->quick
+quicjkly->quickly
 quicker->quickly
 quickkly->quickly
 quickk->quick
@@ -38017,6 +38019,7 @@ sneeks->sneaks
 sneezze->sneeze
 snese->sneeze
 sneze->sneeze
+snipet->snippet
 snneaks->sneaks
 snneeze->sneeze
 socalism->socialism
@@ -43184,6 +43187,7 @@ unkonventional->unconventional
 unkonwn->unknown
 unkown->unknown
 unlerminaled->unterminated
+unles->unless
 unlicely->unlikely
 unlickely->unlikely
 unliikely->unlikely
