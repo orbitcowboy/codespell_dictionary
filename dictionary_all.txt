@@ -21250,6 +21250,7 @@ implementtattion->implementation
 implementted->implemented
 implementt->implement
 implementting->implementing
+implemeted->implemented
 impliccitly->implicitly
 implicilly->implicitly
 implicite->implicit
@@ -35397,6 +35398,7 @@ replacemment->replacement
 replaecement->replacement
 replakement->replacement
 repllacement->replacement
+replys->replies
 reponse->response
 reponses->responses
 reponsible->responsible
