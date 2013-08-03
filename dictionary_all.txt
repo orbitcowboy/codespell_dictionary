@@ -44685,6 +44685,7 @@ wendsay->Wednesday
 wensday->Wednesday
 wereabouts->whereabouts
 were're->we're
+were->where
 wether->whether
 wett->well
 whaat->what
