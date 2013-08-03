@@ -10,9 +10,6 @@ Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
 and->unds
-substraction->subtraction
-Ereignisandzeige->Ereignisanzeige
-Erignisprotokoll->Ereignisprotokoll
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt
@@ -77,8 +74,10 @@ entgültig->endgültig
 entlich->endlich
 entscheident->entscheidend
 entwickleln->entwickeln
+Ereignisandzeige->Ereignisanzeige
 Ereigns->Ereignis
 Ergebniss->Ergebnis
+Erignisprotokoll->Ereignisprotokoll
 Erlaubniss->Erlaubnis
 erlischen, wenn->erloschen sein, wenn
 Erwiederung->Erwiderung
@@ -267,6 +266,7 @@ stopp->stop
 Stopp->Stop
 Studenabrechnung->Stundenabrechnung
 stuhr->stur
+substraction->subtraction
 subsummieren->subsumieren
 Sylvester->Silvester
 Symtome->Symptome

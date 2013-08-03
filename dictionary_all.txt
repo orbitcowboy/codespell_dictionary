@@ -15105,6 +15105,7 @@ eficiently->efficiently
 efluence->effluence
 efort->effort
 eforts->efforts
+egde->edge
  e g.->e.g.
 e.g->e.g.
 eg->e.g.
@@ -16893,6 +16894,7 @@ exlremisl->extremist
 exlremophile->extremophile
 exludes->excludes
 exmaple->example
+exmplained->explained
 exoneraate->exonerate
 exoneraete->exonerate
 exonerale->exonerate
@@ -42122,6 +42124,7 @@ transmited->transmitted
 transmiting->transmitting
 transmitling->transmitting
 transmittingg->transmitting
+transmittion->transmission
 transmmissible->transmissible
 transmmitting->transmitting
 transpoortatioon->transportation
