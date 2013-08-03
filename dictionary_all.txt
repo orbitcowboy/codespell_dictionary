@@ -9370,6 +9370,7 @@ completted tthe->completed the
 complettely->completely
 complettion->completion
 compliation->compilation
+complie->compile
 complier->compiler
 complleted the->completed the
 complletelly->completely
@@ -26447,6 +26448,7 @@ metheorology->meteorology
 methhod defines hhow->method defines how
 methhod defines how->method defines how
 methhods->methods
+methids->methodes
 methodd ddefines how->method defines how
 method deffines how->method defines how
 method defiines how->method defines how
@@ -31649,6 +31651,7 @@ possiibiiliitiies->possibilities
 possiibiiliity->possibility
 possiible->possible
 possiibly->possibly
+possile->possible
 possition->position
 possitive->positive
 possoble->possible
