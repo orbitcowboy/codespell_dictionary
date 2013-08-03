@@ -10,6 +10,7 @@ Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
 and->unds
+substraction->subtraction
 Ereignisandzeige->Ereignisanzeige
 Erignisprotokoll->Ereignisprotokoll
 angzeigt->angezeigt

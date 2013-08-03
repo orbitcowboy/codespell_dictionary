@@ -8543,6 +8543,7 @@ colect->collect
 colection->collection
 colective->collective
 colelctive->collective
+colerings->colorings
 collaaboraations->collaborations
 collaaboraative->collaborative
 collaateraal->collateral
@@ -33546,6 +33547,7 @@ ptaywright->playwright
 ptaywrights->playwrights
 pteasant->pleasant
 ptebiscite->plebiscite
+ptoblem->problem
 ptugins->plugins
 Puaerto Rican->Puerto Rican
 Puaerto Ricans->Puerto Ricans
