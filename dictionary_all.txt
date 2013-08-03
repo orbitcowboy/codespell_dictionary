@@ -15010,6 +15010,7 @@ eextreemist->extremist
 eextreemophilee->extremophile
 eeyas->eyas
 efect->effect
+efective->effective
 efectively->effectively
 efect on->effect on
 efel->evil
