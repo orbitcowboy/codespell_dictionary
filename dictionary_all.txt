@@ -22320,6 +22320,7 @@ inherithance->inheritance
 inherittance->inheritance
 inherrently->inherently
 inherritance->inheritance
+inhertiance->inheritance
 inhhabitants->inhabitants
 inhherently->inherently
 inhheritance->inheritance
