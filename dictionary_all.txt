@@ -15920,6 +15920,7 @@ enthuusiasm->enthusiasm
 enthuusiastic->enthusiastic
 entiitled->entitled
 entiity->entity
+entirety->entirely
 entist->enlist
 entitity->entity
 entitledd->entitled
@@ -38111,6 +38112,7 @@ soluable->soluble
 solubble->soluble
 solublae->soluble
 solublee->soluble
+soluton->solution
 soluuble->soluble
 solveing->solving
 solviing->solving
@@ -41563,6 +41565,7 @@ tiimiing->timing
 tiked->liked
 tiketihood->likelihood
 tikud->likud
+tilling->telling
 tilte->title
 timaesort->timesort
 timaestamp->timestamp
@@ -43137,6 +43140,7 @@ uninterruptedd->uninterrupted
 uninterupted->uninterrupted
 unintherrupthed->uninterrupted
 unintterruptted->uninterrupted
+unistalled->uninstalled
 UnitaedStataes->UnitedStates
 unitateratty->unilaterally
 unitaterat->unilateral
