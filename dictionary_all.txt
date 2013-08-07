@@ -22486,6 +22486,7 @@ inlervenes->intervenes
 inlo->into
 inlroduced->introduced
 inlroduce->introduce
+inlude->include
 inluilions->intuitions
 inluilive->intuitive
 inluilively->intuitively
@@ -32626,6 +32627,7 @@ priveliged->privileged
 privelige->privilege
 priveliges->privileges
 privelleges->privileges
+privide->provide
 privilaegaed->privileged
 privilaegae->privilege
 privilaegaes->privileges
@@ -41830,6 +41832,7 @@ torrpedoes->torpedoes
 torubles->troubles
 torupes->troupes
 torupe->troupe
+to so with->to do with
 toterance->tolerance
 to te->to the
 to thae->to the
