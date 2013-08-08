@@ -18160,6 +18160,7 @@ formalllly->formally
 formallyy->formally
 formaly->formally
 formaly->formerly
+formated->formatted
 formating->formatting
 formatized->formalized
 formatize->formalize
@@ -19747,6 +19748,7 @@ heirachies->hierarchies
 heirarchy->hierarchy
 heiroglyphics->hieroglyphics
 helerogeneous->heterogeneous
+hellio->hello
 hellmet->helmet
 hellped->helped
 hellpfull->helpful
@@ -34465,6 +34467,7 @@ reconciliattion->reconciliation
 reconcilliation->reconciliation
 reconcitiation->reconciliation
 reconized->recognized
+reconize->recognize
 reconmaissance->reconnaissance
 reconmendations->recommendations
 reconmended->recommended
