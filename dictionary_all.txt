@@ -15112,6 +15112,7 @@ egde->edge
 e.g->e.g.
 eg->e.g.
 eg.->e.g.
+eges->edges
 e.gg.->e.g.
 eggreggious->egregious
 egregiious->egregious
@@ -32305,6 +32306,7 @@ preferabty->preferably
 preferaebly->preferably
 prefered->preferred
 prefering->preferring
+preferrable->preferable
 preferrably->preferably
 preferredd->preferred
 preferriing->preferring
