@@ -21852,6 +21852,7 @@ indenttattion->indentation
 indentted->indented
 indepedantly->independently
 indepedence->independence
+indepedent->independent
 independance->independence
 independant->independent
 independantly->independently
@@ -44661,6 +44662,7 @@ weaaponry->weaponry
 weaar->wear
 weaeponry->weaponry
 weaer->wear
+weahter->weather
 weaponary->weaponry
 weaponnry->weaponry
 weaponrry->weaponry
@@ -44783,6 +44785,7 @@ whikh->which
 whilae->while
 whilee->while
 whille->while
+whio->who
 whithout->without
 whith->with
 whit->with
