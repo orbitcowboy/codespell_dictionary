@@ -36949,6 +36949,7 @@ seaerched->searched
 seaerches->searches
 seaerch->search
 seamphore->semaphore
+seams->seems
 searcched->searched
 searcches->searches
 searcch->search
@@ -40944,6 +40945,7 @@ telephonny->telephony
 telephonyy->telephony
 telephoony->telephony
 telepphony->telephony
+teletyp->teletype
 televeision->television
 televiisiion->television
 televisionn->television
@@ -44256,6 +44258,7 @@ virlually->virtually
 virlual->virtual
 virrtually->virtually
 virrtual->virtual
+virtaul->virtual
 virthually->virtually
 virthual->virtual
 virttually->virtually
