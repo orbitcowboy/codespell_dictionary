@@ -8354,6 +8354,7 @@ cknowledgeable->knowledgeable
 cknowledge->knowledge
 cknows->knows
 claaims->claims
+claas->class
 claass->class
 claassicaal->classical
 claassicaally->classically
