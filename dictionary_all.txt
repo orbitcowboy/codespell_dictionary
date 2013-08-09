@@ -4836,6 +4836,7 @@ atitude->attitude
 atlain->attain
 atlainder->attainder
 atlained->attained
+atleast->at least
 atlempt->attempt
 atlempted->attempted
 atlempting->attempting
@@ -11402,6 +11403,7 @@ covenantt->covenant
 covennannt->covenant
 coveredd->covered
 coverred->covered
+covert->convert
 coverted->converted
 coverted->covered
 coverted->coveted
@@ -20184,6 +20186,7 @@ holliday->holiday
 holyy->holy
 homae statae->home state
 homee statee->home state
+homepathic->homeopathic
 home sitate->home state
 home slale->home state
 home sstate->home state
@@ -23195,6 +23198,7 @@ interruupts->interrupts
 interrvals->intervals
 interrvene->intervene
 interrvenes->intervenes
+intersted->interested
 intertaining->entertaining
 interupt->interrupt
 Interupt->Interrupt
@@ -23625,6 +23629,7 @@ ittusion->illusion
 it you want->if you want
 iunior->junior
 ive->i have,i've
+i wad trying->i was trying
 iwll->will
 iwth->with
 jaacques->jacques
@@ -40953,6 +40958,7 @@ televisioon->television
 televission->television
 televsion->television
 televvision->television
+teling->telling
 tellephony->telephony
 tellevision->television
 telphony->telephony
