@@ -23313,6 +23313,7 @@ intsrumental->instrumental
 intsrument->instrument
 intsruments->instruments
 intstall->install
+intstead->instead
 intteger->integer
 inttegratted->integrated
 inttegrattion->integration
@@ -29376,6 +29377,7 @@ ophtthalmic->ophthalmic
 ophtthalmologistt->ophthalmologist
 ophtthalmology->ophthalmology
 opiiniion->opinion
+opiniated->opinionated
 opinnionn->opinion
 oplimism->optimism
 oplimizalions->optimizations
@@ -30238,6 +30240,7 @@ pathtotest->path to test
 patiaencae->patience
 paticular->particular
 patieencee->patience
+patiell->partiell
 patiencce->patience
 patienke->patience
 patiennce->patience
@@ -32889,6 +32892,7 @@ prograessaed->progressed
 programable->programmable
 programatically->programmatically
 programaticaly->programmatically
+programatic->programmatic
 programers->programmers
 programmabble->programmable
 programmablae->programmable
@@ -34306,6 +34310,7 @@ reccord->record
 reccreational->recreational
 reccruiting->recruiting
 reccuperate->recuperate
+reccurence->recurrence
 reccuring->recurring
 reccurrencce->recurrence
 reccurring->recurring
@@ -38130,6 +38135,7 @@ solublae->soluble
 solublee->soluble
 soluton->solution
 soluuble->soluble
+solveable->solvable
 solveing->solving
 solviing->solving
 solvingg->solving
