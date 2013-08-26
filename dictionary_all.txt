@@ -4668,6 +4668,7 @@ assumingg->assuming
 assuminng->assuming
 assumme->assume
 assummed->assumed
+assummes->assumes
 assumming->assuming
 assumpted->assumed
 assuume->assume
@@ -17944,8 +17945,10 @@ fllirts->flirts
 fllourish->flourish
 flluorescent->fluorescent
 flluorine->fluorine
+flocse->fclose
 floourish->flourish
 florescent->fluorescent
+flose->fclose
 flourescent->fluorescent
 flouriish->flourish
 flourine->fluorine
