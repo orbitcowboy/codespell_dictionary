@@ -922,6 +922,7 @@ accounl->account
 accounnt->account
 accounth->account
 accountt->account
+accour->occur
 accoustic->acoustic
 accousticc->acoustic
 accouunt->account
@@ -8722,6 +8723,7 @@ combustionn->combustion
 combusttion->combustion
 combutsion->combustion
 combuustion->combustion
+comclusion->conclusion
 comdemnation->condemnation
 comebaack->comeback
 comebacc->comeback
@@ -18429,6 +18431,7 @@ fullfilllled->fulfilled
 fullfillll->fulfill
 funcction->function
 funcctioning->functioning
+funcional->functional
 funciton->function
 funcitoning->functioning
 funclion->function
@@ -28710,6 +28713,7 @@ numeorus->numerous
 numericc->numeric
 numeriic->numeric
 numerik->numeric
+numer->number
 numeroous->numerous
 numerouss->numerous
 numerric->numeric
