@@ -8392,6 +8392,7 @@ classss->class
 classssical->classical
 classssically->classically
 classssic->classic
+clattered->cluttered
 cleaaraance->clearance
 cleaar->clear
 cleaarer->clearer
@@ -13411,6 +13412,7 @@ diffeereent->different
 diffeereential->differential
 diffeereentiatee->differentiate
 diffeereentiations->differentiations
+diffence->difference
 differance->difference
 differencce between->difference between
 differencces->differences
@@ -20568,6 +20570,7 @@ idealogy->ideology
 ideass->ideas
 ideea->idea
 ideeas->ideas
+idee->idea
 ideentical->identical
 ideentifieer->identifier
 ideentifieers->identifiers
@@ -21259,6 +21262,7 @@ implementhed->implemented
 implementh->implement
 implementhing->implementing
 implementingg->implementing
+implementor->implementer
 implementtattion->implementation
 implementted->implemented
 implementt->implement
@@ -22843,6 +22847,7 @@ installll->install
 instancae->instance
 instancce->instance
 instancee->instance
+instanciated->instantiated
 instanciation->instantiation
 instanke->instance
 instantiatioon->instantiation
@@ -26045,6 +26050,7 @@ mathematiccs->mathematics
 mathematiciann->mathematician
 mathematicianns->mathematicians
 mathematicianss->mathematicians
+mathematics->mathematical
 mathematicss->mathematics
 mathematiically->mathematically
 mathematiiciian->mathematician
@@ -44673,6 +44679,7 @@ watkhdog->watchdog
 watn->want
 watseful->wasteful
 wattchdog->watchdog
+wat->what
 waywardd->wayward
 waywarrd->wayward
 wayword->wayward
