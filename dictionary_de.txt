@@ -13,8 +13,6 @@ and->unds
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt
-Prüdsummen->Prüfsummen
-Prüdsumme->Prüfsumme
 assozial->asozial
 Athmosphäre->Atmosphäre
 Atrappe->Attrappe
@@ -219,6 +217,8 @@ profozieren->provozieren
 Program->Programm
 projezieren->projizieren
 Prophezeihung->Prophezeiung
+Prüdsummen->Prüfsummen
+Prüdsumme->Prüfsumme
 Qualiät->Qualität
 qualitätssicherende->qualitätssichernde
 rauh->rau
