@@ -13,6 +13,8 @@ and->unds
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt
+Prüdsummen->Prüfsummen
+Prüdsumme->Prüfsumme
 assozial->asozial
 Athmosphäre->Atmosphäre
 Atrappe->Attrappe
