@@ -33560,6 +33560,7 @@ psseudonym->pseudonym
 psseudo->pseudo
 pssychic->psychic
 pssychology->psychology
+psudocode->pseudocode
 psuedo->pseudo
 psycchicc->psychic
 psycchology->psychology
