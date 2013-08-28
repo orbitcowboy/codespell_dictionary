@@ -6015,6 +6015,7 @@ betsiality->bestiality
 bettigerent->belligerent
 bettween->between
 bettwether->bellwether
+betweeen->between
 betweenn->between
 betwen->between
 betwween->between
@@ -14500,6 +14501,7 @@ dominnannt->dominant
 dominnationn->domination
 domminant->dominant
 dommination->domination
+donesn't->does not
 donig->doing
 don'l->don't
 do nnot->do not
@@ -22992,6 +22994,7 @@ intaervaenaes->intervenes
 intaervals->intervals
 intall->install
 intantion->instantiation
+inteade->instead
 intead->instead
 inteegeer->integer
 inteegrateed->integrated
@@ -34588,6 +34591,7 @@ recursivly->recursively
 recursiv->recursive
 recursivvely->recursively
 recurssively->recursively
+recusively->recursively
 recuuperate->recuperate
 recuurrence->recurrence
 recuurring->recurring
@@ -44111,6 +44115,7 @@ verifiy->verify
 verifyy->verify
 veriifiicatiion->verification
 veriify->verify
+verions->version
 verion->version
 verisons->versions
 verison->version
