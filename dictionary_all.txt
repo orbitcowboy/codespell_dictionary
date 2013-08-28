@@ -12956,6 +12956,7 @@ desctop->desktop
 desctruction->destruction
 desctructor->destructor
 descuss->discuss
+desgin->design
 desgined->designed
 desicated->desiccated
 desiccaated->desiccated
@@ -19759,6 +19760,7 @@ heigth->height
 Heiidelberg->Heidelberg
 heiight->height
 heirachies->hierarchies
+heirarchies->hierarchies
 heirarchy->hierarchy
 heiroglyphics->hieroglyphics
 helerogeneous->heterogeneous
@@ -42178,6 +42180,7 @@ transmittingg->transmitting
 transmittion->transmission
 transmmissible->transmissible
 transmmitting->transmitting
+transparancy->transparency
 transpoortatioon->transportation
 transporation->transportation
 transportatiion->transportation
