@@ -9213,6 +9213,7 @@ comparativve->comparative
 comparativvely->comparatively
 comparattive->comparative
 comparattively->comparatively
+comparetivly->comparatively
 compariison->comparison
 compariisons->comparisons
 comparision->comparison
@@ -12225,6 +12226,7 @@ Debiaan->Debian
 Debiaen->Debian
 Debiann->Debian
 Debiian->Debian
+debuger->debugger
 debugg->debug
 debuggggingg->debugging
 debuggiing->debugging
@@ -25394,6 +25396,7 @@ machinee->machine
 maching->machine
 maching->marching
 maching->matching
+machin->machine
 machinne->machine
 macing->making
 mackaerael->mackerel
@@ -27498,6 +27501,7 @@ Mroissette->Morissette
 mrooccan->moroccan
 mroocco->morocco
 mrotgage->mortgage
+msiing->missing
 muccous->mucous
 mucoous->mucous
 mucouss->mucous
@@ -36981,6 +36985,7 @@ seaerched->searched
 seaerches->searches
 seaerch->search
 seamphore->semaphore
+seam->seem
 seams->seems
 searcched->searched
 searcches->searches
@@ -41200,6 +41205,7 @@ thask->task
 thasthe->taste
 thast->that
 thast->that's
+tha->the
 thaththoos->tattoos
 thaththoo->tattoo
 that'ss->that's
