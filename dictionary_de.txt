@@ -14,10 +14,10 @@ angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt
 assozial->asozial
-Ausdrcuk->Ausdruck
 Athmosphäre->Atmosphäre
 Atrappe->Attrappe
 auschalten->ausschalten
+Ausdrcuk->Ausdruck
 Ausführungsgeschwindigkeit->Ausführungszeit
 außderem->außerdem
 ausser->außer

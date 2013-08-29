@@ -3318,6 +3318,7 @@ anhtropologist->anthropologist
 anhtropology->anthropology
 anhtropomorphization->anthropomorphization
 anihilation->annihilation
+an its->and its
 aniversary->anniversary
 ankestors->ancestors
 ankestral->ancestral
