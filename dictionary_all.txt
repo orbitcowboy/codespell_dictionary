@@ -15954,6 +15954,7 @@ entrepreneuurs->entrepreneurs
 entriess->entries
 entriies->entries
 entriy->entry
+entrophy->entropy
 entrreprreneurr->entrepreneur
 entrreprreneurrs->entrepreneurs
 entrries->entries
@@ -32349,7 +32350,10 @@ preferriing->preferring
 preferringg->preferring
 preferrinng->preferring
 prefferably->preferably
+preffered->preferred
+preffering->preferring
 preffer->prefer
+prefferrable->preferable
 prefferred->preferred
 prefferring->preferring
 preform->perform
