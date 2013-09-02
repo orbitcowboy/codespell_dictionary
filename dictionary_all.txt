@@ -17092,6 +17092,7 @@ explooitative->exploitative
 explotation->exploitation
 exporpriated->expropriated
 exporpriation->expropriation
+expot->export
 exppansion->expansion
 exppatriate->expatriate
 exppected->expected
@@ -19293,6 +19294,7 @@ Guathemala->Guatemala
 Guathemalan->Guatemalan
 Guattemala->Guatemala
 Guattemalan->Guatemalan
+gueard->guard
 gueerrilla->guerrilla
 gueerrillas->guerrillas
 gueesswork->guesswork
@@ -25865,6 +25867,7 @@ manouvers->maneuvers
 manouvers->manoeuvres
 mantained->maintained
 mantaining->maintaining
+manualy->manually
 manuever->maneuver
 manuever->manoeuvre
 manuevers->maneuvers
