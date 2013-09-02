@@ -14708,6 +14708,7 @@ eaerliest->earliest
 eaerly->early
 eaerned->earned
 eaesier->easier
+Eagel->eagle
 eahc->each
 eaisier->easier
 eakh->each
@@ -34254,6 +34255,7 @@ reallised->realised
 reallistic->realistic
 reallized->realized
 realllly->really
+reallocing ->reallocation
 reall->real
 reallyy->really
 realsied->realized
@@ -41000,6 +41002,7 @@ televvision->television
 teling->telling
 tellephony->telephony
 tellevision->television
+tellling->telling
 telphony->telephony
 temerature->temperature
 temmis player->tennis player
