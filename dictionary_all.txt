@@ -23070,6 +23070,7 @@ intelliguent->intelligent
 intellllectuall->intellectual
 intelllligence->intelligence
 intelllligent->intelligent
+intemal->internal
 intenational->international
 intenddedd->intended
 intensional->intentional
@@ -36023,6 +36024,7 @@ retturned->returned
 retturning->returning
 retturn->return
 retturn value->return value
+retum->return
 retun value->return value
 returing->returning
 returnd->returned
