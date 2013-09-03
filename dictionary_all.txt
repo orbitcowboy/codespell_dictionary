@@ -4564,6 +4564,7 @@ assian->asian
 asside->aside
 assiggn->assign
 assiggns->assigns
+assiging->assigning
 assigne->assign
 assignes->assigns
 assignn->assign
@@ -7276,6 +7277,7 @@ casuatties->casualties
 casuatty->casualty
 casulaties->casualties
 casulaty->casualty
+casusing->causing
 casuualties->casualties
 casuualty->casualty
 cataegoriaes->categories
@@ -14544,6 +14546,7 @@ doub->daub
 doub->doubt
 doubele->double
 doublae->double
+doublce->double
 doubl->doubt
 doublee->double
 doublle->double
@@ -19773,6 +19776,7 @@ heiroglyphics->hieroglyphics
 helerogeneous->heterogeneous
 hellio->hello
 hellmet->helmet
+hellow->hello
 hellped->helped
 hellpfull->helpful
 hellpfulllly->helpfully
@@ -23331,6 +23335,7 @@ intsitutionalized->institutionalized
 intsitution->institution
 intsitutions->institutions
 intsruction->instruction
+intsructions->instructions
 intsrumental->instrumental
 intsrument->instrument
 intsruments->instruments
@@ -24431,6 +24436,7 @@ lalked->talked
 lalking->talking
 lalloos->tattoos
 lalloo->tattoo
+langage->language
 langauge->language
 langguagge->language
 langguagges->languages
@@ -25161,6 +25167,7 @@ lolliipop->lollipop
 lollippopp->lollipop
 lollypop->lollipop
 lomaloes->tomatoes
+lomg->long
 lomorrow->tomorrow
 lonaelinaess->loneliness
 lonaely->lonely
@@ -33842,6 +33849,7 @@ Queenstand->Queensland
 queestionablee->questionable
 Quensland->Queensland
 QUERTY->quwerty
+quesionts->questions
 quesitionable->questionable
 queslionable->questionable
 quesstionable->questionable
@@ -37535,6 +37543,7 @@ shortwhile->short while
 short whille->short while
 short white->short while
 short wwhile->short while
+shotcuts->shortcuts
 shoudln->should
 shoudln->shouldn't
 shoudl->should
