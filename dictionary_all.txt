@@ -16473,6 +16473,7 @@ everythign->everything
 everythiing->everything
 every thime->every time
 everythingg->everything
+everythink->everything
 everythinng->everything
 every tiime->every time
 everytime->every time
@@ -17809,8 +17810,6 @@ filamment->filament
 filee->file
 filees->files
 fileesysteem->filesystem
-fileextension->file extension
-fileextensions->file extensions
 filess->files
 filessysstem->filesystem
 filestream->file stream
@@ -32256,6 +32255,7 @@ precurssor->precursor
 precuursor->precursor
 preddecessor->predecessor
 preddecessors->predecessors
+preddefined->predefined
 preddictable->predictable
 preddictions->predictions
 preddominately->predominately
