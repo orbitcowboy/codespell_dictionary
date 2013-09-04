@@ -8413,6 +8413,7 @@ clearrance->clearance
 clearr->clear
 clearrerr->clearer
 clearrly->clearly
+cleary->clearly
 cleearancee->clearance
 cleear->clear
 cleeareer->clearer
@@ -17614,6 +17615,7 @@ feelss->feels
 feertility->fertility
 feets->feels
 fel->feel
+fell free->feel free
 fels->feels
 ferlilily->fertility
 feromone->pheromone
@@ -34629,6 +34631,7 @@ redeeminng->redeeming
 redeemming->redeeming
 redeming->redeeming
 rediculous->ridiculous
+reduntant->redundant
 reeacheed->reached
 reeaching->reaching
 reeadmission->readmission
@@ -44930,6 +44933,7 @@ wilhhold->withhold
 wilhin->within
 wilh->with
 wilingness->willingness
+will be treat->will be treated
 willd->wild
 wille->will
 willinggness->willingness
