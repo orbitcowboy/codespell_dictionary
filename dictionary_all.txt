@@ -26753,6 +26753,7 @@ ministtry->ministry
 minitsries->ministries
 minitsry->ministry
 minized->minimized
+minmal->minimal
 minneral->mineral
 MinnGW->MinGW
 minniature->miniature
