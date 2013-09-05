@@ -24857,6 +24857,7 @@ lighht year->light year
 lighht years->light years
 lighl year->light year
 lighl years->light years
+lighning->lighting
 lighth year->light year
 lighth years->light years
 lightt year->light year
@@ -32755,6 +32756,7 @@ probbabbly->probably
 probbed->probed
 probblem->problem
 probelm->problem
+probem->problem
 problaem->problem
 probleem->problem
 problemm->problem
@@ -38128,6 +38130,7 @@ socities->societies
 soem->some
 sofftware->software
 soflware->software
+softare->software
 softhware->software
 softtware->software
 softwaare->software
