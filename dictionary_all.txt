@@ -959,6 +959,7 @@ acctively->actively
 acctivities->activities
 acctually->actually
 accuracyy->accuracy
+accurences->occurrences
 accurracy->accuracy
 accusaed->accused
 accusedd->accused
@@ -10030,6 +10031,7 @@ consciouus->conscious
 consciouusly->consciously
 consciouusness->consciousness
 conscise->concise
+conscutive->consecutive
 consdider->consider
 consdidered->considered
 consdiered->considered
@@ -12500,6 +12502,7 @@ defendantt->defendant
 defendantts->defendants
 defendent->defendant
 defendents->defendants
+defenitions->definitions
 defenndannt->defendant
 defenndannts->defendants
 defennsively->defensively
@@ -13271,6 +13274,7 @@ devasthathed->devastated
 devasthathing->devastating
 devasttatted->devastated
 devasttatting->devastating
+devations->deviations
 devatsated->devastated
 devatsating->devastating
 deveastated->devastated

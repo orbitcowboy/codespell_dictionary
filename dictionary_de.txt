@@ -5,6 +5,7 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
+Lieber Her->Lieber Herr
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
