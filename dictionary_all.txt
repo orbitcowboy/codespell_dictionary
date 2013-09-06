@@ -12594,6 +12594,7 @@ definnitionn->definition
 definnitionns->definitions
 defintion->definition
 defintions->definitions
+defnese->defense
 deggrade->degrade
 degraade->degrade
 degraede->degrade
@@ -13201,6 +13202,7 @@ deterioriating->deteriorating
 deteriroated->deteriorated
 deteriroate->deteriorate
 deteriroating->deteriorating
+determeined->determined
 determiine->determine
 determiiniing->determining
 determin->determine
