@@ -16890,6 +16890,7 @@ existince->existence
 existted->existed
 existtence->existence
 existtentt->existent
+exited->excited
 exitsed->existed
 exitsence->existence
 exitsent->existent
@@ -26791,6 +26792,7 @@ mirroreed->mirrored
 mirrorred->mirrored
 mirrroed->mirrored
 mirrrrorred->mirrored
+MIRSA->MISRA
 misaassignment->misassignment
 misaessignment->misassignment
 misasignment->misassignment
