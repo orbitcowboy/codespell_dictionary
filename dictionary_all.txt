@@ -698,6 +698,7 @@ acceptible->acceptable
 accepttable->acceptable
 acceptt->accept
 accepttance->acceptance
+accesable->accessible
 acces->access
 accesible->accessible
 accesion->accession
@@ -994,6 +995,7 @@ acenstral->ancestral
 aceptable->acceptable
 acept->accept
 aceptance->acceptance
+acessable->accessible
 acess->access
 acessible->accessible
 acession->accession
@@ -5016,6 +5018,7 @@ attrribute->attribute
 attrributed->attributed
 attrributes->attributes
 att-time->all-time
+atttribute->attribute
 attttain->attain
 attttainder->attainder
 attttained->attained
@@ -32877,6 +32880,7 @@ proclomation->proclamation
 proctaimed->proclaimed
 proctaiming->proclaiming
 proctamation->proclamation
+proctect->protect
 profaessaed->professed
 profaessional->professional
 profaession->profession
