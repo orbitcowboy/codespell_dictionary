@@ -30065,6 +30065,7 @@ parallaels->parallels
 paralleelly->parallelly
 paralleel->parallel
 paralleels->parallels
+parallell->parallel
 parallellyy->parallelly
 parallelss->parallels
 parallely->parallelly

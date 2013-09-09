@@ -5,7 +5,6 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-Lieber Her->Lieber Herr
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -166,6 +165,7 @@ läßtig->lästig
 leezeichen->Leerzeichen
 letzendlich->letztendlich
 letzlich->letztlich
+Lieber Her->Lieber Herr
 lies->ließ
 ließ->lies
 liess->ließ
