@@ -22752,6 +22752,7 @@ inot->into
 inpeach->impeach
 inpolite->impolite
 inpput->input
+in principal->in principle
 inprisonment->imprisonment
 inproving->improving
 inpul->input
@@ -30942,6 +30943,7 @@ philoosoophically->philosophically
 philoosoophical->philosophical
 philoosoophies->philosophies
 philoosoophy->philosophy
+philosofy->philosophy
 philosophaer->philosopher
 philosopheer->philosopher
 philosopherr->philosopher
@@ -33870,6 +33872,7 @@ QUERTY->quwerty
 quesionts->questions
 quesitionable->questionable
 queslionable->questionable
+quesses->guesses
 quesstionable->questionable
 questhionable->questionable
 questiionable->questionable
