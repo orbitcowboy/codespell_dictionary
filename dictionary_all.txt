@@ -38546,7 +38546,7 @@ specializzed->specialized
 speciallised->specialised
 speciallized->specialised
 speciallized->specialized
-specially->specially
+specialy->specially
 speciatised->specialised
 speciatized->specialized
 specifc->specific
