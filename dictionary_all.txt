@@ -3227,6 +3227,7 @@ analogouss->analogous
 analogouus->analogous
 analoogoous->analogous
 analylic->analytic
+analysys->analysis
 analythic->analytic
 analyticc->analytic
 analytiic->analytic
@@ -28779,6 +28780,7 @@ numeroous->numerous
 numerouss->numerous
 numerric->numeric
 numerrous->numerous
+numers->numbers
 nummbers->numbers
 nummeric->numeric
 nummerous->numerous
@@ -43004,6 +43006,7 @@ uncompetitivve->uncompetitive
 uncompetive->uncompetitive
 uncompettittive->uncompetitive
 uncomppetitive->uncompetitive
+uncompresed->uncompressed
 unconciousness->unconsciousness
 unconcious->unconscious
 unconfortability->discomfort
