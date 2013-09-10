@@ -3956,6 +3956,7 @@ arbitrarity->arbitrarily
 arbitraryy->arbitrary
 arbittrarily->arbitrarily
 arbittrary->arbitrary
+arbritary->arbitrary
 arcchaeologist->archaeologist
 arcchaeologists->archaeologists
 arcchaeology->archaeology
@@ -12219,6 +12220,7 @@ deael->deal
 deafult->default
 deaktivated->deactivated
 deall->deal
+de-allocated->deallocated
 deat->deal
 debaataable->debatable
 debaetaeble->debatable
@@ -19553,6 +19555,7 @@ handlling->handling
 handting->handling
 hanged->hangs
 hangged->hanged
+hang-over->hangover
 hanndlinng->handling
 hapend->happend
 hapened->happened
@@ -23277,6 +23280,7 @@ in the future->in future
 intheger->integer
 inthegrathed->integrated
 inthegrathion->integration
+int he->in the
 inthellecthual->intellectual
 inthelligence->intelligence
 inthelligenth->intelligent
@@ -31271,6 +31275,7 @@ pogromss->pogroms
 pogrrom->pogrom
 pogrroms->pogroms
 poiison->poison
+poing->point
 poisin->poison
 poisonn->poison
 poisson->poison
@@ -39498,6 +39503,7 @@ strucctural->structural
 strucctured->structured
 struccture->structure
 structual->structural
+structude->structured
 structuraal->structural
 structuraed->structured
 structurael->structural
@@ -40067,6 +40073,7 @@ suffrrage->suffrage
 suficiently->sufficiently
 suficient->sufficient
 sufrage->suffrage
+sugest->suggest
 suggestiong->suggesting
 suiccidal->suicidal
 suiccide->suicide
@@ -43066,6 +43073,7 @@ underrstood->understood
 undersitood->understood
 underslood->understood
 undersstood->understood
+understanability->understandability
 understhood->understood
 understod->understood
 understoon->understood
