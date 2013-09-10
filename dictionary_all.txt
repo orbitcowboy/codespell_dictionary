@@ -6991,6 +6991,7 @@ cannister->canister
 cannisters->canisters
 cannnnot->cannot
 cannnot->cannot
+cannocolize->canonicalize
 cannol->cannot
 cannonical->canonical
 cannonnical->canonical
@@ -36646,6 +36647,7 @@ safeety->safety
 safethy->safety
 safetty->safety
 safetyy->safety
+safey->safety
 saffety->safety
 saftey->safety
 safty->safety
@@ -41481,6 +41483,7 @@ tho connecth tho->to connect to
 thoday's->today's
 thoday->today
 thoese->those
+thoes->those
 thogethher->together
 thoggling->toggling
 thokenizathion->tokenization
