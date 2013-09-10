@@ -3107,6 +3107,7 @@ amatteur->amateur
 amatuer->amateur
 amature->amateur
 amature->armature
+ambigous->ambiguous
 ameelioratee->ameliorate
 ameend->amend
 ameendeed->amended
@@ -3549,6 +3550,7 @@ anthroppomorpphization->anthropomorphization
 anthrropologist->anthropologist
 anthrropology->anthropology
 anthrropomorrphization->anthropomorphization
+antoher->another
 antropologist->anthropologist
 antropology->anthropology
 antropomorphization->anthropomorphization
@@ -5353,6 +5355,7 @@ awarrded->awarded
 awayy->away
 awckward->awkward
 awcward->awkward
+aweful->awful
 awhile->a while
 awkkward->awkward
 awkwardd->awkward
@@ -7415,6 +7418,7 @@ caucusaes->caucuses
 caucusees->caucuses
 caucussess->caucuses
 causalities->casualties
+cause i->because i
 cauucuuses->caucuses
 ccaisson->caisson
 ccalcculate->calculate
@@ -17752,6 +17756,7 @@ fiaelds->fields
 fiaercaely->fiercely
 fianite->finite
 fianlly->finally
+Fibonocci->Fibonacci
 ficctitious->fictitious
 ficlilious->fictitious
 ficthithious->fictitious
@@ -19625,6 +19630,7 @@ harassss->harass
 harassssing->harassing
 harassssment->harassment
 harassssmentss->harassments
+hard-coded->hardcoded
 harddware->hardware
 hardwarae->hardware
 hardwaree->hardware
@@ -20323,6 +20329,7 @@ hospittable->hospitable
 hosppitable->hospitable
 hosspitable->hospitable
 hotiday->holiday
+hot to->how to
 hoty->holy
 hounour->honour
 hourrs->hours
@@ -20642,6 +20649,7 @@ identiffiers->identifiers
 identifierr->identifier
 identifierrs->identifiers
 identifierss->identifiers
+identifiy->identify
 identikal->identical
 identtical->identical
 identtifier->identifier
@@ -22474,6 +22482,7 @@ initiatty->initially
 initilization->initialization
 initilize->initialize
 initital->initial
+inititialisation->initialisation
 inittial->initial
 inittialise->initialise
 inittializattion->initialization
@@ -25566,6 +25575,7 @@ magiciann->magician
 magiiciian->magician
 magikian->magician
 magincian->magician
+maginc->magic
 magnager->manager
 magnifficent->magnificent
 magnificaent->magnificent
@@ -38534,6 +38544,7 @@ specializzed->specialized
 speciallised->specialised
 speciallized->specialised
 speciallized->specialized
+specially->specially
 speciatised->specialised
 speciatized->specialized
 specifc->specific
@@ -39210,6 +39221,7 @@ stataesman->statesman
 stateemeents->statements
 stateemeent->statement
 stateesman->statesman
+statemachine->state machine
 stateman->statesman
 statememts->statements
 statemennts->statements
@@ -40089,6 +40101,7 @@ suiiciidal->suicidal
 suiiciide->suicide
 suikidal->suicidal
 suikide->suicide
+suit of->suite of
 sukkeeded->succeeded
 sukkeeding->succeeding
 sukkeeds->succeeds
@@ -40275,6 +40288,7 @@ supprresses->suppresses
 supprressing->suppressing
 supprresss->suppresss
 supprress->suppress
+suppse->suppose
 supptanted->supplanted
 supptemented->supplemented
 supptementing->supplementing
@@ -41521,6 +41535,7 @@ thorougghly->thoroughly
 thorouggh->thorough
 thoroughlly->thoroughly
 thoroughlyy->thoroughly
+thorough->through
 thoroughty->thoroughly
 thorouughly->thoroughly
 thorouugh->thorough
@@ -44935,6 +44950,7 @@ widespreaed->widespread
 widesprread->widespread
 widesread->widespread
 widesspread->widespread
+widlcarded->wildcarded
 wieeldeed->wielded
 wieeld->wield
 wief->wife
