@@ -14041,6 +14041,7 @@ dislinguish->distinguish
 dislinguished->distinguished
 dislinguishes->distinguishes
 dislinguishing->distinguishing
+dislplay->display
 dislribuled->distributed
 dislribulion->distribution
 dislricls->districts
@@ -15954,6 +15955,7 @@ entiitled->entitled
 entiity->entity
 entirety->entirely
 entist->enlist
+entites->entities
 entitity->entity
 entitledd->entitled
 entitlied->entitled
@@ -26140,6 +26142,7 @@ matthematticians->mathematicians
 matthemattics->mathematics
 mattrices->matrices
 matttter->matter
+maximus->maximum
 may has been->may have been
 may havae baeaen->may have been
 may hav been->may have been
@@ -38232,6 +38235,7 @@ somethimes->sometimes
 somethingg->something
 somethinng->something
 sometiimes->sometimes
+some times->sometimes
 someting->something
 sometthing->something
 somettimes->sometimes
@@ -41514,6 +41518,7 @@ thorugh->through
 thosae->those
 thosee->those
 thosse->those
+thos->those, this
 tho thhe->to the
 thouch->touch
 thougght->thought
