@@ -9490,6 +9490,7 @@ compuuterized->computerized
 comunication->communication
 comunications->communications
 comunities->communities
+comunity->community
 concaeitaed->conceited
 concaeivaed->conceived
 concaentratae->concentrate
@@ -24895,6 +24896,7 @@ ligght year->light year
 ligght years->light years
 lighht year->light year
 lighht years->light years
+lighing->lighting
 lighl year->light year
 lighl years->light years
 lighning->lighting
