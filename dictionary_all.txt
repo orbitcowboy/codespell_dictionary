@@ -2979,6 +2979,7 @@ almots->almost
 almsot->almost
 alochol->alcohol
 a lol->a lot
+alomost->almost
 alomst->almost
 a loot->a lot
 alophone->allophone
@@ -3825,6 +3826,7 @@ approachess->approaches
 approachhes->approaches
 approachs->approaches
 approakhes->approaches
+approch->approach
 appron->apron
 approoaches->approaches
 approopriate->appropriate
@@ -14788,6 +14790,7 @@ eclecttic->eclectic
 ecliipse->eclipse
 eclippse->eclipse
 eclipsse->eclipse
+Eclise->Eclipse
 eclispe->eclipse
 ecllectic->eclectic
 ecllipse->eclipse
