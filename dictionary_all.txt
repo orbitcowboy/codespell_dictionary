@@ -35030,6 +35030,7 @@ regardlessss->regardless
 regardlless->regardless
 regardss->regards
 regardtess->regardless
+regexs->regexes
 reggardless->regardless
 reggards->regards
 reggistered->registered
