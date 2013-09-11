@@ -3226,6 +3226,7 @@ analoggous->analogous
 analogouss->analogous
 analogouus->analogous
 analoogoous->analogous
+analyis->analysis
 analylic->analytic
 analysys->analysis
 analythic->analytic
@@ -21253,6 +21254,7 @@ impaeccably->impeccably
 impaech->impeach
 impaedancae->impedance
 impaerial->imperial
+impartant->important
 impeaach->impeach
 impeacch->impeach
 impeachh->impeach
