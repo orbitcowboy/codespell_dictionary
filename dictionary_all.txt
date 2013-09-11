@@ -34625,6 +34625,7 @@ recrational->recreational
 recreaationaal->recreational
 recreaetionael->recreational
 recrealional->recreational
+re-create->recreate
 recreathional->recreational
 recreatiional->recreational
 recreationall->recreational
@@ -37161,6 +37162,7 @@ seiizure->seizure
 seiizures->seizures
 seing->seeing
 seinor->senior
+seiously->seriously
 seizedd->seized
 seizingg->seizing
 seizinng->seizing
@@ -44855,6 +44857,7 @@ whaqt->what
 whare->where
 whar->what
 whath->what
+whats->what's
 whatt->what
 whcih->which
 wheeneeveer->whenever
