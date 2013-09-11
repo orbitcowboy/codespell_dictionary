@@ -12878,6 +12878,7 @@ dereferenciing->dereferencing
 dereferencingg->dereferencing
 dereferenking->dereferencing
 dereferenncinng->dereferencing
+derefernce->dereference
 derefferencing->dereferencing
 deriivatiive->derivative
 deriived->derived
@@ -24536,6 +24537,7 @@ latitudde->latitude
 latitudee->latitude
 latitute->latitude
 latituude->latitude
+Latiude->Latitude
 lattittude->latitude
 lattitude->latitude
 lauch->launch
