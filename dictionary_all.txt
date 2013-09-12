@@ -14612,6 +14612,7 @@ draems->dreams
 draeughtsmaen->draughtsman
 Draevidiaen->Dravidian
 draew->draw
+draing->drained
 dramalic->dramatic
 dramathic->dramatic
 dramaticc->dramatic
