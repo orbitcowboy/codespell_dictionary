@@ -9025,6 +9025,7 @@ committttee->committee
 committtting->committing
 commived->connived
 commmemorated->commemorated
+commmented->commented
 commmited->committed
 commmmand->command
 commmmandeer->commandeer
@@ -17128,6 +17129,7 @@ exploittattive->exploitative
 explooitatioon->exploitation
 explooitative->exploitative
 explotation->exploitation
+exponentation->exponentiation
 exporpriated->expropriated
 exporpriation->expropriation
 expot->export
@@ -24017,6 +24019,7 @@ khosen->chosen
 khurkh->church
 khurkhes->churches
 kiindergarten->kindergarten
+killled->killed
 kindaergartaen->kindergarten
 kinddergarten->kindergarten
 kindeergarteen->kindergarten
@@ -33411,6 +33414,7 @@ protuguese->portuguese
 Protuguese->Portuguese
 protuuberance->protuberance
 protuuberances->protuberances
+protytpe->prototype
 prouncements->pronouncements
 provacative->provocative
 provaed->proved
@@ -38244,6 +38248,7 @@ soluable->soluble
 solubble->soluble
 solublae->soluble
 solublee->soluble
+solutino->solution
 soluton->solution
 soluuble->soluble
 solveable->solvable
