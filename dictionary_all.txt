@@ -882,6 +882,7 @@ acconnodates->accommodates
 acconnodating->accommodating
 acconnodation->accommodation
 acconnodations->accommodations
+acconrdingly->accordingly
 accoommoodate->accommodate
 accoommoodated->accommodated
 accoommoodates->accommodates
@@ -961,6 +962,7 @@ acctivities->activities
 acctually->actually
 accuracyy->accuracy
 accurences->occurrences
+accur->occur
 accurracy->accuracy
 accusaed->accused
 accusedd->accused
@@ -4397,6 +4399,8 @@ artticle->article
 arttificial->artificial
 arttificially->artificially
 arttillery->artillery
+arugments ->arguments
+arugments->arguments
 arund->around
 ARV Studio->AVR Studio
 asasin->assassin
@@ -5396,6 +5400,7 @@ backgorund->background
 backgorunds->backgrounds
 backgroound->background
 backgroounds->backgrounds
+backgrouded->background 
 backgroundd->background
 backgroundds->backgrounds
 backgroundss->backgrounds
@@ -27616,6 +27621,7 @@ multiculturaalism->multiculturalism
 multiculturaelism->multiculturalism
 multiculturalissm->multiculturalism
 multiculturralism->multiculturalism
+multidimentional->multidimensional
 multiffunction->multifunction
 multifuction->multifunction
 multifuncction->multifunction
@@ -29721,6 +29727,7 @@ otheer->other
 otherr->other
 othher->other
 otther->other
+ot->to
 oublisher->publisher
 ouevre->oeuvre
 oulpulling->outputting
@@ -37305,6 +37312,7 @@ separration->separation
 separratism->separatism
 separratist->separatist
 separratorr->separator
+sepcifically->specifically
 seperated->separated
 seperately->separately
 seperate->separate
@@ -44959,6 +44967,7 @@ whoolly->wholly
 whote->whole
 whotty->wholly
 whould->would
+whre->where
 whta->what
 whther->whether
 wiaeldaed->wielded
