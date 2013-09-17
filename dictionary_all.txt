@@ -13436,6 +13436,7 @@ dieing->dying
 dieties->deities
 diety->deity
 diference between->difference between
+diference->difference
 diferences->differences
 diferent->different
 diferential->differential
@@ -17135,6 +17136,7 @@ explooitatioon->exploitation
 explooitative->exploitative
 explotation->exploitation
 exponentation->exponentiation
+exponentiate->exponential
 exporpriated->expropriated
 exporpriation->expropriation
 expot->export
