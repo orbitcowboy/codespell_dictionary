@@ -13555,6 +13555,7 @@ digist->digits
 digiths->digits
 digitss->digits
 digitts->digits
+digts->digits
 diiaboliical->diabolical
 diiagrammatiic->diagrammatic
 diial->dial
@@ -14141,6 +14142,7 @@ displaeyed->displayed
 displayaed->displayed
 displayd->displayed
 displayeed->displayed
+display ligthning->display lighting
 displayy->display
 displayyed->displayed
 displeaase->displease
@@ -25933,6 +25935,7 @@ manouvers->maneuvers
 manouvers->manoeuvres
 mantained->maintained
 mantaining->maintaining
+mantisa->mantissa
 manualy->manually
 manuever->maneuver
 manuever->manoeuvre
@@ -27662,6 +27665,7 @@ multipliaers->multipliers
 multiplicaator->multiplicator
 multiplicaetor->multiplicator
 multiplicatoor->multiplicator
+multiplicator->multiplicand
 multiplicatorr->multiplicator
 multiplicatro->multiplicator
 multipliccator->multiplicator
@@ -35613,6 +35617,7 @@ representtattive->representative
 representtattives->representatives
 representted->represented
 representt->represent
+represetants->representants
 represnted->represented
 repressentative->representative
 repressentativess->representatives
