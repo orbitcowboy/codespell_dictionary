@@ -12894,6 +12894,7 @@ deriived->derived
 derivaative->derivative
 derivaetive->derivative
 derivalive->derivative
+derivate->derivative
 derivathive->derivative
 derivativ->derivative
 derivattive->derivative
