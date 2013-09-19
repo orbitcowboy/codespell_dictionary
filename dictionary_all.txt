@@ -11256,6 +11256,7 @@ corrrridorrs->corridors
 corrrrosion->corrosion
 corwn->crown
 costitution->constitution
+costumer->customer
 cotander->colander
 cotonies->colonies
 cotonizers->colonizers
@@ -26186,6 +26187,7 @@ matthemattician->mathematician
 matthematticians->mathematicians
 matthemattics->mathematics
 mattrices->matrices
+matttered->mattered
 matttter->matter
 maximus->maximum
 may has been->may have been
@@ -28029,6 +28031,7 @@ Nazereth->Nazareth
 Nazzareth->Nazareth
 Neaanderthaal->Neanderthal
 Neaenderthael->Neanderthal
+neaer->near
 Neandderthal->Neanderthal
 Neanderhtal->Neanderthal
 Neanderlhal->Neanderthal
@@ -33450,6 +33453,7 @@ providaes->provides
 providdedd->provided
 providdes->provides
 provideed->provided
+provideers->providers
 providees->provides
 providess->provides
 provies->provides
@@ -40285,6 +40289,7 @@ supposiing->supposing
 supposingg->supposing
 supposingly->supposedly
 supposinng->supposing
+suppport->support
 supppplanted->supplanted
 supppplemented->supplemented
 supppplementing->supplementing
@@ -45216,6 +45221,7 @@ would havee->would have
 would havve->would have
 would hav->would have
 would hhave->would have
+wouldnt->would not
 would of->would have
 woulld have->would have
 woulld->would
