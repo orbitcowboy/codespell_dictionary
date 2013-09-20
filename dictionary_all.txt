@@ -9141,6 +9141,7 @@ communitties->communities
 communnicationn->communication
 communnicationns->communications
 communnities->communities
+communticaion->communication
 commuunication->communication
 commuunications->communications
 commuunities->communities
@@ -18856,6 +18857,7 @@ geommeters->geometers
 geoographical->geographical
 geoometer->geometer
 geoometers->geometers
+geopraphical->geographical
 gerater->greater
 gerat->great
 gererates->generates
@@ -30493,6 +30495,7 @@ penaltty->penalty
 penaltyy->penalty
 penatly->penalty
 penatty->penalty
+pendantic->pedantic
 penelralor->penetrator
 penerator->penetrator
 penethrathor->penetrator
@@ -37889,6 +37892,7 @@ simplifiedd->simplified
 simplifieed->simplified
 simplifiy->simplify
 simplifyy->simplify
+simplitfication->simplification
 simpliy->simplify
 simpller->simpler
 simpllest->simplest
@@ -38282,6 +38286,7 @@ somae->some
 somaething->something
 somaetimaes->sometimes
 somaewhaerae->somewhere
+some another->some other
 someeonee->someone
 somee->some
 someething->something
@@ -40792,6 +40797,7 @@ synchronizzation->synchronization
 synchroonizatioon->synchronization
 synchrronization->synchronization
 synch->sync
+syncronisze->synchronize
 syncronization->synchronization
 synkhronization->synchronization
 synmetrically->symmetrically
@@ -45454,6 +45460,7 @@ yoou->you
 yotube->youtube
 youir->your
 youlube->youtube
+your at->you are at
 youre->you're
 yourrself->yourself
 yoursaelf->yourself
