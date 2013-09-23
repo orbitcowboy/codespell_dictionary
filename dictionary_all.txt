@@ -13421,6 +13421,7 @@ dicovered->discovered
 dicovering->discovering
 dicovers->discovers
 dicovery->discovery
+dictionay->dictionary
 dicussed->discussed
 didn'l->didn't
 did nnot->did not
