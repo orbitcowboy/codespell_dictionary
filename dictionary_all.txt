@@ -5269,6 +5269,7 @@ auxxiliaries->auxiliaries
 auxxiliary->auxiliary
 a vaengaeancae->a vengeance
 avaeragaed->averaged
+avaiable->available
 avaialble->available
 avaiilabiiliity->availability
 avaiilable->available
@@ -7262,6 +7263,7 @@ casadde->casade
 casadee->casade
 Casar->Caesar
 cascade->casade
+cased->caused
 casette->cassette
 casion->caisson
 casowary->cassowary
@@ -8501,6 +8503,7 @@ cocktaill->cocktail
 cocktait->cocktail
 cockthail->cocktail
 cockttail->cocktail
+cococa->Cocoa
 coctail->cocktail
 codaed->coded
 codaespaell->codespell
@@ -10805,6 +10808,7 @@ convveyor->conveyor
 convvinced->convinced
 convyor->conveyor
 cooast->coast
+cooca->cocoa
 coocktail->cocktail
 cooded->coded
 coodespell->codespell
@@ -14736,6 +14740,7 @@ dyeinng->dyeing
 dyiing->dying
 dyingg->dying
 dyinng->dying
+dynamicly->dynamically
 dyyeing->dyeing
 dyying->dying
 eaach->each
@@ -29751,6 +29756,7 @@ ousttanding->outstanding
 outhputh->output
 outhpuththing->outputting
 outhsthanding->outstanding
+out_of_rage->out_of_range
 outpput->output
 outpputting->outputting
 outpulling->outputting
@@ -34399,6 +34405,7 @@ recaall->recall
 recaell->recall
 recallll->recall
 recal->recall
+recalulate->recalculate
 recatt->recall
 reccall->recall
 recceded->receded
@@ -37020,6 +37027,7 @@ sciientiifiic->scientific
 sciientiist->scientist
 scince->science
 scinece->science
+Scintiall->Scintilla
 scirpt->script
 Sckagerrack->Skagerrak
 sckating->skating
@@ -37680,6 +37688,7 @@ should noth have->should not have
 should nott have happened->should not have happened
 should nott have->should not have
 shouldn'th->shouldn't
+should'nt->shouldn't
 shouldnt->shouldn't
 shouldnt'->shouldn't
 shouldn'tt->shouldn't
@@ -43139,6 +43148,7 @@ undersitood->understood
 underslood->understood
 undersstood->understood
 understanability->understandability
+understant->understand
 understhood->understood
 understod->understood
 understoon->understood
@@ -44090,6 +44100,7 @@ variiatiions->variations
 variietiies->varieties
 variiety->variety
 varing->varying
+varioius->various
 varities->varieties
 varity->variety
 varriables->variables
