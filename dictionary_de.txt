@@ -15,6 +15,7 @@ angzeigt->angezeigt
 Artzt->Arzt
 assozial->asozial
 Athmosphäre->Atmosphäre
+Avionk->Avionik
 Atrappe->Attrappe
 auschalten->ausschalten
 Ausdrcuk->Ausdruck

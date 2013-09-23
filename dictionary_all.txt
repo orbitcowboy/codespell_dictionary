@@ -24894,6 +24894,7 @@ licensse->license
 lickelihood->likelihood
 licke->like
 lickud->likud
+licsence->license
 licud->likud
 lieeuteenant->lieutenant
 lieing->lying
@@ -28798,6 +28799,7 @@ Nullarbro->Nullarbor
 Nullarrborr->Nullarbor
 Nullllarbor->Nullarbor
 nullpointer->null pointer
+null-terminate string->null-terminated string
 nulrienl->nutrient
 nulrienls->nutrients
 numaeric->numeric
@@ -33355,6 +33357,7 @@ propriettary->proprietary
 propriietary->proprietary
 proprotional->proportional
 proprotions->proportions
+propse->propose
 prosaelytizing->proselytizing
 proseelytizing->proselytizing
 proseletyzing->proselytizing
@@ -43662,6 +43665,7 @@ unsubstantiatedd->unsubstantiated
 unsubstantiateed->unsubstantiated
 unsubstantiiated->unsubstantiated
 unsubsthanthiathed->unsubstantiated
+un-substituted->unsubstituted
 unsubsttanttiatted->unsubstantiated
 unsubtsantiated->unsubstantiated
 unsuccaessfully->unsuccessfully
@@ -45166,6 +45170,7 @@ worc->work
 wordds->words
 wordlwide->worldwide
 wordss->words
+work-around->workaround
 workiing->working
 workingg->working
 workinng->working
