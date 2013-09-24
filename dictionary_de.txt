@@ -15,7 +15,6 @@ angzeigt->angezeigt
 Artzt->Arzt
 assozial->asozial
 Athmosphäre->Atmosphäre
-Avionk->Avionik
 Atrappe->Attrappe
 auschalten->ausschalten
 Ausdrcuk->Ausdruck
@@ -25,6 +24,7 @@ ausser->außer
 authorisieren->autorisieren
 authorisiert->autorisiert
 Authorisierung->Autorisierung
+Avionk->Avionik
 beeendet->beendet
 befel->befehl
 befele->befehle
@@ -185,6 +185,7 @@ meißte->meiste
 meißt->meist
 mieserabel->miserabel
 Milimeter->Millimeter
+min nicht->mit nicht
 Modusse->Modi
 montalichen->monatlichen
 nach dem->nachdem

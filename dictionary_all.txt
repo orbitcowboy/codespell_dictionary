@@ -9628,6 +9628,7 @@ conected->connected
 Conecticut->Connecticut
 conection->connection
 conectix->connectix
+conencted->connected
 conent->content
 conesencus->consensus
 conffidential->confidential
@@ -15944,6 +15945,7 @@ entangtements->entanglements
 entargement->enlargement
 entargements->enlargements
 enteratinment->entertainment
+enterprsie->enterprise
 enterrtaining->entertaining
 enterrtainment->entertainment
 entertaaining->entertaining
@@ -25779,6 +25781,7 @@ managgeable->manageable
 managgeably->manageably
 managgement->management
 managment->management
+managment too->management tool
 managueable->manageable
 managueably->manageably
 managuement->management
@@ -37191,6 +37194,7 @@ seettleemeent->settlement
 seeveeral->several
 seeveereely->severely
 seeveerity->severity
+Segate->Seagate
 segementation->segmentation
 seges->segues
 seggmentation->segmentation
@@ -40800,6 +40804,7 @@ synagoogue->synagogue
 synagouge->synagogue
 syncchronization->synchronization
 synchhronization->synchronization
+synching->syncing
 synchornization->synchronization
 synchroniizatiion->synchronization
 synchronizaation->synchronization
@@ -43821,6 +43826,7 @@ upgradaed->upgraded
 upgraddedd->upgraded
 upgradded->upgraded
 upgradeed->upgraded
+upgradin->upgrading
 upgraeded->upgraded
 upgrraded->upgraded
 upkoming->upcoming
@@ -44258,6 +44264,7 @@ veraandaa->veranda
 veraendae->veranda
 verandda->veranda
 verannda->veranda
+Verbatum->Verbatim
 verfication->verification
 verfiy->verify
 verfy->verify
