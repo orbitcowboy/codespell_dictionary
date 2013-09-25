@@ -17563,6 +17563,7 @@ familes->families
 familiaes->families
 familiarr->familiar
 familiees->families
+familier->familiar
 familiess->families
 familiies->families
 familiy->family
@@ -32504,6 +32505,7 @@ premillennnnial->premillennial
 premillllenniall->premillennial
 preminence->preeminence
 premission->permission
+premissions->permissions
 premittennial->premillennial
 premittenniat->premillennial
 premmiered->premiered
@@ -43344,6 +43346,7 @@ uninterruptedd->uninterrupted
 uninterupted->uninterrupted
 unintherrupthed->uninterrupted
 unintterruptted->uninterrupted
+uniq->unique
 unistalled->uninstalled
 UnitaedStataes->UnitedStates
 unitateratty->unilaterally
