@@ -14305,6 +14305,7 @@ disstinguisshing->distinguishing
 disstributed->distributed
 disstribution->distribution
 disstrictss->districts
+distgustingly->disgustingly
 disthincthion->distinction
 disthincthive->distinctive
 disthinguish->distinguish
@@ -14561,6 +14562,7 @@ donn't->don't
 do nol->do not
 do noth->do not
 do nott->do not
+don;t->do not
 dont->do not
 dont->don't
 dont->don't, do not
@@ -14712,6 +14714,7 @@ dryass->dryas
 dryyas->dryas
 dstination->destination
 dupicate->duplicate
+dupicates->duplicates
 duplicaate->duplicate
 duplicaete->duplicate
 duplicale->duplicate
@@ -19939,6 +19942,7 @@ hetpfut->helpful
 hetpfutty->helpfully
 hetp->help
 hetterogeneous->heterogeneous
+heve->have
 hhabeas->habeas
 hhaemorrhhage->haemorrhage
 hhandling->handling
@@ -26840,6 +26844,7 @@ minnistries->ministries
 minnistry->ministry
 minstries->ministries
 minstry->ministry
+minuets->minutes
 minuite->minute
 minumum->minimum
 minuted->minutes
@@ -30692,6 +30697,7 @@ permiissiions->permissions
 permisible->permissible
 permision->permission
 permisions->permissions
+permisison->permission
 permissable->permissible
 permissibble->permissible
 permissiblle->permissible
@@ -32736,6 +32742,7 @@ princciple->principle
 principaal->principal
 principael->principal
 principall->principal
+principal->principle
 principat->principal
 principlae->principle
 principlee->principle
@@ -35652,6 +35659,7 @@ reprodducible->reproducible
 reproducable->reproducible
 reproduccible->reproducible
 reproducibble->reproducible
+reproducibiity->reproducibility
 reproduciblle->reproducible
 reproducibte->reproducible
 reproduciible->reproducible
@@ -37150,6 +37158,7 @@ secretery->secretary
 secrethary->secretary
 secrettary->secretary
 secrretarry->secretary
+securty->security
 sedereal->sidereal
 seearcheed->searched
 seearchees->searches
@@ -40356,6 +40365,7 @@ supprresses->suppresses
 supprressing->suppressing
 supprresss->suppresss
 supprress->suppress
+supprt->support
 suppse->suppose
 supptanted->supplanted
 supptemented->supplemented
@@ -44993,6 +45003,7 @@ whiile->while
 whikh->which
 whilae->while
 whilee->while
+whilever->whenever
 whille->while
 whio->who
 whithout->without
