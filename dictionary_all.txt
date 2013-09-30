@@ -11268,6 +11268,7 @@ corrrresponding->corresponding
 corrrresponds->corresponds
 corrrridorrs->corridors
 corrrrosion->corrosion
+coruse->course
 corwn->crown
 cosinus->cosine
 costitution->constitution
@@ -39261,6 +39262,7 @@ staayed->stayed
 stabbility->stability
 stabble->stable
 stabiiliity->stability
+stabilitize->stabilize
 stabilityy->stability
 stabillity->stability
 stabitity->stability
@@ -41155,6 +41157,7 @@ tekhnikian->technician
 tekhniques->techniques
 tekhnology->technology
 telelevision->television
+telenet->telnet
 telephhony->telephony
 telephonny->telephony
 telephonyy->telephony
@@ -43906,6 +43909,7 @@ usefutty->usefully
 usefut->useful
 useing->using
 UserID->User ID
+usesrs->users
 usigned->unsigned
 usiing->using
 usingg->using
