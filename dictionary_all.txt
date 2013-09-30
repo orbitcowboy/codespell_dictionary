@@ -3221,6 +3221,7 @@ amuseed->amused
 amussed->amused
 amuused->amused
 analagous->analogous
+analisis->analysis
 analitic->analytic
 anallogous->analogous
 anallytic->analytic
