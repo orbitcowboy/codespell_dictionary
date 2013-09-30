@@ -3926,6 +3926,7 @@ apropriateness->appropriateness
 aproximate->approximate
 aproximated->approximated
 aproximately->approximately
+aproximation->approximation
 aprron->apron
 aqqueduct->aqueduct
 aquaduct->aqueduct
@@ -4437,6 +4438,7 @@ as checkled->as checked
 as cheeckeed->as checked
 as cheked->as checked
 as chhecked->as checked
+aseembly->assembly
 asemble->assemble
 asertion->assertion
 asetic->ascetic
@@ -4652,6 +4654,7 @@ assosication->assassination
 asspectss->aspects
 assphyxiation->asphyxiation
 asssassans->assassins
+asssignment->assignment
 assssassssin->assassin
 assssassssinate->assassinate
 assssassssinated->assassinated
@@ -8784,6 +8787,7 @@ comforlable->comfortable
 comforrtable->comfortable
 comfortaable->comfortable
 comfortabble->comfortable
+comfortabel->comfortable
 comfortablae->comfortable
 comfortablee->comfortable
 comfortablle->comfortable
@@ -11199,6 +11203,7 @@ correesponding->corresponding
 correesponds->corresponds
 correponding->corresponding
 correposding->corresponding
+correspoding->corresponding
 correspomding->corresponding
 correspondant->correspondent
 correspondants->correspondents
@@ -11264,6 +11269,7 @@ corrrresponds->corresponds
 corrrridorrs->corridors
 corrrrosion->corrosion
 corwn->crown
+cosinus->cosine
 costitution->constitution
 costumer->customer
 cotander->colander
@@ -17681,6 +17687,7 @@ feets->feels
 fel->feel
 fell free->feel free
 fels->feels
+fequent->frequent
 ferlilily->fertility
 feromone->pheromone
 ferrtility->fertility
@@ -21359,6 +21366,7 @@ implementted->implemented
 implementt->implement
 implementting->implementing
 implemeted->implemented
+implemetnation->implementation
 impliccitly->implicitly
 implicilly->implicitly
 implicite->implicit
@@ -21375,6 +21383,7 @@ impllemented->implemented
 impllement->implement
 impllementing->implementing
 impllicitlly->implicitly
+implmementing->implementing
 implmentation->implementation
 imploys->employs
 impolile->impolite
@@ -21950,6 +21959,7 @@ indenthathion->indentation
 indenthed->indented
 indentical->identical
 indentifier->identifier
+indention->indentation
 indenttattion->indentation
 indentted->indented
 indepedantly->independently
@@ -34337,6 +34347,7 @@ reachingg->reaching
 reachinng->reaching
 reacing->reaching
 reacll->recall
+readablity->readability
 readdmission->readmission
 readibility->readability
 Read me->Readme
@@ -35385,6 +35396,7 @@ remaiiniing->remaining
 remaing->remaining
 remainingg->remaining
 remainninng->remaining
+rembember->remember
 rember->remember
 remeber->remember
 remembber->remember
@@ -36116,6 +36128,7 @@ retevance->relevance
 retevant->relevant
 rethaliathed->retaliated
 rethaliathion->retaliation
+re-think->rethink
 rethrieve->retrieve
 rethurned->returned
 rethurning->returning
@@ -40968,6 +40981,7 @@ taexonomy->taxonomy
 tahn->than
 taht->that
 taid->laid
+Tailor series->Taylor series
 takaes->takes
 takae->take
 takees->takes
