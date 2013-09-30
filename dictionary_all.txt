@@ -4581,6 +4581,7 @@ asside->aside
 assiggn->assign
 assiggns->assigns
 assiging->assigning
+assigment->assignment
 assigne->assign
 assignes->assigns
 assignn->assign
@@ -10165,6 +10166,7 @@ consisttentt->consistent
 consisttenttly->consistently
 consitant->constant
 consitantly->constantly
+consitency->consistency
 consitent->consistent
 consiternation->consternation
 consitituencies->constituencies
