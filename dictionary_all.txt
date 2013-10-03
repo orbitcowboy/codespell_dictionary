@@ -14545,6 +14545,7 @@ dokumentation->documentation
 dokument->document
 dokumented->documented
 dokuments->documents
+doman->domain
 domiinant->dominant
 domiinatiion->domination
 dominaant->dominant
@@ -23746,6 +23747,7 @@ ittumination->illumination
 ittusion->illusion
 it you want->if you want
 iunior->junior
+Ive->I have
 ive->i have,i've
 i wad trying->i was trying
 iwll->will
@@ -25014,6 +25016,7 @@ likelihhood->likelihood
 likelihod->likelihood
 likelihoodd->likelihood
 likelihooood->likelihood
+likelly->likely
 likelyhood->likelihood
 like may parts->like many parts
 likenke->licence
@@ -31847,6 +31850,7 @@ potatoaes->potatoes
 potatoees->potatoes
 potatoess->potatoes
 potatos->potatoes
+potential->potentially
 pothathoes->potatoes
 Pothsdam->Potsdam
 potiticat->political
@@ -38819,6 +38823,7 @@ spoonsoored->sponsored
 spoonsoor->sponsor
 spoontaneoous->spontaneous
 spoooonfuls->spoonfuls
+spose->suppose
 sppace->space
 sppaghetti->spaghetti
 Sppanish->Spanish
