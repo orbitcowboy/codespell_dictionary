@@ -6211,6 +6211,7 @@ booat->boat
 boodybuilder->bodybuilder
 booinc->boinc
 boolian->boolean
+bools->boolean
 boolslrap->bootstrap
 boombardment->bombardment
 Boonannoo->Bonanno
@@ -40185,6 +40186,7 @@ suficiently->sufficiently
 suficient->sufficient
 sufrage->suffrage
 sugest->suggest
+suggessted->suggested
 suggestiong->suggesting
 suiccidal->suicidal
 suiccide->suicide

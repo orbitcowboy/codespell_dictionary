@@ -10,7 +10,6 @@ Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
 and->unds
-webbbasierten->webbasierten
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt
@@ -298,6 +297,7 @@ vor haben->vorhaben
 vorraus->voraus
 währe->wäre
 wärend->während
+webbbasierten->webbasierten
 Wehmutstropfen->Wermutstropfen
 Wehrmutstropfen->Wermutstropfen
 weiss->weiß
