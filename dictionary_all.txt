@@ -3599,6 +3599,7 @@ anywwhere->anywhere
 anyy other->any other
 anyything->anything
 anyywhere->anywhere
+a option->an option
 aorse->arose
 aorund->around
 apaenninaes->apennines
@@ -10461,6 +10462,7 @@ contamporary->contemporary
 contant->constant
 contant->contact
 contant->contact,constant
+contants->constants
 conteemporaneeous->contemporaneous
 conteemporariees->contemporaries
 conteemporary->contemporary
@@ -15474,6 +15476,7 @@ embllazon->emblazon
 embllematic->emblematic
 embtazon->emblazon
 embtematic->emblematic
+emcompass->encompass
 emiggrant->emigrant
 emiggrated->emigrated
 emiggration->emigration
@@ -16819,6 +16822,7 @@ execcution->execution
 execising->exercising
 exection->execution
 exectued->executed
+execuation->execution
 execuled->executed
 execule->execute
 execules->executes
@@ -26225,6 +26229,7 @@ mattrices->matrices
 matttered->mattered
 matttter->matter
 maximus->maximum
+may be->maybe
 may has been->may have been
 may havae baeaen->may have been
 may hav been->may have been
@@ -29150,6 +29155,7 @@ oeuuvre->oeuvre
 oeuvere->oeuvre
 oeuvrre->oeuvre
 oeuvvre->oeuvre
+of 10microseconds->by 10 microseconds
 ofcourse->of course
 ofered->offered
 oferings->offerings
@@ -44356,6 +44362,7 @@ versatitity->versatility
 versattilitty->versatility
 versiions->versions
 versiion->version
+versin->version
 versionns->versions
 versionn->version
 versioons->versions
