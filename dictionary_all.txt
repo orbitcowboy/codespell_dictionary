@@ -3225,6 +3225,7 @@ analisis->analysis
 analitic->analytic
 anallogous->analogous
 anallytic->analytic
+analog->analogue
 analogeous->analogous
 analoggous->analogous
 analogouss->analogous
@@ -24581,6 +24582,7 @@ lask->task
 lasle->taste
 lasl->last
 lasst->last
+lastest->latest
 lasth->last
 lastr->last
 lastt->last
@@ -26744,6 +26746,7 @@ milionaire->millionaire
 milion->million
 milipede->millipede
 miliraty->military
+milisecond->millisecond
 miliseconds->milliseconds
 militaary->military
 militaery->military
@@ -26804,6 +26807,8 @@ millipaedae->millipede
 millipedde->millipede
 millipeedee->millipede
 millippede->millipede
+milli second->millisecond
+milli seconds->milliseconds
 millitary->military
 millllenniallism->millennialism
 millllenniall->millennial
@@ -27568,6 +27573,7 @@ mortggagge->mortgage
 morthgage->mortgage
 morttgage->mortgage
 mosture->moisture
+mot active->not active
 motecutes->molecules
 mothivathed->motivated
 motiivated->motivated
@@ -35676,7 +35682,7 @@ representtattive->representative
 representtattives->representatives
 representted->represented
 representt->represent
-represetants->representants
+represetants->representants, represents
 represnted->represented
 repressentative->representative
 repressentativess->representatives
