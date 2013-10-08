@@ -16041,6 +16041,7 @@ entrutsed->entrusted
 entruusted->entrusted
 entrys->entries
 entryy->entry
+entspechend->entsprechend
 enttanglementts->entanglements
 entterttaining->entertaining
 entterttainmentt->entertainment
@@ -42460,6 +42461,7 @@ triggaeraed->triggered
 triggaer->trigger
 triggeereed->triggered
 triggeer->trigger
+triggerd->triggered
 triggeredd->triggered
 triggggered->triggered
 trigggger->trigger
