@@ -1066,6 +1066,7 @@ achiievement->achievement
 achiievements->achievements
 achiieves->achieves
 achiieviing->achieving
+achitectures->architectures
 achive->achieve
 achived->achieved
 achived->archived
@@ -1265,6 +1266,7 @@ acused->accused
 acustom->accustom
 acustomed->accustomed
 acustommed->accustomed
+acutally->actually
 adaequatae->adequate
 adapl->adapt
 adapler->adapter
@@ -4863,6 +4865,7 @@ atlain->attain
 atlainder->attainder
 atlained->attained
 atleast->at least
+at leat->at least
 atlempt->attempt
 atlempted->attempted
 atlempting->attempting
@@ -6634,6 +6637,7 @@ buusiness->business
 buusinesses->businesses
 buusinessman->businessman
 bwloe->below
+by the ame->by the same
 Caaesaar->Caesar
 Caaesar->Caesar
 caaisson->caisson
@@ -8800,6 +8804,7 @@ comforthable->comfortable
 comforttable->comfortable
 comfrotable->comfortable
 comiing->coming
+comiler->compiler
 comingg->coming
 cominng->coming
 comision->commission
@@ -15941,6 +15946,7 @@ enormouus->enormous
 enormouusly->enormously
 enorrmous->enormous
 enorrmously->enormously
+enought->enough
 enourmous->enormous
 enourmously->enormously
 enromous->enormous
@@ -23413,6 +23419,7 @@ introduuced->introduced
 introduuce->introduce
 introoduced->introduced
 introoduce->introduce
+introp->interop
 intrroduced->introduced
 intrroduce->introduce
 intruction->instruction
@@ -29883,6 +29890,7 @@ ovrshadowed->overshadowed
 ovr there->over there
 ovrwhelming->overwhelming
 ovverridden->overridden
+OVVERRIDE->OVERRIDE
 ovverrun->overrun
 ovvershadowed->overshadowed
 ovver there->over there
@@ -38650,6 +38658,7 @@ speciaalised->specialised
 speciaalized->specialized
 speciaelised->specialised
 speciaelized->specialized
+specialice->specialize
 specialisedd->specialised
 specializedd->specialized
 specializzed->specialized
