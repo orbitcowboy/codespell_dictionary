@@ -23157,6 +23157,7 @@ intellecctual->intellectual
 intellectuaal->intellectual
 intellectuael->intellectual
 intellectuual->intellectual
+intellegent->intelligent
 intellektual->intellectual
 intelligencce->intelligence
 intelligenke->intelligence
@@ -41481,6 +41482,7 @@ therefor->therefore
 therefroe->therefore
 therfore->therefore
 theri->their
+thermastat->thermostat
 theroy->theory
 therreafterr->thereafter
 therreby->thereby
