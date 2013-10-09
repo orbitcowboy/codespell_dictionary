@@ -11277,6 +11277,7 @@ corrrresponding->corresponding
 corrrresponds->corresponds
 corrrridorrs->corridors
 corrrrosion->corrosion
+corruptable->corruptible
 coruse->course
 corwn->crown
 cosinus->cosine
@@ -30193,6 +30194,7 @@ parallllells->parallels
 paramaetaer->parameter
 paramaetaers->parameters
 paramater->parameter
+paramaters->parameters
 parameeteer->parameter
 parameeteers->parameters
 parameler->parameter
