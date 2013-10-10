@@ -21997,6 +21997,7 @@ independentlyy->independently
 independentt->independent
 independenttly->independently
 independentty->independently
+INDEPENENT->INDEPENDENT
 indeppendence->independence
 indeppendent->independent
 indeppendently->independently
@@ -40404,6 +40405,7 @@ suppreess->suppress
 suppresed->suppressed
 suppreses->suppresses
 suppresing->suppressing
+suppresion->suppression
 suppressedd->suppressed
 suppressiing->suppressing
 suppressingg->suppressing
@@ -41254,6 +41256,7 @@ temporariily->temporarily
 temporarilly->temporarily
 temporarilyy->temporarily
 temporarity->temporarily
+temporary->temporarily
 temporaryy->temporary
 temporrarrily->temporarily
 temporrarry->temporary
