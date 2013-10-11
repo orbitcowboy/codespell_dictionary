@@ -3228,7 +3228,6 @@ analisis->analysis
 analitic->analytic
 anallogous->analogous
 anallytic->analytic
-analog->analogue
 analogeous->analogous
 analoggous->analogous
 analogouss->analogous
@@ -18347,6 +18346,7 @@ forwaerd->forward
 forwardd->forward
 forwward->forward
 fotball->football
+fo the->for the
 fottowing->following
 foucs->focus
 foudn->found
@@ -29836,6 +29836,7 @@ outstandding->outstanding
 outstandiing->outstanding
 outstandingg->outstanding
 outstanndinng->outstanding
+outter->outer
 outtputt->output
 outtputttting->outputting
 outtsanding->outstanding
