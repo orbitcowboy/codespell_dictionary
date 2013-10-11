@@ -3036,6 +3036,7 @@ altendant->attendant
 altendants->attendants
 altended->attended
 altention->attention
+alterantives->alternatives
 alternatiives->alternatives
 alternativees->alternatives
 alternativess->alternatives
@@ -3922,6 +3923,7 @@ apptications->applications
 apptied->applied
 apreciate->appreciate
 aprehensive->apprehensive
+aproach->approach
 aproaches->approaches
 apronn->apron
 aproon->apron
@@ -11777,6 +11779,7 @@ cusitomize->customize
 cuslomize->customize
 cusstomize->customize
 custhomize->customize
+custome->custom
 customiize->customize
 customise->customize
 customizae->customize
@@ -13538,6 +13541,7 @@ differrent->different
 differrential->differential
 differrentiate->differentiate
 differrentiations->differentiations
+differring->differing
 difffference between->difference between
 difffferences->differences
 difffferent->different
@@ -19009,6 +19013,7 @@ glight->flight
 gllamorous->glamorous
 gllowed->allowed
 gloabls->globals
+glocal->global
 gnaawed->gnawed
 gnaewed->gnawed
 gnawaed->gnawed
@@ -29805,6 +29810,7 @@ othaer->other
 otheer->other
 otherr->other
 othher->other
+ot->of
 otther->other
 ot->to
 oublisher->publisher
@@ -39371,6 +39377,7 @@ statemments->statements
 statemment->statement
 statemnt->statement
 statesmann->statesman
+statesments->statements
 statesmman->statesman
 statiion->station
 stationn->station
@@ -45384,6 +45391,7 @@ writlen->written
 writtaen->written
 writteen->written
 writtenn->written
+writters->writers
 writter->writer
 writte->write
 writting->writing
