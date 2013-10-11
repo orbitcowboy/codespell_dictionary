@@ -5216,6 +5216,7 @@ automobilee->automobile
 automobille->automobile
 automobite->automobile
 automonomous->autonomous
+automtatically->automatically
 autonnomous->autonomous
 autonommous->autonomous
 autonomouss->autonomous
@@ -23754,6 +23755,7 @@ ith->it
 it it->it
 it kan still->it can still
 itnroduced->introduced
+itreration->iteration
 it still can->it can still
 itt can sttill->it can still
 ittegal->illegal
@@ -30840,6 +30842,7 @@ persisttence->persistence
 persisttentt->persistent
 persitsence->persistence
 persitsent->persistent
+persoannly->personally
 persommel->personnel
 persomnel->personnel
 personaality->personality
@@ -31884,7 +31887,6 @@ potatoaes->potatoes
 potatoees->potatoes
 potatoess->potatoes
 potatos->potatoes
-potential->potentially
 pothathoes->potatoes
 Pothsdam->Potsdam
 potiticat->political
@@ -35330,6 +35332,7 @@ relattively->relatively
 releaases->releases
 releaeses->releases
 releassess->releases
+releaving->relieving
 relected->reelected
 releived->relieved
 releive->relieve
@@ -41266,7 +41269,6 @@ temporariily->temporarily
 temporarilly->temporarily
 temporarilyy->temporarily
 temporarity->temporarily
-temporary->temporarily
 temporaryy->temporary
 temporrarrily->temporarily
 temporrarry->temporary
@@ -41799,6 +41801,7 @@ thrunk->trunk
 thrusth->trust
 thrusthworthhiness->trustworthiness
 thry->try
+thse->these
 thsi->this
 thsoe->those
 ths->this
