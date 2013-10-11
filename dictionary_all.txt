@@ -3068,6 +3068,7 @@ altogeter->altogether
 altogetherr->altogether
 altogethher->altogether
 altoggether->altogether
+altogother->altogether
 altoguether->altogether
 altoogether->altogether
 altorney->attorney
@@ -3503,6 +3504,7 @@ anoother->another
 anoter->another
 anothaer->another
 anotheer->another
+a nother->another
 an other->another
 anotherr->another
 anothher->another
@@ -17911,6 +17913,7 @@ filetime->file time
 filiament->filament
 fillament->filament
 fillesystem->filesystem
+filures->failures
 fimilies->families
 finaalize->finalize
 finaally->finally
@@ -18002,6 +18005,7 @@ flaggedd->flagged
 flaggeed->flagged
 flagggged->flagged
 flaggued->flagged
+flahboot->flashboot
 flamable->flammable
 flammabble->flammable
 flammablae->flammable
@@ -18093,6 +18097,7 @@ followingg->following
 followinhg->following
 followinng->following
 followwing->following
+follwing->following
 follwoing->following
 folowing->following
 Fomaalhaaut->Fomalhaut
@@ -20413,6 +20418,7 @@ howevr->however
 howevver->however
 howver->however
 howwever->however
+Hper-V->Hyper-V
 hroizontal->horizontal
 hrorifying->horrifying
 hsitorians->historians
@@ -26242,6 +26248,7 @@ mattrices->matrices
 matttered->mattered
 matttter->matter
 maximus->maximum
+mayabe->maybe
 may be->maybe
 may has been->may have been
 may havae baeaen->may have been
@@ -30659,6 +30666,7 @@ perfformed->performed
 perfformers->performers
 perfforms->performs
 perfomance->performance
+perfomed->performed
 perfomers->performers
 perfoormance->performance
 perfoormed->performed
@@ -33972,6 +33980,7 @@ Quaeaensland->Queensland
 quaentity->quantity
 quaeraentine->quarantine
 quaestionablae->questionable
+quaestion->question
 quanlily->quantity
 quanntity->quantity
 quantaty->quantity
@@ -40295,6 +40304,7 @@ suplemented->supplemented
 suplementing->supplementing
 suplimented->supplemented
 suply->supply
+supoose->suppose
 suported->supported
 suport->support
 suposedly->supposedly
