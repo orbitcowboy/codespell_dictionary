@@ -1327,6 +1327,7 @@ addittional->additional
 addittionally->additionally
 addjustable->adjustable
 addjustments->adjustments
+addmin->admin
 addministeredd->administered
 addministrate->administrate
 addministration->administration
@@ -9712,6 +9713,7 @@ configuree->configure
 configurrable->configurable
 configurration->configuration
 configurre->configure
+configurting->configuring
 configuurable->configurable
 configuuration->configuration
 configuure->configure
@@ -11216,6 +11218,7 @@ correesponding->corresponding
 correesponds->corresponds
 correponding->corresponding
 correposding->corresponding
+corrept->corrupt
 correspoding->corresponding
 correspomding->corresponding
 correspondant->correspondent
@@ -17900,6 +17903,7 @@ filamennt->filament
 filamenth->filament
 filamentt->filament
 filamment->filament
+filed name->field name
 filee->file
 filees->files
 fileesysteem->filesystem
@@ -23747,6 +23751,7 @@ it can stillll->it can still
 it can stitt->it can still
 it can tsill->it can still
 it ccan still->it can still
+itdentities->identities
 iteem->item
 itemm->item
 Ithaacaa->Ithaca
@@ -24965,6 +24970,7 @@ lieuttenantt->lieutenant
 lieuutenant->lieutenant
 lieved->lived
 lifaetimae->lifetime
+lifcyle->lifecyle
 lifeetimee->lifetime
 lifelime->lifetime
 lifethime->lifetime
@@ -36918,6 +36924,7 @@ satisfactorilly->satisfactorily
 satisfactorilyy->satisfactorily
 satisfactority->satisfactorily
 satisfactorrily->satisfactorily
+satisfactory->satisfaction
 satisfactroily->satisfactorily
 satisfaktorily->satisfactorily
 satisffactorily->satisfactorily
@@ -38698,6 +38705,7 @@ speciffied->specified
 speciffying->specifying
 speciffy->specify
 specifiaclly->specifically
+specificied->specified
 specificy->specify
 specifiedd->specified
 specifiying->specifying
@@ -42524,6 +42532,7 @@ triviall->trivial
 triviat->trivial
 trivvial->trivial
 triyed->tried
+trnslation->translation
 troch->torch
 troling->trolling
 trolliing->trolling
