@@ -3309,6 +3309,7 @@ and hten->and then
 and lhen->and then
 andorgynous->androgynous
 andorgyny->androgyny
+andriod->android
 androgenous->androgynous
 androgeny->androgyny
 androggynous->androgynous
@@ -35670,6 +35671,7 @@ reposiitory->repository
 reposilory->repository
 reposithory->repository
 repositoryy->repository
+repositotry->repository
 repositroy->repository
 reposittory->repository
 repossitory->repository
@@ -36960,6 +36962,7 @@ satyrr->satyr
 satyyr->satyr
 saught->sought
 saveing->saving
+savely->safely
 saviing->saving
 savingg->saving
 savinng->saving
