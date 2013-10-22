@@ -41512,6 +41512,7 @@ thenthacles->tentacles
 thenthacle->tentacle
 theoory->theory
 theorie->theory
+theori->theory
 theorry->theory
 theoryy->theory
 theraefter->thereafter
@@ -41527,6 +41528,7 @@ therefoore->therefore
 therefor->therefore
 therefroe->therefore
 therfore->therefore
+therfor->therefore
 theri->their
 thermastat->thermostat
 theroy->theory
