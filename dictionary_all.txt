@@ -11065,6 +11065,7 @@ coordinale->coordinate
 coordinalion->coordination
 coordinatae->coordinate
 coordinatee->coordinate
+co-ordinates->coordinates
 coordinathe->coordinate
 coordinathion->coordination
 coordinatte->coordinate
@@ -14514,6 +14515,7 @@ documentaetion->documentation
 documentarry->documentary
 documentaryy->documentary
 documentatiion->documentation
+documentation->documen-tation
 documenthary->documentary
 documenthathion->documentation
 documenth->document
@@ -19019,6 +19021,8 @@ gllamorous->glamorous
 gllowed->allowed
 gloabls->globals
 glocal->global
+glosary->glossary
+glossay->glossary
 gnaawed->gnawed
 gnaewed->gnawed
 gnawaed->gnawed

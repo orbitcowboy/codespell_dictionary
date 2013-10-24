@@ -254,6 +254,7 @@ seit dem->seitdem
 seperat->separat
 Seriösität->Seriosität
 signifikatner->signifikanter
+Sitaution->Situation
 skurill->skurril
 skuril->skurril
 Softwarepackete->Softwarepakete
