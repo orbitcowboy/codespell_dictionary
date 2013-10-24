@@ -23711,6 +23711,7 @@ irrrresistible->irresistible
 irrrresistibly->irresistibly
 irrrritable->irritable
 irrrritated->irritated
+is check that->is checked that
 isn'l->isn't
 isnn't->isn't
 isn'th->isn't
@@ -28207,6 +28208,7 @@ negaative->negative
 negaetive->negative
 negalive->negative
 negathive->negative
+negatie->negative
 negatiive->negative
 negativee->negative
 negativ->negative
