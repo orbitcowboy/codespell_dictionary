@@ -8529,6 +8529,7 @@ coddedd->coded
 coddespell->codespell
 codeed->coded
 codeespeell->codespell
+coderage->coverage
 codespel->codespell
 codespellll->codespell
 codespett->codespell
