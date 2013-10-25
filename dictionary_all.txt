@@ -21822,6 +21822,7 @@ inconsistaent->inconsistent
 inconsistant->inconsistent
 inconsisteent->inconsistent
 in consistency->inconsistency
+inconsisten->inconsistent
 inconsisthenth->inconsistent
 inconsisttentt->inconsistent
 inconsitent->inconsistent
