@@ -6542,6 +6542,7 @@ buisness->business
 buisnessman->businessman
 buitd->build
 buld->build
+buld->build 
 buoancy->buoyancy
 buooyancy->buoyancy
 buooyant->buoyant
@@ -44203,6 +44204,7 @@ varianl->variant
 variannt->variant
 varianth->variant
 variantt->variant
+varias->various
 variathions->variations
 variationns->variations
 variationss->variations
