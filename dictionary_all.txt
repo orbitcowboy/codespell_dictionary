@@ -6542,7 +6542,6 @@ buisness->business
 buisnessman->businessman
 buitd->build
 buld->build
-buld->build 
 buoancy->buoyancy
 buooyancy->buoyancy
 buooyant->buoyant
@@ -8358,6 +8357,7 @@ Cincinnatti->Cincinnati
 cindergarten->kindergarten
 Cinkinnati->Cincinnati
 Cinncinnnnati->Cincinnati
+cintainer->container
 circuil->circuit
 circuith->circuit
 circuitt->circuit
