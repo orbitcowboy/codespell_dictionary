@@ -1294,6 +1294,7 @@ addddressedd->addressed
 addddresses->addresses
 addddressing->addressing
 adddress->address
+added added->added
 addequate->adequate
 addherence->adherence
 addhering->adhering
@@ -33504,6 +33505,7 @@ protoccol->protocol
 protocoll->protocol
 protocot->protocol
 protoganist->protagonist
+protokoll->protocol
 protokol->protocol
 protrait->portrait
 protrayed->portrayed
