@@ -6051,6 +6051,7 @@ betieving->believing
 betoved->beloved
 betow->below
 betsiality->bestiality
+better then->better than
 bettigerent->belligerent
 bettween->between
 bettwether->bellwether
@@ -17120,6 +17121,7 @@ experimentt->experiment
 experimentts->experiments
 experimment->experiment
 experimments->experiments
+experince->experience
 experrienced->experienced
 experrience->experience
 experriment->experiment
@@ -17657,6 +17659,7 @@ faskinated->fascinated
 faskist->fascist
 fasscinated->fascinated
 fasscisst->fascist
+faster then->faster than
 fatc->fact
 fatse->false
 faught->fought
@@ -30555,6 +30558,7 @@ peessary->pessary
 peetition->petition
 peformed->performed
 peice->piece
+peices->pieces
 pejjorative->pejorative
 pejoorative->pejorative
 pejoraative->pejorative
