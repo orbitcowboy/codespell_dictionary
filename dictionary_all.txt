@@ -5359,6 +5359,7 @@ aviattion->aviation
 aview->a view
 aviiatiion->aviation
 avilable->available
+aviod->avoid
 a vngeance->a vengeance
 avraged->averaged
 AVR Sludio->AVR Studio
