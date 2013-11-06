@@ -29510,6 +29510,7 @@ opeenneess->openness
 opeerator->operator
 opemmess->openness
 opemness->openness
+opended->opened
 opend->opened
 openedd->opened
 openeing->opening
@@ -41526,6 +41527,7 @@ themsselvess->themselves
 thendencies->tendencies
 thendency->tendency
 then end->the end
+then installer->the installer
 thennis player->tennis player
 thenn->then
 thenthacles->tentacles
