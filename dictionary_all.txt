@@ -15010,6 +15010,7 @@ eequipmeent->equipment
 eequippeed->equipped
 eequivaleent->equivalent
 eereecteed->erected
+EEROM->EEPROM
 eerratically->erratically
 eerratic->erratic
 eerroneeous->erroneous
@@ -33055,6 +33056,7 @@ proctaimed->proclaimed
 proctaiming->proclaiming
 proctamation->proclamation
 proctect->protect
+prodedure->procedure
 profaessaed->professed
 profaessional->professional
 profaession->profession
