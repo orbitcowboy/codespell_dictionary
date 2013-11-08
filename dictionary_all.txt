@@ -7309,6 +7309,7 @@ cassssette->cassette
 cassssowary->cassowary
 cassualtiess->casualties
 cassualty->casualty
+castom->custom
 casuallies->casualties
 casuallties->casualties
 casuallty->casualty
@@ -7992,6 +7993,7 @@ certaeinty->certainty
 certaiin->certain
 certaiinty->certainty
 certainity->certainty
+certainlly->certainly
 certainn->certain
 certainnty->certainty
 certaintyy->certainty
@@ -14027,6 +14029,7 @@ discoveereed->discovered
 discoveering->discovering
 discoveers->discovers
 discoveery->discovery
+discoverd->discovered
 discoveringg->discovering
 discoverinng->discovering
 discoverr->discover
@@ -18147,6 +18150,7 @@ fomed->formed
 Fommalhaut->Fomalhaut
 fomr->form
 fomr->from
+fomula->formula
 fonetic->phonetic
 fonlier->fontier
 fonntier->fontier
@@ -18513,6 +18517,7 @@ frome->from
 fromerly->formerly
 fromidable->formidable
 fromm->from
+fromula->formula
 froniter->frontier
 fronlier->frontier
 fronntier->frontier
@@ -30020,6 +30025,7 @@ paath->path
 paaths->paths
 paatience->patience
 paavilion->pavilion
+pacakge->package
 padddding->padding
 paddiing->padding
 paddingg->padding
@@ -45388,6 +45394,7 @@ worldwiide->worldwide
 worlldwide->worldwide
 worlld->world
 worls->world
+worlwide->worldwide
 worrds->words
 worrking->working
 worrkstation->workstation
