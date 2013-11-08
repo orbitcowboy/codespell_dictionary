@@ -10471,6 +10471,7 @@ contaent->content
 contaiins->contains
 contaiminate->contaminate
 containes->contains
+containig->containing
 containss->contains
 contamiinate->contaminate
 contaminatae->contaminate
@@ -11208,6 +11209,7 @@ corrdial->cordial
 correclness->correctness
 correclors->correctors
 correcters->correctors
+correct formatted->correctly formatted
 correcthness->correctness
 correcthors->correctors
 correctnes->correctness
@@ -25124,6 +25126,7 @@ linguitsic->linguistic
 linguitsics->linguistics
 linguuistic->linguistic
 linguuistics->linguistics
+linited->limited
 linke->link
 linkes->links
 linmaean->linnaean
@@ -41477,6 +41480,7 @@ thasthe->taste
 thast->that
 thast->that's
 tha->the
+thath->that
 thaththoos->tattoos
 thaththoo->tattoo
 that'ss->that's
