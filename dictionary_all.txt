@@ -4619,6 +4619,7 @@ assitant->assistant
 assit->assist
 assitsant->assistant
 assits->assist
+assmebly->assembly
 assocation->association
 assocciate->associate
 assocciated->associated
@@ -8549,6 +8550,7 @@ coefficienst->coefficients
 coefficienths->coefficients
 coefficientss->coefficients
 coefficientts->coefficients
+coefficiet->coefficient
 coeffiiciients->coefficients
 coeficients->coefficients
 cofee->coffee
@@ -9290,6 +9292,7 @@ comparsion->comparison
 comparsions->comparisons
 compatabilities->compatibilities
 compatability->compatibility
+compatabilty->compatibility
 compatable->compatible
 compatablities->compatibilities
 compatablity->compatibility
@@ -12427,6 +12430,7 @@ decribe->describe
 decribes->describes
 decribing->describing
 decriptor->descriptor
+decrpyt->decrypt
 decrrees->decrees
 decrrementorr->decrementor
 decrrypt->decrypt
@@ -13285,6 +13289,7 @@ determinninng->determining
 determinted->determined
 determmine->determine
 determmining->determining
+determnant->determinant
 deterriorrated->deteriorated
 deterriorrate->deteriorate
 deterriorrating->deteriorating
@@ -15723,6 +15728,7 @@ encouragiing->encouraging
 encouraing->encouraging
 encourraging->encouraging
 encouuraging->encouraging
+encrpyt->encrypt
 encrrypt->encrypt
 encrryption->encryption
 encrypl->encrypt
@@ -17554,6 +17560,7 @@ facitities->facilities
 facl->fact
 facotry->factory
 facth->fact
+factorining->factoring
 factt->fact
 faeael->feel
 faeaels->feels
@@ -21775,6 +21782,7 @@ incompaetible->incompatible
 incompalibililies->incompatibilities
 incompalibilily->incompatibility
 incompalible->incompatible
+incompatabilies->incompatibilities
 incompatabilities->incompatibilities
 incompatability->incompatibility
 incompatable->incompatible
@@ -39559,6 +39567,7 @@ straetegicaelly->strategically
 straetegic->strategic
 straetegies->strategies
 straetegy->strategy
+stragey->strategy
 straight forward->straightforward
 strandd->strand
 strangae->strange
@@ -44402,6 +44411,7 @@ veraandaa->veranda
 veraendae->veranda
 verandda->veranda
 verannda->veranda
+verbage->verbiage
 Verbatum->Verbatim
 verfication->verification
 verfiy->verify
