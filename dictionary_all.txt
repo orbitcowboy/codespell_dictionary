@@ -4221,6 +4221,7 @@ arguument->argument
 arguuments->arguments
 arials->aerials
 arised->arose
+arithemtic->arithmetic
 arithmetik->arithmetic
 arival->arrival
 arkhaeologist->archaeologist
@@ -15188,6 +15189,7 @@ efficientlyy->efficiently
 efficientt->efficient
 efficienttly->efficiently
 efficientty->efficiently
+efficieny->efficiency
 effiiciiency->efficiency
 effiiciient->efficient
 effiiciiently->efficiently
@@ -17233,6 +17235,7 @@ exppressed->expressed
 expproppriated->expropriated
 expproppriation->expropriation
 expresed->expressed
+expresion->expression
 expressedd->expressed
 expressssed->expressed
 exproopriated->expropriated
@@ -36465,6 +36468,7 @@ roughlly->roughly
 roughlyy->roughly
 roughty->roughly
 rougly->roughly
+rountines->routines 
 rouughly->roughly
 ro without->or without
 rrabbinical->rabbinical
