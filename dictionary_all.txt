@@ -17181,6 +17181,7 @@ explicitlyy->explicitly
 explicitt->explicit
 explicittly->explicitly
 explicitty->explicitly
+explicity->explicitly
 explict->explicit
 explictly->explicitly
 expliiciit->explicit
@@ -21430,6 +21431,7 @@ implementhed->implemented
 implementh->implement
 implementhing->implementing
 implementingg->implementing
+implemention->implementation
 implementor->implementer
 implementtattion->implementation
 implementted->implemented
@@ -27390,6 +27392,7 @@ moderm->modem
 modess->modes
 modet->model
 modetted->modelled
+modifed->modified
 modiffiable->modifiable
 modifiaable->modifiable
 modifiabble->modifiable
@@ -29702,6 +29705,8 @@ opprression->oppression
 opprressive->oppressive
 opptimism->optimism
 opptimizations->optimizations
+opration->operation
+oprations->operations
 opression->oppression
 opressive->oppressive
 opthalmic->ophthalmic
@@ -34743,6 +34748,7 @@ recommmmended->recommended
 recommmmending->recommending
 recommmmend->recommend
 recommmmends->recommends
+recommondations->recommendations
 recomnaissance->reconnaissance
 recomnendations->recommendations
 recomnended->recommended
@@ -43338,6 +43344,7 @@ understoon->understood
 understooood->understood
 understtood->understood
 undertsood->understood
+underying->underlying
 undesiirable->undesirable
 undesiraable->undesirable
 undesirabble->undesirable
