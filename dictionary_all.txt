@@ -10554,6 +10554,7 @@ conthrols->controls
 conthroversial->controversial
 conthroversies->controversies
 conthroversy->controversy
+contians->contains
 contibute->contribute
 contibuted->contributed
 contibutes->contributes
@@ -16917,6 +16918,7 @@ exerccise->exercise
 exercciser->exerciser
 exerccises->exercises
 exerccising->exercising
+exercices->exercises
 exerciese->exercises
 exerciise->exercise
 exerciiser->exerciser
@@ -18887,6 +18889,7 @@ generathing->generating
 generathion->generation
 generatiing->generating
 generatiion->generation
+generationg->generating
 generatioon->generation
 generatte->generate
 generatting->generating
@@ -24580,6 +24583,7 @@ laerns->learns
 laerry->larry
 laervaee->larvae
 laest->last
+laest->least
 laethal->lethal
 laetitude->latitude
 laeunched->launched
@@ -26865,6 +26869,7 @@ millennnnial->millennial
 millennnnia->millennia
 millennnnium->millennium
 millepede->millipede
+milles->miles
 millieu->milieu
 millieux->milieux
 millionaaire->millionaire
@@ -29878,6 +29883,7 @@ outhputh->output
 outhpuththing->outputting
 outhsthanding->outstanding
 out_of_rage->out_of_range
+outout->output
 outpput->output
 outpputting->outputting
 outpulling->outputting
@@ -35754,6 +35760,7 @@ representaative->representative
 representaatives->representatives
 representaetive->representative
 representaetives->representatives
+representaion->representation
 representatiive->representative
 representatiives->representatives
 representativee->representative
@@ -37951,6 +37958,7 @@ significantlyy->significantly
 significanttly->significantly
 significantt->significant
 significantty->significantly
+significate->significant
 significcantly->significantly
 significcant->significant
 significently->significantly
@@ -42212,6 +42220,7 @@ toukh->touch
 tounge->tongue
 tourch->torch
 tourch->touch
+tousand->thousand
 touuch->touch
 tove->love
 towaards->towards
