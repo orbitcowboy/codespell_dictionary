@@ -5353,6 +5353,7 @@ averageed->averaged
 averagged->averaged
 averagued->averaged
 averraged->averaged
+avialable->available
 avialion->aviation
 aviathion->aviation
 aviationn->aviation
@@ -16805,6 +16806,7 @@ excepttional->exceptional
 excepttion->exception
 excercise->exercise
 excerciser->exerciser
+excerp->excerpt
 excerpl->excerpt
 excerpls->excerpts
 excerppt->excerpt
@@ -45481,6 +45483,7 @@ writters->writers
 writter->writer
 writte->write
 writting->writing
+writtin->written
 writttten->written
 wrods->words
 wroet->wrote
