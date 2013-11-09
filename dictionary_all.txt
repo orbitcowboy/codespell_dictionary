@@ -18006,6 +18006,7 @@ firsth->first
 firstt->first
 firts->first
 firts->flirts
+firtual->virtual
 firware->firmware
 fisionable->fissionable
 fisrt->first
@@ -23807,6 +23808,7 @@ ittegitimacy->illegitimacy
 ittegitimate->illegitimate
 ittem->item
 Itthaca->Ithaca
+it than came->it then came
 itt->it
 ittness->illness
 ittogical->illogical
@@ -40283,6 +40285,7 @@ suffrrage->suffrage
 suficiently->sufficiently
 suficient->sufficient
 sufrage->suffrage
+sugested->suggested
 sugest->suggest
 suggessted->suggested
 suggestiong->suggesting
@@ -45348,6 +45351,8 @@ workslalion->workstation
 worksstation->workstation
 workstaation->workstation
 workstaetion->workstation
+workstaions->workstations
+workstaion->workstation
 workstatiion->workstation
 workstationn->workstation
 worksthathion->workstation
