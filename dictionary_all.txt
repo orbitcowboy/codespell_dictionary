@@ -4915,6 +4915,7 @@ atroocities->atrocities
 atrrocities->atrocities
 atseroid->asteroid
 atso->also
+attache->attached
 attaemptaed->attempted
 attaempt->attempt
 attaempting->attempting
@@ -33489,6 +33490,7 @@ propostion->proposition
 propotions->proportions
 propperly->properly
 propper->proper
+proprely->properly
 propriaetary->proprietary
 proprieetary->proprietary
 proprielary->proprietary
@@ -36267,6 +36269,7 @@ retigious->religious
 retigiousty->religiously
 retinquishment->relinquishment
 retreive->retrieve
+retreiving->retrieving
 retrievee->retrieve
 retriev->retrieve
 retrievve->retrieve
@@ -38775,6 +38778,7 @@ speciffied->specified
 speciffying->specifying
 speciffy->specify
 specifiaclly->specifically
+specificall->specifically
 specificied->specified
 specificy->specify
 specifiedd->specified
