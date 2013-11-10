@@ -3117,6 +3117,7 @@ amatteur->amateur
 amatuer->amateur
 amature->amateur
 amature->armature
+ambiend->ambient
 ambigous->ambiguous
 ameelioratee->ameliorate
 ameend->amend
@@ -9410,6 +9411,7 @@ compilationn->compilation
 compilattion->compilation
 compileer->compiler
 compilerr->compiler
+compiliers->compilers
 compillation->compilation
 compiller->compiler
 compitation->compilation
@@ -29970,6 +29972,7 @@ overwhelminng->overwhelming
 overwhelmming->overwhelming
 overwhetming->overwhelming
 overwhhelming->overwhelming
+overwirtten->overwritten
 overwwhelming->overwhelming
 ovrridden->overridden
 ovrrun->overrun
@@ -35177,6 +35180,7 @@ reformistt->reformist
 reformits->reformist
 reformmist->reformist
 refreash->refresh
+refrections->reflections
 refrence->reference
 refrences->references
 refrers->refers
@@ -38031,6 +38035,7 @@ similarlyy->similarly
 similarrity->similarity
 similarrly->similarly
 similarr->similar
+similary->similarly
 similiarity->similarity
 similiarly->similarly
 similiar->similar
@@ -38635,6 +38640,7 @@ southerrn->southern
 southhbridge->southbridge
 southhern->southern
 southh->south
+soution->solution
 sout->south
 soutthbridge->southbridge
 soutthern->southern
@@ -42249,6 +42255,7 @@ towardd->toward
 towardss->towards
 towarrds->towards
 towarrd->toward
+towmorrow->tomorrow
 townn->town
 towords->towards
 towrad->toward
@@ -42732,6 +42739,7 @@ truust->trust
 truustworthiness->trustworthiness
 tryd->tried
 tryed->tried
+trygonometric->trigonometric
 trys->tries
 tryy->try
 tsability->stability
@@ -44677,6 +44685,7 @@ visable->visible
 visably->visibly
 visibble->visible
 visibbly->visibly
+visibile->visible
 visiblae->visible
 visiblee->visible
 visiblle->visible
