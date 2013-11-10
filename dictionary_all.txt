@@ -20024,6 +20024,7 @@ hetpfutty->helpfully
 hetp->help
 hetterogeneous->heterogeneous
 heve->have
+hexidecimal->hexadecimal
 hhabeas->habeas
 hhaemorrhhage->haemorrhage
 hhandling->handling
@@ -35563,6 +35564,7 @@ remnnannt->remnant
 remoe->remove
 rendde->rende
 renddezvous->rendezvous
+renderig->rendering
 rendevous->rendezvous
 rendezous->rendezvous
 rendezveous->rendezvous
@@ -45127,6 +45129,7 @@ wheereeabouts->whereabouts
 wheereeas->whereas
 wheereeveer->wherever
 wheetheer->whether
+Wheeze->Wheezy
 whehter->whether
 whelher->whether
 wheneveer->whenever
@@ -45726,6 +45729,7 @@ zebraa->zebra
 zebrae->zebra
 zebrra->zebra
 zeebra->zebra
+zeroes->zeros
 Ziioniists->Zionists
 Ziioniist->Zionist
 Zionisits->Zionists
