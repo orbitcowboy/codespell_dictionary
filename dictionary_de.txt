@@ -10,6 +10,7 @@ Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
 and->unds
+kovertieren->konvertieren
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt

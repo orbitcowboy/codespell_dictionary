@@ -26284,6 +26284,7 @@ mathhematics->mathematics
 mathmatically->mathematically
 mathmatician->mathematician
 mathmaticians->mathematicians
+mathmatics->mathematics
 mathrices->matrices
 mathther->matter
 maticious->malicious
@@ -39434,6 +39435,7 @@ standart->standard
 standdardds->standards
 stange->strange
 stanndards->standards
+staring point->starting point
 starrting->starting
 starrt->start
 startegic->strategic
