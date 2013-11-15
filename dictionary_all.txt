@@ -38253,6 +38253,7 @@ skatter->scatter
 skatting->skating
 skavenged->scavenged
 skenarios->scenarios
+skeptic->skeptical
 skhedule->schedule
 skholarly->scholarly
 skholarship->scholarship
