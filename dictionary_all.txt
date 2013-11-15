@@ -23255,6 +23255,7 @@ interaective->interactive
 interaktive->interactive
 interal->internal
 interational->international
+interation->iteration
 interative->interactive
 interbbred->interbred
 interbbreed->interbreed
@@ -23399,6 +23400,7 @@ Interupt->Interrupt
 interupts->interrupts
 intervaals->intervals
 intervaels->intervals
+intervall->interval
 intervalls->intervals
 intervalss->intervals
 intervats->intervals
@@ -40981,6 +40983,7 @@ synagouge->synagogue
 syncchronization->synchronization
 synchhronization->synchronization
 synching->syncing
+synchonous->synchronous
 synchornization->synchronization
 synchroniizatiion->synchronization
 synchronizaation->synchronization
