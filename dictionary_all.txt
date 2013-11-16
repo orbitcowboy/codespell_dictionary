@@ -11222,6 +11222,7 @@ correcters->correctors
 correct formatted->correctly formatted
 correcthness->correctness
 correcthors->correctors
+correctlly->correctly
 correctnes->correctness
 correctnessss->correctness
 correctnness->correctness
@@ -22901,6 +22902,7 @@ inokulated->inoculated
 inooculated->inoculated
 inot->into
 inpeach->impeach
+inplement->implement
 inpolite->impolite
 inpput->input
 in principal->in principle
@@ -25588,6 +25590,7 @@ maccerel->mackerel
 macchine->machine
 macckerel->mackerel
 macefile->makefile
+machanism->mechanism
 machhine->machine
 machiine->machine
 machinae->machine
@@ -30840,6 +30843,7 @@ permissionn->permission
 permissionns->permissions
 permissioon->permission
 permissioons->permissions
+permissons->permissions
 permissopns->permissions
 permissssible->permissible
 permissssion->permission
@@ -32896,6 +32900,7 @@ prioritizationn->prioritization
 prioritizzation->prioritization
 priorittizattion->prioritization
 priorization->prioritization
+priorty->priority
 priroitization->prioritization
 privaate->private
 privaete->private
@@ -38790,6 +38795,7 @@ specificied->specified
 specificy->specify
 specifiedd->specified
 specifiying->specifying
+specifiy->specify
 specif->specific
 specif->specify
 specifyingg->specifying

@@ -12,6 +12,7 @@ anbgeboten->angeboten
 and->unds
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
+Speoche->Speicher
 Artzt->Arzt
 assozial->asozial
 Athmosphäre->Atmosphäre
