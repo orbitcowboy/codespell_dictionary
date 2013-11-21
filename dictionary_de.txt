@@ -1,3 +1,4 @@
+abe rauch->aber auch
 abgeschalten->abgeschaltet
 Abstatzstil->Absatzstil
 Addresse->Adresse
@@ -9,12 +10,10 @@ Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
-and->unds
+and->und
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
-Speoche->Speicher
 Artzt->Arzt
-abe rauch->aber auch
 assozial->asozial
 Athmosphäre->Atmosphäre
 Atrappe->Attrappe
@@ -27,6 +26,7 @@ authorisieren->autorisieren
 authorisiert->autorisiert
 Authorisierung->Autorisierung
 Avionk->Avionik
+resliche->restliche
 beeendet->beendet
 befel->befehl
 befele->befehle
@@ -263,6 +263,7 @@ skuril->skurril
 Softwarepackete->Softwarepakete
 Softwwareversion->Softwareversion
 Spass->Spaß
+Speoche->Speicher
 Spirenzchen->Sperenzchen
 sponsorn->sponsern
 sprigst->springst
