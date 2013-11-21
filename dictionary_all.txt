@@ -3423,6 +3423,7 @@ announked->announced
 announkement->announcement
 annouunced->announced
 annouuncement->announcement
+annoymous->anonymous
 annswered->answered
 anntarctic->antarctic
 annthropologist->anthropologist
@@ -12692,6 +12693,7 @@ deitiess->deities
 deitties->deities
 deitty->deity
 deityy->deity
+deiverd->derived
 dekeived->deceived
 dekete->delete
 deketete->delete
@@ -17191,6 +17193,7 @@ expliiciit->explicit
 expliiciitly->explicitly
 explikit->explicit
 explikitly->explicitly
+explination->explanation
 expllain->explain
 expllaining->explaining
 expllanation->explanation
@@ -18922,6 +18925,7 @@ gennerate->generate
 genneratinng->generating
 gennerationn->generation
 gennitalia->genitalia
+genrally->generally
 geograaphicaal->geographical
 geograephicael->geographical
 geographhical->geographical
@@ -19596,6 +19600,7 @@ haedquarter->headquarter
 haedquarters->headquarters
 haeemorrhaege->haemorrhage
 haeemorrhagee->haemorrhage
+hae->have
 Haeidaelbaerg->Heidelberg
 haeight->height
 Haeitiaen->Haitian
@@ -23421,6 +23426,8 @@ intettectuat->intellectual
 intettigence->intelligence
 intettigent->intelligent
 intevene->intervene
+intger->integer
+intgers->integers
 in the future->in future
 intheger->integer
 inthegrathed->integrated
@@ -24960,6 +24967,7 @@ Libbya->Libya
 libeel->libel
 libeertarianism->libertarianism
 libell->libel
+liberaries->libraries
 liberlarianism->libertarianism
 liberrtarrianism->libertarianism
 libertaariaanism->libertarianism
@@ -24982,6 +24990,7 @@ libraly->library
 librariaes->libraries
 librariees->libraries
 librariess->libraries
+librarys->libraries
 libraryy->library
 librrarries->libraries
 librrarry->library
@@ -36284,6 +36293,7 @@ retrievee->retrieve
 retriev->retrieve
 retrievve->retrieve
 retriieve->retrieve
+retrun->return
 retsarted->restarted
 retsaurant->restaurant
 retsaurants->restaurants

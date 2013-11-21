@@ -14,6 +14,7 @@ angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Speoche->Speicher
 Artzt->Arzt
+abe rauch->aber auch
 assozial->asozial
 Athmosphäre->Atmosphäre
 Atrappe->Attrappe
