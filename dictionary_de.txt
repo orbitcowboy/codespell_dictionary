@@ -1,5 +1,6 @@
 abe rauch->aber auch
 abgeschalten->abgeschaltet
+abrechen->abbrechen
 Abstatzstil->Absatzstil
 Addresse->Adresse
 agressiv->aggressiv
@@ -26,7 +27,6 @@ authorisieren->autorisieren
 authorisiert->autorisiert
 Authorisierung->Autorisierung
 Avionk->Avionik
-resliche->restliche
 beeendet->beendet
 befel->befehl
 befele->befehle
@@ -229,6 +229,7 @@ Prüdsumme->Prüfsumme
 Qualiät->Qualität
 qualitätssicherende->qualitätssichernde
 rauh->rau
+Rechts-klick->Rechtsklick
 Reflektion->Reflexion
 regestrieren->registrieren
 Religiösität->Religiosität
@@ -236,6 +237,7 @@ reperatur->Reparatur
 Reperatur->Reparatur
 reperieren->reparieren
 resetet->führt einen Reset durch
+resliche->restliche
 Resourcen->Ressourcen
 Resource->Ressource
 Restgliederfehler->Restgliedfehler

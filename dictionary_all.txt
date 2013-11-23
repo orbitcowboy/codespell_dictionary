@@ -3581,6 +3581,7 @@ anual->annual
 anually->annually
 anulled->annulled
 anwsered->answered
+anwyays->anyways
 anyhting->anything
 anyhwere->anywhere
 anylhing->anything
@@ -3759,6 +3760,7 @@ apperance->appearance
 apperances->appearances
 appereance->appearance
 appereances->appearances
+appliaction->application
 appliaed->applied
 applicablity->applicability
 applicaiton->application
@@ -8341,6 +8343,7 @@ chosenn->chosen
 chosse->chose
 chossen->chosen
 chracter->character
+Christain->Christian
 chuch->church
 churchaes->churches
 churchees->churches
@@ -11800,6 +11803,7 @@ curriiculum->curriculum
 curriosity->curiosity
 currrrently->currently
 currrriculum->curriculum
+cursur->cursor
 cusitomize->customize
 cuslomize->customize
 cusstomize->customize
@@ -13385,6 +13389,7 @@ develope->develop
 developement->development
 developerrs->developers
 developerss->developers
+developmement->development
 developmenl->development
 developmennt->development
 developmenth->development
@@ -21199,6 +21204,7 @@ imcomplete->incomplete
 imediatelly->immediately
 imediately->immediately
 imense->immense
+i m->i am
 imigrant->emigrant
 imigrant->immigrant
 imigrants->immigrants
@@ -27154,6 +27160,7 @@ misspett->misspell
 missppelled->misspelled
 missppelling->misspelling
 missppell->misspell
+misssing->missing
 missspelling->misspelling
 missssile->missile
 missssionary->missionary
@@ -38323,6 +38330,7 @@ slighthly->slightly
 slightlyy->slightly
 slighttly->slightly
 slightty->slightly
+slighty->slightly
 sligthly->slightly
 sliightly->slightly
 sliip->slip
@@ -39871,6 +39879,7 @@ studyinng->studying
 studyying->studying
 studyy->study
 stuggling->struggling
+sturct->struct
 sturcture->structure
 sturday->saturday
 stuubbornness->stubbornness
@@ -40375,6 +40384,7 @@ sumary->summary
 summaary->summary
 summaery->summary
 summarry->summary
+summar->summary
 summaryy->summary
 summmmary->summary
 sumnary->summary
@@ -44307,6 +44317,7 @@ variationns->variations
 variationss->variations
 variatioons->variations
 variattions->variations
+varibales->variables
 varibles->variables
 varible->variable
 varieetiees->varieties
@@ -45122,6 +45133,7 @@ weirrd->weird
 wellknown->well known
 wellll->well
 wel->well
+we most point->we must point
 wendesday->wednesday
 wendsay->Wednesday
 wensday->Wednesday
