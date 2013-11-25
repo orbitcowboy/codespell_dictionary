@@ -16546,6 +16546,7 @@ evaluuated->evaluated
 evaluuation->evaluation
 evatuated->evaluated
 evatuation->evaluation
+evaulates->evaluates
 evaulation->evaluation
 evealuated->evaluated
 evealuation->evaluation
@@ -24234,6 +24235,7 @@ knoow->know
 knoowledgeable->knowledgeable
 knoowledge->knowledge
 knoows->knows
+knoweledge->knowledge
 knowlaedgaeablae->knowledgeable
 knowlaedgae->knowledge
 knowleddgeable->knowledgeable
@@ -29373,6 +29375,8 @@ oglinng->ogling
 oglling->ogling
 ogting->ogling
 ohter->other
+oject->object
+ojects->objects
 okkasionally->occasionally
 okkasional->occasional
 okkasioned->occasioned
@@ -34903,6 +34907,7 @@ redeeminng->redeeming
 redeemming->redeeming
 redeming->redeeming
 rediculous->ridiculous
+redristibutable->redistributable
 reduntant->redundant
 reeacheed->reached
 reeaching->reaching
@@ -41596,6 +41601,7 @@ theif->thief
 theiir->their
 theirr->their
 theives->thieves
+the last->the latest
 thelephony->telephony
 thelevision->television
 themmselves->themselves
@@ -42209,7 +42215,6 @@ toouch->touch
 toowards->towards
 tooward->toward
 toown->town
-toplevel->top level
 torcch->torch
 torchh->torch
 toriodal->toroidal
@@ -43027,6 +43032,7 @@ typaehaed->typeahead
 typae has a->type has a
 typahead->typeahead
 typcial->typical
+typdef->typedef
 typeaaheaad->typeahead
 typeaeheaed->typeahead
 typeaheadd->typeahead
@@ -45316,6 +45322,7 @@ will shall->shall
 will will->will
 wil->will
 windos->windows
+Windows Sever->Windows Server
 wioth->with
 wirting->writing
 witdrawal->withdrawal
@@ -45621,6 +45628,7 @@ wwrite->write
 wwriting->writing
 wwritten->written
 wwrote->wrote
+wxWidges->wxWidgets
 wysiwig->wysiwyg
 xaenophobia->xenophobia
 xeenophobia->xenophobia
