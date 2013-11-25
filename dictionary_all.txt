@@ -21461,6 +21461,7 @@ implementt->implement
 implementting->implementing
 implemeted->implemented
 implemetnation->implementation
+implentation->implementation
 impliccitly->implicitly
 implicilly->implicitly
 implicite->implicit
@@ -23597,6 +23598,7 @@ inumerable->innumerable
 invaentor->inventor
 invaertaebrataes->invertebrates
 invaestigatae->investigate
+invalied->invalid
 inveentor->inventor
 inveertebrates->invertebrates
 inveerteebratees->invertebrates
@@ -27428,6 +27430,7 @@ moderm->modem
 modess->modes
 modet->model
 modetted->modelled
+modfiied->modified
 modifed->modified
 modiffiable->modifiable
 modifiaable->modifiable
