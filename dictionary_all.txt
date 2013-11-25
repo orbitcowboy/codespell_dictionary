@@ -14666,6 +14666,7 @@ doubtt->doubt
 doulbe->double
 douuble->double
 douubt->doubt
+dowload->download
 dowloads->downloads
 downlloads->downloads
 downloaads->downloads
