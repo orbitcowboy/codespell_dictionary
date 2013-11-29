@@ -731,6 +731,7 @@ accidentallyy->accidentally
 accidentaly->accidentally
 accidentatty->accidentally
 accidenthally->accidentally
+accidently->accidentally
 accidenttally->accidentally
 acciidentally->accidentally
 accknowledged->acknowledged
@@ -14630,6 +14631,7 @@ dont->don't
 dont->don't, do not
 don'th->don't
 don'tt->don't
+donwload->download
 dooctrines->doctrines
 doocumentary->documentary
 doocumentatioon->documentation
@@ -19238,6 +19240,7 @@ graffithi->graffiti
 graffitti->graffiti
 grafiti->graffiti
 grafitti->graffiti
+grah->graph
 grakeful->graceful
 graleful->grateful
 gralefully->gratefully
@@ -19263,6 +19266,7 @@ granmar->grammar
 granmatically->grammatically
 grannar->grammar
 grannatically->grammatically
+graphic->graphical
 graphiz->graphviz
 GraphVis->GraphViz
 grataeful->grateful
@@ -20784,6 +20788,7 @@ identiffiers->identifiers
 identifierr->identifier
 identifierrs->identifiers
 identifierss->identifiers
+identifing->identifying
 identifiy->identify
 identikal->identical
 identtical->identical
@@ -26651,6 +26656,7 @@ metaphhysical->metaphysical
 metaphoorical->metaphorical
 metaphoor->metaphor
 metaphoors->metaphors
+metaphore->metaphor
 metaphoricall->metaphorical
 metaphoricat->metaphorical
 metaphoriccal->metaphorical
@@ -26726,6 +26732,7 @@ method definnes how->method defines how
 methodds->methods
 methode->method
 methodes->methods
+methodolgy->methodology
 methodss->methods
 methood defines hoow->method defines how
 methoods->methods
@@ -37595,6 +37602,7 @@ seriall->serial
 seriat->serial
 seriell->serial
 seriial->serial
+serperated->separated
 serrgeant->sergeant
 serrial->serial
 serrval->serval
@@ -43855,6 +43863,7 @@ unprrecedented->unprecedented
 unpteasant->unpleasant
 unraecognizaed->unrecognized
 unraepaentant->unrepentant
+unreacheable->unreachable
 unreccognized->unrecognized
 unrecoggnized->unrecognized
 unrecogniized->unrecognized
