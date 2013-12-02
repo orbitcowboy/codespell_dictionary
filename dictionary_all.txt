@@ -1179,6 +1179,7 @@ acquiisiitiion->acquisition
 acquiitted->acquitted
 acquilled->acquitted
 acquilted->acquitted
+acquiored->acquired
 acquirae->acquire
 acquiraed->acquired
 acquiraes->acquires
@@ -6531,6 +6532,7 @@ btame->blame
 btamed->blamed
 btessing->blessing
 Btitzkrieg->Blitzkrieg
+btton->button
 Buddah->Buddha
 Buddddha->Buddha
 Buddddhist->Buddhist
@@ -8064,6 +8066,7 @@ chaese->chase
 chaeser->chaser
 chaet->cheat
 chaeuffeur->chauffeur
+chages->changes
 chaiirman->chairman
 chairmann->chairman
 chairmman->chairman
@@ -9174,6 +9177,7 @@ communiicatiion->communication
 communiicatiions->communications
 communiitiies->communities
 communilies->communities
+communitcation->communication
 communites->communities
 communithies->communities
 communitiaes->communities
@@ -21461,7 +21465,6 @@ implementt->implement
 implementting->implementing
 implemeted->implemented
 implemetnation->implementation
-implentation->implementation
 impliccitly->implicitly
 implicilly->implicitly
 implicite->implicit
@@ -23598,7 +23601,6 @@ inumerable->innumerable
 invaentor->inventor
 invaertaebrataes->invertebrates
 invaestigatae->investigate
-invalied->invalid
 inveentor->inventor
 inveertebrates->invertebrates
 inveerteebratees->invertebrates
@@ -27430,7 +27432,6 @@ moderm->modem
 modess->modes
 modet->model
 modetted->modelled
-modfiied->modified
 modifed->modified
 modiffiable->modifiable
 modifiaable->modifiable
@@ -29231,6 +29232,7 @@ occuurrence->occurrence
 occuurrences->occurrences
 occuurring->occurring
 occuurs->occurs
+oce agan->once again
 oclahedral->octahedral
 oclahedra->octahedra
 oclahedron->octahedron
@@ -30189,6 +30191,7 @@ pahts->paths
 paidd->paid
 paide->paid
 paiid->paid
+paire->pair
 paitience->patience
 palacae->palace
 palacce->palace
@@ -32718,6 +32721,7 @@ prepaaraation->preparation
 prepaaraations->preparations
 prepaaraatory->preparatory
 prepaare->prepare
+prepaation->preparation
 prepaeraetion->preparation
 prepaeraetions->preparations
 prepaeraetory->preparatory
@@ -33546,6 +33550,7 @@ propriietary->proprietary
 proprotional->proportional
 proprotions->proportions
 propse->propose
+propted->prompted
 prosaelytizing->proselytizing
 proseelytizing->proselytizing
 proseletyzing->proselytizing
@@ -34567,6 +34572,7 @@ reasearch->research
 reasonn->reason
 reasoon->reason
 reasson->reason
+reate->create
 reatised->realised
 reatistic->realistic
 reatized->realized
@@ -34702,6 +34708,7 @@ receivving->receiving
 recepient->recipient
 recepients->recipients
 receving->receiving
+recgnition->recognition
 rechaargeaable->rechargeable
 rechaergeaeble->rechargeable
 rechargable->rechargeable
@@ -41577,6 +41584,7 @@ thans->thanks
 thargethed->targeted
 thargething->targeting
 thask->task
+thas->that
 thasthe->taste
 thast->that
 thast->that's
