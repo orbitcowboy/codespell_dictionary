@@ -2597,6 +2597,7 @@ agrriculturre->agriculture
 agument->argument
 ahev->have
 ahppen->happen
+ahs->has
 ahteism->atheism
 ahteist->atheist
 ahteistic->atheistic
@@ -6507,6 +6508,7 @@ broughth->brought
 broughtt->brought
 brougth->brought
 brouught->brought
+browswer->browser
 brrain-damaged->brain-damaged
 Brrazilian->Brazilian
 brreak->break
@@ -16742,6 +16744,7 @@ examiined->examined
 examinated->examined
 examinedd->examined
 examinned->examined
+examle->example
 exammined->examined
 exammple->example
 examplle->example
@@ -17764,6 +17767,7 @@ feets->feels
 fel->feel
 fell free->feel free
 fels->feels
+feom->from
 fequent->frequent
 ferlilily->fertility
 feromone->pheromone
@@ -40597,6 +40601,7 @@ supresss->suppresss
 supress->suppress
 supress->suppresss
 suprised->surprised
+suprises->surprises
 suprise->surprise
 suprisingly->surprisingly
 suprising->surprising
@@ -45319,6 +45324,7 @@ wiithheld->withheld
 wiithhold->withhold
 wiithiin->within
 wiith->with
+Wikpedia->Wikipedia
 wildd->wild
 wilhdrawal->withdrawal
 wilhdraw->withdraw
