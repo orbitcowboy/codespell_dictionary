@@ -12029,6 +12029,7 @@ Darddanelles->Dardanelles
 Dardenelles->Dardanelles
 Darrdanelles->Dardanelles
 darw->draw
+databse->database
 data typae->data type
 datatyp->data type
 data typee->data type
@@ -20602,6 +20603,7 @@ hvea->have
 hvea->heave
 hwihc->which
 hwile->while
+hwo->how
 hwole->whole
 hyddrogen->hydrogen
 hyddrophile->hydrophile
@@ -38143,6 +38145,7 @@ simptest->simplest
 simptified->simplified
 simptify->simplify
 simpty->simply
+simular->similar
 simullaneously->simultaneously
 simullaneous->simultaneous
 simulltaneouslly->simultaneously
@@ -44374,6 +44377,7 @@ varing->varying
 varioius->various
 varities->varieties
 varity->variety
+variuable->variable
 varriables->variables
 varriable->variable
 varriant->variant
@@ -45229,6 +45233,7 @@ wherevver->wherever
 wherreabouts->whereabouts
 wherreas->whereas
 wherreverr->wherever
+wher->where
 wheter->whether
 whetherr->whether
 whethher->whether
