@@ -2380,6 +2380,7 @@ affiliathe->affiliate
 affiliatte->affiliate
 affilliate->affiliate
 affitiate->affiliate
+afflicts->affects
 affoord->afford
 affoords->affords
 affordd->afford
@@ -3241,6 +3242,7 @@ analoggous->analogous
 analogouss->analogous
 analogouus->analogous
 analoogoous->analogous
+analsis->analysis
 analyis->analysis
 analylic->analytic
 analysys->analysis
@@ -20231,6 +20233,7 @@ highesst->highest
 highesth->highest
 highestt->highest
 highets->highest
+highlighed->highlighted
 highlighl->highlight
 highlighling->highlighting
 highlighth->highlight
@@ -23700,6 +23703,7 @@ iresistible->irresistible
 iresistibly->irresistibly
 iritable->irritable
 iritated->irritated
+iritates->irritates
 ironicaally->ironically
 ironicaelly->ironically
 ironicalllly->ironically
