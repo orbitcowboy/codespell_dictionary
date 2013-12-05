@@ -3522,6 +3522,7 @@ anothher->another
 anotther->another
 anounced->announced
 anouncement->announcement
+anouther->another
 ansalisation->nasalisation
 ansalisation->nasalization
 ansalization->nasalization
@@ -5861,6 +5862,7 @@ behhavior->behavior
 behhaviour->behaviour
 beiing->being
 beingg->being
+being send->being sent
 beinng->being
 bekame->became
 bekause->because
@@ -7122,6 +7124,7 @@ cappital->capital
 capptured->captured
 capthured->captured
 captial->capital
+captscha->captcha
 capttured->captured
 captued->captured
 capturaed->captured
@@ -7450,6 +7453,7 @@ Catilline->Catiline
 Catitine->Catiline
 catolic->catholic
 catolicism->catholicism
+catpcha->captcha
 Cattalina->Catalina
 cattegories->categories
 cattegorize->categorize
@@ -21346,6 +21350,7 @@ immitated->imitated
 immitate->imitate
 immitating->imitating
 immitator->imitator
+immmediate->immediate
 immmmanent->immanent
 immmmediately->immediately
 immmmense->immense
