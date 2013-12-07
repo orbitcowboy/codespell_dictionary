@@ -9317,6 +9317,7 @@ comparablae->comparable
 comparablee->comparable
 comparablle->comparable
 comparabte->comparable
+comparaison->comparison
 comparalive->comparative
 comparalively->comparatively
 comparathive->comparative
@@ -13600,6 +13601,7 @@ diffeereentiatee->differentiate
 diffeereentiations->differentiations
 diffence->difference
 differance->difference
+differeces->differences
 differencce between->difference between
 differencces->differences
 difference bbetween->difference between
@@ -20256,6 +20258,7 @@ hiaerarchy->hierarchy
 hiaeroglyph->hieroglyph
 hiaeroglyphics->hieroglyphics
 hiaeroglyphs->hieroglyphs
+hiden->hidden
 hiearchy->hierarchy
 hieerarchical->hierarchical
 hieerarchiees->hierarchies
@@ -23362,6 +23365,7 @@ inteervals->intervals
 inteerveenee->intervene
 inteerveenees->intervenes
 inteface->interface
+integerate->integrate
 integerr->integer
 integger->integer
 integgrated->integrated
