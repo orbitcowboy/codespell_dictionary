@@ -7,3 +7,7 @@ rm dictionary_tmp.txt
 cat dictionary_de.txt > dictionary_tmp.txt
 cat dictionary_tmp.txt | sort | uniq > dictionary_de.txt 
 rm dictionary_tmp.txt
+# sort the german dictionary
+cat dictionary_generated.txt > dictionary_tmp.txt
+cat dictionary_tmp.txt | sort | uniq > dictionary_generated.txt 
+rm dictionary_tmp.txt
