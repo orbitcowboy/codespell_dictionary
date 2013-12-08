@@ -5962,6 +5962,7 @@ bemusementt->bemusement
 bemusemnt->bemusement
 bemussement->bemusement
 bemuusement->bemusement
+benchmar->benchmark
 benefficial->beneficial
 benefficiary->beneficiary
 beneffit->benefit
@@ -12366,6 +12367,7 @@ decendant->descendant
 decendants->descendants
 decendent->descendant
 decendents->descendants
+decerement->decrement
 decidaable->decidable
 decidabble->decidable
 decidablle->decidable
@@ -14589,6 +14591,7 @@ does nnot->does not
 doesn not->does not
 doesnn't->doesn't
 does nol->does not
+doesnot->does not
 does noth->does not
 does nott->does not
 doesnt->does not
@@ -16604,6 +16607,7 @@ everry->every
 everrything->everything
 everry time->every time
 everthing->everything
+everybuddy->everybody
 everyhting->everything
 everylhing->everything
 every lime->every time
@@ -20501,6 +20505,7 @@ howeveer->however
 howeverr->however
 howevr->however
 howevver->however
+howewer->however
 howver->however
 howwever->however
 Hper-V->Hyper-V
@@ -34141,6 +34146,7 @@ quarantinae->quarantine
 quarantinee->quarantine
 quaranttine->quarantine
 quarrantine->quarantine
+qubic->cubic
 Queeeensland->Queensland
 Queenland->Queensland
 Queennslannd->Queensland
@@ -35157,6 +35163,7 @@ re-exekuted->re-executed
 re-exxecuted->re-executed
 refect->reflect
 refedendum->referendum
+refence->reference
 referal->referral
 referece->reference
 refereces->references
@@ -41621,6 +41628,7 @@ thechnicians->technicians
 thechnician->technician
 thechniques->techniques
 thechnology->technology
+the easy of->the ease of
 theeateer->theater
 theeir->their
 theemseelvees->themselves
@@ -44115,6 +44123,7 @@ usaage->usage
 usabble->usable
 usablae->usable
 usablee->usable
+usablility->usability
 usablle->usable
 usabte->usable
 usaeble->usable
@@ -44362,6 +44371,7 @@ variationss->variations
 variatioons->variations
 variattions->variations
 varibales->variables
+varibale->variable
 varibles->variables
 varible->variable
 varieetiees->varieties
