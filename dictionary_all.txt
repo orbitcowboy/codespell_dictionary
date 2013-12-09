@@ -1319,6 +1319,7 @@ additionallyy->additionally
 additionaly->additionally
 additionat->additional
 additionatty->additionally
+additionial->additional
 additionional->additional
 additionn->addition
 additionnal->additional
@@ -3951,6 +3952,7 @@ apreciate->appreciate
 aprehensive->apprehensive
 aproach->approach
 aproaches->approaches
+a profession look->a professional look
 apronn->apron
 aproon->apron
 apropriate->appropriate
@@ -20050,6 +20052,7 @@ Heidellberg->Heidelberg
 Heidetberg->Heidelberg
 heigght->height
 heigher->higher
+heigh->high
 heighl->height
 heighth->height
 heightt->height
@@ -37659,6 +37662,7 @@ selddom->seldom
 seldomly->seldom
 seldomm->seldom
 seldoom->seldom
+selecte->select
 selldom->seldom
 selllemenl->settlement
 selllement->settlement
