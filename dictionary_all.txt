@@ -2600,6 +2600,7 @@ agrreed->agreed
 agrreeing->agreeing
 agrreement->agreement
 agrriculturre->agriculture
+agruments->arguments
 agument->argument
 ahev->have
 ahppen->happen
@@ -9466,6 +9467,7 @@ compilaation->compilation
 compilaer->compiler
 compilaetion->compilation
 compilalion->compilation
+compilated->compiled
 compilathion->compilation
 compilationn->compilation
 compilattion->compilation
@@ -9623,6 +9625,7 @@ conceitedd->conceited
 conceithed->conceited
 conceitted->conceited
 conceivd->conceived
+conceiveable->conceivable
 conceivedd->conceived
 conceiveed->conceived
 conceivved->conceived
@@ -10586,6 +10589,7 @@ contemproary->contemporary
 contendder->contender
 contenderr->contender
 contendor->contender
+contens->content
 contentes->contents
 conthacth->contact
 conthains->contains
@@ -12661,6 +12665,7 @@ defendantt->defendant
 defendantts->defendants
 defendent->defendant
 defendents->defendants
+defenitely->definitely
 defenitions->definitions
 defenndannt->defendant
 defenndannts->defendants
@@ -18774,6 +18779,7 @@ furthermoore->furthermore
 furthermroe->furthermore
 furthher->further
 furthhermore->furthermore
+furthmore->furthermore
 furtther->further
 furtthermore->furthermore
 furuther->further
@@ -19924,6 +19930,7 @@ haviest->heaviest
 haviing->having
 havingg->having
 havinng->having
+havnt->have not
 havn't->haven't
 havve->have
 havving->having
@@ -23453,6 +23460,7 @@ intercontinentael->intercontinental
 intercontinentall->intercontinental
 intercontinentat->intercontinental
 intercontinetal->intercontinental
+interconvertable->interconvertible
 intercoontinental->intercontinental
 intered->interned
 intered->interred
@@ -23633,6 +23641,7 @@ intially->initially
 intoo->into
 intorduced->introduced
 intorduce->introduce
+intpolator->interpolator
 intrduced->introduced
 intrest->interest
 introdducedd->introduced
@@ -26943,6 +26952,7 @@ microscopyy->microscopy
 microsscopy->microscopy
 micrrocontrrollerr->microcontroller
 micrroscopy->microscopy
+Micrsoft->Microsoft
 middwives->midwives
 midwifes->midwives
 midwivaes->midwives
@@ -27614,6 +27624,7 @@ modulees->modules
 moduless->modules
 modulle->module
 modulles->modules
+modulus->modulo
 modute->module
 modutes->modules
 moduule->module
@@ -33751,6 +33762,7 @@ prosetytizing->proselytizing
 prosselytizing->proselytizing
 protaagonist->protagonist
 protaagonists->protagonists
+protablity->portability
 protaection->protection
 protaegonist->protagonist
 protaegonists->protagonists
@@ -36242,6 +36254,7 @@ resitricted->restricted
 resitsance->resistance
 resitsant->resistant
 resitsible->resistible
+resizeable->resizable
 re-size->resize
 reslarled->restarted
 reslauraleur->restaurateur
@@ -38322,6 +38335,7 @@ simplets->simplest
 simpley->simply
 simplication->simplification
 simplier->simpler
+simpliest->simplest
 simplifed->simplified
 simpliffied->simplified
 simpliffy->simplify
@@ -44094,6 +44108,7 @@ unpleassant->unpleasant
 unpleeasant->unpleasant
 unplesant->unpleasant
 unplleasant->unpleasant
+unportably->unportable
 unppleasant->unpleasant
 unpprecedented->unprecedented
 unpraecaedaentaed->unprecedented
