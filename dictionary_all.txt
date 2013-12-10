@@ -12390,6 +12390,7 @@ debbatabble->debatable
 Debbian->Debian
 debbug->debug
 debbugging->debugging
+debbuging->debugging
 debg->debug
 Debiaan->Debian
 Debiaen->Debian
@@ -25164,6 +25165,7 @@ libraery->library
 libraly->library
 librariaes->libraries
 librariees->libraries
+librarie->library
 librariess->libraries
 librarys->libraries
 libraryy->library
@@ -34909,6 +34911,7 @@ receivves->receives
 receivving->receiving
 recepient->recipient
 recepients->recipients
+receve->receive
 receving->receiving
 recgnition->recognition
 rechaargeaable->rechargeable
@@ -36997,6 +37000,7 @@ runningg->running
 runnning->running
 runnnninng->running
 runnung->running
+run-time->runtime
 Rusian->Russian
 Russiaan->Russian
 Russiaen->Russian
