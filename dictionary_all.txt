@@ -1319,6 +1319,7 @@ additionallyy->additionally
 additionaly->additionally
 additionat->additional
 additionatty->additionally
+additionial->additional
 additionional->additional
 additionn->addition
 additionnal->additional
@@ -12389,6 +12390,7 @@ debbatabble->debatable
 Debbian->Debian
 debbug->debug
 debbugging->debugging
+debbuging->debugging
 debg->debug
 Debiaan->Debian
 Debiaen->Debian
@@ -20051,6 +20053,7 @@ Heidellberg->Heidelberg
 Heidetberg->Heidelberg
 heigght->height
 heigher->higher
+heigh->high
 heighl->height
 heighth->height
 heightt->height
@@ -25163,6 +25166,7 @@ libraery->library
 libraly->library
 librariaes->libraries
 librariees->libraries
+librarie->library
 librariess->libraries
 librarys->libraries
 libraryy->library
@@ -34908,6 +34912,7 @@ receivves->receives
 receivving->receiving
 recepient->recipient
 recepients->recipients
+receve->receive
 receving->receiving
 recgnition->recognition
 rechaargeaable->rechargeable
@@ -36996,6 +37001,7 @@ runningg->running
 runnning->running
 runnnninng->running
 runnung->running
+run-time->runtime
 Rusian->Russian
 Russiaan->Russian
 Russiaen->Russian
