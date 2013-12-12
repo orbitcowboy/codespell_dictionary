@@ -3951,6 +3951,7 @@ apreciate->appreciate
 aprehensive->apprehensive
 aproach->approach
 aproaches->approaches
+a profession look->a professional look
 apronn->apron
 aproon->apron
 apropriate->appropriate
@@ -23413,6 +23414,7 @@ intented->intended
 intented->intended, indented,
 intepretation->interpretation
 intepretator->interpretor
+intepreting->interpreting
 interaactive->interactive
 interacctive->interactive
 interactivee->interactive
@@ -37659,6 +37661,7 @@ selddom->seldom
 seldomly->seldom
 seldomm->seldom
 seldoom->seldom
+selecte->select
 selldom->seldom
 selllemenl->settlement
 selllement->settlement
@@ -44254,6 +44257,7 @@ untrranslatable->untranslatable
 untterminatted->unterminated
 unttil->until
 unttranslattable->untranslatable
+ununsed->unused
 unusaable->unusable
 unusabble->unusable
 unusablae->unusable
@@ -44265,6 +44269,7 @@ unusaed->unused
 unusal->unusual
 unuseable->unusable
 unusedd->unused
+unusedfunctions->unused functions
 unuseed->unused
 unussable->unusable
 unussed->unused
