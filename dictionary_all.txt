@@ -12760,6 +12760,7 @@ definnitionn->definition
 definnitionns->definitions
 defintion->definition
 defintions->definitions
+defintition->definition
 defnese->defense
 deggrade->degrade
 degraade->degrade
@@ -31572,6 +31573,7 @@ plagiiariism->plagiarism
 plaiintiiff->plaintiff
 plainliff->plaintiff
 plainntiff->plaintiff
+plain->plane
 plainthiff->plaintiff
 plaintiffff->plaintiff
 plaintif->plaintiff
