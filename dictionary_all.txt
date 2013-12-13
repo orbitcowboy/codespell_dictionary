@@ -1319,7 +1319,6 @@ additionallyy->additionally
 additionaly->additionally
 additionat->additional
 additionatty->additionally
-additionial->additional
 additionional->additional
 additionn->addition
 additionnal->additional
@@ -11863,6 +11862,7 @@ curiousity->curiosity
 curraently->currently
 curreently->currently
 currenlly->currently
+currenlty->currently
 currenly->currently
 currenntly->currently
 currenthly->currently
@@ -12390,7 +12390,6 @@ debbatabble->debatable
 Debbian->Debian
 debbug->debug
 debbugging->debugging
-debbuging->debugging
 debg->debug
 Debiaan->Debian
 Debiaen->Debian
@@ -14832,6 +14831,7 @@ drinck->drink
 drinkk->drink
 drinnk->drink
 drnik->drink
+droped->dropped
 drramatic->dramatic
 drram->dram
 drraughtsman->draughtsman
@@ -19719,6 +19719,7 @@ Habsburgg->Habsburg
 Habsburrg->Habsburg
 Habsbuurg->Habsburg
 Habssburg->Habsburg
+hadding->adding,having
 haeadquartaeraed->headquartered
 haeadquartaer->headquarter
 haeadquartaers->headquarters
@@ -20053,7 +20054,6 @@ Heidellberg->Heidelberg
 Heidetberg->Heidelberg
 heigght->height
 heigher->higher
-heigh->high
 heighl->height
 heighth->height
 heightt->height
@@ -25166,7 +25166,6 @@ libraery->library
 libraly->library
 librariaes->libraries
 librariees->libraries
-librarie->library
 librariess->libraries
 librarys->libraries
 libraryy->library
@@ -25982,6 +25981,7 @@ mainttained->maintained
 mainttaining->maintaining
 mainttenance->maintenance
 mainty->mainly
+maitainability->maintainability
 majjority->majority
 majoority->majority
 majoriity->majority
@@ -34910,9 +34910,9 @@ receivvership->receivership
 receivvers->receivers
 receivves->receives
 receivving->receiving
+recenty->recently
 recepient->recipient
 recepients->recipients
-receve->receive
 receving->receiving
 recgnition->recognition
 rechaargeaable->rechargeable
@@ -36536,6 +36536,7 @@ retrievee->retrieve
 retriev->retrieve
 retrievve->retrieve
 retriieve->retrieve
+retrived->retrieved
 retrun->return
 retsarted->restarted
 retsaurant->restaurant
@@ -37001,7 +37002,6 @@ runningg->running
 runnning->running
 runnnninng->running
 runnung->running
-run-time->runtime
 Rusian->Russian
 Russiaan->Russian
 Russiaen->Russian
@@ -39288,6 +39288,7 @@ spriritual->spiritual
 spritual->spiritual
 sprread->spread
 sptendour->splendour
+sqale->squale
 sqaure->square
 sqquare->square
 sqquares->squares
@@ -45435,6 +45436,7 @@ wendsay->Wednesday
 wensday->Wednesday
 wereabouts->whereabouts
 were're->we're
+we speck->we speak
 wether->whether
 wett->well
 whaat->what
