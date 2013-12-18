@@ -6092,6 +6092,7 @@ betieves->believes
 betieving->believing
 betoved->beloved
 betow->below
+be treat->be treated
 betsiality->bestiality
 better then->better than
 bettigerent->belligerent
@@ -12522,6 +12523,7 @@ decribes->describes
 decribing->describing
 decriptor->descriptor
 decrpyt->decrypt
+decrpyted->decrypted
 decrrees->decrees
 decrrementorr->decrementor
 decrrypt->decrypt
@@ -14831,6 +14833,7 @@ drinc->drink
 drinck->drink
 drinkk->drink
 drinnk->drink
+drivability->driveability
 drnik->drink
 droped->dropped
 drramatic->dramatic
@@ -15846,6 +15849,7 @@ encouragiing->encouraging
 encouraing->encouraging
 encourraging->encouraging
 encouuraging->encouraging
+encrpyted->encrypted
 encrpyt->encrypt
 encrrypt->encrypt
 encrryption->encryption
@@ -17784,6 +17788,7 @@ fanatikism->fanaticism
 fanatism->fanaticism
 fanatticism->fanaticism
 fannaticism->fanaticism
+fantasic->fantastic
 Farenheit->Fahrenheit
 fasccinated->fascinated
 fasccist->fascist
@@ -31573,10 +31578,10 @@ plagiiariism->plagiarism
 plaiintiiff->plaintiff
 plainliff->plaintiff
 plainntiff->plaintiff
-plain->plane
 plainthiff->plaintiff
 plaintiffff->plaintiff
 plaintif->plaintiff
+plaint->plain
 plainttiff->plaintiff
 plake->place
 plaleau->plateau
@@ -38332,6 +38337,7 @@ simmplify->simplify
 simmply->simply
 simmultaneously->simultaneously
 simmultaneous->simultaneous
+simpe->simple
 simplaer->simpler
 simplaest->simplest
 simpleer->simpler
@@ -39833,6 +39839,7 @@ sthudying->studying
 sthudy->study
 sthyle->style
 sthylus->stylus
+stictly->strictly
 stightty->slightly
 stiirriing->stirring
 stiirs->stirs
@@ -44798,6 +44805,7 @@ verificaation->verification
 verificaetion->verification
 verificalion->verification
 verificathion->verification
+verificatin->verification 
 verificationn->verification
 verificatioon->verification
 verificattion->verification
