@@ -28322,6 +28322,7 @@ nalurally->naturally
 nalural->natural
 namae->name
 namee->name
+namley->namely
 namme->name
 Naploeon->Napoleon
 Napolaeonic->Napoleonic
@@ -44764,6 +44765,7 @@ veisibly->visibly
 veisiting->visiting
 veisitors->visitors
 veisualized->visualized
+veiw->view
 vell->well
 venemous->venomous
 vengaence->vengeance
@@ -45670,6 +45672,7 @@ withold->withhold
 withouyt->without
 witht->with
 with with->with
+witing->writing
 witin->within
 witn->with
 witthdrawal->withdrawal
