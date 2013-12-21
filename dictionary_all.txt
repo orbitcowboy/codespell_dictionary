@@ -7871,6 +7871,7 @@ ccovenant->covenant
 ccovered->covered
 ccoveted->coveted
 ccoy->coy
+ccpcheck->cppcheck
 ccreated->created
 ccrècche->crèche
 ccredencce->credence
@@ -37453,6 +37454,7 @@ scienlisl->scientist
 sciennce->science
 scienntific->scientific
 scienntist->scientist
+sciense->science
 scientfic->scientific
 scienthific->scientific
 scienthisth->scientist
@@ -38215,6 +38217,7 @@ siggnatory->signatory
 siggnificantly->significantly
 siggnificant->significant
 siggnifies->signifies
+sightened->sighted
 siginificant->significant
 siglans->signals
 signaals->signals
