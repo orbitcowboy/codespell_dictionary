@@ -4815,6 +4815,7 @@ atain->attain
 atainder->attainder
 atained->attained
 atbeit->albeit
+atchach->attach
 atcohot->alcohol
 atcohotic->alcoholic
 ateism->atheism
@@ -13000,6 +13001,7 @@ depenndennce->dependence
 depenndenncies->dependencies
 depenndenncy->dependency
 depenndennt->dependent
+depent->depend
 depicct->depict
 depicl->depict
 depicth->depict
