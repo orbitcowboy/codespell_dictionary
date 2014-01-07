@@ -3780,6 +3780,7 @@ appereance->appearance
 appereances->appearances
 appliaction->application
 appliaed->applied
+appliation->application
 applicablity->applicability
 applicaiton->application
 applicaitons->applications
@@ -9679,6 +9680,7 @@ conciousness->consciousness
 concisae->concise
 concisee->concise
 concisse->concise
+concret->concrete
 concurent->concurrent
 concurraent->concurrent
 concurreent->concurrent
@@ -14723,6 +14725,7 @@ dont->don't
 dont->don't, do not
 don'th->don't
 don'tt->don't
+dont't->don't
 donwload->download
 dooctrines->doctrines
 doocumentary->documentary
@@ -16441,6 +16444,7 @@ erratik->erratic
 errattically->erratically
 errattic->erratic
 errected->erected
+erro->error
 erroneouss->erroneous
 erroneouus->erroneous
 erronneous->erroneous
@@ -19399,6 +19403,7 @@ grannar->grammar
 grannatically->grammatically
 graphic->graphical
 graphiz->graphviz
+graphvis->graphviz
 GraphVis->GraphViz
 grataeful->grateful
 grataefully->gratefully
@@ -22056,6 +22061,7 @@ incoorpoorated->incorporated
 incoorpoorates->incorporates
 incoorpooratioon->incorporation
 incoorruptible->incorruptible
+incoporated->incorporated
 incoroporated->incorporated
 incorperation->incorporation
 incorporaated->incorporated
@@ -23658,6 +23664,7 @@ intorduced->introduced
 intorduce->introduce
 intpolator->interpolator
 intrduced->introduced
+intresting->interesting
 intrest->interest
 introdducedd->introduced
 introdduce->introduce
@@ -30117,6 +30124,7 @@ oter->other
 othaer->other
 otheer->other
 otherr->other
+other then->other than
 othher->other
 ot->of
 otther->other
@@ -38916,6 +38924,7 @@ soupp->soup
 sourcae->source
 sourcce->source
 sourcee->source
+soureforge->sourceforge
 soure->source
 sourke->source
 sourrce->source
@@ -40532,6 +40541,7 @@ succeession->succession
 succeessivee->successive
 succeessor->successor
 succeess->success
+succeffuly->successfully
 succeses->successes
 succesfull->successful
 succesfully->successfully
@@ -43778,6 +43788,7 @@ unforrgettable->unforgettable
 unforrgivable->unforgivable
 unforrtunately->unfortunately
 unforseen->unforeseen
+unfortanetly->unfortunately
 unforthunathely->unfortunately
 unforttunattely->unfortunately
 unfortunaately->unfortunately
