@@ -662,6 +662,7 @@ accccuraccy->accuracy
 accccused->accused
 accccustom->accustom
 accccustomed->accustomed
+acccount->account
 acccused->accused
 acceeleeration->acceleration
 acceeptablee->acceptable
@@ -3596,6 +3597,7 @@ anually->annually
 anulled->annulled
 anwsered->answered
 anwyays->anyways
+any body->anybody
 anyhting->anything
 anyhwere->anywhere
 anylhing->anything
@@ -5405,6 +5407,7 @@ AVR Studdio->AVR Studio
 AVR Studiio->AVR Studio
 AVR Studioo->AVR Studio
 AVR Stuudio->AVR Studio
+avtomaton->automation
 avvailability->availability
 avvailable->available
 avvalanche->avalanche
@@ -6139,6 +6142,7 @@ billinguallism->bilingualism
 binaary->binary
 binaery->binary
 binarry->binary
+binarys->binaries
 binaryy->binary
 binery->binary
 binnary->binary
@@ -18213,6 +18217,7 @@ Flemiish->Flemish
 Flemishh->Flemish
 Flemissh->Flemish
 Flemmish->Flemish
+flexibile->flexible
 fligght->flight
 flighht->flight
 flighl->flight
@@ -23353,6 +23358,7 @@ intaerrupts->interrupts
 intaervaenae->intervene
 intaervaenaes->intervenes
 intaervals->intervals
+intallation->installation
 intall->install
 intantion->instantiation
 inteade->instead
@@ -23659,6 +23665,7 @@ intialization->initialization
 intialized->initialized
 intialize->initialize
 intially->initially
+in to->into
 intoo->into
 intorduced->introduced
 intorduce->introduce
@@ -30696,6 +30703,7 @@ passiing->passing
 passingg->passing
 passinng->passing
 passord->password
+passpharse->passphrase
 passssed->passed
 passssengerss->passengers
 passsserssby->passersby
@@ -33244,6 +33252,7 @@ probblem->problem
 probelm->problem
 probem->problem
 problaem->problem
+problams->problems
 probleem->problem
 problemm->problem
 probllem->problem
@@ -33572,6 +33581,7 @@ prompteed->prompted
 prompthed->prompted
 promptted->prompted
 promted->promoted
+promt->prompt
 pronnominnal->pronominal
 pronnounnced->pronounced
 pronnounncemennts->pronouncements
@@ -45580,6 +45590,7 @@ wich->which
 widaespraead->widespread
 widdespreadd->widespread
 wideespreead->widespread
+wider ranger->wider range
 widesppread->widespread
 widespraed->widespread
 widespreaad->widespread
