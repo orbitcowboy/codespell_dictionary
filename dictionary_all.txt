@@ -4824,6 +4824,7 @@ atcohotic->alcoholic
 ateism->atheism
 ateist->atheist
 ateistic->atheistic
+Atemel->Atmel
 atempt->attempt
 atempted->attempted
 atempting->attempting
@@ -5339,6 +5340,7 @@ availablae->available
 availablee->available
 availablity->availability
 availaible->available
+availbel->available
 availble->available
 availiable->available
 availible->available
@@ -6993,6 +6995,7 @@ calllligraphy->calligraphy
 calllling->calling
 caluclate->calculate
 caluclated->calculated
+caluclates->calculates
 caluculate->calculate
 caluculated->calculated
 calulate->calculate
@@ -9568,6 +9571,7 @@ comprehensivee->comprehensive
 comprehensivve->comprehensive
 comprehenssive->comprehensive
 comprehhensive->comprehensive
+compressing->compression
 comprimise->compromise
 compromiise->compromise
 compromisae->compromise
@@ -15468,6 +15472,7 @@ elektrikally->electrically
 elektrik->electric
 elektrikity->electricity
 elektron->electron
+elelctronics->electronics
 elemements->elements
 elemenlary->elementary
 elemenls->elements
@@ -17846,6 +17851,7 @@ feasiblle->feasible
 feasibte->feasible
 feasiible->feasible
 feassible->feasible
+featue->feature
 febbruary->february
 Febbruary->February
 febrruarry->february
@@ -19845,6 +19851,7 @@ hangged->hanged
 hang-over->hangover
 hanndlinng->handling
 hapend->happend
+hapends->happens
 hapened->happened
 hapen->happen
 hapening->happening
@@ -20036,6 +20043,7 @@ heaviesth->heaviest
 heaviestt->heaviest
 heaviets->heaviest
 heaviiest->heaviest
+heaving->having
 heavve->heave
 heavviest->heaviest
 heavy weight->heavyweight
@@ -21373,6 +21381,7 @@ imediatelly->immediately
 imediately->immediately
 imense->immense
 i m->i am
+im->i am
 imigrant->emigrant
 imigrant->emigrant, immigrant,
 imigrant->immigrant
@@ -23800,6 +23809,7 @@ invertebratess->invertebrates
 inverthebrathes->invertebrates
 invertibrates->invertebrates
 inverttebrattes->invertebrates
+invesigating->investigating
 invesitigate->investigate
 invesligale->investigate
 invesstigate->investigate
@@ -23960,6 +23970,7 @@ irrrresistibly->irresistibly
 irrrritable->irritable
 irrrritated->irritated
 is able to able to->is able to
+isalha->isalpha
 is check for->is checked for
 is check that->is checked that
 isn'l->isn't
@@ -27140,6 +27151,7 @@ millllion->million
 millllipede->millipede
 millon->million
 miltary->military
+mimimun->minimum
 minaeral->mineral
 minature->miniature
 mineeral->mineral
@@ -27861,6 +27873,7 @@ moreso->more
 moreso->more, more so,
 moreso->more so
 more sso->more so
+more then->more than
 morgage->mortgage
 Moriissette->Morissette
 Morisette->Morissette
@@ -33150,6 +33163,7 @@ prinncipal->principal
 prinnciple->principle
 priooritizatioon->prioritization
 priorilizalion->prioritization
+priorites->priorities
 priorithizathion->prioritization
 prioritizaation->prioritization
 prioritizaetion->prioritization
@@ -36006,6 +36020,7 @@ replacementt->replacement
 replacemment->replacement
 replaecement->replacement
 replakement->replacement
+replicateable->replicable
 repllacement->replacement
 replys->replies
 reponse->response
@@ -37658,6 +37673,7 @@ seeveerity->severity
 Segate->Seagate
 segementation->segmentation
 seges->segues
+seg fault->segfault
 seggmentation->segmentation
 seggues->segues
 segmenlalion->segmentation
@@ -37808,6 +37824,7 @@ separratism->separatism
 separratist->separatist
 separratorr->separator
 sepcifically->specifically
+sepearetd->separated
 seperated->separated
 seperately->separately
 seperate->separate
@@ -38405,6 +38422,7 @@ simptest->simplest
 simptified->simplified
 simptify->simplify
 simpty->simply
+simuavr->simulavr
 simular->similar
 simullaneously->simultaneously
 simullaneous->simultaneous
@@ -41862,6 +41880,7 @@ thake->take
 thaking->taking
 thalked->talked
 thalking->talking
+than i->then i
 thann->than
 thans->thanks
 thargethed->targeted
@@ -42392,6 +42411,7 @@ todday->today
 todolist->todo list
 todya->today
 togaethaer->together
+togeather->together
 togeetheer->together
 togehter->together
 togeter->together
@@ -44442,6 +44462,7 @@ usse->use
 ussing->using
 ussually->usually
 usuaally->usually
+usuable->usable
 usuaelly->usually
 usualllly->usually
 usuallyy->usually
@@ -45476,6 +45497,7 @@ wendsay->Wednesday
 wensday->Wednesday
 wereabouts->whereabouts
 were're->we're
+werid->weird
 we speck->we speak
 wether->whether
 wett->well
@@ -45490,6 +45512,7 @@ whaet->what
 whal->what
 whants->wants
 whant->want
+whan->when
 whaqt->what
 whare->where
 whar->what
@@ -45634,6 +45657,7 @@ wiithhold->withhold
 wiithiin->within
 wiith->with
 Wikpedia->Wikipedia
+wilcard->wildcard
 wildd->wild
 wilhdrawal->withdrawal
 wilhdraw->withdraw
@@ -45713,6 +45737,7 @@ witth->with
 wittingness->willingness
 witt->will
 wiull->will
+wizzard->wizard
 wnated->wanted
 wnats->wants
 wnat->want
