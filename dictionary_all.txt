@@ -11431,6 +11431,7 @@ couldnn't->couldn't
 could nol->could not
 could noth->could not
 could nott->could not
+couldnt->couldn't
 couldn'th->couldn't
 couldn'tt->couldn't
 could of->could have
