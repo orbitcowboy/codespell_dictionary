@@ -6315,6 +6315,7 @@ Bostonn->Boston
 Bostton->Boston
 Botson->Boston
 botstrap->bootstrap
+bottlekneck->bottleneck
 boul->bout
 boundaaries->boundaries
 boundaary->boundary
@@ -36346,6 +36347,7 @@ respecttively->respectively
 respektively->respectively
 respoding->responding
 responce->response
+responese->response
 responibilities->responsibilities
 responisble->responsible
 responnse->response
@@ -44460,6 +44462,7 @@ UserID->User ID
 usesrs->users
 usigned->unsigned
 usiing->using
+usind->using
 usingg->using
 usings->using
 usinng->using
