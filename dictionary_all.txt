@@ -9817,6 +9817,7 @@ confiides->confides
 confiigurable->configurable
 confiiguratiion->configuration
 confiigure->configure
+confitions->conditions
 confiugre->configure
 conflusion->conclusion
 conformm->conform
@@ -18073,6 +18074,7 @@ fiiniite->finite
 fiirmware->firmware
 fiirst->first
 fiissiionable->fissionable
+fiixed->fixed
 fiktitious->fictitious
 filaament->filament
 filae->file
@@ -22617,6 +22619,7 @@ informaation->information
 informaetion->information
 informalion->information
 informathion->information
+informatin->information
 informations->information
 informattion->information
 informmation->information
@@ -32211,6 +32214,7 @@ possiibiiliitiies->possibilities
 possiibiiliity->possibility
 possiible->possible
 possiibly->possibly
+possilbe->possible
 possile->possible
 possition->position
 possitive->positive
