@@ -14731,6 +14731,7 @@ do nnot->do not
 donn't->don't
 do nol->do not
 do noth->do not
+donotknow->donot know
 do nott->do not
 don;t->do not
 dont->do not
@@ -38650,6 +38651,7 @@ slighlly->slightly
 slighly->slightly
 slighthly->slightly
 slightlyy->slightly
+slight->sleight
 slighttly->slightly
 slightty->slightly
 slighty->slightly
