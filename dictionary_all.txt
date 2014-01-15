@@ -522,6 +522,7 @@ abortiffacient->abortifacient
 abortificant->abortifacient
 abortiifaciient->abortifacient
 aborttifacientt->abortifacient
+abotu->about
 aboul->about
 abouth->about
 aboutt->about
@@ -1600,6 +1601,7 @@ adoptt->adopt
 adoptted->adopted
 adopttive->adoptive
 adotescent->adolescent
+adpated->adapted
 adquire->acquire
 adquired->acquired
 adquires->acquires
@@ -25972,6 +25974,7 @@ magnificentt->magnificent
 magnificient->magnificent
 magnifikent->magnificent
 magniifiicent->magnificent
+magninute->magnitude
 magnnificennt->magnificent
 magnnolia->magnolia
 magnoliia->magnolia
@@ -29258,6 +29261,7 @@ Nuuremberg->Nuremberg
 nuurtuuring->nurturing
 nuutrient->nutrient
 nuutrients->nutrients
+Nyuquist->Nyquist
 oaeuvrae->oeuvre
 obaediaencae->obedience
 obaediaent->obedient
@@ -37887,6 +37891,7 @@ serggeant->sergeant
 sergueant->sergeant
 seriaal->serial
 seriael->serial
+serializaiton->serialization
 seriall->serial
 seriat->serial
 seriell->serial
