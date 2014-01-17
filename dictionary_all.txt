@@ -4729,6 +4729,7 @@ assualt->assault
 assualted->assaulted
 assumae->assume
 assumaed->assumed
+assum->assume
 assumedd->assumed
 assumee->assume
 assumeed->assumed
@@ -14497,6 +14498,7 @@ distingish->distinguish
 distingished->distinguished
 distingishes->distinguishes
 distingishing->distinguishing
+distingiush->distinguish
 distingquished->distinguished
 distinguishaed->distinguished
 distinguishaes->distinguishes
@@ -16499,6 +16501,7 @@ especialllly->especially
 especiallyy->especially
 especialy->especially
 especiatty->especially
+especifically->specifically
 especiially->especially
 espeically->especially
 espekially->especially
@@ -19460,6 +19463,7 @@ greaet->great
 grealer->greater
 grealer lhan->greater than
 greal->great
+grean->green
 greater htan->greater than
 greater tan->greater than
 greater thann->greater than
@@ -20172,6 +20176,7 @@ herritage->heritage
 herroes->heroes
 herro->hero
 herrtz->hertz
+hers is->here is
 herthz->hertz
 hertiage->heritage
 herttz->hertz
@@ -22674,6 +22679,7 @@ ingenioous->ingenious
 ingeniouss->ingenious
 ingeniouus->ingenious
 ingenius->ingenious
+ingeters->integers
 inggenious->ingenious
 inggredients->ingredients
 ingraediaents->ingredients
@@ -23258,6 +23264,7 @@ insthructhion->instruction
 insthrumenthal->instrumental
 insthrumenth->instrument
 insthrumenths->instruments
+ins't->isn't
 institue->institute
 institutae->institute
 institutee->institute
@@ -23444,6 +23451,7 @@ intelliggence->intelligence
 intelliggent->intelligent
 intelliguence->intelligence
 intelliguent->intelligent
+intellingence->intelligence
 intellllectuall->intellectual
 intelllligence->intelligence
 intelllligent->intelligent
@@ -28222,6 +28230,7 @@ mutilateed->mutilated
 mutiliated->mutilated
 mutillated->mutilated
 mutitated->mutilated
+mutliply->multiply
 muts exits->must exist
 mutticutturalism->multiculturalism
 mutticutturatism->multiculturalism
@@ -29517,6 +29526,7 @@ ocurs->occurs
 od having->of having
 oeeuvree->oeuvre
 oeperator->operator
+oerder->order
 oeuuvre->oeuvre
 oeuvere->oeuvre
 oeuvrre->oeuvre
@@ -29716,6 +29726,7 @@ onee nicee->one nice
 one nicce->one nice
 one niice->one nice
 one nike->one nice
+ones->one's
 one think i->one thing i
 onlly->only
 onlyy->only
@@ -30570,6 +30581,7 @@ parameterss->parameters
 paramether->parameter
 paramethers->parameters
 paramet->parameter
+parametrs->parameters
 parametter->parameter
 parametters->parameters
 parammeter->parameter
@@ -31279,6 +31291,7 @@ persuuades->persuades
 persuuading->persuading
 perthurbathion->perturbation
 perthurbathions->perturbations
+perticular->particular
 pertturbattion->perturbation
 pertturbattions->perturbations
 pertubation->perturbation
@@ -33764,6 +33777,7 @@ prophhecy->prophecy
 propietary->proprietary
 propmted->prompted
 propoganda->propaganda
+propogated->propagated
 propogate->propagate
 propogates->propagates
 propogation->propagation
@@ -40111,6 +40125,7 @@ strruggling->struggling
 strucctural->structural
 strucctured->structured
 struccture->structure
+structs->structures
 structual->structural
 structude->structured
 structuraal->structural
@@ -41346,6 +41361,7 @@ synagoguee->synagogue
 synagoguue->synagogue
 synagoogue->synagogue
 synagouge->synagogue
+synax->syntax
 syncchronization->synchronization
 synchhronization->synchronization
 synching->syncing
@@ -43523,6 +43539,7 @@ unaeuthorised->unauthorised
 unaevaeilaeble->unavailable
 unahppy->unhappy
 unakkompanied->unaccompanied
+unamed->unnamed
 unaniimous->unanimous
 unanimmous->unanimous
 unanimoous->unanimous
@@ -44422,6 +44439,7 @@ uppanishad->upanishad
 uppcoming->upcoming
 uppgraded->upgraded
 uppon->upon
+uppper->upper
 upp to->up to
 up tho->up to
 up too->up to
