@@ -687,7 +687,6 @@ accelerration->acceleration
 accelleration->acceleration
 accension->accession
 accension->accession, ascension
-accension->accession, ascension,
 accension->ascension
 acceplable->acceptable
 accepl->accept
@@ -1084,7 +1083,6 @@ achive->achieve
 achive->achieve, archive
 achived->achieved
 achived->achieved, archived
-achived->achieved, archived,
 achived->archived
 achivement->achievement
 achivements->achievements
@@ -1116,7 +1114,6 @@ acknowwledged->acknowledged
 acknowwledging->acknowledging
 ackward->awkward
 ackward->awkward, backward
-ackward->awkward, backward,
 ackward->backward
 aclimatization->acclimatization
 aclivale->activate
@@ -1378,7 +1375,6 @@ addreessees->addresses
 addreessing->addressing
 addresable->addressable
 addres->address
-addres->address, adders
 addresed->addressed
 addreses->addresses
 addresing->addressing
@@ -2413,7 +2409,6 @@ afforrd->afford
 afforrds->affords
 affort->afford
 affort->afford, effort
-affort->afford, effort,
 affort->effort
 affrod->afford
 affrods->affords
@@ -2570,7 +2565,6 @@ agian->again
 agianst->against
 agina->again
 agina->again, angina
-agina->again, angina,
 agina->angina
 agin->again
 aginst->against
@@ -3122,7 +3116,6 @@ Alttimetter->Altimeter
 alttogetther->altogether
 alusion->allusion
 alusion->allusion, illusion
-alusion->allusion, illusion,
 alusion->illusion
 alwasy->always
 alwayss->always
@@ -3156,7 +3149,6 @@ amatuer->amateur
 amature->amateur
 amature->armature
 amature->armature, amateur
-amature->armature, amateur,
 ambigous->ambiguous
 ameelioratee->ameliorate
 ameend->amend
@@ -3697,7 +3689,6 @@ apenines->apennines
 apenines->Apennines
 Apenines->Apennines
 apenines->apennines, Apennines
-apenines->apennines, Apennines,
 apenmines->apennines
 Apenmines->Apennines
 apenniines->apennines
@@ -3734,7 +3725,6 @@ apologyy->apology
 apon->apron
 apon->upon
 apon->upon, apron
-apon->upon, apron,
 apooloogetics->apologetics
 apooloogies->apologies
 apooloogy->apology
@@ -3783,7 +3773,6 @@ appealinng->appealing
 appealling->appalling
 appealling->appealing
 appealling->appealing, appalling
-appealling->appealing, appalling,
 appearancce->appearance
 appearancces->appearances
 appearancess->appearances
@@ -3803,7 +3792,6 @@ appeearancees->appearances
 appenines->apennines
 appenines->Apennines
 appenines->apennines, Apennines
-appenines->apennines, Apennines,
 appennines->apennines
 Appennines->Apennines
 apperance->appearance
@@ -4095,21 +4083,17 @@ archaiic->archaic
 archaoelogy->archaeology
 archaoelogy->archeology
 archaoelogy->archeology, archaeology
-archaoelogy->archeology, archaeology,
 archaologist->archaeologist
 archaologists->archaeologists
 archaology->archaeology
 archaology->archeology
 archaology->archeology, archaeology
-archaology->archeology, archaeology,
 archeaologist->archaeologist
 archeaologist->archeologist
 archeaologist->archeologist, archaeologist
-archeaologist->archeologist, archaeologist,
 archeaologists->archaeologists
 archeaologists->archeologists
 archeaologists->archeologists, archaeologists
-archeaologists->archeologists, archaeologists,
 archeaology->archaeology
 archeeologist->archeologist
 archeeologists->archeologists
@@ -5009,7 +4993,6 @@ attaindeer->attainder
 attainderr->attainder
 attaindre->attainder
 attaindre->attainder, attained
-attaindre->attainder, attained,
 attaindre->attained
 attainedd->attained
 attaineed->attained
@@ -45744,7 +45727,6 @@ wasn'th->wasn't
 wasn'tt->wasn't
 wasnt->was not,wasn't
 wasnt->wasn't
-wasnt->wasn\"t
 wasnt'->wasn't
 wass ignored->was ignored
 wassn't->wasn't
@@ -45811,7 +45793,6 @@ weiird->weird
 weilded->wielded
 weild->wield
 weild->wield, wild
-weild->wield, wild,
 weild->wild
 weirdd->weird
 weirrd->weird
@@ -45926,7 +45907,6 @@ whollyy->wholly
 wholy->holy
 wholy->wholly
 wholy->wholly, holy
-wholy->wholly, holy,
 whoole->whole
 whoolly->wholly
 whote->whole
@@ -46029,7 +46009,6 @@ withdrawat->withdrawal
 withdrawl->withdraw
 withdrawl->withdrawal
 withdrawl->withdrawal, withdraw
-withdrawl->withdrawal, withdraw,
 withdrrawal->withdrawal
 withdrraw->withdraw
 witheld->withheld
@@ -46398,7 +46377,6 @@ Yemenni->Yemeni
 Yementite->Yemeni
 Yementite->Yemenite
 Yementite->Yemenite, Yemeni
-Yementite->Yemenite, Yemeni,
 Yemmenite->Yemenite
 Yemmeni->Yemeni
 yeras->years
