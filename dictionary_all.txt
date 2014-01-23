@@ -13575,6 +13575,7 @@ developmentt->development
 developmment->development
 developp->develop
 developped->developed
+developper->developer
 developpers->developers
 developping->developing
 developpment->development
@@ -23371,6 +23372,7 @@ inssurmountable->insurmountable
 instaall->install
 instaance->instance
 instaantiaation->instantiation
+instable->unstable
 instade->instead
 instaead->instead
 instaed->instead
@@ -27180,6 +27182,7 @@ micrrocontrrollerr->microcontroller
 micrroscopy->microscopy
 Micrsoft->Microsoft
 middwives->midwives
+midlie->midline
 midwifes->midwives
 midwivaes->midwives
 midwivees->midwives
@@ -29824,7 +29827,6 @@ okkurrenke->occurrence
 okkurrenkes->occurrences
 okkurring->occurring
 okkurs->occurs
-ok->OK
 oktahedral->octahedral
 oktahedra->octahedra
 oktahedron->octahedron
@@ -33939,6 +33941,8 @@ propaagaandaa->propaganda
 propaagaate->propagate
 propaagaates->propagates
 propaagaation->propagation
+propabilities->probabilities
+propably->probably
 propaegaendae->propaganda
 propaegaete->propagate
 propaegaetes->propagates
@@ -40269,8 +40273,6 @@ strategiies->strategies
 strategikally->strategically
 strategik->strategic
 strategyy->strategy
-strat->start, strata
-strat->start, strata,
 streaamlining->streamlining
 streaemlining->streamlining
 streamliiniing->streamlining
