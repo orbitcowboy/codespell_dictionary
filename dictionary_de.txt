@@ -236,6 +236,7 @@ Religiösität->Religiosität
 reperatur->Reparatur
 Reperatur->Reparatur
 reperieren->reparieren
+Representation->Repräsentation
 resetet->führt einen Reset durch
 resliche->restliche
 Resourcen->Ressourcen
@@ -253,6 +254,7 @@ Rückrad->Rückgrat
 Rückrat->Rückgrat
 Rythmus->Rhythmus
 Schärflein->Scherflein
+schliesslich->schließlich
 Script->Skript
 seelig->selig
 seit dem->seitdem

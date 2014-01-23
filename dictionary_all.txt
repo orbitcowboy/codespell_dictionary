@@ -8133,6 +8133,7 @@ cervvical->cervical
 Cesar->Caesar
 Cetsius->Celsius
 cettpadding->cellpadding
+ceving->ceiving
 ceyboard->keyboard
 chaairmaan->chairman
 chaallenge->challenge
@@ -12178,6 +12179,7 @@ damagge->damage
 damague->damage
 damenor->demeanor
 dammage->damage
+dandling->dangling
 Dardanaellaes->Dardanelles
 Dardaneellees->Dardanelles
 Dardaneles->Dardanelles
@@ -26994,6 +26996,7 @@ messengger->messenger
 messenging->messaging
 messenguer->messenger
 messennger->messenger
+messsing->messing
 messssaging->messaging
 messssenger->messenger
 metaallic->metallic
@@ -37060,6 +37063,7 @@ roonmate->roommate
 roonnate->roommate
 roooommate->roommate
 rooughly->roughly
+rorder->reorder
 rosae->rose
 rosee->rose
 rosse->rose
@@ -43740,6 +43744,7 @@ ubiquitoous->ubiquitous
 ubiquitouss->ubiquitous
 ubiquittous->ubiquitous
 ublisher->publisher
+Ubundu->Ubuntu
 Ubunlu->Ubuntu
 Ubunntu->Ubuntu
 Ubunthu->Ubuntu
@@ -44527,6 +44532,7 @@ unsignedd->unsigned
 unsigneed->unsigned
 unsiigned->unsigned
 unsing->using
+unsoportted->unsupported
 unssigned->unsigned
 unssubsstantiated->unsubstantiated
 unssuccessssfully->unsuccessfully
