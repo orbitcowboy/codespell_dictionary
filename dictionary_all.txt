@@ -1121,6 +1121,7 @@ aclivaled->activated
 aclively->actively
 aclivilies->activities
 aclually->actually
+a collections->a collection
 acommodate->accommodate
 acommodated->accommodated
 acommodates->accommodates
@@ -4932,6 +4933,7 @@ atlain->attain
 atlainder->attainder
 atlained->attained
 atleast->at least
+atleaste->at least
 at leat->at least
 atlempt->attempt
 atlempted->attempted
@@ -16568,6 +16570,7 @@ erronneous->erroneous
 erronous->erroneous
 errooneoous->erroneous
 erroor->error
+erros->errors
 errro->error
 errror->error
 errrratically->erratically
@@ -21524,6 +21527,7 @@ imbatance->imbalance
 imbbalanced->imbalanced
 imbbalance->imbalance
 imcomplete->incomplete
+im doin->i am doing
 imediatelly->immediately
 imediately->immediately
 imense->immense
@@ -23694,6 +23698,7 @@ interkhangeable->interchangeable
 interkhangeably->interchangeably
 interkontinental->intercontinental
 interm->interim
+intermittantly->intermittently
 internaal->internal
 internaationaal->international
 internael->internal
@@ -26933,6 +26938,7 @@ memroable->memorable
 memroy->memory
 memssaga->message
 menally->mentally
+menataly->mentally
 menlally->mentally
 menlioned->mentioned
 menntally->mentally
@@ -27536,6 +27542,7 @@ missfortuness->misfortunes
 missilae->missile
 missilee->missile
 missille->missile
+missin->missing
 missionaary->missionary
 missionaery->missionary
 missionarry->missionary
@@ -29609,6 +29616,7 @@ occccurrencce->occurrence
 occccurrencces->occurrences
 occccurring->occurring
 occccurs->occurs
+occopy->occupy
 occour->occur
 occtahedral->octahedral
 occtahedra->octahedra
@@ -29709,6 +29717,7 @@ ocurs->occurs
 od having->of having
 oeeuvree->oeuvre
 oeperator->operator
+oerate->operate
 oerder->order
 oeuuvre->oeuvre
 oeuvere->oeuvre
@@ -33440,6 +33449,7 @@ privilegues->privileges
 privilleged->privileged
 privillege->privilege
 privilleges->privileges
+privious->previous
 priviteged->privileged
 privitege->privilege
 priviteges->privileges
@@ -34005,6 +34015,7 @@ proportionall->proportional
 proportionat->proportional
 proportionnal->proportional
 proportionns->proportions
+proportion->proposition
 proportionss->proportions
 proporttional->proportional
 proporttions->proportions
@@ -34638,6 +34649,7 @@ questionabte->questionable
 questionaeble->questionable
 questionnable->questionable
 questioonable->questionable
+questio->question
 questonable->questionable
 questtionable->questionable
 quetsionable->questionable
@@ -36566,6 +36578,7 @@ resitsance->resistance
 resitsant->resistant
 resitsible->resistible
 resizeable->resizable
+resizement->resizing
 re-size->resize
 reslarled->restarted
 reslauraleur->restaurateur
@@ -36811,6 +36824,7 @@ retalliated->retaliated
 retalliation->retaliation
 retargettable->retargetable
 retargetted->retargeted
+retarted->retarded
 retatiated->retaliated
 retatiation->retaliation
 retation->relation
@@ -37473,6 +37487,7 @@ salurday->saturday
 Salurday->Saturday
 Salurdays->Saturdays
 salyr->satyr
+samaba->samba
 samae->same
 samee->same
 samle->sample
@@ -38719,6 +38734,7 @@ simultaneeous->simultaneous
 simultaneoously->simultaneously
 simultaneoous->simultaneous
 simultaneouslyy->simultaneously
+simultaniously->simultaneously
 simultanneously->simultaneously
 simultanneous->simultaneous
 simultanously->simultaneously
@@ -39086,6 +39102,7 @@ somae->some
 somaething->something
 somaetimaes->sometimes
 somaewhaerae->somewhere
+somany->so many
 some another->some other
 someeonee->someone
 somee->some
@@ -42015,6 +42032,7 @@ temporariily->temporarily
 temporarilly->temporarily
 temporarilyy->temporarily
 temporarity->temporarily
+temporary->temporarily
 temporaryy->temporary
 temporrarrily->temporarily
 temporrarry->temporary
@@ -46310,6 +46328,7 @@ wwriting->writing
 wwritten->written
 wwrote->wrote
 wxWidges->wxWidgets
+wx wingets->wxWidgets
 wysiwig->wysiwyg
 xaenophobia->xenophobia
 xeenophobia->xenophobia
@@ -46434,6 +46453,7 @@ youurself->yourself
 youusef->yousef
 youutuube->youtube
 youu->you
+youve->you've 
 yrea->year
 ytou->you
 yuo->you
