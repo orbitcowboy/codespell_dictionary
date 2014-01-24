@@ -3551,6 +3551,7 @@ anotther->another
 anounced->announced
 anouncement->announcement
 anouther->another
+an pother->another
 ansalisation->nasalisation
 ansalisation->nasalization
 ansalization->nasalization
@@ -3926,6 +3927,7 @@ appropriiateness->appropriateness
 appropropiate->appropriate
 appropropiately->appropriately
 approproximate->approximate
+approrpiate->appropriate
 approxamately->approximately
 approxiately->approximately
 approxiimate->approximate
@@ -11382,6 +11384,7 @@ correespondeent->correspondent
 correespondeents->correspondents
 correesponding->corresponding
 correesponds->corresponds
+corrent->current
 correponding->corresponding
 correposding->corresponding
 corrept->corrupt
@@ -19344,6 +19347,7 @@ gleamed->gelaned
 glight->flight
 gllamorous->glamorous
 gllowed->allowed
+gloabl->global
 gloabls->globals
 glocal->global
 glosary->glossary
