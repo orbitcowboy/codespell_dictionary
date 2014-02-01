@@ -417,6 +417,7 @@ abbility->ability
 abborigine->aborigine
 abbortifacient->abortifacient
 abbout->about
+abbove->above
 abbraeviatae->abbreviate
 abbraeviataed->abbreviated
 abbraeviation->abbreviation
@@ -3337,6 +3338,7 @@ ancillaryy->ancillary
 ancilliary->ancillary
 ancillllary->ancillary
 ancittary->ancillary
+an data type->a data type
 andd->and
 anddrogynous->androgynous
 anddrogyny->androgyny
@@ -4334,6 +4336,7 @@ aroound->around
 arorgant->arrogant
 arosae->arose
 arosee->arose
+aross->across
 arosse->arose
 aroud->around
 aroundd->around
@@ -5785,6 +5788,7 @@ becames->becomes, became
 becames->becomes, became,
 becamme->became
 becasue->because
+becaus->because
 becausse->because
 becauuse->because
 beccame->became
@@ -10953,6 +10957,7 @@ converson->conversion
 converssion->conversion
 convertables->convertibles
 convertedd->converted
+convertes->converts
 converth->convert
 converthed->converted
 converthibles->convertibles
@@ -11749,6 +11754,7 @@ crithicized->criticized
 crithicizes->criticizes
 crithicizing->criticizing
 crithics->critics
+critial->critical
 criticaal->critical
 criticael->critical
 criticall->critical
@@ -12199,6 +12205,7 @@ darw->draw
 databse->database
 data typae->data type
 datatyp->data type
+datatype->data type
 data typee->data type
 data typpe->data type
 data tyype->data type
@@ -13600,6 +13607,7 @@ devided->divided
 devide->divide
 deviice->device
 devike->device
+devision->division
 devistating->devastating
 devlop->develop
 devloped->developed
@@ -20176,6 +20184,7 @@ heathy->healthy
 heatthcare->healthcare
 heatthy->healthy
 heavee->heave
+heave->have
 heaveiest->heaviest
 heav->heave
 heaviesit->heaviest
@@ -37094,6 +37103,7 @@ roughlly->roughly
 roughlyy->roughly
 roughty->roughly
 rougly->roughly
+rountines->routines
 rountines->routines 
 rouughly->roughly
 ro without->or without
@@ -42646,6 +42656,7 @@ tilte->title
 timaesort->timesort
 timaestamp->timestamp
 timae->time
+timecritial->time-critical
 timeesort->timesort
 timeestamp->timestamp
 timee->time
@@ -44235,6 +44246,11 @@ uninitiatized->uninitialized
 uninittialized->uninitialized
 uninlerrupled->uninterrupted
 uninstanciated->uninstantiated
+unint128_t->uint128_t
+unint16_t->uint16_t
+unint32_t->uint32_t
+unint64_t->uint64_t
+unint8_t->uint8_t
 unintaerruptaed->uninterrupted
 uninteerrupteed->uninterrupted
 uninterrrrupted->uninterrupted
@@ -45539,6 +45555,7 @@ voluunteered->volunteered
 voluunteering->volunteering
 voluunteers->volunteers
 voluunteer->volunteer
+vompiler->compiler
 voolcanoo->volcano
 voolleyball->volleyball
 voolume->volume
