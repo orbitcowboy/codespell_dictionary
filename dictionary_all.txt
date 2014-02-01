@@ -6634,7 +6634,6 @@ Buddist->Buddhist
 Budha->Buddha
 Budhist->Buddhist
 buiild->build
-builc->build
 buildd->build
 builld->build
 buisness->business
@@ -23435,6 +23434,7 @@ instituute->institute
 instituutionalized->institutionalized
 instituution->institution
 instituutions->institutions
+instnace->instance
 instrruction->instruction
 instrrumental->instrumental
 instrrument->instrument
@@ -23536,6 +23536,7 @@ intaervaenaes->intervenes
 intaervals->intervals
 intallation->installation
 intall->install
+intance->instance
 intantion->instantiation
 inteade->instead
 intead->instead
@@ -36269,7 +36270,6 @@ repertoiire->repertoire
 repertooire->repertoire
 reperttoire->repertoire
 repeteadly->repeatedly
-repetetive->repetitive 
 repethithion->repetition
 repetiitiion->repetition
 repetion->repetition
@@ -41043,6 +41043,7 @@ supeerfluous->superfluous
 supeerinteendeent->superintendent
 supeerseedeed->superseded
 supeerseedee->supersede
+superceded->superseded
 supercede->supersede
 superceeded->superseded
 superffluous->superfluous
@@ -42489,7 +42490,6 @@ tho thhe->to the
 thouch->touch
 thougght->thought
 thoughout->throughout
-though->through
 thought->though
 thougth->thought
 thouught->thought
@@ -43142,6 +43142,7 @@ transcendentational->transcendental
 transcendentat->transcendental
 transcendiing->transcending
 transcendingg->transcending
+transcievers->transceivers
 transcribbing->transcribing
 transcribingg->transcribing
 transcriibiing->transcribing
@@ -45949,6 +45950,7 @@ whould->would
 whre->where
 whta->what
 whther->whether
+wht->what
 wiaeldaed->wielded
 wiaeld->wield
 wich->which
@@ -46046,7 +46048,6 @@ withdrawl->withdrawal, withdraw
 withdrrawal->withdrawal
 withdrraw->withdraw
 witheld->withheld
-withe->with
 withhaeld->withheld
 withhdrawal->withdrawal
 withhdraw->withdraw

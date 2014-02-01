@@ -12,6 +12,7 @@ Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
 and->und
+nciht->nicht
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt
