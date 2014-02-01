@@ -6634,6 +6634,7 @@ Buddist->Buddhist
 Budha->Buddha
 Budhist->Buddhist
 buiild->build
+builc->build
 buildd->build
 builld->build
 buisness->business
@@ -34669,6 +34670,7 @@ quickk->quick
 quicklly->quickly
 quicklyu->quickly
 quicklyy->quickly
+quick->quickly
 quickty->quickly
 quieet->quiet
 quiel->quiet
@@ -36267,6 +36269,7 @@ repertoiire->repertoire
 repertooire->repertoire
 reperttoire->repertoire
 repeteadly->repeatedly
+repetetive->repetitive 
 repethithion->repetition
 repetiitiion->repetition
 repetion->repetition
@@ -42486,6 +42489,7 @@ tho thhe->to the
 thouch->touch
 thougght->thought
 thoughout->throughout
+though->through
 thought->though
 thougth->thought
 thouught->thought
@@ -46042,6 +46046,7 @@ withdrawl->withdrawal, withdraw
 withdrrawal->withdrawal
 withdrraw->withdraw
 witheld->withheld
+withe->with
 withhaeld->withheld
 withhdrawal->withdrawal
 withhdraw->withdraw
