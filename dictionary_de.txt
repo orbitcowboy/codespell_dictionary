@@ -12,7 +12,6 @@ Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
 and->und
-nciht->nicht
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt
@@ -197,6 +196,7 @@ Nachname->Nachnahme
 nachwievor->nach wie vor
 nähmlich->nämlich
 narzistisch->narzisstisch
+nciht->nicht
 nerfen->nerven
 neuseten->neuesten
 nichts desto trotz->nichtsdestotrotz
