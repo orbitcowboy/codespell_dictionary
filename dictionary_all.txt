@@ -1089,6 +1089,7 @@ achivement->achievement
 achivements->achievements
 acident->accident
 acidentally->accidentally
+acitivities->activities
 ackknowledged->acknowledged
 ackknowledging->acknowledging
 acknnowledged->acknowledged
@@ -3080,6 +3081,7 @@ alternativves->alternatives
 alternitives->alternatives
 alternnatives->alternatives
 alterrnatives->alternatives
+altetered->altered
 althernathives->alternatives
 althhough->although
 althhoughh->although
@@ -9289,6 +9291,7 @@ commputer->computer
 commputerized->computerized
 commuications->communications
 commuinications->communications
+communcation->communication
 communciation->communication
 communiation->communication
 communicaation->communication
@@ -9804,6 +9807,7 @@ conditionss of->conditions of
 condittion->condition
 condittions->conditions
 condittions of->conditions of
+conecpt->concept
 conected->connected
 Conecticut->Connecticut
 conection->connection
@@ -10728,6 +10732,7 @@ contingaent->contingent
 contingeent->contingent
 continggent->contingent
 continguent->contingent
+continious->continuous
 continous->continuous
 continously->continuously
 continuaally->continually
@@ -10971,6 +10976,7 @@ convertt->convert
 convertted->converted
 converttibles->convertibles
 convery->convert
+conveted->converted
 conveyer->conveyor
 conveyorr->conveyor
 conveyro->conveyor
@@ -12603,6 +12609,7 @@ decompposed->decomposed
 decomppose->decompose
 decompposes->decomposes
 decompposing->decomposing
+deconding->decoding
 deconmissioned->decommissioned
 deconnissioned->decommissioned
 decoommissiooned->decommissioned
@@ -12753,6 +12760,7 @@ deeveelopmeent->development
 deevicee->device
 defaault->default
 defaeult->default
+defaul->default
 defaull->default
 defaullt->default
 defaulth->default
@@ -12909,6 +12917,7 @@ delagates->delegates
 delailed->detailed
 delapidated->dilapidated
 delecl->detect
+delect->deselect
 deleet ->delete
 delegaates->delegates
 delegaetes->delegates
@@ -13676,6 +13685,7 @@ dicovers->discovers
 dicovery->discovery
 dictionarys->dictionaries
 dictionay->dictionary
+dictionnary->dictionary
 dicussed->discussed
 didn'l->didn't
 did nnot->did not
@@ -15973,6 +15983,7 @@ encoddingg->encoding
 encoddinggs->encodings
 encoddings->encodings
 encoddingss->encodings
+enconding->encoding
 encoodding->encoding
 encooddings->encodings
 encoouraging->encouraging
@@ -20351,6 +20362,7 @@ hetpfutty->helpfully
 hetp->help
 hetterogeneous->heterogeneous
 heve->have
+hexdecimal->hexadecimal
 hexidecimal->hexadecimal
 hhabeas->habeas
 hhaemorrhhage->haemorrhage
@@ -22078,6 +22090,7 @@ incaarceraated->incarcerated
 in caase->in case
 incaerceraeted->incarcerated
 in caese->in case
+incapsulation->encapsulation
 incarcaerataed->incarcerated
 incarceerateed->incarcerated
 incarceraled->incarcerated
@@ -23932,6 +23945,7 @@ intterprettor->interpretor
 intterred->interred
 intterregnum->interregnum
 intterrelatted->interrelated
+intterrupt->intterrupt
 intterruptt->interrupt
 Intterruptt->Interrupt
 intterruptts->interrupts
@@ -24624,6 +24638,7 @@ knowlaedgaeablae->knowledgeable
 knowlaedgae->knowledge
 knowleddgeable->knowledgeable
 knowleddge->knowledge
+knowledegable->knowledgeable
 knowledgaeble->knowledgeable
 knowledgeaable->knowledgeable
 knowledgeabble->knowledgeable
@@ -40534,6 +40549,7 @@ stylee->style
 style sheet->stylesheet
 stylle->style
 styllus->stylus
+stylsheet->stylesheet
 styluus->stylus
 styte->style
 stytus->stylus
@@ -42135,6 +42151,7 @@ terrestriat->terrestrial
 terrestrical->terrestrial
 terrestriial->terrestrial
 terretsrial->terrestrial
+terrifiic->terrific
 terriitoriies->territories
 terriitory->territory
 terriories->territories
@@ -46105,6 +46122,7 @@ wnated->wanted
 wnats->wants
 wnat->want
 wohle->whole
+woiuldn't->wouldn't
 wokring->working
 wokr->work
 wondaerful->wonderful
