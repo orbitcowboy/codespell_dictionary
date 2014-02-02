@@ -260,11 +260,18 @@ Script->Skript
 seelig->selig
 seit dem->seitdem
 seperat->separat
+Qualifkation->Qualifikation
 Seriösität->Seriosität
 signifikatner->signifikanter
 Sitaution->Situation
 skurill->skurril
 skuril->skurril
+warden->wurden
+Paswörter->Passwörter
+Paswwort->Passwort
+bestägtigen->bestätigen
+Datnesicherungskonzept->Datensicherungskonzept
+Datne->Daten
 Softwarepackete->Softwarepakete
 Softwwareversion->Softwareversion
 Spass->Spaß

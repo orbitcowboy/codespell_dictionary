@@ -7395,6 +7395,7 @@ Cartthaginian->Carthaginian
 carttilage->cartilage
 carttographer->cartographer
 carttridge->cartridge
+cary->carry
 casadae->casade
 casadde->casade
 casadee->casade
@@ -7403,6 +7404,7 @@ cascade->casade
 cased->caused
 casette->cassette
 casion->caisson
+cas of->case of
 casowary->cassowary
 cassade->casade
 cassaettae->cassette
@@ -8123,6 +8125,7 @@ certainlly->certainly
 certainn->certain
 certainnty->certainty
 certaintyy->certainty
+certanly->certainly
 certhain->certain
 certhainthy->certainty
 certian->certain
@@ -8745,6 +8748,7 @@ coleague->colleague
 coleagues->colleagues
 colect->collect
 colection->collection
+colections->collections
 colective->collective
 colelctive->collective
 colerings->colorings
@@ -13686,6 +13690,7 @@ dicovery->discovery
 dictionarys->dictionaries
 dictionay->dictionary
 dictionnary->dictionary
+dictiory->dictionary
 dicussed->discussed
 didn'l->didn't
 did nnot->did not
@@ -13705,6 +13710,7 @@ diea->die
 diea->idea
 diea->idea, die
 diea->idea, die,
+diectly->directly
 diee->die
 dieing->dyeing
 dieing->dying
@@ -13825,6 +13831,7 @@ diffikult->difficult
 diffikulties->difficulties
 diffikulty->difficulty
 diffrent->different
+dificul->difficult
 dificult->difficult
 dificulties->difficulties
 dificulty->difficulty
@@ -15616,6 +15623,7 @@ eleminated->eliminated
 eleminating->eliminating
 elemmentary->elementary
 elemments->elements
+elemnt->element
 elephaant->elephant
 elephaent->elephant
 elephanl->elephant
@@ -18233,6 +18241,8 @@ filed name->field name
 filee->file
 filees->files
 fileesysteem->filesystem
+file-name->filename
+file-names->filenames
 filess->files
 filessysstem->filesystem
 filestream->file stream
@@ -18687,6 +18697,7 @@ fortiess->forties
 fortiies->forties
 fortties->forties
 fortty->forty
+fortunatly->fortunately
 fortyy->forty
 forunner->forerunner
 forwaard->forward
@@ -18884,6 +18895,7 @@ fullfilled->fulfilled
 fullfill->fulfill
 fullfilllled->fulfilled
 fullfillll->fulfill
+full-proof->foolproof
 funcction->function
 funcctioning->functioning
 funcional->functional
@@ -19659,6 +19671,7 @@ grriddles->griddles
 grrief->grief
 grroup->group
 grrow->grow
+gruoping->grouping
 grwo->grow
 gtamorous->glamorous
 Guaadaalupe->Guadalupe
@@ -20565,6 +20578,8 @@ highwaey->highway
 highwayy->highway
 highwway->highway
 higlight->highlight
+higligting->highlighting
+higliting->highlighting
 higway->highway
 hiierarchiical->hierarchical
 hiierarchiies->hierarchies
@@ -21816,6 +21831,7 @@ implementt->implement
 implementting->implementing
 implemeted->implemented
 implemetnation->implementation
+implemnted->implemented
 implentation->implementation
 impliccitly->implicitly
 implicilly->implicitly
@@ -22567,6 +22583,7 @@ induuce->induce
 induulge->indulge
 induustrial->industrial
 induustry->industry
+induvidual->individual
 indviduals->individuals
 indx->index
 ineartial->inertial
@@ -24979,6 +24996,7 @@ labled->labelled
 labled->labelled, labeled
 labled->labelled, labeled,
 lable->label
+lables->labels
 labooratoory->laboratory
 laboralory->laboratory
 laborathory->laboratory
@@ -29238,6 +29256,7 @@ norht->north
 norlheaslern->northeastern
 norlhern->northern
 norlh->north
+normaly->normally
 norrtheasterrn->northeastern
 norrtherrn->northern
 norrth->north
@@ -35999,6 +36018,7 @@ relattively->relatively
 releaases->releases
 releaeses->releases
 releassess->releases
+releated->related
 releaving->relieving
 relected->reelected
 releived->relieved
@@ -39021,6 +39041,7 @@ slyle->style
 slylus->stylus
 smaelting->smelting
 smae->same
+smaler->smaller
 smealting->smelting
 smeelting->smelting
 smellting->smelting
@@ -39288,6 +39309,7 @@ soupp->soup
 sourcae->source
 sourcce->source
 sourcee->source
+sourcode->source code
 soureforge->sourceforge
 soure->source
 sourke->source
@@ -44984,6 +45006,7 @@ vagarries->vagaries
 vaggaries->vagaries
 vaguaries->vagaries
 vaieties->varieties
+vaild->valid
 vailidty->validity
 vairable->variable
 vakuum->vacuum
