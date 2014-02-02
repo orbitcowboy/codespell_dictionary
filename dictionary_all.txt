@@ -21816,6 +21816,7 @@ implementt->implement
 implementting->implementing
 implemeted->implemented
 implemetnation->implementation
+implentation->implementation
 impliccitly->implicitly
 implicilly->implicitly
 implicite->implicit
@@ -38617,6 +38618,7 @@ signifficantly->significantly
 signifficant->significant
 signiffies->signifies
 signifiaes->signifies
+signifiance->significance
 significaantly->significantly
 significaant->significant
 significaently->significantly
