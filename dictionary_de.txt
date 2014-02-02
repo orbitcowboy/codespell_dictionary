@@ -34,6 +34,7 @@ beinghaltet->beinhaltet
 Beleuchtunsprobe->Beleuchtungsprobe
 Beratunsgespräch->Beratungsgespräch
 Besprechungsprtokoll->Besprechungsprotokoll
+bestägtigen->bestätigen
 Bewerbungfotos->Bewerbungsfotos
 Bewerbunggespräche->Bewerbungsgespräche
 Billiard->Billard
@@ -48,6 +49,8 @@ comming->coming
 Cosinus->Kosinus
 das selbe->dasselbe
 Datein->Dateien
+Datne->Daten
+Datnesicherungskonzept->Datensicherungskonzept
 desshalb->deshalb
 detailiert->detailliert
 detailierte->detaillierte
@@ -213,6 +216,8 @@ Ornder->Ordner
 Packet->Paket
 pallitativ->palliativ
 paralell->parallel
+Paswörter->Passwörter
+Paswwort->Passwort
 Pavillion->Pavillon
 pieken->piken
 pieksen->piksen
@@ -228,6 +233,7 @@ Prophezeihung->Prophezeiung
 Prüdsummen->Prüfsummen
 Prüdsumme->Prüfsumme
 Qualiät->Qualität
+Qualifkation->Qualifikation
 qualitätssicherende->qualitätssichernde
 rauh->rau
 Rechts-klick->Rechtsklick
@@ -260,18 +266,11 @@ Script->Skript
 seelig->selig
 seit dem->seitdem
 seperat->separat
-Qualifkation->Qualifikation
 Seriösität->Seriosität
 signifikatner->signifikanter
 Sitaution->Situation
 skurill->skurril
 skuril->skurril
-warden->wurden
-Paswörter->Passwörter
-Paswwort->Passwort
-bestägtigen->bestätigen
-Datnesicherungskonzept->Datensicherungskonzept
-Datne->Daten
 Softwarepackete->Softwarepakete
 Softwwareversion->Softwareversion
 Spass->Spaß
@@ -313,6 +312,7 @@ Vorang->Vorrang
 vor haben->vorhaben
 vorraus->voraus
 währe->wäre
+warden->wurden
 wärend->während
 webbbasierten->webbasierten
 Wehmutstropfen->Wermutstropfen
