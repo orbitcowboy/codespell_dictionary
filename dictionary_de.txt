@@ -7,7 +7,6 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-Virschutz->Virenschutz
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -16,7 +15,6 @@ and->und
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt
-verschiendenen->verschiedenen
 assozial->asozial
 Athmosphäre->Atmosphäre
 Atrappe->Attrappe
@@ -308,8 +306,10 @@ unverholen->unverhohlen
 ursprünglcih->ursprünglich
 Verließ->Verlies
 Verpsrechungen->Versprechungen
+verschiendenen->verschiedenen
 Verwandschaft->Verwandtschaft
 Verzeichniss->Verzeichnis
+Virschutz->Virenschutz
 Vorang->Vorrang
 vor haben->vorhaben
 vorraus->voraus

@@ -6640,6 +6640,7 @@ Buddhits->Buddhist
 Buddist->Buddhist
 Budha->Buddha
 Budhist->Buddhist
+bugg->bug
 buiild->build
 buildd->build
 buildign->building
@@ -18344,7 +18345,9 @@ fitament->filament
 fite->file
 fites->files
 fitesystem->filesystem
+fixed bud->fixed bug
 fixed pint arithmetic->fixed point arithmetic
+fixxed->fixed
 flaagged->flagged
 flaammaable->flammable
 flaawless->flawless
@@ -18448,6 +18451,7 @@ fluuorine->fluorine
 foccus->focus
 focuss->focus
 focuus->focus
+foe->for
 fokus->focus
 follllowing->following
 followiing->following
@@ -19013,6 +19017,7 @@ fuurther->further
 fuurthermore->furthermore
 fuuthark->futhark
 fuuthorc->futhorc
+fuxed->fixed
 Gaael->Gael
 gaalaactic->galactic
 Gaalaatiaans->Galatians
@@ -22270,6 +22275,7 @@ inconsitent->inconsistent
 inconsitsent->inconsistent
 inconssisstent->inconsistent
 inconstent->inconsistent
+inconvenence->inconvenience
 incooming->incoming
 incoompatibilities->incompatibilities
 incoompatibility->incompatibility
@@ -30098,6 +30104,7 @@ openeing->opening
 openend->opened
 openening->opening
 openess->openness
+openig->opening
 openiing->opening
 openingg->opening
 openin->opening
@@ -33771,6 +33778,7 @@ progranmable->programmable
 progrannable->programmable
 progreesseed->progressed
 progresed->progressed
+progresive->progressive
 progressedd->progressed
 progressssed->progressed
 progrom->pogrom
@@ -42378,6 +42386,7 @@ ther->there, their, the,
 theshold->threshold
 thesse->these
 thesthicular->testicular
+thete->there
 the the->the
 theyre->they're
 theyre->they're,
