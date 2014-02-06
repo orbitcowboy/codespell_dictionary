@@ -3266,6 +3266,7 @@ amuused->amused
 analagous->analogous
 analisis->analysis
 analitic->analytic
+analiysis->analysis
 anallogous->analogous
 anallytic->analytic
 analogeous->analogous
@@ -5808,6 +5809,7 @@ becoomes->becomes
 becooming->becoming
 becouse->because
 becuase->because
+bedone->be done
 bedore->before
 beeachheead->beachhead
 beeautiful->beautiful
@@ -15147,6 +15149,7 @@ ectectic->eclectic
 ect->etc
 ectipse->eclipse
 ectsasy->ecstasy
+edding->adding
 editior->editor
 editr->editor
 eeach->each
@@ -18000,6 +18003,7 @@ favouurable->favourable
 favvourable->favourable
 feaasible->feasible
 feaesible->feasible
+feal->feel
 feasable->feasible
 feasibble->feasible
 feasiblle->feasible
@@ -18640,6 +18644,7 @@ formalizze->formalize
 formallized->formalized
 formallize->formalize
 formalllly->formally
+formally->formerly
 formallyy->formally
 formaly->formally
 formaly->formally, formerly
@@ -19185,6 +19190,7 @@ Gel->Gael
 genaelogical->genealogical
 genaelogies->genealogies
 genaelogy->genealogy
+genarate->generate
 geneaalogicaal->genealogical
 geneaalogies->genealogies
 geneaalogy->genealogy
@@ -19401,6 +19407,7 @@ gnawaed->gnawed
 gnawedd->gnawed
 gnaweed->gnawed
 gnawwed->gnawed
+gnerate->generate
 gnnawed->gnawed
 goddaessaes->goddesses
 goddaess->goddess
@@ -23903,6 +23910,7 @@ intialization->initialization
 intialized->initialized
 intialize->initialize
 intially->initially
+intoduced->introduced
 in to->into
 intoo->into
 intorduced->introduced
@@ -24204,6 +24212,7 @@ is able to able to->is able to
 isalha->isalpha
 is check for->is checked for
 is check that->is checked that
+isince->since
 isn'l->isn't
 isnn't->isn't
 isn'th->isn't
@@ -28663,6 +28672,7 @@ nassalissation->nasalisation
 nassalization->nasalization
 nathurally->naturally
 nathural->natural
+nativly->natively
 natturally->naturally
 nattural->natural
 naturalllly->naturally
@@ -28748,6 +28758,7 @@ necessssitate->necessitate
 necessssitiess->necessities
 necesstate->necessitate
 necessties->necessities
+neded->needed
 Neeandeerthal->Neanderthal
 neecceessary->neccessary
 neeceessarily->necessarily
@@ -36507,6 +36518,7 @@ requuired->required
 requuirement->requirement
 requuirements->requirements
 reroganisation->reorganisation
+rerout->reroute
 resaerch->research
 resaurant->restaurant
 reseaarch->research
@@ -38162,6 +38174,7 @@ separatismm->separatism
 separatits->separatist
 separatoor->separator
 separatro->separator
+separat->separate
 separatted->separated
 separattely->separately
 separatte->separate
@@ -38413,6 +38426,7 @@ sheeeet->sheet
 sheeriff->sheriff
 sheeth->sheet
 sheett->sheet
+sheiderman->shneiderman
 sheild->shield
 sheriffff->sheriff
 sherif->sheriff
