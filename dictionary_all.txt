@@ -7111,6 +7111,7 @@ candidattes->candidates
 candidiate->candidate
 candiidate->candidate
 candiidates->candidates
+canditates->candidates
 caniister->canister
 caniisters->canisters
 canisiter->canister
@@ -12848,6 +12849,7 @@ defined as globbals->defined as globals
 defined as gloobals->defined as globals
 defined as gtobats->defined as globals
 defined ass globalss->defined as globals
+defineded->defined
 definetely->definitely
 definetly->definitely
 definile->definite
@@ -14755,6 +14757,7 @@ documeentation->documentation
 documeent->document
 documeenteed->documented
 documeents->documents
+documemt->document
 documenation->documentation
 documenatry->documentary
 documenlalion->documentation
@@ -14852,6 +14855,7 @@ dommination->domination
 donesn't->does not
 donig->doing
 don'l->don't
+donlt->do not
 do nnot->do not
 donn't->don't
 do nol->do not
@@ -17158,6 +17162,7 @@ execcuting->executing
 execcution->execution
 execising->exercising
 exection->execution
+exectuable->executable
 exectued->executed
 execuation->execution
 execuled->executed
@@ -19601,6 +19606,7 @@ graphic->graphical
 graphiz->graphviz
 graphvis->graphviz
 GraphVis->GraphViz
+Graphwiz->Graphviz
 grataeful->grateful
 grataefully->gratefully
 grateeful->grateful
@@ -21844,6 +21850,7 @@ implementhing->implementing
 implementingg->implementing
 implemention->implementation
 implementor->implementer
+implementors->implementers
 implementtattion->implementation
 implementted->implemented
 implementt->implement
@@ -26624,6 +26631,7 @@ marcked->marked
 marcketing->marketing
 marcks->marks
 maree->mare
+marging->margin
 mariage->marriage
 maried->married
 marjority->majority
@@ -31820,6 +31828,7 @@ piaecae->piece
 piblisher->publisher
 pich->pitch
 piecce->piece
+piecture->picture
 pieecee->piece
 pieke->piece
 piiece->piece
@@ -34663,6 +34672,7 @@ puursuuit->pursuit
 puursuuits->pursuits
 puutting->putting
 pwoer->power
+pyhon->python
 pyscic->psychic
 qquantity->quantity
 qquarantine->quarantine
@@ -39767,6 +39777,7 @@ squres->squares
 squuare->square
 squuares->squares
 squuirrelled->squirrelled
+srings->strings
 srocerer->sorcerer
 srtucture->structure
 ssacrifice->sacrifice
