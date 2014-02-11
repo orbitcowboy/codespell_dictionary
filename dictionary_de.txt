@@ -7,6 +7,7 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
+Virschutz->Virenschutz
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -15,6 +16,7 @@ and->und
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt
+verschiendenen->verschiedenen
 assozial->asozial
 Athmosphäre->Atmosphäre
 Atrappe->Attrappe

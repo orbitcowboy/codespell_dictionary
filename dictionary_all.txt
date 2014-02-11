@@ -6226,6 +6226,7 @@ blaamed->blamed
 blacckout->blackout
 blaccout->blackout
 blackkout->blackout
+blacklsit->blacklist
 blackoout->blackout
 blackoul->blackout
 blackouth->blackout
@@ -6641,6 +6642,7 @@ Budha->Buddha
 Budhist->Buddhist
 buiild->build
 buildd->build
+buildign->building
 builld->build
 buisness->business
 buisnessman->businessman
@@ -9365,6 +9367,7 @@ comnotations->connotations
 comnunication->communication
 comnunications->communications
 comnunities->communities
+comon->common
 comonly->commonly
 comonwealth->commonwealth
 compaany->company
@@ -13228,6 +13231,7 @@ descriibiing->describing
 descriiptiion->description
 descriiptor->descriptor
 descriiptors->descriptors
+descripition->description
 descriplion->description
 descriplor->descriptor
 descriplors->descriptors
@@ -13430,6 +13434,7 @@ destinatioons->destinations
 destinnationn->destination
 destinnationns->destinations
 destinned->destined
+destionations->destinations
 destory->destroy
 destrooy->destroy
 destroyy->destroy
@@ -13663,6 +13668,7 @@ diagrammmmatic->diagrammatic
 diagramnatic->diagrammatic
 diagranmatic->diagrammatic
 diagrannatic->diagrammatic
+diagrms->diagrams
 diagrrammatic->diagrammatic
 diall->dial
 diammonds->diamonds
@@ -17263,6 +17269,7 @@ exinct->extinct
 exisited->existed
 exisitence->existence
 exisitent->existent
+exisiting->existing
 exisled->existed
 exislence->existence
 exislenl->existent
@@ -21831,6 +21838,7 @@ implementt->implement
 implementting->implementing
 implemeted->implemented
 implemetnation->implementation
+implemntaion->implementation
 implemnted->implemented
 implentation->implementation
 impliccitly->implicitly
@@ -23763,6 +23771,7 @@ interppretor->interpretor
 interpretaation->interpretation
 interpretaetion->interpretation
 interpretatioon->interpretation
+interprete->interpret
 interpretoor->interpretor
 interpretro->interpretor
 interractive->interactive
@@ -25957,6 +25966,7 @@ lrusl->trust
 lruslworlhiness->trustworthiness
 lry->try
 lsat->last
+lsit->list
 luesday->tuesday
 lukid->likud
 lurnkey->turnkey
@@ -28673,6 +28683,8 @@ Nazarreth->Nazareth
 Nazereth->Nazareth
 Nazzareth->Nazareth
 Neaanderthaal->Neanderthal
+nead->need
+neads->needs
 Neaenderthael->Neanderthal
 neaer->near
 Neandderthal->Neanderthal
@@ -36334,6 +36346,7 @@ replakement->replacement
 replicateable->replicable
 repllacement->replacement
 replys->replies
+repoen->reopen
 reponse->response
 reponses->responses
 reponsible->responsible
@@ -39068,6 +39081,7 @@ sneezze->sneeze
 snese->sneeze
 sneze->sneeze
 snipet->snippet
+snipets->snippets
 snneaks->sneaks
 snneeze->sneeze
 socalism->socialism
@@ -39267,6 +39281,7 @@ sotyr->satyr
 sotyr->satyr, story
 sotyr->satyr, story,
 sotyr->story
+souce->source
 soucr code->source code
 soudn->sound
 soudns->sounds
@@ -40277,6 +40292,7 @@ stoppaed->stopped
 stoppedd->stopped
 stoppeed->stopped
 stopppped->stopped
+stopps->stops
 stopp->stop
 stopry->story
 storeis->stories
@@ -40658,6 +40674,7 @@ subcoonscioously->subconsciously
 subcribe->subscribe
 subctassed->subclassed
 subctass->subclass
+sub-folder->subfolder
 subfolder->sub folder
 subjjugation->subjugation
 subjudgation->subjugation
@@ -45295,6 +45312,7 @@ versattilitty->versatility
 versiions->versions
 versiion->version
 versin->version
+versioncontrol->version control
 versionns->versions
 versionn->version
 versioons->versions
@@ -45841,6 +45859,7 @@ watchdoog->watchdog
 watchhdog->watchdog
 watchog->watchdog
 wathchdog->watchdog
+wating->waiting
 watkhdog->watchdog
 watn->want
 watseful->wasteful
@@ -45987,6 +46006,7 @@ whilee->while
 whilever->whenever
 whille->while
 whio->who
+whitelsit->whitelist
 whithout->without
 whith->with
 whit->with
