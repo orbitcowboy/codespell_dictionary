@@ -17059,6 +17059,7 @@ exceded->exceeded
 excedingly->exceedingly
 exceeddedd->exceeded
 exceeddingly->exceedingly
+exceed->exceeds, exceeded
 exceediingly->exceedingly
 exceedinggly->exceedingly
 exceedinglly->exceedingly
@@ -39150,6 +39151,7 @@ sofftware->software
 soflware->software
 softare->software
 softhware->software
+softlink->softlink
 softtware->software
 softwaare->software
 softwaere->software
@@ -45949,6 +45951,7 @@ weear->wear
 weedneesday->wednesday
 Weedneesday->Wednesday
 weeird->weird
+week-end->weekend
 weell->well
 wehn->when
 weiird->weird
