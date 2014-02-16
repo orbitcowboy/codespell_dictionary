@@ -7,16 +7,11 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-Einstellingen->Einstellungen
 Amalgan->Amalgam
-Intallation->Installation
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
 and->und
-cleaver->clever
-over-riding->overriding
-gebuildet->gebildet
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt
@@ -49,6 +44,7 @@ bombadieren->bombardieren
 brilliant->brillant
 Campell->Campbell
 Capuccino->Cappuccino
+cleaver->clever
 Codierung->Kodierung
 comming->coming
 Cosinus->Kosinus
@@ -73,6 +69,7 @@ eigendlich->eigentlich
 einaml->einmal
 Einflußgrößen->Einflussgrößen
 eingschaltet->eingeschaltet
+Einstellingen->Einstellungen
 einzelnd->einzeln
 einzigste->einzige
 eleminieren->eliminieren
@@ -108,6 +105,7 @@ Gallionsfigur->Galionsfigur
 ganzahlig->ganzzahlig
 geaschlossen->geschlossen
 Gebahren->Gebaren
+gebuildet->gebildet
 Gedult->Geduld
 gefixed->gefixt
 Geheimniss->Geheimnis
@@ -146,6 +144,7 @@ insgesammt->insgesamt
 in's->ins
 in so fern->insofern
 in sofern->insofern
+Intallation->Installation
 integation->integration
 interresant->interessant
 interresting->interesting
@@ -218,6 +217,7 @@ Ordung->Ordnung
 Ordunung->Ordnung
 Orginal->Original
 Ornder->Ordner
+over-riding->overriding
 Packet->Paket
 pallitativ->palliativ
 paralell->parallel
