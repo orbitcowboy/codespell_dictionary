@@ -4963,6 +4963,7 @@ Atmeel->Atmel
 Atmell->Atmel
 Atmet->Atmel
 Atmmel->Atmel
+atmomically->atomically
 atmost->almost
 atorcities->atrocities
 atorney->attorney
@@ -11939,6 +11940,7 @@ ctearty->clearly
 ctinicat->clinical
 ctinicatty->clinically
 ctoud->cloud
+Ctr-F->Ctrl-F
 culiminating->culminating
 cullminating->culminating
 culmiinatiing->culminating
@@ -14869,6 +14871,7 @@ dont->don't, do not
 don'th->don't
 don'tt->don't
 dont't->don't
+don't thing->don't think
 donwload->download
 dooctrines->doctrines
 doocumentary->documentary
@@ -17155,6 +17158,7 @@ excpetion->exception
 exctudes->excludes
 exctusivety->exclusively
 exculsivly->exclusively
+excuted->executed
 execcuted->executed
 execcute->execute
 execcutes->executes
@@ -18712,6 +18716,7 @@ forsaw->foresaw
 forseeable->foreseeable
 fortelling->foretelling
 forthies->forties
+for thus->for this
 fortiaes->forties
 fortiees->forties
 fortiess->forties
@@ -19258,6 +19263,7 @@ genitallia->genitalia
 genitatia->genitalia
 genithalia->genitalia
 genittalia->genitalia
+geniune->genuine
 gennealogical->genealogical
 gennealogies->genealogies
 gennealogy->genealogy
@@ -19267,6 +19273,7 @@ genneratinng->generating
 gennerationn->generation
 gennitalia->genitalia
 genrally->generally
+genrate->generate
 geograaphicaal->geographical
 geograephicael->geographical
 geographhical->geographical
@@ -24124,6 +24131,7 @@ iresistable->irresistible
 iresistably->irresistibly
 iresistible->irresistible
 iresistibly->irresistibly
+irgnored->ignored
 iritable->irritable
 iritated->irritated
 iritates->irritates
@@ -24703,6 +24711,7 @@ knowlegeable->knowledgeable
 knowlege->knowledge
 knowlledgeablle->knowledgeable
 knowlledge->knowledge
+knowning->knowing
 knowss->knows
 knowtedgeabte->knowledgeable
 knowtedge->knowledge
@@ -29492,6 +29501,7 @@ numbeers->numbers
 numberous->numerous
 numberrs->numbers
 numberss->numbers
+numb->number
 numeeric->numeric
 numeerous->numerous
 numeorus->numerous
@@ -30301,6 +30311,7 @@ optimmismm->optimism
 optimmizations->optimizations
 optmizations->optimizations
 optomism->optimism
+optons->options
 opttimism->optimism
 opttimizattions->optimizations
 oraally->orally
@@ -33712,6 +33723,7 @@ proctaiming->proclaiming
 proctamation->proclamation
 proctect->protect
 prodedure->procedure
+produkts->products
 profaessaed->professed
 profaessional->professional
 profaession->profession
@@ -37127,6 +37139,7 @@ rised->raised
 rised->raised, rose,
 rised->rose
 roally->orally
+robitic->robotic
 Roccefeller->Rockefeller
 Rocckefeller->Rockefeller
 roccocco->rococo
@@ -43930,6 +43943,7 @@ unaaccompaanied->unaccompanied
 unaanimous->unanimous
 unaauthorised->unauthorised
 unaavaailaable->unavailable
+unability->inability
 unaccccompanied->unaccompanied
 unaccessible->inaccessible
 unaccommpanied->unaccompanied
@@ -44595,6 +44609,7 @@ unnusual->unusual
 unnwarrannted->unwarranted
 unnwieldy->unwieldy
 unnwrittenn->unwritten
+unobstrusive->unobtrusive
 unofffficial->unofficial
 unoffical->unofficial
 unofficcial->unofficial

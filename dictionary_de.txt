@@ -7,11 +7,16 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
+Einstellingen->Einstellungen
 Amalgan->Amalgam
+Intallation->Installation
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
 and->und
+cleaver->clever
+over-riding->overriding
+gebuildet->gebildet
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt
