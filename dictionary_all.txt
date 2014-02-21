@@ -14912,6 +14912,7 @@ doubtt->doubt
 doulbe->double
 douuble->double
 douubt->doubt
+dow->how
 dowload->download
 dowloads->downloads
 downlloads->downloads
@@ -27927,6 +27928,7 @@ modeem->modem
 modee->mode
 modees->modes
 modeled->modelled
+modeling->modelling
 modelllled->modelled
 modell->model
 modell's->models
