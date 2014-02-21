@@ -14806,6 +14806,7 @@ doees->does
 doees not->does not
 doeesn't->doesn't
 doens->does
+doen't->doesn't
 doesn'l->doesn't
 does nnot->does not
 doesn not->does not
@@ -44203,6 +44204,7 @@ undetectaeble->undetectable
 undetektable->undetectable
 undethecthable->undetectable
 undettecttable->undetectable
+undifined->undefined
 undooubtedly->undoubtedly
 undoubbtedly->undoubtedly
 undoubledly->undoubtedly
