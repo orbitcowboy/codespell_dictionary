@@ -32348,6 +32348,7 @@ porgram->program
 porgrams->programs
 porgressed->progressed
 porhibition->prohibition
+porject->project
 porlegomena->prolegomena
 porliferation->proliferation
 porlific->prolific
@@ -41051,6 +41052,7 @@ sucessot->successor
 sucess->success
 sucide->suicide
 sucidial->suicidal
+suddently->suddenly
 sufered->suffered
 sufering->suffering
 suffaeraed->suffered
@@ -46397,6 +46399,7 @@ wrok->work
 wroldwide->worldwide
 wrold->world
 wrole->wrote
+wronly->wrongly
 wroote->wrote
 wrosened->worsened
 wrotae->wrote
