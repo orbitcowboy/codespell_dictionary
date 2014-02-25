@@ -6202,6 +6202,7 @@ binomiat->binomial
 binominal->binomial
 binommial->binomial
 binoomial->binomial
+binrary->binary
 bitateratty->bilaterally
 bitffields->bitfields
 bitfiaelds->bitfields
@@ -24003,6 +24004,7 @@ intterprettor->interpretor
 intterred->interred
 intterregnum->interregnum
 intterrelatted->interrelated
+intterrupt->interrupt
 intterrupt->intterrupt
 intterruptt->interrupt
 Intterruptt->Interrupt
