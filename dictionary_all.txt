@@ -17587,6 +17587,7 @@ extaent->extant
 extannt->extant
 extemely->extremely
 extendability->expandability
+exteneded->extended
 extened->extended
 extennsionn->extension
 extennsionns->extensions
