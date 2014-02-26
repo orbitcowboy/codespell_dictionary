@@ -23854,6 +23854,7 @@ interrvals->intervals
 interrvene->intervene
 interrvenes->intervenes
 intersted->interested
+intersting->interesting
 intertaining->entertaining
 interupt->interrupt
 Interupt->Interrupt
@@ -24005,7 +24006,6 @@ intterred->interred
 intterregnum->interregnum
 intterrelatted->interrelated
 intterrupt->interrupt
-intterrupt->intterrupt
 intterruptt->interrupt
 Intterruptt->Interrupt
 intterruptts->interrupts
