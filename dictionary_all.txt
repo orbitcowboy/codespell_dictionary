@@ -559,6 +559,7 @@ absencce->absence
 absenke->absence
 absennce->absence
 absense->absence
+absloute->absolute
 absollutelly->absolutely
 absolulely->absolutely
 absolutaely->absolutely
@@ -2930,6 +2931,7 @@ allllowing->allowing
 allllright->allright
 allll-time->all-time
 allllusion->allusion
+alllow->allow
 allmost->almost
 allogelher->altogether
 allolled->allotted
@@ -9902,9 +9904,11 @@ confiides->confides
 confiigurable->configurable
 confiiguratiion->configuration
 confiigure->configure
+confirmes by->confirmed by
 confitions->conditions
 confiugre->configure
 conflusion->conclusion
+conform->confirm
 conformm->conform
 conforrm->conform
 confortable->comfortable
@@ -12043,6 +12047,7 @@ cylinnder->cylinder
 cyllinder->cylinder
 cyphaeraed->cyphered
 cypheereed->cyphered
+cypher->cipher
 cypheredd->cyphered
 cypherred->cyphered
 cyphhered->cyphered
@@ -26345,6 +26350,7 @@ makking->making
 maklefile->makefile
 makle->make
 makles->makes
+makng->making
 makse->makes
 Malccolm->Malcolm
 malching->matching
@@ -29365,6 +29371,7 @@ noteable->notable
 noteably->notably
 notee->note
 noteriety->notoriety
+notesa->notes
 nothable->notable
 nothably->notably
 nothe->note
@@ -30983,6 +30990,7 @@ parrticipants->participants
 parrticularrly->particularly
 parrticularr->particular
 parrty->party
+Partations->Partitions
 parthially->partially
 parthicipanths->participants
 parthicularly->particularly
@@ -31518,6 +31526,7 @@ persevrance->perseverance
 persevverance->perseverance
 persiistence->persistence
 persiistent->persistent
+persion->person
 persisitence->persistence
 persisitent->persistent
 persislence->persistence
@@ -37661,6 +37670,7 @@ sannctionninng->sanctioning
 sanndwich->sandwich
 Sannhedrinn->Sanhedrin
 santioned->sanctioned
+saparate->separate
 sargant->sergeant
 sargeant->sergeant
 sassyy->sassy
@@ -42288,6 +42298,7 @@ terrrrorrist->terrorist
 tese->these
 tesiticular->testicular
 tessticular->testicular
+teste->test
 testiccular->testicular
 testiclular->testicular
 testiculaar->testicular

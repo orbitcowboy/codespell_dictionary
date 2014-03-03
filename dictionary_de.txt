@@ -12,6 +12,9 @@ Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
 and->und
+ausserdem->außerdem
+ausser->außer
+binaer->binär
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt
