@@ -12,9 +12,6 @@ Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
 and->und
-ausserdem->außerdem
-ausser->außer
-binaer->binär
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt
@@ -26,6 +23,7 @@ Ausdrcuk->Ausdruck
 Ausführungsgeschwindigkeit->Ausführungszeit
 außderem->außerdem
 ausser->außer
+ausserdem->außerdem
 authorisieren->autorisieren
 authorisiert->autorisiert
 Authorisierung->Autorisierung
@@ -41,6 +39,7 @@ bestägtigen->bestätigen
 Bewerbungfotos->Bewerbungsfotos
 Bewerbunggespräche->Bewerbungsgespräche
 Billiard->Billard
+binaer->binär
 bischen->bisschen
 Bisquit->Biskuit
 bombadieren->bombardieren
