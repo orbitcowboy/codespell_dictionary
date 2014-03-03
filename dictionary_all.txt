@@ -9604,6 +9604,7 @@ complettion->completion
 compliation->compilation
 complicance->compliance
 complie->compile
+complied->compiled
 complier->compiler
 complleted the->completed the
 complletelly->completely
@@ -13567,6 +13568,7 @@ dettermining->determining
 dettrimenttal->detrimental
 detusivety->delusively
 detves->delves
+Deutche->Deutsche
 devaastaated->devastated
 devaastaating->devastating
 devaestaeted->devastated
@@ -18327,6 +18329,7 @@ finnanncial->financial
 finnanncially->financially
 finnd->find
 finnite->finite
+finomaton->information
 firends->friends
 firmmware->firmware
 firmwaare->firmware
@@ -21883,6 +21886,7 @@ implictly->implicitly
 implikitly->implicitly
 implimented->implemented
 impliment->implement
+implimenting->implementing
 impllementation->implementation
 impllemented->implemented
 impllement->implement
@@ -23756,6 +23760,7 @@ intered->interred, interned
 intered->interred, interned,
 interegnum->interregnum
 interelated->interrelated
+interesing->interesting
 interesiting->interesting
 interesit->interest
 interessted->interested 
@@ -26116,6 +26121,8 @@ mackes->makes
 macking->making
 mackkerel->mackerel
 macklerel->mackerel
+maco->macro
+macos->macros
 madae->made
 madde->made
 madee->made
@@ -27940,6 +27947,7 @@ moderm->modem
 modess->modes
 modet->model
 modetted->modelled
+modfiied->modified
 modifed->modified
 modiffiable->modifiable
 modifiaable->modifiable
@@ -33785,6 +33793,7 @@ profussion->profusion
 profuusion->profusion
 progarm->program
 progessed->progressed
+progess->progress
 proggrammable->programmable
 proggram->program
 proggrams->programs
@@ -44943,6 +44952,7 @@ usuallyy->usually
 usualy->usually
 usuatty->usually
 ususally->usually
+utilties->utilities
 uttimately->ultimately
 uttimatety->ultimately
 uubiquuitouus->ubiquitous
