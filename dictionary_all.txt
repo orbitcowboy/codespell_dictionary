@@ -11021,6 +11021,7 @@ convyor->conveyor
 cooast->coast
 cooca->cocoa
 coocktail->cocktail
+coode->code
 cooded->coded
 coodespell->codespell
 cooefficients->coefficients
@@ -16874,6 +16875,7 @@ eventualy->eventually
 eventuatty->eventually
 eventuually->eventually
 eveolutionary->evolutionary
+evereytime->everytime
 everithing->everything
 everry->every
 everrything->everything
@@ -27101,6 +27103,7 @@ messagin->messaging
 messaginng->messaging
 messag->message
 messanger->messenger
+messege->message
 messengerr->messenger
 messengger->messenger
 messenging->messaging
@@ -29602,6 +29605,7 @@ obediient->obedient
 obeedieencee->obedience
 obeedieent->obedient
 obession->obsession
+obivously->obviously
 obivous->obvious
 obsaessaed->obsessed
 obsaession->obsession
@@ -44928,6 +44932,7 @@ usefuly->usefully
 usefutty->usefully
 usefut->useful
 useing->using
+useracount->user account
 UserID->User ID
 usesrs->users
 usigned->unsigned
