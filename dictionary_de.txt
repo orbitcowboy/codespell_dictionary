@@ -139,6 +139,7 @@ Imbus->Inbus
 impelmentiert->implementiert
 inclusive->inklusive
 in dem->indem
+Inforamtionen->Informationen
 Informand->Informant
 Ingredenzien->Ingredienzien
 Initiialisierung->Initialisierung

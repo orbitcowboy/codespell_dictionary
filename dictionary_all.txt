@@ -5912,6 +5912,7 @@ beginnnninng->beginning
 beginnnninngs->beginnings
 beginns->begins
 beginss->begins
+begning->beginning
 behaavior->behavior
 behaaviour->behaviour
 behaevior->behavior
@@ -6015,6 +6016,7 @@ belliigerent->belligerent
 belllligerent->belligerent
 bellllwether->bellwether
 belloved->beloved
+bellow->below
 bellweather->bellwether
 bellwehter->bellwether
 bellwelher->bellwether
@@ -11840,6 +11842,7 @@ critisizing->criticising
 critisizing->criticising, criticizing
 critisizing->criticising, criticizing,
 critisizing->criticizing
+crititcal->critical
 critized->criticized
 critizing->criticizing
 critteria->criteria
@@ -13168,6 +13171,7 @@ derefencing->dereferencing
 dereferenccing->dereferencing
 dereferenciing->dereferencing
 dereferencingg->dereferencing
+dereferencs->dereferences
 dereferenking->dereferencing
 dereferenncinng->dereferencing
 derefernce->dereference
@@ -14919,6 +14923,8 @@ doublle->double
 doubte->double
 doubth->doubt
 doubtt->doubt
+doucment->document
+doucments->documents
 doulbe->double
 douuble->double
 douubt->doubt
@@ -17606,6 +17612,7 @@ extensioon->extension
 extensioons->extensions
 extenssion->extension
 extenssionss->extensions
+extented->extended
 extention->extension
 extentions->extensions
 extered->exerted
@@ -18087,6 +18094,7 @@ fertillity->fertility
 fertily->fertility
 fertitity->fertility
 ferttilitty->fertility
+feture->feature
 ffacilitated->facilitated
 ffacilitate->facilitate
 ffacilitates->facilitates
@@ -22863,6 +22871,7 @@ influuenced->influenced
 influuential->influential
 infomation->information
 infoormatioon->information
+inforamtion->information
 informaation->information
 informaetion->information
 informalion->information
@@ -27516,6 +27525,7 @@ minnistries->ministries
 minnistry->ministry
 minstries->ministries
 minstry->ministry
+minues->minutes
 minuets->minutes
 minuite->minute
 minumum->minimum
@@ -33751,6 +33761,7 @@ proctaimed->proclaimed
 proctaiming->proclaiming
 proctamation->proclamation
 proctect->protect
+procudures->procedures
 prodedure->procedure
 produkts->products
 profaessaed->professed
@@ -36564,6 +36575,7 @@ requirments->requirements
 requred->required
 requrements->requirements
 requriements->requirements
+requrired->required
 requuest->request
 requuests->requests
 requuired->required
@@ -39674,6 +39686,8 @@ spekimen->specimen
 spektakular->spectacular
 spektakulars->spectaculars
 spektrum->spectrum
+speling->spelling
+spel->spell
 spendour->splendour
 spermaatozoon->spermatozoon
 spermaetozoon->spermatozoon
@@ -43910,6 +43924,7 @@ tyypicallyy->typically
 tyypical->typical
 tyyrannies->tyrannies
 tyyrannyy->tyranny
+Ubantu->Ubuntu
 ubbiquitous->ubiquitous
 Ubbuntu->Ubuntu
 ubiiquiitous->ubiquitous
@@ -43927,6 +43942,7 @@ Ubunntu->Ubuntu
 Ubunthu->Ubuntu
 Ubunttu->Ubuntu
 Ubunut->Ubuntu
+Ubutu->Ubuntu
 Ubuuntuu->Ubuntu
 Uckrainian->Ukrainian
 Ucrainian->Ukrainian
