@@ -8472,6 +8472,7 @@ chitd's->child's
 chnage->change
 chnaged->changed
 chnaging->changing
+choise->choice
 choosed->chose
 choosed->chose, chosen,
 choosed->chosen
@@ -18725,6 +18726,7 @@ forretelling->foretelling
 forreworrd->foreword
 forrfeit->forfeit
 forr->for
+forrge->forge
 forrmalized->formalized
 forrmalize->formalize
 forrmally->formally
@@ -20070,6 +20072,7 @@ hamorrhage->haemorrhage
 handdling->handling
 handeling->handling
 handels->handles
+handing->handling
 handliing->handling
 handlingg->handling
 handlling->handling
@@ -43947,6 +43950,7 @@ Ubuuntuu->Ubuntu
 Uckrainian->Ukrainian
 Ucrainian->Ukrainian
 udenfined->undefined
+uder->under
 uesful->useful
 uesr->user
 uggliness->ugliness
