@@ -10790,6 +10790,7 @@ contorversial->controversial
 contorversies->controversies
 contorversy->controversy
 contraint->constraint
+contraints->constraints
 contravercial->controversial
 contraversy->controversy
 contribbute->contribute
@@ -24319,6 +24320,7 @@ it it->it
 it kan still->it can still
 itnroduced->introduced
 itreration->iteration
+i tries->i tried
 it still can->it can still
 itt can sttill->it can still
 ittegal->illegal
@@ -42376,6 +42378,7 @@ thast->that
 thast->that's
 thast->that, that's,
 thast->that, that\"s
+tha->that
 tha->the
 thath->that
 thaththoos->tattoos
@@ -45989,6 +45992,7 @@ weapoonry->weaponry
 weapponry->weaponry
 wearr->wear
 weas->was
+webage->web page
 weddnesdday->wednesday
 Weddnesdday->Wednesday
 wednesdaay->wednesday
@@ -46356,6 +46360,7 @@ worldd->world
 worldwidae->worldwide
 worldwidee->worldwide
 worldwiide->worldwide
+worled->worked, world
 worlldwide->worldwide
 worlld->world
 worls->world
