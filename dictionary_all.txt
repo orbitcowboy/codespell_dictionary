@@ -4835,6 +4835,7 @@ asymnetric->asymmetric
 asyncchronous->asynchronous
 asynchhronous->asynchronous
 asynchornous->asynchronous
+asynchrone->asynchronous
 asynchronouus->asynchronous
 asynchronus->asynchronous
 asynchroonoous->asynchronous
@@ -13178,6 +13179,7 @@ dereferenking->dereferencing
 dereferenncinng->dereferencing
 derefernce->dereference
 derefferencing->dereferencing
+dereived->derived
 derference->dereference
 deriivatiive->derivative
 deriived->derived
@@ -16560,6 +16562,7 @@ equipmment->equipment
 equippedd->equipped
 equippment->equipment
 equipppped->equipped
+equirement->requirement
 equitibrium->equilibrium
 equitorial->equatorial
 equivaalent->equivalent
@@ -44189,6 +44192,7 @@ undaerground->underground
 undaerstood->understood
 undaesirablae->undesirable
 undaetaectablae->undetectable
+undconditional->unconditional
 unddeciddable->undecidable
 unddefinable->undefinable
 unddergroundd->underground
