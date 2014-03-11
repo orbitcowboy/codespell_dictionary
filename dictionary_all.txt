@@ -3343,6 +3343,7 @@ ancillaryy->ancillary
 ancilliary->ancillary
 ancillllary->ancillary
 ancittary->ancillary
+and and->and
 an data type->a data type
 andd->and
 anddrogynous->androgynous
@@ -5918,6 +5919,7 @@ behaavior->behavior
 behaaviour->behaviour
 behaevior->behavior
 behaeviour->behaviour
+behaiour->behavior
 behaveior->behavior
 behaveiour->behaviour
 behaviior->behavior
@@ -16668,6 +16670,7 @@ eslablishes->establishes
 eslablishing->establishing
 esle->else
 eslimaled->estimated
+esnure->ensure
 especcially->especially
 especiaally->especially
 especiaelly->especially
@@ -21288,6 +21291,7 @@ iidiiosyncrasy->idiosyncrasy
 iidiiosyncratiic->idiosyncratic
 iif one sets->if one sets
 iif you want->if you want
+i i->i
 iillegal->illegal
 iillegiitiimacy->illegitimacy
 iillegiitiimate->illegitimate
@@ -24264,6 +24268,7 @@ isalha->isalpha
 is check for->is checked for
 is check that->is checked that
 isince->since
+is is->is
 isn'l->isn't
 isnn't->isn't
 isn'th->isn't
@@ -27019,6 +27024,7 @@ meeteeorologist->meteorologist
 meeteeorology->meteorology
 meethod deefinees how->method defines how
 meethods->methods
+mehod->methods
 mehtod defines how->method defines how
 mehtods->methods
 mekhaniks->mechanics
@@ -27275,6 +27281,7 @@ methode->method
 methodes->methods
 methodolgy->methodology
 methodss->methods
+methoes->methods
 methood defines hoow->method defines how
 methoods->methods
 metod defines how->method defines how
@@ -42915,6 +42922,7 @@ todayy's->today's
 todayy->today
 todday's->today's
 todday->today
+to developed->to be developed
 todolist->todo list
 todya->today
 togaethaer->together
