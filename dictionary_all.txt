@@ -11424,6 +11424,7 @@ correponding->corresponding
 correposding->corresponding
 corrept->corrupt
 correspoding->corresponding
+correspoinding->corresponding
 correspomding->corresponding
 correspondant->correspondent
 correspondants->correspondents
@@ -13628,6 +13629,7 @@ developmenl->development
 developmennt->development
 developmenth->development
 developmentt->development
+developming->developing
 developmment->development
 developp->develop
 developped->developed
@@ -34195,6 +34197,7 @@ proprotional->proportional
 proprotions->proportions
 propse->propose
 propted->prompted
+propterties->properties
 prosaelytizing->proselytizing
 proseelytizing->proselytizing
 proseletyzing->proselytizing
@@ -34673,6 +34676,7 @@ purposety->purposely
 purpossely->purposely
 purpotedly->purportedly
 purprotedly->purportedly
+purpse->purpose
 purrchasing->purchasing
 purritanical->puritanical
 purrporrtedly->purportedly
@@ -36570,6 +36574,7 @@ requiremenl->requirement
 requiremenls->requirements
 requiremennt->requirement
 requiremennts->requirements
+requiremens->requirements
 requiremenst->requirements
 requirementh->requirement
 requiremenths->requirements
@@ -42482,6 +42487,7 @@ theshold->threshold
 thesse->these
 thesthicular->testicular
 thete->there
+th e->the
 the the->the
 theyre->they're
 theyre->they're,
@@ -45391,6 +45397,7 @@ verificattion->verification
 verificcation->verification
 verifikation->verification
 verifiy->verify
+verifyable->verifiable
 verifyy->verify
 veriifiicatiion->verification
 veriify->verify
