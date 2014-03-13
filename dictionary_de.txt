@@ -7,6 +7,10 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
+der der->der
+die die->die
+das das->das
+es es->es
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse

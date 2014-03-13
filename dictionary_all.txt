@@ -1336,6 +1336,7 @@ additionallyy->additionally
 additionaly->additionally
 additionat->additional
 additionatty->additionally
+additionial->additional
 additionional->additional
 additionn->addition
 additionnal->additional
@@ -6418,6 +6419,7 @@ brain-dammaged->brain-damaged
 brain-ddamagedd->brain-damaged
 brainn-damaged->brain-damaged
 brak->break
+branche->branch
 Brasillian->Brazilian
 Braziiliian->Brazilian
 Braziliann->Brazilian
@@ -13640,8 +13642,10 @@ developpers->developers
 developping->developing
 developpment->development
 develops->developers
+develped->developed
 develpment->development
 devels->delves
+devensive->defensive
 devestated->devastated
 devestating->devastating
 devetop->develop
@@ -14823,6 +14827,7 @@ docuumentation->documentation
 docuument->document
 docuumented->documented
 docuuments->documents
+do do->do
 doees->does
 doees not->does not
 doeesn't->doesn't
