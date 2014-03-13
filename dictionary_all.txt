@@ -1400,6 +1400,7 @@ addrress->address
 addrressed->addressed
 addrresses->addresses
 addrressing->addressing
+addrsses->addresses
 addtion->addition
 addtional->additional
 addvancedd->advanced
@@ -3077,6 +3078,7 @@ altended->attended
 altention->attention
 alterantives->alternatives
 alternatiives->alternatives
+alternation->alteration
 alternativees->alternatives
 alternativess->alternatives
 alternativs->alternatives
@@ -4206,6 +4208,7 @@ architechturally->architecturally
 architechture->architecture
 architechtures->architectures
 architecst->architects
+architectcture->architecture
 architectss->architects
 architectual->architectural
 architecturall->architectural
@@ -18500,6 +18503,7 @@ fluroine->fluorine
 fluuorescent->fluorescent
 fluuorine->fluorine
 foccus->focus
+focusses->focuses
 focuss->focus
 focuus->focus
 foe->for
@@ -29493,6 +29497,7 @@ nouveaeu->nouveau
 nouveeau->nouveau
 nouvveau->nouveau
 Novaembaer->November
+novalue->no value
 noveau->nouveau
 Noveembeer->November
 Noveember->November
@@ -36143,6 +36148,7 @@ releived->relieved
 releive->relieve
 releiver->reliever
 releses->releases
+releted->related
 relevaance->relevance
 relevaant->relevant
 relevaence->relevance
@@ -42229,6 +42235,7 @@ temporary->temporarily
 temporaryy->temporary
 temporrarrily->temporarily
 temporrarry->temporary
+tempory->temporary
 tempperament->temperament
 tempperate->temperate
 tempperature->temperature
