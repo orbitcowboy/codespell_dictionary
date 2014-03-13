@@ -7,10 +7,6 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-der der->der
-die die->die
-das das->das
-es es->es
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -54,13 +50,16 @@ cleaver->clever
 Codierung->Kodierung
 comming->coming
 Cosinus->Kosinus
+das das->das
 das selbe->dasselbe
 Datein->Dateien
 Datne->Daten
 Datnesicherungskonzept->Datensicherungskonzept
+der der->der
 desshalb->deshalb
 detailiert->detailliert
 detailierte->detaillierte
+die die->die
 dilletantisch->dilettantisch
 Diphterie->Diphtherie
 Diplomanten->Diplomanden
@@ -97,6 +96,7 @@ Erlaubniss->Erlaubnis
 erlischen, wenn->erloschen sein, wenn
 Erwiederung->Erwiderung
 erziehlen->erzielen
+es es->es
 ettliche->etliche
 Extase->Ekstase
 Fehlerberg->Fehlberg
