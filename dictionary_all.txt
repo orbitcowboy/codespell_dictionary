@@ -4519,6 +4519,8 @@ as checkled->as checked
 as cheeckeed->as checked
 as cheked->as checked
 as chhecked->as checked
+ascpect->aspect
+ascpects->aspects
 aseembly->assembly
 asemble->assemble
 asertion->assertion
@@ -25766,6 +25768,7 @@ literallyy->literally
 literaly->literally
 literatty->literally
 literatuure->literature
+literl->literal
 literrally->literally
 literraturre->literature
 literture->literature
@@ -46202,6 +46205,8 @@ wiew->view
 wifae->wife
 wifee->wife
 wiffe->wife
+wightloss->weight loss
+wight->weight
 wihtdrawal->withdrawal
 wihtdraw->withdraw
 wihtheld->withheld
@@ -46454,6 +46459,7 @@ wrile->write
 wriling->writing
 wrillen->written
 wrilten->written
+wrinting->writing
 writaer->writer
 writae->write
 writeable->writable
