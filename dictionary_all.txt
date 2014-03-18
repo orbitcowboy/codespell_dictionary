@@ -44737,6 +44737,7 @@ unprecedenthed->unprecedented
 unprecedentted->unprecedented
 unprecendented->unprecedented
 unprecidented->unprecedented
+unprecise->imprecise
 unpreeceedeenteed->unprecedented
 unprekedented->unprecedented
 unprrecedented->unprecedented
