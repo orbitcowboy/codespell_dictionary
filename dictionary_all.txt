@@ -5632,6 +5632,7 @@ basicallyy->basically
 basicaly->basically
 basicatty->basically
 basiccally->basically
+basiclly->basically
 basicly->basically
 basiically->basically
 basikally->basically
@@ -5936,6 +5937,7 @@ behavioor->behavior
 behavioour->behaviour
 behaviorr->behavior
 behaviourr->behaviour
+behavious->behavior
 behaviouur->behaviour
 behaviro->behavior
 behavour->behavior
@@ -6918,6 +6920,7 @@ caertridge->cartridge
 caervical->cervical
 caesaede->casade
 Caesarr->Caesar
+caese->cases
 Caessar->Caesar
 caessette->cassette
 caessowaery->cassowary
@@ -22048,6 +22051,7 @@ imprroving->improving
 imprrovisation->improvisation
 imprsioned->imprisoned
 imprsionment->imprisonment
+imprvoement->improvement
 imptementation->implementation
 imptemented->implemented
 imptement->implement
@@ -29252,6 +29256,7 @@ nnumerous->numerous
 nnurturinng->nurturing
 nnutriennt->nutrient
 nnutriennts->nutrients
+noatation->notation
 nolable->notable
 nolably->notably
 noliceable->noticeable
@@ -30587,6 +30592,7 @@ oveer there->over there
 oveerun->overrun
 oveerwheelming->overwhelming
 oveerwhelming->overwhelming
+over head->overhead
 over htere->over there
 overidden->overridden
 over lhere->over there
@@ -36605,6 +36611,8 @@ requiremenths->requirements
 requirementss->requirements
 requirementt->requirement
 requirementts->requirements
+requiremetn->requirement
+requiremetns->requirements
 requiremment->requirement
 requiremments->requirements
 requirment->requirement
@@ -36941,6 +36949,7 @@ restraunt->restaurant
 restraunt->restraint
 restraunt->restraint, restaurant
 restraunt->restraint, restaurant,
+restrication->restriction
 restriccted->restricted
 restrictedd->restricted
 restriicted->restricted
