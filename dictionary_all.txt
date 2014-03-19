@@ -975,6 +975,7 @@ acctively->actively
 acctivities->activities
 acctually->actually
 accuracyy->accuracy
+accurancy->accuracy
 accurences->occurrences
 accur->occur
 accurracy->accuracy
@@ -4228,6 +4229,7 @@ architeectural->architectural
 architeecturally->architecturally
 architeecturee->architecture
 architeecturees->architectures
+architetecture->architecture
 archithecth->architect
 archithecths->architects
 archithecthural->architectural
@@ -33147,6 +33149,7 @@ preciise->precise
 preciselly->precisely
 preciselyy->precisely
 precisety->precisely
+precisise->precise
 precisly->precisely
 precissely->precisely
 precisse->precise
@@ -42632,6 +42635,7 @@ thinnk->think
 thirdd->third
 thirrd->third
 thisis->this is
+this requirements->these requirements 
 thiss->this
 thiunk->think
 thna->than
