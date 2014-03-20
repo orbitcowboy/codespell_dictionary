@@ -337,7 +337,7 @@ Wettezll->Wettzell
 wiederrum->wiederum
 Wiedersacher->Widersacher
 wiederspiegeln->widerspiegeln
-wiederspinstig->widerspenstig 
+wiederspinstig->widerspenstig
 witmen->widmen
 ziffernblatt->zifferblatt
 zu einzusparen->einzusparen
