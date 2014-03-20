@@ -5572,10 +5572,12 @@ baenkruptcy->bankruptcy
 bae raefaeraencaed by->be referenced by
 baergamot->bergamot
 Baernoulli->Bernoulli
+baes->base
 baesiaegae->besiege
 baesiaegaed->besieged
 baesiaeging->besieging
 baesicaelly->basically
+baes on->based on
 baestiality->bestiality
 baetch monitor->batch monitor
 baettleship->battleship
@@ -14330,6 +14332,7 @@ discovvered->discovered
 discovvering->discovering
 discovvers->discovers
 discovvery->discovery
+discrepency->discrepancy
 discribed->described
 discribe->describe
 discribes->describes
@@ -26467,6 +26470,7 @@ manageemeent->management
 managemenl->management
 managementh->management
 managementt->management
+managemnet->management
 managgeable->manageable
 managgeably->manageably
 managgement->management
@@ -39414,6 +39418,7 @@ sosftware->software
 sotdiers->soldiers
 sotd->sold
 sotety->solely
+sotftware->software
 sotitary->solitary
 sotitoquy->soliloquy
 sotry->story
