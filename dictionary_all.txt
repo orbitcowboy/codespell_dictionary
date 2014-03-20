@@ -12680,6 +12680,7 @@ decribed->described
 decribe->describe
 decribes->describes
 decribing->describing
+decription->description
 decriptor->descriptor
 decrpyt->decrypt
 decrpyted->decrypted
@@ -22550,6 +22551,7 @@ independentlyy->independently
 independentt->independent
 independenttly->independently
 independentty->independently
+independnece->independence
 INDEPENENT->INDEPENDENT
 indeppendence->independence
 indeppendent->independent
@@ -30391,6 +30393,7 @@ optimizationss->optimizations
 optimizzations->optimizations
 optimmismm->optimism
 optimmizations->optimizations
+optionnal->optional
 optmizations->optimizations
 optomism->optimism
 optons->options
@@ -36606,6 +36609,7 @@ requestts->requests
 requet->request
 requets->requests
 requetss->requests
+requierments->requirements
 requiired->required
 requiirement->requirement
 requiirements->requirements
@@ -43222,6 +43226,7 @@ traceabiiliity->traceability
 traceabilityy->traceability
 traceabillity->traceability
 traceabitity->traceability
+tracebale->traceable
 tracebility->traceability
 traceeability->traceability
 tradditionally->traditionally
@@ -45433,6 +45438,8 @@ Verbatum->Verbatim
 verfication->verification
 verfiy->verify
 verfy->verify
+verication->verification 
+verifable->verifiable
 verifcation->verification
 veriffication->verification
 veriffy->verify
