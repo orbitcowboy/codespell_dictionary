@@ -3207,7 +3207,6 @@ ammateur->amateur
 ammeliorate->ameliorate
 ammend->amend
 ammended->amended
-ammended->amended 
 ammendment->amendment
 ammendments->amendments
 ammendmment->amendment
@@ -5509,7 +5508,7 @@ backgorund->background
 backgorunds->backgrounds
 backgroound->background
 backgroounds->backgrounds
-backgrouded->background 
+backgrouded->background
 backgroundd->background
 backgroundds->backgrounds
 backgroundss->backgrounds
@@ -6100,7 +6099,6 @@ be referencced by->be referenced by
 be referenced byy->be referenced by
 be referencedd by->be referenced by
 be references by->be referenced by
-be references by->be referenced by 
 be referenked by->be referenced by
 be referennced by->be referenced by
 be refferenced by->be referenced by
@@ -13258,7 +13256,7 @@ descendents->descendants
 descenndannt->descendant
 descenndannts->descendants
 descibed->described
-descibing->describing 
+descibing->describing
 desciptor->descriptor
 descision->decision
 descisions->decisions
@@ -14345,6 +14343,7 @@ discussaed->discussed
 discusseed->discussed
 discuuss->discuss
 discuussed->discussed
+disecting->dissecting
 diseenchanteed->disenchanted
 disemination->dissemination
 disencchanted->disenchanted
@@ -22687,7 +22686,7 @@ indviduals->individuals
 indx->index
 ineartial->inertial
 ineartial->initiated
-ineartial->initiated,inertial 
+ineartial->initiated,inertial
 ineefficieent->inefficient
 ineefficieently->inefficiently
 ineequalitiees->inequalities
@@ -23069,7 +23068,6 @@ initiaetion->initiation
 initiaetive->initiative
 initiaitive->initiative
 initialialized->initialized
-initialialized->initialized 
 initialisae->initialise
 initialisee->initialise
 initialisse->initialise
@@ -23819,7 +23817,7 @@ interelated->interrelated
 interesing->interesting
 interesiting->interesting
 interesit->interest
-interessted->interested 
+interessted->interested
 interessting->interesting
 interesst->interest
 interestingg->interesting
@@ -33813,6 +33811,7 @@ proctaiming->proclaiming
 proctamation->proclamation
 proctect->protect
 procudures->procedures
+procuedures->procedures
 prodedure->procedure
 produkts->products
 profaessaed->professed
@@ -35236,6 +35235,7 @@ reael->real
 reaeson->reason
 reakhed->reached
 reakhing->reaching
+realease->release
 realiised->realised
 realiistiic->realistic
 realiized->realized
@@ -37298,7 +37298,6 @@ roughlyy->roughly
 roughty->roughly
 rougly->roughly
 rountines->routines
-rountines->routines 
 rouughly->roughly
 ro without->or without
 rrabbinical->rabbinical
@@ -42661,7 +42660,7 @@ thinnk->think
 thirdd->third
 thirrd->third
 thisis->this is
-this requirements->these requirements 
+this requirements->these requirements
 thiss->this
 thiunk->think
 thna->than
@@ -44461,7 +44460,7 @@ uninhabitted->uninhabited
 uninhaebited->uninhabited
 uninhhabited->uninhabited
 uninilialized->uninitialized
-uninitalized->uninitialized 
+uninitalized->uninitialized
 uninithialized->uninitialized
 uninitiaalized->uninitialized
 uninitiaelized->uninitialized
@@ -45438,7 +45437,7 @@ Verbatum->Verbatim
 verfication->verification
 verfiy->verify
 verfy->verify
-verication->verification 
+verication->verification
 verifable->verifiable
 verifcation->verification
 veriffication->verification
@@ -45447,7 +45446,7 @@ verificaation->verification
 verificaetion->verification
 verificalion->verification
 verificathion->verification
-verificatin->verification 
+verificatin->verification
 verificationn->verification
 verificatioon->verification
 verificattion->verification
@@ -46727,7 +46726,7 @@ youurself->yourself
 youusef->yousef
 youutuube->youtube
 youu->you
-youve->you've 
+youve->you've
 yrea->year
 ytou->you
 yuo->you
