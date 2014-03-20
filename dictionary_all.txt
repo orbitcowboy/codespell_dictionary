@@ -4243,6 +4243,7 @@ archittectturally->architecturally
 archittectture->architecture
 archittecttures->architectures
 archivaed->archived
+archivation->archiving
 archivd->archived
 archivedd->archived
 archiveed->archived
@@ -7209,6 +7210,7 @@ capabilitiees->capabilities
 capabilitiess->capabilities
 capabilitties->capabilities
 capabilitty->capability
+capabilitys->capabilities
 capabilityy->capability
 capabillities->capabilities
 capabillity->capability
@@ -9626,6 +9628,7 @@ complicance->compliance
 complie->compile
 complied->compiled
 complier->compiler
+complinace->compliance
 complleted the->completed the
 complletelly->completely
 complletion->completion
@@ -12250,6 +12253,7 @@ Darddanelles->Dardanelles
 Dardenelles->Dardanelles
 Darrdanelles->Dardanelles
 darw->draw
+data base->database
 databse->database
 data typae->data type
 datatyp->data type
@@ -16380,6 +16384,7 @@ entiity->entity
 entirety->entirely
 entist->enlist
 entites->entities
+entitites->entities
 entitity->entity
 entitledd->entitled
 entitlied->entitled
@@ -36557,6 +36562,7 @@ reproducibiity->reproducibility
 reproduciblle->reproducible
 reproducibte->reproducible
 reproduciible->reproducible
+reproduibility->reproducibility
 reprodukible->reproducible
 reproduucible->reproducible
 reprooducible->reproducible
@@ -39404,6 +39410,7 @@ sorce->source
 sorkerer->sorcerer
 sorrcerrerr->sorcerer
 sorrounding->surrounding
+sosftware->software
 sotdiers->soldiers
 sotd->sold
 sotety->solely
@@ -42368,6 +42375,7 @@ testicularr->testicular
 testicullar->testicular
 testicutar->testicular
 testicuular->testicular
+testig->testing
 testiicular->testicular
 testikular->testicular
 testomony->testimony
