@@ -4228,6 +4228,7 @@ architeectural->architectural
 architeecturally->architecturally
 architeecturee->architecture
 architeecturees->architectures
+architetcture->architecture
 architetecture->architecture
 archithecth->architect
 archithecths->architects
@@ -5872,6 +5873,7 @@ beetweeeen->between
 beffore->before
 befoer->before
 befoore->before
+befored->before
 beforre->before
 befroe->before
 beggggingg->begging
@@ -15071,6 +15073,7 @@ dryaes->dryas
 dryass->dryas
 dryyas->dryas
 dstination->destination
+duel->dual
 dum->dumb
 dupicate->duplicate
 dupicates->duplicates
@@ -25496,6 +25499,7 @@ liaissonss->liaisons
 liase->liaise
 liasion->liaison
 liason->liaison
+liason->liasion
 liasons->liaisons
 libael->libel
 libaertarianism->libertarianism
@@ -27161,6 +27165,7 @@ messagin->messaging
 messaginng->messaging
 messag->message
 messanger->messenger
+messed some->missed some
 messege->message
 messengerr->messenger
 messengger->messenger
@@ -36631,6 +36636,7 @@ requiremment->requirement
 requiremments->requirements
 requirment->requirement
 requirments->requirements
+requqirements->requirements
 requred->required
 requrements->requirements
 requriements->requirements
@@ -46343,6 +46349,7 @@ wittingness->willingness
 witt->will
 wiull->will
 wizzard->wizard
+wlll->will
 wnated->wanted
 wnats->wants
 wnat->want
