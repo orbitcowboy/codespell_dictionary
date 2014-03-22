@@ -5161,6 +5161,7 @@ audiencce->audience
 audienke->audience
 audiennce->audience
 audiience->audience
+augument->argument
 auhtor->author
 auhtoritative->authoritative
 auhtorities->authorities
@@ -6940,6 +6941,7 @@ caetholic->catholic
 caetholicism->catholicism
 Caetiline->Catiline
 caeucuses->caucuses
+cagegory->category
 cahracters->characters
 cahtolic->catholic
 cahtolicism->catholicism
@@ -12984,6 +12986,8 @@ delerious->delirious
 delermine->determine
 delermining->determining
 delet->delete
+delete'ing->deleting
+deleteing->deleting
 deletete->delete
 delethe->delete
 delette->delete
@@ -17603,6 +17607,7 @@ expproppriation->expropriation
 expresed->expressed
 expresion->expression
 expressedd->expressed
+expresseion->expression
 expressssed->expressed
 exproopriated->expropriated
 exproopriatioon->expropriation
@@ -18866,6 +18871,7 @@ fred->freed
 freedd->freed
 freeed->freed
 freeeed->freed
+free'ing->freeing
 freequeency->frequency
 freequeently->frequently
 freind->friend
@@ -23254,6 +23260,8 @@ inndustry->industry
 innediately->immediately
 innefficiennt->inefficient
 innefficienntly->inefficiently
+innefficient->inefficient
+inneficient->inefficient
 innense->immense
 innequalities->inequalities
 innertial->inertial
@@ -26183,6 +26191,7 @@ macking->making
 mackkerel->mackerel
 macklerel->mackerel
 maco->macro
+maco-->macro
 macos->macros
 madae->made
 madde->made
@@ -27155,6 +27164,7 @@ merkhandise->merchandise
 merrcantile->mercantile
 merrchandise->merchandise
 merre->mere
+mesage->message
 mesaging->messaging
 mesenger->messenger
 messaaging->messaging
@@ -32562,6 +32572,7 @@ positionned->positioned
 positionn->position
 positivae->positive
 positivee->positive
+positivese->positives
 positiv->positive
 positivve->positive
 positon->position
@@ -35429,6 +35440,7 @@ recident->resident
 recidents->residents
 recide->reside
 reciding->residing
+recient->recent
 reciepents->recipients
 reciept->receipt
 recieved->received
@@ -39338,6 +39350,7 @@ somelimes->sometimes
 somene->someone
 someonne->someone
 somethhing->something
+somethig->something
 somethiing->something
 somethimes->sometimes
 somethingg->something
@@ -42287,6 +42300,7 @@ temptate->template
 temselves->themselves
 tenacles->tentacles
 tenacle->tentacle
+tenary->ternary
 tendacy->tendency
 tendancies->tendencies
 tendancy->tendency
@@ -46065,6 +46079,7 @@ weapoonry->weaponry
 weapponry->weaponry
 wearr->wear
 weas->was
+weather->whether
 webage->web page
 weddnesdday->wednesday
 Weddnesdday->Wednesday
