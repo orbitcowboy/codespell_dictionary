@@ -11058,6 +11058,7 @@ cooefficients->coefficients
 coognizant->cognizant
 cooincided->coincided
 cooincidentally->coincidentally
+cookbock->cookbook
 coolander->colander
 coollabooratioons->collaborations
 coollaboorative->collaborative
@@ -14307,6 +14308,7 @@ discoovered->discovered
 discoovering->discovering
 discoovers->discovers
 discoovery->discovery
+discourages->discouraged
 discovaeraed->discovered
 discovaer->discover
 discovaering->discovering
@@ -16980,6 +16982,7 @@ evolutionaryy->evolutionary
 evolutionnary->evolutionary
 evoluttionary->evolutionary
 evoluutionary->evolutionary
+evolveability->evolvability
 evoolutioonary->evolutionary
 evotutionary->evolutionary
 evry->every
@@ -17388,6 +17391,7 @@ exlensions->extensions
 exlernal->external
 exliled->exiled
 exlincl->extinct
+exlorer->explorer
 exlradilion->extradition
 exlralerreslrial->extraterrestrial
 exlralerreslrials->extraterrestrials
@@ -17703,6 +17707,7 @@ extraeordinaery->extraordinary
 extraeterrestriael->extraterrestrial
 extraeterrestriaels->extraterrestrials
 extraevaegaent->extravagant
+extralarge->extra large
 extraoordinarily->extraordinarily
 extraoordinary->extraordinary
 extraorddinarily->extraordinarily
@@ -22055,6 +22060,7 @@ improvisationn->improvisation
 improvisattion->improvisation
 improvision->improvisation
 improvissation->improvisation
+improvment->improvement
 improvments->improvements
 improvvements->improvements
 improvving->improving
@@ -24029,6 +24035,7 @@ intrroduced->introduced
 intrroduce->introduce
 intruction->instruction
 intruduced->introduced
+intruisive->intrusive
 intrumental->instrumental
 intrument->instrument
 intruments->instruments
@@ -29281,6 +29288,7 @@ nnurturinng->nurturing
 nnutriennt->nutrient
 nnutriennts->nutrients
 noatation->notation
+no body->nobody
 nolable->notable
 nolably->notably
 noliceable->noticeable
@@ -31500,6 +31508,7 @@ permaanently->permanently
 permaanent->permanent
 permaenently->permanently
 permaenent->permanent
+perma-link->permalink
 permanant->permanent
 permanenlly->permanently
 permanenl->permanent
@@ -32409,6 +32418,8 @@ popullarity->popularity
 popullar->popular
 popullation->population
 popullations->populations
+popup->pop up
+popups->pop ups
 poputarity->popularity
 poputar->popular
 poputation->population
@@ -33206,6 +33217,7 @@ predecessro->predecessor
 predecessros->predecessors
 predecessssor->predecessor
 predecessssorss->predecessors
+pre-defined->predefined
 predekessor->predecessor
 predekessors->predecessors
 predicatble->predictable
@@ -39220,6 +39232,8 @@ slylus->stylus
 smaelting->smelting
 smae->same
 smaler->smaller
+smartpointer->smart pointer
+smartpointers->smart pointers
 smealting->smelting
 smeelting->smelting
 smellting->smelting
@@ -40362,6 +40376,7 @@ statesmman->statesman
 statiion->station
 stationn->station
 statioon->station
+statments->statements
 statment->statement
 staughterhouses->slaughterhouses
 stauts->status
@@ -43245,6 +43260,7 @@ traceabiiliity->traceability
 traceabilityy->traceability
 traceabillity->traceability
 traceabitity->traceability
+traceackbility->traceability
 tracebale->traceable
 tracebility->traceability
 traceeability->traceability
