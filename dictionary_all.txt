@@ -8923,6 +8923,7 @@ colunns->columns
 coluumn->column
 coluumns->columns
 comaand-->command
+coma->comma
 comaeback->comeback
 comaedic->comedic
 comamnd->command
@@ -12043,6 +12044,7 @@ custome->custom
 customiize->customize
 customise->customize
 customizae->customize
+customizaton->customization
 customizee->customize
 customizze->customize
 custommize->customize
@@ -13004,6 +13006,7 @@ deliberattely->deliberately
 deliberrately->deliberately
 deliiberately->deliberately
 deliiriious->delirious
+delimeters->delimiters
 delirioous->delirious
 deliriouss->delirious
 deliriouus->delirious
@@ -26844,6 +26847,7 @@ matchinng->matching
 Matcotm->Malcolm
 mateerialist->materialist
 matematically->mathematically
+matematical->mathematical
 matematician->mathematician
 matematicians->mathematicians
 matematics->mathematics
@@ -30209,6 +30213,7 @@ ooriginal->original
 oorigin->origin
 oor withoout->or without
 oother->other
+oot of->out of
 ooutput->output
 ooutputting->outputting
 ooutstanding->outstanding
@@ -30652,6 +30657,7 @@ overthere->over there
 over thhere->over there
 over tthere->over there
 overun->overrun
+over use->overuse
 overwelming->overwhelming
 overwheliming->overwhelming
 overwhellming->overwhelming
@@ -30835,6 +30841,7 @@ pageannt->pageant
 pageanth->pageant
 pageantt->pageant
 pageeant->pageant
+pagees->pages
 paggeant->pageant
 pagueant->pageant
 paht->path
@@ -39827,6 +39834,7 @@ splendoour->splendour
 splendourr->splendour
 splendouur->splendour
 splenndour->splendour
+spliting->splitting
 spllendour->splendour
 spoace->space
 sponfuls->spoonfuls
@@ -43349,6 +43357,7 @@ trakeability->traceability
 tranceiver->transceiver
 trancendent->transcendent
 trancending->transcending
+trancode->transcode
 tranfer->transfer
 tranformed->transformed
 tranform->transform
