@@ -710,6 +710,7 @@ acceptt->accept
 accepttance->acceptance
 accesable->accessible
 acces->access
+accesed->accesses
 accesible->accessible
 accesion->accession
 accesories->accessories
@@ -973,6 +974,7 @@ acctivate->activate
 acctivated->activated
 acctively->actively
 acctivities->activities
+accts->acts
 acctually->actually
 accuracyy->accuracy
 accurancy->accuracy
@@ -14784,6 +14786,7 @@ dize->size
 doaes->does
 doaes not->does not
 doaesn't->doesn't
+doamain->domain
 docctrines->doctrines
 doccumentary->documentary
 doccumentation->documentation
@@ -14859,6 +14862,7 @@ do do->do
 doees->does
 doees not->does not
 doeesn't->doesn't
+doen->done
 doens->does
 doen't->doesn't
 doesn'l->doesn't
@@ -21699,6 +21703,7 @@ imilaled->imitated
 imilale->imitate
 imilaling->imitating
 imilalor->imitator
+im->i'm
 iminent->eminent
 iminent->eminent, imminent, immanent
 iminent->eminent, imminent, immanent,
@@ -31116,6 +31121,7 @@ partikipants->participants
 partikularly->particularly
 partikular->particular
 partipants->participants
+partititions->partitions
 parttially->partially
 partticipantts->participants
 partticularly->particularly
@@ -35906,6 +35912,7 @@ referennce->reference
 referennces->references
 referenndum->referendum
 refere to->refer to
+referfence->reference
 referiang->referring
 refering->referring
 refer lo->refer to
@@ -37323,6 +37330,7 @@ roomnate->roommate
 roonmate->roommate
 roonnate->roommate
 roooommate->roommate
+rooter->router
 rooughly->roughly
 rorder->reorder
 rosae->rose
@@ -41903,6 +41911,7 @@ sympthoms->symptoms
 symptooms->symptoms
 sympttoms->symptoms
 synaagogue->synagogue
+synadartd->standard
 synaegogue->synagogue
 synaggoggue->synagogue
 synagoge->synagogue
