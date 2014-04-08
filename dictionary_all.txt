@@ -1301,6 +1301,7 @@ adapteer->adapter
 adapterr->adapter
 adapth->adapt
 adapther->adapter
+adaptions->adaptations
 adaptor->adapter
 adaptt->adapt
 adaptter->adapter
@@ -1686,6 +1687,7 @@ advertissementss->advertisements
 adverttisementt->advertisement
 adverttisementts->advertisements
 advesary->adversary
+advice->advise
 adviced->advised
 adviised->advised
 advisaed->advised
@@ -8396,6 +8398,7 @@ cheemistry->chemistry
 cheif->chief
 cheifs->chiefs
 chek->check
+cheking->checking
 cheksumming->checksumming
 chemcial->chemical
 chemcially->chemically
@@ -8682,6 +8685,7 @@ clouud->cloud
 cmo->com
 cmo->com, disabled due to lots of false positives
 cmoputer->computer
+cna->can
 cnife->knife
 cnitializing->initializing
 cnives->knives
@@ -16690,6 +16694,7 @@ errrratic->erratic
 errrroneous->erroneous
 errrrorr->error
 errupted->erupted
+erst of->rest of
 erupled->erupted
 eruppted->erupted
 eruptedd->erupted
@@ -23779,6 +23784,7 @@ intented->indented
 intented->intended
 intented->intended, indented
 intented->intended, indented,
+intentned->intended
 intepretation->interpretation
 intepretator->interpretor
 intepreting->interpreting
@@ -29222,6 +29228,7 @@ ninties->1990s
 nint->ninth
 nintth->ninth
 ninty->ninety
+nither->neither
 nkow->know
 nkwo->know
 nmae->name
@@ -30539,6 +30546,7 @@ orrgan->organ
 orriginally->originally
 orriginal->original
 orrigin->origin
+orrupt->corrupt
 orr without->or without
 orse->rose
 orughly->roughly
@@ -33458,6 +33466,7 @@ prerogattive->prerogative
 preroggative->prerogative
 preroogative->prerogative
 presedential->presidential
+pre-selected->preselected
 presencce->presence
 presenke->presence
 presennce->presence
@@ -35265,6 +35274,7 @@ readmissioon->readmission
 readmissssion->readmission
 readmition->readmission
 readmmission->readmission
+readonly->read only
 reaeched->reached
 reaeching->reaching
 reaedmission->readmission
@@ -35310,6 +35320,7 @@ realy->really
 reasearch->research
 reasonn->reason
 reasoon->reason
+re-assign->reassign
 reasson->reason
 reate->create
 reatised->realised
@@ -36438,6 +36449,7 @@ rentors->renters
 rentters->renters
 reoccurrence->recurrence
 reoorganisatioon->reorganisation
+re-open->reopen
 reorgaanisaation->reorganisation
 reorgaenisaetion->reorganisation
 reorganiisatiion->reorganisation
@@ -36619,6 +36631,7 @@ reprooducible->reproducible
 reprotedly->reportedly
 reprtoire->repertoire
 repsectively->respectively
+repsonse->response
 reptacement->replacement
 reptition->repetition
 repubican->republican
@@ -39670,6 +39683,7 @@ specctaccular->spectacular
 specctacculars->spectaculars
 specctrum->spectrum
 specfic->specific
+specfific->specfific
 speches->speeches
 spech->speech
 speciaalised->specialised
@@ -39798,6 +39812,7 @@ spektrum->spectrum
 speling->spelling
 spel->spell
 spendour->splendour
+speparate->separate
 spermaatozoon->spermatozoon
 spermaetozoon->spermatozoon
 spermalozoon->spermatozoon
