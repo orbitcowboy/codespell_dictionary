@@ -6179,6 +6179,7 @@ betweeen->between
 betweenn->between
 betwen->between
 betwween->between
+bevaviour->behavior
 beween->between
 bewteen->between
 bianry->binary
@@ -9543,6 +9544,7 @@ compensathion->compensation
 compensatiion->compensation
 compensattion->compensation
 compenssation->compensation
+comperator->comparator
 competance->competence
 competant->competent
 competative->competitive
@@ -15147,6 +15149,7 @@ eahc->each
 eaisier->easier
 eakh->each
 ealier->earlier
+eample->example
 earial->aerial
 earials->aerials
 earlies->earliest
@@ -16480,6 +16483,7 @@ enviornmentally->environmentally
 enviornment->environment
 enviornments->environments
 envirionment->environment
+envirnoment->environment
 enviromental->environmental
 enviromentalist->environmentalist
 enviromentally->environmentally
@@ -20213,6 +20217,7 @@ hard-coded->hardcoded
 harddware->hardware
 hardwarae->hardware
 hardwaree->hardware
+hardwere->hardware
 hardwware->hardware
 harrased->harassed
 harrases->harasses
@@ -20944,6 +20949,7 @@ howeverr->however
 howevr->however
 howevver->however
 howewer->however
+howto->how to
 howver->however
 howwever->however
 Hper-V->Hyper-V
@@ -23932,6 +23938,7 @@ Interrrrupt->Interrupt
 interrrrupts->interrupts
 interrrupt->interrupt
 interrugum->interregnum
+interrup->interrupt
 interruppt->interrupt
 Interruppt->Interrupt
 interruppts->interrupts
@@ -33366,6 +33373,7 @@ preliminaery->preliminary
 preliminaryy->preliminary
 preliminnary->preliminary
 prelimminary->preliminary
+prelininary->preliminary
 prelliminary->preliminary
 premeired->premiered
 premeire->premiere
@@ -34868,6 +34876,7 @@ quarantinae->quarantine
 quarantinee->quarantine
 quaranttine->quarantine
 quarrantine->quarantine
+quartz->quarz
 qubic->cubic
 Queeeensland->Queensland
 Queenland->Queensland
@@ -35981,6 +35990,7 @@ reformistt->reformist
 reformits->reformist
 reformmist->reformist
 refreash->refresh
+refrenced->referenced
 refrence->reference
 refrences->references
 refrers->refers
@@ -36328,6 +36338,7 @@ relurn value->return value
 remaaining->remaining
 remaeining->remaining
 remaiiniing->remaining
+remainder->reminder
 remaing->remaining
 remainingg->remaining
 remainninng->remaining
@@ -44954,6 +44965,7 @@ unterminatedd->unterminated
 unterminate->unterminated
 untermminated->unterminated
 unterrminated->unterminated
+unter->under
 untherminathed->unterminated
 unthil->until
 unthranslathable->untranslatable
