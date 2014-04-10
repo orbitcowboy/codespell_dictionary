@@ -7,7 +7,6 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-dokumentes->dokuments
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -66,6 +65,7 @@ Diphterie->Diphtherie
 Diplomanten->Diplomanden
 Disaster->Desaster
 dne->den
+dokumentes->dokuments
 draussen->draußen
 duch->durch
 dynamicaly->dynamically
