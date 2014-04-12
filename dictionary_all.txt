@@ -744,6 +744,7 @@ accidentallyy->accidentally
 accidentaly->accidentally
 accidentatty->accidentally
 accidenthally->accidentally
+accidentially->accidentally
 accidently->accidentally
 accidenttally->accidentally
 acciidentally->accidentally
@@ -5455,6 +5456,8 @@ aview->a view
 aviiatiion->aviation
 avilable->available
 aviod->avoid
+avitar->avatar
+avitars->avatars
 a vngeance->a vengeance
 avraged->averaged
 AVR Sludio->AVR Studio
@@ -10615,6 +10618,7 @@ constituution->constitution
 constraaints->constraints
 constraeints->constraints
 constraiints->constraints
+constrains->constraints
 constrainst->constraints
 constrraints->constraints
 constrruction->construction
@@ -12032,6 +12036,7 @@ curiosty->curiosity
 curiousity->curiosity
 curraently->currently
 curreently->currently
+curren->current
 currenlly->currently
 currenlty->currently
 currenly->currently
@@ -20610,6 +20615,7 @@ hiaeroglyph->hieroglyph
 hiaeroglyphics->hieroglyphics
 hiaeroglyphs->hieroglyphs
 hiden->hidden
+hid->hide
 hiearchy->hierarchy
 hieerarchical->hierarchical
 hieerarchiees->hierarchies
@@ -42515,6 +42521,7 @@ thaey->they
 thakes->takes
 thake->take
 thaking->taking
+thaks->thanks
 thalked->talked
 thalking->talking
 than i->then i
