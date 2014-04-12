@@ -18,9 +18,7 @@ Artzt->Arzt
 assozial->asozial
 Athmosphäre->Atmosphäre
 Atrappe->Attrappe
-Forumlar->Fromular
 auschalten->ausschalten
-Wod->Word
 Ausdrcuk->Ausdruck
 Ausführungsgeschwindigkeit->Ausführungszeit
 außderem->außerdem
@@ -107,6 +105,7 @@ Fehlfuktion->Fehlfunktion
 fesgtgesegtzgt->festgesetzt
 fiel->viel
 fluoriszierend->fluoreszierend
+Forumlar->Fromular
 Fotrderungen->Forderungen
 fröhnen->frönen
 Gallerie->Galerie
@@ -342,6 +341,7 @@ Wiedersacher->Widersacher
 wiederspiegeln->widerspiegeln
 wiederspinstig->widerspenstig
 witmen->widmen
+Wod->Word
 ziffernblatt->zifferblatt
 zu einzusparen->einzusparen
 zu Gurte->zu Gute
