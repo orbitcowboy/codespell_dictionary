@@ -4180,6 +4180,7 @@ archhitectures->architectures
 archhived->archived
 archiac->archaic
 archictect->architect
+archieving->achieving
 archiimedean->archimedean
 archiitect->architect
 archiitects->architects
@@ -9743,6 +9744,7 @@ concaernaed->concerned
 concaern->concern
 concaerning->concerning
 concatinate->concatenate
+concecptional->conceptual
 conceeiteed->conceited
 conceeiveed->conceived
 conceentratee->concentrate
@@ -9860,6 +9862,7 @@ condittions of->conditions of
 conecpt->concept
 conected->connected
 Conecticut->Connecticut
+conectional->conceptual
 conection->connection
 conectix->connectix
 conencted->connected
@@ -29716,6 +29719,7 @@ obeedieent->obedient
 obession->obsession
 obivously->obviously
 obivous->obvious
+objectivies->objectives
 obsaessaed->obsessed
 obsaession->obsession
 obseesseed->obsessed
