@@ -3026,6 +3026,7 @@ almostt->almost
 almots->almost
 almsot->almost
 alochol->alcohol
+al of->all of
 a lol->a lot
 alomost->almost
 alomst->almost
@@ -9613,6 +9614,7 @@ compilationn->compilation
 compilattion->compilation
 compileer->compiler
 compilerr->compiler
+compiliance->compliance
 compillation->compilation
 compiller->compiler
 compitation->compilation
@@ -19971,6 +19973,7 @@ guidanke->guidance
 guidannce->guidance
 guiddance->guidance
 guidence->guidance
+guidline->guideline
 guiidance->guidance
 Guiinness->Guinness
 Guilia->Giulia
@@ -33296,6 +33299,7 @@ predictionss->predictions
 predictioons->predictions
 predicttable->predictable
 predicttions->predictions
+predifined->predefined
 prediictable->predictable
 prediictiions->predictions
 prediktable->predictable
