@@ -18,7 +18,9 @@ Artzt->Arzt
 assozial->asozial
 Athmosphäre->Atmosphäre
 Atrappe->Attrappe
+Forumlar->Fromular
 auschalten->ausschalten
+Wod->Word
 Ausdrcuk->Ausdruck
 Ausführungsgeschwindigkeit->Ausführungszeit
 außderem->außerdem

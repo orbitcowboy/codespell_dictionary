@@ -4258,6 +4258,7 @@ archtypes->archetypes
 aready->already
 areodynamics->aerodynamics
 arested->arrested
+arfrican->african
 argguably->arguably
 arggument->argument
 argguments->arguments
@@ -5789,6 +5790,7 @@ beacuse->because
 beaechheaed->beachhead
 beaeutiful->beautiful
 beakhhead->beachhead
+be applies->be applied
 beastiality->bestiality
 beatiful->beautiful
 beauliful->beautiful
@@ -8168,6 +8170,7 @@ certanly->certainly
 certhain->certain
 certhainthy->certainty
 certian->certain
+certificaiton->certification
 certtain->certain
 certtaintty->certainty
 cerveical->cervical
@@ -12951,6 +12954,7 @@ deiitiies->deities
 deiity->deity
 deilies->deities
 deily->deity
+deisgn->design
 deithies->deities
 deithy->deity
 deitiess->deities
@@ -15656,6 +15660,7 @@ electon->election, electron
 electon->election, electron,
 electon->electron
 electorn->electron
+electornic->electronic
 electrial->electrical
 electricaal->electrical
 electricaally->electrically
@@ -16485,6 +16490,7 @@ enviornmentalist->environmentalist
 enviornmentally->environmentally
 enviornment->environment
 enviornments->environments
+envirionmental->environmental
 envirionment->environment
 envirnoment->environment
 enviromental->environmental
@@ -16661,6 +16667,7 @@ erial->aerial
 erials->aerials
 erodynamics->aerodynamics
 eroneous->erroneous
+eroor->error
 eror->error
 erorneous->erroneous
 erorr->error
@@ -17293,6 +17300,7 @@ exempl->exempt
 exemppt->exempt
 exempth->exempt
 exemptt->exempt
+exensively->extensively
 exeperiment->experiment
 exept->except
 exeptional->exceptional
@@ -19503,6 +19511,7 @@ gloabl->global
 gloabls->globals
 glocal->global
 glosary->glossary
+glossar->glossary
 glossay->glossary
 gnaawed->gnawed
 gnaewed->gnawed
@@ -26564,6 +26573,7 @@ maneuvverability->maneuverability
 maneuvverable->maneuverable
 maneuvver->maneuver
 maneuvvers->maneuvers
+mangement->management
 manifaestations->manifestations
 manifeestations->manifestations
 manifesitations->manifestations
@@ -28068,6 +28078,7 @@ modifiablle->modifiable
 modifiabte->modifiable
 modifiaeble->modifiable
 modifiing->modifying
+modifiying->modifying
 modifiy->modify
 modifyable->modifiable
 modiifiiable->modifiable
@@ -42507,6 +42518,7 @@ thaking->taking
 thalked->talked
 thalking->talking
 than i->then i
+thanku->thank
 thann->than
 thans->thanks
 thargethed->targeted
@@ -42570,6 +42582,7 @@ themselvees->themselves
 themselvs->themselves
 themselvves->themselves
 themsetves->themselves
+themsleves->themselves
 themslves->themselves
 themsselvess->themselves
 thendencies->tendencies
@@ -46433,6 +46446,7 @@ wlll->will
 wnated->wanted
 wnats->wants
 wnat->want
+wod->word
 wohle->whole
 woiuldn't->wouldn't
 wokring->working
