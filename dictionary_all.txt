@@ -2815,6 +2815,7 @@ alhenians->athenians
 alhpanumeric->alphanumeric
 alhtough->although
 aliaenating->alienating
+aliassing->aliasing
 alieenating->alienating
 alienaling->alienating
 alienathing->alienating
@@ -3568,6 +3569,7 @@ anotther->another
 anounced->announced
 anouncement->announcement
 anouther->another
+anoying->annoying
 an pother->another
 ansalisation->nasalisation
 ansalisation->nasalization
@@ -3809,6 +3811,7 @@ appeating->appealing
 appeealing->appealing
 appeearancee->appearance
 appeearancees->appearances
+appendice->appendix
 appenines->apennines
 appenines->Apennines
 appenines->apennines, Apennines
@@ -5399,6 +5402,7 @@ availablae->available
 availablee->available
 availablity->availability
 availaible->available
+availalbe->available
 availbel->available
 availble->available
 availiable->available
@@ -13796,6 +13800,7 @@ didnt'->didn't
 didnt->didn't, did not
 didn'th->didn't
 didn'tt->didn't
+didplayed->displayed
 diea->die
 diea->idea
 diea->idea, die
@@ -14045,6 +14050,7 @@ dilenma->dilemma
 dilenna->dilemma
 dillapidated->dilapidated
 dillemma->dilemma
+dillemna->dilemma
 dimaensional->dimensional
 dimaension->dimension
 dimaensions->dimensions
@@ -16217,6 +16223,7 @@ engieneers->engineers
 engiineer->engineer
 engiineeriing->engineering
 engiineers->engineers
+engineeer->engineer
 engineerr->engineer
 engineerring->engineering
 engineerrs->engineers
@@ -17574,6 +17581,7 @@ explanatioon->explanation
 explanattion->explanation
 explaning->explaining
 explannationn->explanation
+explicate->explicit
 expliccit->explicit
 expliccitly->explicitly
 explicil->explicit
@@ -21510,6 +21518,7 @@ iiniitiially->initially
 iiniitiiated->initiated
 iiniitiiatiion->initiation
 iiniitiiatiive->initiative
+iin->in
 iinnocence->innocence
 iinnumerable->innumerable
 iinoculated->inoculated
@@ -22589,6 +22598,7 @@ indenthathion->indentation
 indenthed->indented
 indentical->identical
 indentifier->identifier
+indentify->identify
 indention->indentation
 indenttattion->indentation
 indentted->indented
@@ -23511,6 +23521,7 @@ inseparabte->inseparable
 inseparrable->inseparable
 inseperable->inseparable
 insepparable->inseparable
+insfrastructure-> infrastructure
 insisitence->insistence
 insislence->insistence
 insistaencae->insistence
@@ -32744,6 +32755,7 @@ potatoaes->potatoes
 potatoees->potatoes
 potatoess->potatoes
 potatos->potatoes
+potentiall->potentially
 pothathoes->potatoes
 Pothsdam->Potsdam
 potiticat->political
@@ -34325,6 +34337,7 @@ propriethary->proprietary
 proprietory->proprietary
 propriettary->proprietary
 propriietary->proprietary
+proprocessor->preprocessor
 proprotional->proportional
 proprotions->proportions
 propse->propose
@@ -36296,6 +36309,7 @@ reliabilily->reliability
 reliabilithy->reliability
 reliabilitty->reliability
 reliabilityy->reliability
+reliabily->reliability
 reliablity->reliability
 reliaebility->reliability
 reliaent->reliant
@@ -38174,6 +38188,7 @@ scuulptuures->sculptures
 seaarched->searched
 seaarches->searches
 seaarch->search
+seachable->searchable
 seached->searched
 seaches->searches
 seach->search
@@ -42372,6 +42387,7 @@ temporaarily->temporarily
 temporaary->temporary
 temporaerily->temporarily
 temporaery->temporary
+temporaly->temporarily
 temporariily->temporarily
 temporarilly->temporarily
 temporarilyy->temporarily
@@ -44432,6 +44448,7 @@ undesiraeble->undesirable
 undesireable->undesirable
 undesirrable->undesirable
 undessirable->undesirable
+undestand->understand
 undetecable->undetectable
 undetecctable->undetectable
 undetectaable->undetectable
@@ -46097,6 +46114,7 @@ wardrobbe->wardrobe
 wardrobee->wardrobe
 wardroobe->wardrobe
 waring->warning
+warining->warning
 wariors->warriors
 warniing->warning
 warningg->warning
