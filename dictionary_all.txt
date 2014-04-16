@@ -1438,6 +1438,7 @@ adherrence->adherence
 adherring->adhering
 adhherence->adherence
 adhhering->adhering
+adisory->advisory
 adition->addition
 aditional->additional
 aditionally->additionally
@@ -3363,6 +3364,7 @@ and hten->and then
 and lhen->and then
 andorgynous->androgynous
 andorgyny->androgyny
+andorid->android
 andriod->android
 androgenous->androgynous
 androgeny->androgyny
@@ -3378,6 +3380,7 @@ andrrogynous->androgynous
 andrrogyny->androgyny
 and ten->and then
 and thaen->and then
+and the all->and all
 and theen->and then
 and then and then->and then
 and thhen->and then
@@ -10434,11 +10437,13 @@ consititution->constitution
 consitraints->constraints
 consitruction->construction
 consitructs->constructs
+consits->consists
 consitsent->consistent
 consitsently->consistently
 consituencies->constituencies
 consituency->constituency
 consituted->constituted
+consitutes->constitutes
 consitutional->constitutional
 consitution->constitution
 conslanl->constant
@@ -12663,6 +12668,7 @@ declarattion->declaration
 declarration->declaration
 declarre->declare
 declartion->declaration
+declartions->declarations
 decllaration->declaration
 decllare->declare
 decomissioned->decommissioned
@@ -17069,6 +17075,7 @@ exacerbbate->exacerbate
 exacerrbated->exacerbated
 exacerrbate->exacerbate
 exacl->exact
+exacly->exactly
 exacth->exact
 exactt->exact
 exaecerbaeted->exacerbated
@@ -21106,6 +21113,7 @@ hwihc->which
 hwile->while
 hwo->how
 hwole->whole
+hybride->hybrid
 hyddrogen->hydrogen
 hyddrophile->hydrophile
 hyddrophilic->hydrophilic
@@ -26629,6 +26637,7 @@ manneuverable->maneuverable
 manneuver->maneuver
 manneuvers->maneuvers
 mannifestationns->manifestations
+mann->manner
 mannnner->manner
 mannoeuverability->manoeuverability
 mannoeuvrability->manoeuvrability
@@ -28437,6 +28446,7 @@ muder->murder
 muhammadan->muslim
 mukous->mucous
 mulilaled->mutilated
+mulitchar->multichar
 mulithread->multi-thread,multi thread
 mulitplexer->multiplexer
 mulitplicator->multiplicator
@@ -28468,12 +28478,14 @@ multhiplied->multiplied
 multhipliers->multipliers
 multhithhreaded->multithreaded
 multhithhread->multithread
+multibyte->multi byte
 multicculturalism->multiculturalism
 multicultralism->multiculturalism
 multiculturaalism->multiculturalism
 multiculturaelism->multiculturalism
 multiculturalissm->multiculturalism
 multiculturralism->multiculturalism
+multi-dimensional->multidimensional
 multidimentional->multidimensional
 multiffunction->multifunction
 multifuction->multifunction
@@ -28528,6 +28540,7 @@ multipplexer->multiplexer
 multipplicator->multiplicator
 multipplied->multiplied
 multippliers->multipliers
+multistring->multistring
 multithhreaded->multithreaded
 multithhread->multithread
 multithraeadaed->multithreaded
@@ -32399,6 +32412,7 @@ pomegrannate->pomegranate
 pomegrranate->pomegranate
 pommegranate->pomegranate
 pomotion->promotion
+ponint->point
 pooem->poem
 pooems->poems
 pooetry->poetry
@@ -33224,6 +33238,7 @@ praktitioner->practitioner
 praktitioners->practitioners
 prarie->prairie
 praries->prairies
+praticaly->practically
 pratice->practice
 prcessing->processing
 preaamble->preamble
@@ -33998,6 +34013,7 @@ programmabte->programmable
 programmaticaly->programmatically
 programmmmable->programmable
 programm->program
+programm's->program's
 programms->programs
 programnable->programmable
 programss->programs
@@ -42507,6 +42523,7 @@ terse->these
 tese->these
 tesiticular->testicular
 tessticular->testicular
+testcase->test case
 teste->test
 testiccular->testicular
 testiclular->testicular
@@ -43454,6 +43471,7 @@ trancode->transcode
 tranfer->transfer
 tranformed->transformed
 tranform->transform
+tranlation->translation
 trannsactionn->transaction
 trannsceiver->transceiver
 trannscenndennce->transcendence
@@ -44384,6 +44402,7 @@ uncoonscioousness->unconsciousness
 uncoonscioous->unconscious
 uncoonstitutioonal->unconstitutional
 uncoonventioonal->unconventional
+uncreachable->unreachable
 undaecidablae->undecidable
 undaefinablae->undefinable
 undaerground->underground
