@@ -42879,6 +42879,7 @@ thougght->thought
 thoughout->throughout
 thought->though
 thougth->thought
+thousends->thousands
 thouught->thought
 thowards->towards
 thoward->toward
