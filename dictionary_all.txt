@@ -744,6 +744,7 @@ accidentallyy->accidentally
 accidentaly->accidentally
 accidentatty->accidentally
 accidenthally->accidentally
+accidential->accidental
 accidentially->accidentally
 accidently->accidentally
 accidenttally->accidentally
@@ -13942,6 +13943,7 @@ digist->digits
 digiths->digits
 digitss->digits
 digitts->digits
+digrpahs->digraphs
 digts->digits
 diiaboliical->diabolical
 diiagrammatiic->diagrammatic
@@ -14103,6 +14105,7 @@ diocesse->diocese
 diokese->diocese
 dioocese->diocese
 diosese->diocese
+dipgraphs->digraphs
 diphhthhong->diphthong
 diphhthhongs->diphthongs
 diphhtong->diphthong
@@ -43690,6 +43693,7 @@ triggggered->triggered
 trigggger->trigger
 trigguered->triggered
 trigguer->trigger
+trigrpahs->trigraphs
 triguered->triggered
 triiggered->triggered
 triigger->trigger
@@ -46347,6 +46351,7 @@ whilever->whenever
 whille->while
 whio->who
 whitelsit->whitelist
+whithin->within
 whithout->without
 whith->with
 whit->with
