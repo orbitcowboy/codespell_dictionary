@@ -5303,6 +5303,7 @@ autoinkrement->autoincrement
 autoinncremennt->autoincrement
 autokhthonous->autochthonous
 autologin->auto login
+automagicaly->automagically
 automataed->automated
 automatedd->automated
 automateed->automated
@@ -38304,6 +38305,7 @@ seettleemeent->settlement
 seeveeral->several
 seeveereely->severely
 seeveerity->severity
+sef->self,safe
 Segate->Seagate
 segementation->segmentation
 seges->segues
