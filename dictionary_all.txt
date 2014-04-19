@@ -4659,6 +4659,7 @@ ass checked->as checked
 asseemblee->assemble
 asseertion->assertion
 assembble->assemble
+assemble->assembly
 assemblle->assemble
 assembte->assemble
 assemmble->assemble
@@ -10817,6 +10818,7 @@ continuouslyy->continuously
 continuouss->continuous
 continuoussly->continuously
 continuousty->continuously
+continused->continued
 continuually->continually
 continuue->continue
 continuued->continued
@@ -16078,6 +16080,7 @@ enameld->enameled
 enameledd->enameled
 enameted->enameled
 enammeled->enameled
+enble->enable
 enccodding->encoding
 enccoddings->encodings
 enccouraging->encouraging
@@ -27406,6 +27409,7 @@ Michiggan->Michigan
 micorcontorller->microcontroller
 micorscopy->microscopy
 micoscopy->microscopy
+micricontroller->microcontroller
 microconlroller->microcontroller
 microconntroller->microcontroller
 microconthroller->microcontroller
@@ -30172,6 +30176,7 @@ one nike->one nice
 ones->one's
 one think i->one thing i
 onlly->only
+onlyonce-> only once
 onlyy->only
 onne nnice->one nice
 onnivorously->omnivorously
@@ -38985,6 +38990,7 @@ simmplify->simplify
 simmply->simply
 simmultaneously->simultaneously
 simmultaneous->simultaneous
+simpeler->simpler
 simpe->simple
 simplaer->simpler
 simplaest->simplest
@@ -40408,6 +40414,7 @@ stainlless->stainless
 stainnless->stainless
 staintess->stainless
 staion->station
+stak->stack
 standarrds->standards
 standars->standards
 standart->standard
@@ -43616,6 +43623,7 @@ trascation->transaction
 trasfered->transferred
 trasnaction->transaction
 tray->try
+treatement->treatment
 treatened->threatened
 treatening->threatening
 treemolos->tremolos
