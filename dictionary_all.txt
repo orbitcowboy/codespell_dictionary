@@ -3572,6 +3572,7 @@ ansalisation->nasalisation
 ansalisation->nasalization
 ansalization->nasalization
 ansestors->ancestors
+ans so->and so
 ansswered->answered
 answaeraed->answered
 answeereed->answered
@@ -9626,6 +9627,7 @@ compleetion->completion
 compleled lhe->completed the
 complelely->completely
 complelion->completion
+compler->compiler
 completedd the->completed the
 completed hte->completed the
 completed te->completed the
@@ -12868,6 +12870,7 @@ defensivly->defensively
 defensivvely->defensively
 defenssively->defensively
 defered->deferred
+deferencing->dereferencing
 deferrrred->deferred
 deffault->default
 deffendant->defendant
@@ -23453,6 +23456,7 @@ inooculated->inoculated
 inot->into
 inpeach->impeach
 inplement->implement
+inplicit->implicit
 inpolite->impolite
 inpput->input
 in principal->in principle
@@ -34317,6 +34321,7 @@ proprotions->proportions
 propse->propose
 propted->prompted
 propterties->properties
+prorotyped->prototyped
 prosaelytizing->proselytizing
 proseelytizing->proselytizing
 proseletyzing->proselytizing
@@ -36722,6 +36727,7 @@ requirments->requirements
 requqirements->requirements
 requred->required
 requrements->requirements
+requre->require
 requriements->requirements
 requrired->required
 requuest->request
@@ -42470,6 +42476,7 @@ terrrrestrrial->terrestrial
 terrrritorries->territories
 terrrritorry->territory
 terrrrorrist->terrorist
+terse->these
 tese->these
 tesiticular->testicular
 tessticular->testicular
