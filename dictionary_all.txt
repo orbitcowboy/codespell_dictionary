@@ -8747,6 +8747,7 @@ codespellll->codespell
 codespett->codespell
 codesppell->codespell
 codesspell->codespell
+coditioned->conditioned
 coeefficieents->coefficients
 coefffficients->coefficients
 coefficienls->coefficients
@@ -16119,6 +16120,7 @@ enconding->encoding
 encoodding->encoding
 encooddings->encodings
 encoouraging->encouraging
+encounted->encountered
 encouraaging->encouraging
 encouraeging->encouraging
 encouraggingg->encouraging
@@ -27048,6 +27050,7 @@ mear->mere
 mear->wear
 mear->wear, mere, mare
 mear->wear, mere, mare,
+measureable->measurable
 mecchaniccs->mechanics
 mechaanics->mechanics
 mechaenics->mechanics
@@ -28452,6 +28455,7 @@ mukous->mucous
 mulilaled->mutilated
 mulitchar->multichar
 mulithread->multi-thread,multi thread
+mulitple->multiple
 mulitplexer->multiplexer
 mulitplicator->multiplicator
 mulitthread->multithread
@@ -46401,6 +46405,7 @@ wielddedd->wielded
 wieldd->wield
 wiellded->wielded
 wielld->wield
+wierdness->weirdness
 wierd->weird
 wietded->wielded
 wietd->wield
