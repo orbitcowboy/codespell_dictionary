@@ -3578,6 +3578,7 @@ an pother->another
 ansalisation->nasalisation
 ansalisation->nasalization
 ansalization->nasalization
+anser->answer
 ansestors->ancestors
 ans so->and so
 ansswered->answered
@@ -3902,6 +3903,7 @@ apprehensivve->apprehensive
 apprehenssive->apprehensive
 apprehhensive->apprehensive
 apprekiate->appreciate
+appriciated->appreciated
 apprieciate->appreciate
 approacches->approaches
 approachaes->approaches
@@ -5817,6 +5819,7 @@ beautifful->beautiful
 beautifull->beautiful
 beautifut->beautiful
 beautiiful->beautiful
+beautitful->beautiful
 beauttiful->beautiful
 beautyfull->beautiful
 beauutifuul->beautiful
@@ -13046,6 +13049,7 @@ deliberattely->deliberately
 deliberrately->deliberately
 deliiberately->deliberately
 deliiriious->delirious
+delimeter->delimiter
 delimeters->delimiters
 delirioous->delirious
 deliriouss->delirious
@@ -14642,6 +14646,7 @@ disscovered->discovered
 disscovering->discovering
 disscoverss->discovers
 disscovery->discovery
+disscuss->discuss
 disscussss->discuss
 disscussssed->discussed
 disseemination->dissemination
