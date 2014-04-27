@@ -9628,6 +9628,7 @@ compilattion->compilation
 compileer->compiler
 compilerr->compiler
 compiliance->compliance
+compiliant->compliant
 compillation->compilation
 compiller->compiler
 compitation->compilation
@@ -39007,6 +39008,7 @@ siized->sized
 siize of->size of
 siize->size
 siiziing->sizing
+simbol->symbol
 similaarity->similarity
 similaarly->similarly
 similaar->similar
