@@ -23673,6 +23673,7 @@ instrrumental->instrumental
 instrrument->instrument
 instrruments->instruments
 instrucction->instruction
+instrucion->instruction
 instructioon->instruction
 instruktion->instruction
 instrumaental->instrumental
@@ -27046,6 +27047,7 @@ mccccarthyist->mccarthyist
 mchanics->mechanics
 meaaning->meaning
 meaening->meaning
+meainig->meaning
 meaniing->meaning
 meaningg->meaning
 meaninng->meaning
@@ -31117,6 +31119,7 @@ parennthesis->parenthesis
 parenteses->parentheses
 parentesis->parenthesis
 parenthesiis->parenthesis
+parenthesis->parentheses
 parenthessess->parentheses
 parenthessiss->parenthesis
 parenthheses->parentheses
@@ -31170,6 +31173,7 @@ parrticularrly->particularly
 parrticularr->particular
 parrty->party
 Partations->Partitions
+partciular->particular
 parthially->partially
 parthicipanths->participants
 parthicularly->particularly
@@ -34486,6 +34490,7 @@ providdes->provides
 provideed->provided
 provideers->providers
 providees->provides
+provideing->providing
 providess->provides
 provies->provides
 proviided->provided
@@ -37252,6 +37257,7 @@ retuurned->returned
 retuurning->returning
 retuurn->return
 retuurn valuue->return value
+re-use->reuse
 revaluated->reevaluated
 reveersal->reversal
 reveersible->reversible
@@ -37656,6 +37662,7 @@ rroughly->roughly
 rrudimentarry->rudimentary
 rrule->rule
 rrunning->running
+rubular->regular
 rucuperate->recuperate
 ruddimentary->rudimentary
 rudiimentary->rudimentary
@@ -46090,6 +46097,7 @@ waasteful->wasteful
 waas->was
 waatchdog->watchdog
 waaywaard->wayward
+waayyy->way
 waeaponry->weaponry
 waear->wear
 waednaesday->wednesday
