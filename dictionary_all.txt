@@ -8744,6 +8744,7 @@ coddedd->coded
 coddespell->codespell
 codeed->coded
 codeespeell->codespell
+codeing->coding
 coderage->coverage
 codespel->codespell
 codespellll->codespell
@@ -34434,6 +34435,7 @@ protocot->protocol
 protoganist->protagonist
 protokoll->protocol
 protokol->protocol
+prototpye->prototype
 protrait->portrait
 protrayed->portrayed
 protraying->portraying
@@ -43724,6 +43726,7 @@ trillogy->trilogy
 triloggy->trilogy
 trilogyy->trilogy
 triloogy->trilogy
+trinary->ternary
 triology->trilogy
 tritogy->trilogy
 trival->trivial
