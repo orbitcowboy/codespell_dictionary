@@ -42629,6 +42629,7 @@ thalking->talking
 than i->then i
 thanku->thank
 thann->than
+thansk->thanks
 thans->thanks
 thargethed->targeted
 thargething->targeting
