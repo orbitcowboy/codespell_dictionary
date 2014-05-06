@@ -6642,6 +6642,7 @@ brooadly->broadly
 brooke->broke
 brooken->broken
 broought->brought
+brose->browse
 brougght->brought
 brough->brought
 broughht->brought
@@ -12062,6 +12063,7 @@ curiossity->curiosity
 curiosty->curiosity
 curiousity->curiosity
 curraently->currently
+currect->correct
 curreently->currently
 curren->current
 currenlly->currently
@@ -37239,6 +37241,7 @@ retigiousty->religiously
 retinquishment->relinquishment
 retreive->retrieve
 retreiving->retrieving
+retreval->retrieval
 retrievee->retrieve
 retriev->retrieve
 retrievve->retrieve
