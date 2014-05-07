@@ -11786,6 +11786,7 @@ cppchck->cppcheck
 craeataed->created
 craedaencae->credence
 craeted->created
+crashs->crashes 
 creaated->created
 creaed->created
 creaeted->created
@@ -16723,6 +16724,7 @@ eroor->error
 eror->error
 erorneous->erroneous
 erorr->error
+erorrs->errors
 erraaticaally->erratically
 erraatic->erratic
 erraeticaelly->erratically
@@ -41868,6 +41870,7 @@ suspennsionn->suspension
 suspensiion->suspension
 suspensioon->suspension
 suspention->suspension
+suspicicous->suspicious
 susppension->suspension
 suubcategories->subcategories
 suubcategory->subcategory
