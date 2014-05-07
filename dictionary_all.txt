@@ -3570,6 +3570,7 @@ an other->another
 anotherr->another
 anothher->another
 anotther->another
+anounce->announce
 anounced->announced
 anouncement->announcement
 anouther->another
@@ -19449,6 +19450,7 @@ gerrilla->guerrilla
 gerrillas->guerrillas
 gesswork->guesswork
 geth->get
+geting->getting
 gett->get
 ggalactic->galactic
 ggalaxies->galaxies
@@ -29927,6 +29929,7 @@ occurence->occurrence
 occurences->occurrences
 occure->occur
 occures->occurs
+occuring->occurred
 occuring->occurring
 occurraance->occurrance
 occurraed->occurred
@@ -39093,6 +39096,7 @@ simptest->simplest
 simptified->simplified
 simptify->simplify
 simpty->simply
+simualtaniously->simultaneously
 simuavr->simulavr
 simular->similar
 simullaneously->simultaneously
