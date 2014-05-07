@@ -15735,6 +15735,7 @@ elektrik->electric
 elektrikity->electricity
 elektron->electron
 elelctronics->electronics
+elelments->elements
 elemements->elements
 elemenlary->elementary
 elemenls->elements
@@ -28777,6 +28778,7 @@ mysterrious->mysterious
 mysterry->mystery
 mystherious->mysterious
 mysthery->mystery
+mysticial->mystical
 mystterious->mysterious
 mysttery->mystery
 Mythraic->Mithraic
@@ -37315,6 +37317,7 @@ rewriththen->rewritten
 rewritlen->rewritten
 rewrittenn->rewritten
 rewritte->rewrite
+rewritting->rewriting
 rewritttten->rewritten
 rewuired->required
 rewwrite->rewrite
@@ -46275,6 +46278,7 @@ weeird->weird
 week-end->weekend
 weell->well
 wehn->when
+weighted->weighed
 weiird->weird
 weilded->wielded
 weild->wield
