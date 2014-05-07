@@ -5046,6 +5046,7 @@ attaineed->attained
 attainn->attain
 attainnder->attainder
 attainned->attained
+attatched->attached
 atteempt->attempt
 atteempteed->attempted
 atteempting->attempting
@@ -17198,7 +17199,6 @@ exceded->exceeded
 excedingly->exceedingly
 exceeddedd->exceeded
 exceeddingly->exceedingly
-exceed->exceeds, exceeded
 exceediingly->exceedingly
 exceedinggly->exceedingly
 exceedinglly->exceedingly
@@ -40624,6 +40624,7 @@ stile->style
 stil->still
 stilus->stylus
 stingent->stringent
+sting->string
 stip->slip
 stiring->stirring
 stirringg->stirring
