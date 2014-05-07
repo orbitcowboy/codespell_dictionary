@@ -1407,7 +1407,6 @@ addrressed->addressed
 addrresses->addresses
 addrressing->addressing
 addrsses->addresses
-adds->ads
 addtion->addition
 addtional->additional
 addvancedd->advanced
@@ -35014,7 +35013,6 @@ quickk->quick
 quicklly->quickly
 quicklyu->quickly
 quicklyy->quickly
-quick->quickly
 quickty->quickly
 quieet->quiet
 quiel->quiet
@@ -42444,7 +42442,6 @@ temporariily->temporarily
 temporarilly->temporarily
 temporarilyy->temporarily
 temporarity->temporarily
-temporary->temporarily
 temporaryy->temporary
 temporrarrily->temporarily
 temporrarry->temporary
