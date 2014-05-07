@@ -1407,6 +1407,7 @@ addrressed->addressed
 addrresses->addresses
 addrressing->addressing
 addrsses->addresses
+adds->ads
 addtion->addition
 addtional->additional
 addvancedd->advanced
@@ -1443,6 +1444,7 @@ adisory->advisory
 adition->addition
 aditional->additional
 aditionally->additionally
+adivisory->advisory
 adjjustable->adjustable
 adjjustments->adjustments
 adjusitable->adjustable
@@ -20953,6 +20955,7 @@ hoowever->however
 horifying->horrifying
 horiizontal->horizontal
 horizonal->horizontal
+horizonally->horizontally
 horizonlal->horizontal
 horizonntal->horizontal
 horizontaal->horizontal
@@ -22129,6 +22132,7 @@ improvemenst->improvements
 improvemenths->improvements
 improvementss->improvements
 improvementts->improvements
+improv->improve
 improvingg->improving
 improvinng->improving
 improvisaation->improvisation
@@ -43373,6 +43377,8 @@ tow->two
 towwards->towards
 towward->toward
 towwn->town
+tpoics->topics
+tpoic->topic
 traaceaability->traceability
 traaditionaally->traditionally
 traaditionaal->traditional
@@ -44513,6 +44519,7 @@ undetectaeble->undetectable
 undetektable->undetectable
 undethecthable->undetectable
 undettecttable->undetectable
+undicidable->undecidable
 undifined->undefined
 undooubtedly->undoubtedly
 undoubbtedly->undoubtedly
