@@ -749,6 +749,7 @@ accidentially->accidentally
 accidently->accidentally
 accidenttally->accidentally
 acciidentally->accidentally
+accitently->accidentally
 accknowledged->acknowledged
 accknowledging->acknowledging
 accliimatiizatiion->acclimatization
@@ -1322,6 +1323,7 @@ addddressing->addressing
 adddress->address
 added added->added
 addequate->adequate
+addess->address
 addherence->adherence
 addhering->adhering
 addiitiion->addition
@@ -45733,6 +45735,7 @@ vertiices->vertices
 vertikes->vertices
 verttices->vertices
 veryy->very
+vetor->vector
 vetween->between
 veulnerability->vulnerability
 veyr->very
