@@ -13811,6 +13811,7 @@ did noot->did not
 did noth->did not
 did nott->did not
 didnt->did not
+did'nt->didn't
 didnt->didn't
 didnt->didn\"t
 didnt'->didn't
@@ -18624,6 +18625,7 @@ Fomalhautt->Fomalhaut
 Fomalhauut->Fomalhaut
 Fomalhhaut->Fomalhaut
 Fomallhaut->Fomalhaut
+fomat->format
 Fomathaut->Fomalhaut
 fomed->formed
 Fommalhaut->Fomalhaut
@@ -20744,6 +20746,7 @@ highlighling->highlighting
 highlighth->highlight
 highlighthing->highlighting
 highlightinng->highlighting
+highlightning->highlighting
 highlightt->highlight
 highlightting->highlighting
 highligth->highlight
@@ -25640,6 +25643,7 @@ libraery->library
 libraly->library
 librariaes->libraries
 librariees->libraries
+librariers->libraries
 librariess->libraries
 librarys->libraries
 libraryy->library
@@ -26761,6 +26765,8 @@ manouvers->maneuvers, manoeuvres,
 manouvers->manoeuvres
 mantained->maintained
 mantaining->maintaining
+mantain->maintain
+mantains->maintains
 mantisa->mantissa
 manualy->manually
 manuever->maneuver
@@ -32264,6 +32270,7 @@ plleasant->pleasant
 pllebiscite->plebiscite
 pllugins->plugins
 pluggins->plugins
+plugiin->plug-in
 plugiins->plugins
 pluginns->plugins
 pluginss->plugins
@@ -32750,6 +32757,7 @@ possibillity->possibility
 possibilty->possibility
 possibitities->possibilities
 possibitity->possibility
+possibitly->possibility
 possiblae->possible
 possiblee->possible
 possiblility->possibility
@@ -35570,6 +35578,7 @@ rechargeablle->rechargeable
 rechargeabte->rechargeable
 recharggeable->rechargeable
 rechargueable->rechargeable
+rechead->reached
 reched->reached
 rechhargeable->rechargeable
 recided->resided
@@ -38285,6 +38294,7 @@ secretery->secretary
 secrethary->secretary
 secrettary->secretary
 secrretarry->secretary
+secuirty->security
 securty->security
 sedereal->sidereal
 seearcheed->searched
@@ -45104,6 +45114,7 @@ untrranslatable->untranslatable
 untterminatted->unterminated
 unttil->until
 unttranslattable->untranslatable
+untuitive->intuitive
 ununsed->unused
 unusaable->unusable
 unusabble->unusable
