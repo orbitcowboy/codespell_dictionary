@@ -15222,6 +15222,7 @@ earrned->earned
 eartier->earlier
 eartiest->earliest
 earty->early
+easely->easily
 easierr->easier
 easiier->easier
 easilly->easily
@@ -19799,6 +19800,7 @@ grealer->greater
 grealer lhan->greater than
 greal->great
 grean->green
+greate->great
 greater htan->greater than
 greater tan->greater than
 greater thann->greater than
@@ -36016,6 +36018,7 @@ referencced->referenced
 referencce->reference
 referencces->references
 referencedd->referenced
+referenc e->reference
 referencess->references
 referencies->references
 referencs->references
@@ -42865,6 +42868,7 @@ thnigs->things
 thnig->thing
 thnks->thanks
 thn->then
+thnx->thanks
 tho allocathe->to allocate
 thobacco->tobacco
 tho connecth tho->to connect to
@@ -45208,6 +45212,7 @@ up too->up to
 upto->up to
 up tto->up to
 ur->our
+ur self->yourself
 usaable->usable
 usaage->usage
 usabble->usable
@@ -45266,6 +45271,7 @@ usualy->usually
 usuatty->usually
 ususally->usually
 utilties->utilities
+utilty->utility
 uttimately->ultimately
 uttimatety->ultimately
 uubiquuitouus->ubiquitous
