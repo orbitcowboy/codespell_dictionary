@@ -11690,6 +11690,7 @@ counthry's->country's
 countires->countries
 countriaes->countries
 countriaes'->countries'
+countried->countries
 countriees->countries
 countriees'->countries'
 countrie's->countries
@@ -20967,6 +20968,7 @@ hoospitable->hospitable
 hoours->hours
 hoouse->house
 hoowever->however
+hopig->hoping
 horifying->horrifying
 horiizontal->horizontal
 horizonal->horizontal
@@ -35807,6 +35809,7 @@ redeemming->redeeming
 redeming->redeeming
 rediculous->ridiculous
 redristibutable->redistributable
+redunant->redundant
 reduntant->redundant
 reeacheed->reached
 reeaching->reaching
@@ -46719,6 +46722,7 @@ woutd->would
 wouuld have->would have
 wouuld->would
 wraestlaers->wrestlers
+wraping->wrapping
 wreestleers->wrestlers
 wresitlers->wrestlers
 wresllers->wrestlers
