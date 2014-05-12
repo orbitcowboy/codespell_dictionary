@@ -15771,6 +15771,7 @@ elephantt->elephant
 elephhant->elephant
 elepphant->elephant
 eles->eels
+eles->else
 eletricity->electricity
 elhnocenlrism->ethnocentrism
 elhos->ethos
