@@ -11387,6 +11387,7 @@ coperation->cooperation
 copiler->compiler
 copmetitors->competitors
 coponents->components
+coporations->cooperations
 coppyright->copyright
 Coppyright->Copyright
 Copright->Copyright
@@ -33658,6 +33659,7 @@ previoous->previous
 previosly->previously
 previouss->previous
 previouus->previous
+previsous->previous
 previvous->previous
 prevvalent->prevalent
 prevvious->previous
