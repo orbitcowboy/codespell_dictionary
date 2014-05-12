@@ -8595,6 +8595,7 @@ ciriculum->curriculum
 cirrcuit->circuit
 cirrculation->circulation
 cirrcumcision->circumcision
+cirtial->critical
 civeilian->civilian
 civiliaan->civilian
 civiliaen->civilian
@@ -11785,6 +11786,7 @@ creaated->created
 creaed->created
 creaeted->created
 crealed->created
+creat->create
 createc->created
 createdd->created
 creathed->created
@@ -22269,6 +22271,7 @@ inappropriale->inappropriate
 inappropriatae->inappropriate
 inappropriatee->inappropriate
 inappropriathe->inappropriate
+inappropriatly->inappropriately
 inappropriatte->inappropriate
 inapprroprriate->inappropriate
 inapropriate->inappropriate
@@ -41346,6 +41349,7 @@ sucess->success
 sucide->suicide
 sucidial->suicidal
 suddently->suddenly
+sudoko->sudoku
 sufered->suffered
 sufering->suffering
 suffaeraed->suffered
@@ -46024,6 +46028,7 @@ votunteered->volunteered
 votunteering->volunteering
 votunteers->volunteers
 votunteer->volunteer
+vraiable->variable
 vranda->veranda
 vreity->variety
 vrey->very
