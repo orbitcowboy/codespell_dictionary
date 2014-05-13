@@ -12623,6 +12623,7 @@ debugginng->debugging
 debuging->debugging
 debuug->debug
 debuugging->debugging
+decaled->declared
 decalre->declare
 decceived->deceived
 deccidable->decidable
@@ -27083,6 +27084,7 @@ meaening->meaning
 meainig->meaning
 meaniing->meaning
 meaningg->meaning
+meanin->meaning
 meaninng->meaning
 meanninng->meaning
 mean time->meantime
