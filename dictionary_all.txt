@@ -6241,6 +6241,7 @@ billingualism->bilingualism
 billinguallism->bilingualism
 binaary->binary
 binaery->binary
+binariy->binary
 binarry->binary
 binarys->binaries
 binaryy->binary
@@ -6997,6 +6998,7 @@ calbak->callback
 calbaks->callbacks
 calbibration->calibration
 calcalation->calculation
+calcluations->calculations
 calclulation->calculation
 calcualtion->calculation
 calcualtions->calculations
@@ -27896,6 +27898,7 @@ Missssouri->Missouri
 misssspelled->misspelled
 misssspelling->misspelling
 misssspell->misspell
+missuse->misuse
 misterious->mysterious
 mistery->mystery
 misteryous->mysterious
