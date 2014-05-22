@@ -22050,6 +22050,7 @@ implicithly->implicitly
 implicitlyy->implicitly
 implicittly->implicitly
 implicitty->implicitly
+implicity->implicitly
 implictly->implicitly
 implikitly->implicitly
 implimented->implemented
@@ -34964,6 +34965,7 @@ puutting->putting
 pwoer->power
 pyhon->python
 pyscic->psychic
+qarter->quarter
 qquantity->quantity
 qquarantine->quarantine
 qquestionable->questionable
@@ -36473,6 +36475,7 @@ remainder->reminder
 remaing->remaining
 remainingg->remaining
 remainninng->remaining
+remainter->remainder
 rembember->remember
 rember->remember
 remeber->remember
@@ -40638,6 +40641,7 @@ stightty->slightly
 stiirriing->stirring
 stiirs->stirs
 stile->style
+stilistic->stylistic
 stil->still
 stilus->stylus
 stingent->stringent
