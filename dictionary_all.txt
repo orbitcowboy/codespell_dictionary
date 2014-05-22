@@ -30247,6 +30247,7 @@ omnivvorously->omnivorously
 omnivvorous->omnivorous
 omnnivorously->omnivorously
 omnnivorous->omnivorous
+ompiler->compiler
 omre->more
 onae nicae->one nice
 once nice->one nice
@@ -33366,6 +33367,7 @@ predecessssorss->predecessors
 pre-defined->predefined
 predekessor->predecessor
 predekessors->predecessors
+predicable->predictable
 predicatble->predictable
 predicctable->predictable
 predicctions->predictions
@@ -39086,6 +39088,7 @@ simillarlly->similarly
 simillar->similar
 simitarity->similarity
 simitarty->similarly
+simlify->simplify
 simmilarity->similarity
 simmilarly->similarly
 simmilar->similar
