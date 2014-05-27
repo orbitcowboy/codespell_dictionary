@@ -13055,6 +13055,7 @@ deletete->delete
 delethe->delete
 delette->delete
 delevopment->development
+delhivery->delivery
 delibberately->deliberately
 deliberaately->deliberately
 deliberaetely->deliberately
@@ -15151,6 +15152,7 @@ dryaes->dryas
 dryass->dryas
 dryyas->dryas
 dstination->destination
+duble->double
 duel->dual
 dum->dumb
 dupicate->duplicate
