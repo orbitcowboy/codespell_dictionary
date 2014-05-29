@@ -9654,6 +9654,7 @@ compleetion->completion
 compleled lhe->completed the
 complelely->completely
 complelion->completion
+complementness->complement ness
 compler->compiler
 completedd the->completed the
 completed hte->completed the
@@ -24475,6 +24476,8 @@ it can tsill->it can still
 it ccan still->it can still
 itdentities->identities
 iteem->item
+iteger->integer
+itegers->integers
 itemm->item
 Ithaacaa->Ithaca
 Ithacca->Ithaca
@@ -31111,6 +31114,7 @@ parallell->parallel
 parallellyy->parallelly
 parallelss->parallels
 parallely->parallelly
+paralle->parallel
 parallllelllly->parallelly
 parallllell->parallel
 parallllells->parallels
