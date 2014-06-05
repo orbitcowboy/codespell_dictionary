@@ -4511,6 +4511,7 @@ arugments ->arguments
 arugments->arguments
 arund->around
 ARV Studio->AVR Studio
+as as->as
 asasin->assassin
 asasinate->assassinate
 asasinated->assassinated
@@ -4807,6 +4808,7 @@ assummed->assumed
 assummes->assumes
 assumming->assuming
 assumpted->assumed
+assumtion->assumption
 assuume->assume
 assuumed->assumed
 assuuming->assuming
@@ -11475,6 +11477,7 @@ corraesponds->corresponds
 corrdial->cordial
 correclness->correctness
 correclors->correctors
+correcrtly->correctly
 correcters->correctors
 correct formatted->correctly formatted
 correcthness->correctness
@@ -13215,6 +13218,7 @@ dependancies->dependencies
 dependancy->dependency
 dependant->dependent
 dependcies->dependencies
+dependecy->dependency
 dependencce->dependence
 dependenccies->dependencies
 dependenccy->dependency
@@ -17176,6 +17180,7 @@ examinned->examined
 examle->example
 exammined->examined
 exammple->example
+examplifies->exemplifies
 examplle->example
 exampple->example
 exampte->example
