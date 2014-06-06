@@ -12322,6 +12322,7 @@ Darrdanelles->Dardanelles
 darw->draw
 data base->database
 databse->database
+Datase->Database
 data typae->data type
 datatyp->data type
 datatype->data type
@@ -23660,6 +23661,8 @@ instaed->instead
 instaell->install
 instaence->instance
 instaentiaetion->instantiation
+instalation->installation
+installa->install a
 installaion->installation
 installll->install
 instancae->instance
