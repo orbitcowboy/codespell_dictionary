@@ -9672,6 +9672,7 @@ complethion->completion
 completiion->completion
 completionn->completion
 completly->completely
+complets->completes
 completted tthe->completed the
 complettely->completely
 complettion->completion
@@ -45965,6 +45966,7 @@ visualysed->visualized
 visualy->visually
 visuatized->visualized
 visuualized->visualized
+visuzalization->visualization
 vitification->vilification
 vitify->vilify
 vitories->victories
