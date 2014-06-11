@@ -11440,6 +11440,7 @@ corodinate->coordinate
 corodination->coordination
 cororsion->corrosion
 corosion->corrosion
+corossplatform->cross platform
 corparate->corporate
 corperations->corporations
 corporaate->corporate
@@ -15196,6 +15197,7 @@ dyingg->dying
 dyinng->dying
 dynamicaly->dynamically
 dynamicly->dynamically
+dystroy->destroy
 dyyeing->dyeing
 dyying->dying
 eaach->each
@@ -27273,6 +27275,7 @@ menthally->mentally
 menthioned->mentioned
 mentiioned->mentioned
 mentionedd->mentioned
+mentionned->mentioned
 mentiooned->mentioned
 menttally->mentally
 menttioned->mentioned
