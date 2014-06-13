@@ -10829,6 +10829,7 @@ contingaent->contingent
 contingeent->contingent
 continggent->contingent
 continguent->contingent
+continguous->continuous
 continious->continuous
 continous->continuous
 continously->continuously
@@ -16159,6 +16160,7 @@ encoodding->encoding
 encooddings->encodings
 encoouraging->encouraging
 encounted->encountered
+encountring->encountering
 encouraaging->encouraging
 encouraeging->encouraging
 encouraggingg->encouraging
@@ -38706,6 +38708,7 @@ sevrity->severity
 sevveral->several
 sevverely->severely
 sevverity->severity
+sewrver->server
 shaadaaloo->shadaloo
 shaadow->shadow
 shaall be defined globaal->shall be defined global
@@ -45158,6 +45161,7 @@ unthranslathable->untranslatable
 untiil->until
 untikety->unlikely
 untill->until
+untimately->ultimately
 untit->until
 untraanslaataable->untranslatable
 untraenslaetaeble->untranslatable
@@ -45765,6 +45769,7 @@ versioons->versions
 versioon->version
 versitilaty->versatility
 versitlity->versatility
+verson->version
 verssatility->versatility
 verssionss->versions
 verssion->version
