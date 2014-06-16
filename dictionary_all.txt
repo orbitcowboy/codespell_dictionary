@@ -11037,6 +11037,7 @@ conveinced->convinced
 conveinent->convenient
 convenant->covenant
 convenienl->convenient
+conveniente->convenient
 convenienth->convenient
 convenientt->convenient
 conveniient->convenient
