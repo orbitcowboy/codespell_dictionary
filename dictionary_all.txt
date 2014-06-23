@@ -1372,6 +1372,7 @@ addmission->admission
 addmittedd->admitted
 addmitteddly->admittedly
 addolescent->adolescent
+addon->add on
 addopt->adopt
 addopted->adopted
 addoptedd->adopted
@@ -10435,6 +10436,7 @@ consistant->consistent
 consistantly->consistently
 consisteent->consistent
 consisteently->consistently
+consistencey->consistency
 consistenly->consistently
 consistentlly->consistently
 consistentlyy->consistently
@@ -12970,6 +12972,7 @@ definilions->definitions
 definingg->defining
 definining->defining
 definit->definite
+definiteley->definitely
 definitelly->definitely
 definitelyy->definitely
 definitety->definitely
@@ -13756,6 +13759,7 @@ deviice->device
 devike->device
 devision->division
 devistating->devastating
+devleopers->developers
 devlop->develop
 devloped->developed
 devloper->developer
@@ -14184,6 +14188,7 @@ direcctly->directly
 direcctory->directory
 direclly->directly
 direclory->directory
+direcly->directly
 directhly->directly
 directhory->directory
 directlly->directly
@@ -32250,6 +32255,7 @@ plathform->platform
 plathome->platform
 platteau->plateau
 plattform->platform
+plattform->plattform
 plausable->plausible
 plausibble->plausible
 plausiblae->plausible
@@ -44673,6 +44679,7 @@ unfortunatelyy->unfortunately
 unfortunatety->unfortunately
 unfortunatley->unfortunately
 unfortunatly->unfortunately
+unfotunately->unfortunately
 unfourtunately->unfortunately
 unfroeseen->unforeseen
 unfrogettable->unforgettable
@@ -44685,6 +44692,7 @@ unhappppy->unhappy
 unhappyy->unhappy
 unhapy->unhappy
 unhhappy->unhappy
+Unices->Unixes
 unihabited->uninhabited
 uniilaterally->unilaterally
 uniilateral->unilateral
@@ -46530,6 +46538,7 @@ wihtdraw->withdraw
 wihtheld->withheld
 wihthold->withhold
 wihtin->within
+wihtout->without
 wiht->with
 wih->with
 wiidespread->widespread
