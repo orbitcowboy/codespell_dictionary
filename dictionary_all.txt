@@ -1651,6 +1651,7 @@ advaertisaemaents->advertisements
 advancaed->advanced
 advancced->advanced
 advanceed->advanced
+advange->advance
 advanked->advanced
 advannced->advanced
 adveanced->advanced
@@ -3783,6 +3784,7 @@ appareent->apparent
 appareently->apparently
 apparenl->apparent
 apparenlly->apparently
+apparenlty->apparently
 apparennt->apparent
 apparenntly->apparently
 apparenth->apparent
@@ -4048,6 +4050,7 @@ arbiitrariily->arbitrarily
 arbiitrary->arbitrary
 arbilrarily->arbitrarily
 arbilrary->arbitrary
+arbirary->arbitrary
 arbitarily->arbitrarily
 arbitary->arbitrary
 arbithrarily->arbitrarily
@@ -19106,6 +19109,8 @@ full-proof->foolproof
 funcction->function
 funcctioning->functioning
 funcional->functional
+funcion->function
+funciontions->functions
 funciton->function
 funcitoning->functioning
 funclion->function
@@ -23917,6 +23922,7 @@ interaktive->interactive
 interal->internal
 interational->international
 interation->iteration
+interations->iterations
 interative->interactive
 interator->iterator
 interbbred->interbred
@@ -40904,6 +40910,7 @@ struktural->structural
 struktured->structured
 strukture->structure
 strutured->structured
+struture->structure
 struuctuural->structural
 struuctuured->structured
 struuctuure->structure
@@ -45081,6 +45088,7 @@ unsignaed->unsigned
 unsignedd->unsigned
 unsigneed->unsigned
 unsiigned->unsigned
+unsinged->unsigned
 unsing->using
 unsoportted->unsupported
 unssigned->unsigned
@@ -45249,6 +45257,7 @@ upanishadd->upanishad
 upanishhad->upanishad
 upanisshad->upanishad
 upannishad->upanishad
+upates->updates
 upccoming->upcoming
 upcomiing->upcoming
 upcomingg->upcoming
