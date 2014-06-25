@@ -3894,6 +3894,7 @@ appproximated->approximated
 appraeciatae->appreciate
 appraehaensivae->apprehensive
 apprearance->appearance
+apprecaited->appreciated
 apprecciate->appreciate
 appreciale->appreciate
 appreciathe->appreciate
@@ -4896,6 +4897,7 @@ atbeit->albeit
 atchach->attach
 atcohot->alcohol
 atcohotic->alcoholic
+atcually->actually
 ateism->atheism
 ateist->atheist
 ateistic->atheistic
@@ -9193,6 +9195,7 @@ commerciael->commercial
 commerciaelly->commercially
 commerciall->commercial
 commercialllly->commercially
+commerciallly->commercially
 commerciallyy->commercially
 commercialy->commercially
 commerciat->commercial
@@ -36352,6 +36355,7 @@ relaation->relation
 relaationship->relationship
 relaations->relations
 relaatively->relatively
+relace->replace
 relaeses->releases
 relaetion->relation
 relaetionship->relationship
