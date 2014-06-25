@@ -11397,6 +11397,7 @@ cooy->coy
 coperation->cooperation
 copiler->compiler
 copmetitors->competitors
+copmpiler->compiler
 coponents->components
 coporations->cooperations
 coppyright->copyright
@@ -17512,6 +17513,7 @@ exlremely->extremely
 exlremisl->extremist
 exlremophile->extremophile
 exludes->excludes
+EXLUSIVE->EXCLUSIVE
 exmaple->example
 exmplained->explained
 exoneraate->exonerate
@@ -35478,6 +35480,7 @@ reallised->realised
 reallistic->realistic
 reallized->realized
 realllly->really
+reallly->really
 reallocing ->reallocation
 reall->real
 reallyy->really
