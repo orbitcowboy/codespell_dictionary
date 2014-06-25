@@ -8,6 +8,8 @@ Akkustik->Akustik
 albel->Label
 allle->alle
 Amalgan->Amalgam
+togglen->toggeln
+Scheifenausführung->Schleifenausführung
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
