@@ -8,11 +8,10 @@ Akkustik->Akustik
 albel->Label
 allle->alle
 Amalgan->Amalgam
-togglen->toggeln
-Scheifenausführung->Schleifenausführung
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
+andersweitig->anderweitig
 and->und
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
@@ -85,6 +84,7 @@ e-Mail->E-Mail
 eMail->E-Mail
 Email->E-Mail
 englsich->englisch
+ensprechenden->entsprechenden
 Entdckung->Entdeckung
 Entgeld->Entgelt
 entgültig->endgültig
@@ -277,6 +277,7 @@ Rückrad->Rückgrat
 Rückrat->Rückgrat
 Rythmus->Rhythmus
 Schärflein->Scherflein
+Scheifenausführung->Schleifenausführung
 schliesslich->schließlich
 Script->Skript
 seelig->selig

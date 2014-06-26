@@ -5409,6 +5409,7 @@ a vaengaeancae->a vengeance
 avaeragaed->averaged
 avaiable->available
 avaialble->available
+avaible->available
 avaiilabiiliity->availability
 avaiilable->available
 availabbility->availability
@@ -9902,6 +9903,7 @@ conditionsof->conditions of
 conditions off->conditions of
 conditionss->conditions
 conditionss of->conditions of
+conditon->condition
 condittion->condition
 condittions->conditions
 condittions of->conditions of
@@ -15221,6 +15223,7 @@ eaarly->early
 eaarned->earned
 eaasier->easier
 eacch->each
+eache->each
 eachh->each
 eaech->each
 eaerlier->earlier
@@ -38418,6 +38421,7 @@ seeveerity->severity
 sef->self,safe
 Segate->Seagate
 segementation->segmentation
+segements->segments
 seges->segues
 seg fault->segfault
 seggmentation->segmentation
@@ -39133,6 +39137,7 @@ simillar->similar
 simitarity->similarity
 simitarty->similarly
 simlify->simplify
+simluator->simulator
 simmilarity->similarity
 simmilarly->similarly
 simmilar->similar
