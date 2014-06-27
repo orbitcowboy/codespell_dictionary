@@ -4724,6 +4724,7 @@ assitant->assistant
 assit->assist
 assitsant->assistant
 assits->assist
+assmbly->assembly
 assmebly->assembly
 assocaited->associated
 assocation->association
@@ -12978,6 +12979,7 @@ definile->definite
 definilely->definitely
 definilion->definition
 definilions->definitions
+definined->defined
 definingg->defining
 definining->defining
 definit->definite
@@ -13985,6 +13987,7 @@ dificul->difficult
 dificult->difficult
 dificulties->difficulties
 dificulty->difficulty
+difined->defined
 diggits->digits
 digils->digits
 digist->digits
@@ -19610,6 +19613,7 @@ glocal->global
 glosary->glossary
 glossar->glossary
 glossay->glossary
+glueing->gluing
 gnaawed->gnawed
 gnaewed->gnawed
 gnawaed->gnawed
@@ -39523,6 +39527,7 @@ softwaere->software
 softwarae->software
 softwaree->software
 softwarre->software
+softwear->software
 softwware->software
 sofware->software
 sohw->show
@@ -46570,6 +46575,7 @@ wiife->wife
 wiild->wild
 wiilliingness->willingness
 wiill->will
+wiil->will
 wiithdrawal->withdrawal
 wiithdraw->withdraw
 wiithheld->withheld
