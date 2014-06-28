@@ -12998,6 +12998,7 @@ definitioons->definitions
 definitition->definition
 definitly->definitely
 definiton->definition
+definitons->definitions
 definitte->definite
 definittely->definitely
 definittion->definition
@@ -13305,6 +13306,7 @@ derivaative->derivative
 derivaetive->derivative
 derivalive->derivative
 derivate->derivative
+derivates->derivatives
 derivathive->derivative
 derivativ->derivative
 derivattive->derivative
@@ -27275,6 +27277,7 @@ memennto->memento
 mementho->memento
 mementoo->memento
 mementto->memento
+memeory->memory
 memoorable->memorable
 memoory->memory
 memoraable->memorable
@@ -30305,6 +30308,7 @@ one niice->one nice
 one nike->one nice
 ones->one's
 one think i->one thing i
+on line->online
 onlly->only
 onlyonce-> only once
 onlyy->only
@@ -33909,6 +33913,7 @@ probabty->probably
 probaebilistic->probabilistic
 probaebility->probability
 probaebly->probably
+probalby->probably
 probalibity->probability
 probaly->probably
 probbabbilistic->probabilistic
@@ -34901,6 +34906,7 @@ Puertorricans->Puerto Ricans
 Puertto Rican->Puerto Rican
 Puertto Ricans->Puerto Ricans
 Pukkini->Puccini
+pulgin->plug in
 pulisher->publisher
 pull dow->pull down
 pulting->putting
