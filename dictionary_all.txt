@@ -12361,6 +12361,7 @@ daughtter->daughter
 daugther->daughter
 dauub->daub
 dauughter->daughter
+days latter->days later
 ddahl->dahl
 ddaiquiri->daiquiri
 ddalmatian->dalmatian
@@ -13279,6 +13280,7 @@ deprecatted->deprecated
 depreccated->deprecated
 deprekated->deprecated
 depricated->deprecated
+depricating->deprecating
 deprrecated->deprecated
 dequence->sequence
 deram->dram
@@ -17030,6 +17032,7 @@ evenntually->eventually
 eventally->eventually
 even thhough->even though
 even thhoughh->even though
+eventhogh->even though
 even thoough->even though
 even thouggh->even though
 eventhough->even though
@@ -34519,6 +34522,7 @@ protiferation->proliferation
 protific->prolific
 protocal->protocol
 protoccol->protocol
+protocl->protocol
 protocoll->protocol
 protocot->protocol
 protoganist->protagonist
@@ -37362,6 +37366,7 @@ reveersal->reversal
 reveersible->reversible
 reveiew->review
 reveiw->review
+revelant->relevant
 reveolutionary->revolutionary
 reveral->reversal
 reversaal->reversal
@@ -37998,6 +38003,7 @@ sanndwich->sandwich
 Sannhedrinn->Sanhedrin
 santioned->sanctioned
 saparate->separate
+sarched->searched
 sargant->sergeant
 sargeant->sergeant
 sassyy->sassy
@@ -38385,6 +38391,7 @@ seeceedeed->seceded
 seeceedee->secede
 seecreetary->secretary
 seeeeing->seeing
+seeem->seem
 seegmeentation->segmentation
 seeguees->segues
 seeiing->seeing
@@ -45599,6 +45606,7 @@ varriations->variations
 varrieties->varieties
 varriety->variety
 varrying->varying
+vartiables->variables
 varyiing->varying
 varyingg->varying
 varyinng->varying
