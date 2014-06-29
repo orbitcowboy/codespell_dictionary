@@ -3109,6 +3109,7 @@ Althimether->Altimeter
 altho->although
 althogethher->altogether
 althoough->although
+althoug->although
 althouggh->although
 althought->although
 althouugh->although
@@ -12056,6 +12057,7 @@ ctinicat->clinical
 ctinicatty->clinically
 ctoud->cloud
 Ctr-F->Ctrl-F
+cuadratic->quadratic
 culiminating->culminating
 cullminating->culminating
 culmiinatiing->culminating
@@ -13366,6 +13368,7 @@ desciptor->descriptor
 descision->decision
 descisions->decisions
 descktop->desktop
+descrepencies->discrepancies
 describbed->described
 describbe->describe
 describbes->describes
@@ -22601,6 +22604,7 @@ increddible->incredible
 incredibble->incredible
 incrediblle->incredible
 incredibte->incredible
+incredily->incredibly
 increeaseed->increased
 increediblee->incredible
 increemeentally->incrementally
@@ -23621,6 +23625,7 @@ inseparrable->inseparable
 inseperable->inseparable
 insepparable->inseparable
 insfrastructure-> infrastructure
+insightfull->insightful
 insisitence->insistence
 insislence->insistence
 insistaencae->insistence
@@ -27784,6 +27789,7 @@ mircocontroller->microcontroller
 Mircosoft->Microsoft
 Mircrosoft->Microsoft
 mirgate->migrate
+mirgration->migration
 mirored->mirrored
 mirorred->mirrored
 Mirranda->Miranda
@@ -31299,6 +31305,7 @@ particularlyy->particularly
 particulary->particularly
 particullarlly->particularly
 particullar->particular
+particuraly->particularly
 particutar->particular
 particutarty->particularly
 particuularly->particularly
@@ -36904,6 +36911,7 @@ requred->required
 requrements->requirements
 requre->require
 requriements->requirements
+requries->requires
 requrired->required
 requuest->request
 requuests->requests
@@ -45795,6 +45803,7 @@ verifyy->verify
 veriifiicatiion->verification
 veriify->verify
 verions->version
+verions->versions
 verion->version
 verisons->versions
 verison->version
