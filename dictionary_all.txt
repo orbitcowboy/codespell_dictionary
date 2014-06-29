@@ -5850,6 +5850,7 @@ becames->becomes, became,
 becamme->became
 becasue->because
 becaus->because
+because auf->because of
 becausse->because
 becauuse->because
 beccame->became
@@ -30701,6 +30702,7 @@ originnal->original
 originn->origin
 origional->original
 orignally->originally
+orignal->original
 orignially->originally
 oriigiinally->originally
 oriigiinal->original
@@ -31986,6 +31988,7 @@ phenoomenal->phenomenal
 phenoomena->phenomena
 phenoomenoon->phenomenon
 pheormone->pheromone
+pheriferals->peripherals
 pherommone->pheromone
 pheromonne->pheromone
 pheroomoone->pheromone
@@ -37209,6 +37212,7 @@ resthore->restore
 resthrainth->restraint
 resthricthed->restricted
 resticted->restricted
+restictions->restrictions
 restooratioon->restoration
 restoore->restore
 restoraation->restoration
@@ -46139,6 +46143,7 @@ vraiable->variable
 vranda->veranda
 vreity->variety
 vrey->very
+vriables->variables
 vriety->variety
 vrification->verification
 vrify->verify
