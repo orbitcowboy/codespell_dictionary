@@ -9686,6 +9686,7 @@ complets->completes
 completted tthe->completed the
 complettely->completely
 complettion->completion
+complians->complains
 compliation->compilation
 complicance->compliance
 complie->compile
@@ -9779,6 +9780,7 @@ computterized->computerized
 compuulsory->compulsory
 compuuter->computer
 compuuterized->computerized
+comunicate->communicate
 comunication->communication
 comunications->communications
 comunities->communities
@@ -9925,6 +9927,7 @@ conffigurable->configurable
 conffiguration->configuration
 conffigure->configure
 confform->conform
+confguration->configuration
 confidaential->confidential
 confidaentially->confidentially
 confidaes->confides
@@ -12711,6 +12714,7 @@ declaratiion->declaration
 declarationn->declaration
 declaratioon->declaration
 declarattion->declaration
+declaread->declared
 declarration->declaration
 declarre->declare
 declartion->declaration
@@ -17220,6 +17224,7 @@ exampt->exempt
 exapansion->expansion
 exatted->exalted
 excact->exact
+excactly->exactly
 excange->exchange
 excceeded->exceeded
 excceedingly->exceedingly
@@ -23690,6 +23695,7 @@ instaall->install
 instaance->instance
 instaantiaation->instantiation
 instable->unstable
+instace->instance
 instade->instead
 instaead->instead
 instaed->instead
@@ -36951,6 +36957,7 @@ resemmbling->resembling
 reserveoir->reservoir
 reservoiir->reservoir
 reservooir->reservoir
+reserv->revert
 reservvoir->reservoir
 reseted->resetted
 reseththed->resetted
@@ -41668,6 +41675,7 @@ supposiing->supposing
 supposingg->supposing
 supposingly->supposedly
 supposinng->supposing
+supposly->supposedly
 suppport->support
 supppplanted->supplanted
 supppplemented->supplemented
@@ -44641,6 +44649,7 @@ undifined->undefined
 undooubtedly->undoubtedly
 undoubbtedly->undoubtedly
 undoubledly->undoubtedly
+undoubtably->undoubtedly
 undoubtaedly->undoubtedly
 undoubtedlly->undoubtedly
 undoubtedlyy->undoubtedly
@@ -46737,6 +46746,7 @@ workkstation->workstation
 workk units->work units
 workk unit->work unit
 workk->work
+worksapce->workspace
 work sheets->worksheets
 worksitation->workstation
 workslalion->workstation
