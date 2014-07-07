@@ -29816,6 +29816,7 @@ numers->numbers
 nummbers->numbers
 nummeric->numeric
 nummerous->numerous
+numnber->number
 Nuraembaerg->Nuremberg
 Nureembeerg->Nuremberg
 Nurembberg->Nuremberg
@@ -45586,6 +45587,7 @@ variablles->variables
 variablle->variable
 variabtes->variables
 variabte->variable
+variadiac->variance
 variaetiaes->varieties
 variaety->variety
 varialions->variations
