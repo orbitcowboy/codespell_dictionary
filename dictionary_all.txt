@@ -18139,6 +18139,7 @@ fallse->false
 falsae->false
 falsee->false
 fals->false
+falso->false
 falsse->false
 famiiliiar->familiar
 famiiliies->families
@@ -31045,6 +31046,7 @@ pageanth->pageant
 pageantt->pageant
 pageeant->pageant
 pagees->pages
+pagenums->page number
 paggeant->pageant
 pagueant->pageant
 paht->path
