@@ -13634,6 +13634,7 @@ detecct->detect
 detegates->delegates
 detekt->detect
 deteoriated->deteriorated
+deteremined->determined
 deteriate->deteriorate
 deteriiorated->deteriorated
 deteriiorate->deteriorate
@@ -21077,6 +21078,7 @@ houurs->hours
 houuse->house
 howaevaer->however
 howeeveer->however
+howerver->however
 howeveer->however
 howeverr->however
 howevr->however
@@ -26726,6 +26728,7 @@ manifesttattions->manifestations
 manifetsations->manifestations
 maniffestations->manifestations
 maniifestatiions->manifestations
+maniputor->manipulator
 manisfestations->manifestations
 manmalian->mammalian
 manmal->mammal
@@ -27253,6 +27256,7 @@ meeteeorologist->meteorologist
 meeteeorology->meteorology
 meethod deefinees how->method defines how
 meethods->methods
+meetrics->metrics
 mehod->methods
 mehtod defines how->method defines how
 mehtods->methods
@@ -31217,6 +31221,7 @@ parattetty->parallelly
 pareentheesees->parentheses
 pareentheesis->parenthesis
 parellels->parallels
+paremeters->parameters
 parenhteses->parentheses
 parenhtesis->parenthesis
 parenlheses->parentheses
@@ -31391,6 +31396,7 @@ pateenteed->patented
 patennted->patented
 patentedd->patented
 pateotithic->paleolithic
+patern->pattern
 Patestinian->Palestinian
 Patestinians->Palestinians
 patette->palette
@@ -40895,6 +40901,7 @@ striktest->strictest
 stringaent->stringent
 stringeent->stringent
 stringgent->stringent
+stringstreamm->stringstream
 stringuent->stringent
 strinngennt->stringent
 strnad->strand
@@ -42837,6 +42844,7 @@ thereffore->therefore
 therefoore->therefore
 therefor->therefore
 therefroe->therefore
+therefromhere->therefrom here
 therfore->therefore
 therfor->therefore
 theri->their
