@@ -9514,6 +9514,7 @@ comparativve->comparative
 comparativvely->comparatively
 comparattive->comparative
 comparattively->comparatively
+compar->compare
 comparetivly->comparatively
 compariison->comparison
 compariisons->comparisons
@@ -13065,6 +13066,7 @@ delached->detached
 delagates->delegates
 delailed->detailed
 delapidated->dilapidated
+delcared->declared
 delecl->detect
 delect->deselect
 deleet ->delete
@@ -24182,6 +24184,7 @@ intial->initial
 intialization->initialization
 intialized->initialized
 intialize->initialize
+intializers->initializers
 intially->initially
 intoduced->introduced
 in to->into
@@ -24264,6 +24267,7 @@ intterrupt->interrupt
 intterruptt->interrupt
 Intterruptt->Interrupt
 intterruptts->interrupts
+intterupt->interrupt
 inttervals->intervals
 inttervene->intervene
 inttervenes->intervenes
@@ -26637,6 +26641,7 @@ Malthese->Maltese
 Malttese->Maltese
 mamalian->mammalian
 mamal->mammal
+mameory->memory
 mammaliann->mammalian
 mammaliian->mammalian
 mammallian->mammalian
@@ -30842,6 +30847,7 @@ oveerwhelming->overwhelming
 over head->overhead
 over htere->over there
 overidden->overridden
+overlapps->overlaps
 over lhere->over there
 overridddden->overridden
 overriddenn->overridden
@@ -38175,6 +38181,7 @@ Scanddinavia->Scandinavia
 Scandiinaviia->Scandinavia
 Scandinaveia->Scandinavia
 Scandinavvia->Scandinavia
+scaning->scanning
 Scanndinnavia->Scandinavia
 scarciity->scarcity
 scarcily->scarcity
@@ -39574,6 +39581,7 @@ softwaere->software
 softwarae->software
 softwaree->software
 softwarre->software
+softwate->software
 softwear->software
 softwware->software
 sofware->software
@@ -40809,6 +40817,7 @@ straetegicaelly->strategically
 straetegic->strategic
 straetegies->strategies
 straetegy->strategy
+strager->stranger
 stragey->strategy
 straight forward->straightforward
 strandd->strand
