@@ -3913,6 +3913,7 @@ apprehensivve->apprehensive
 apprehenssive->apprehensive
 apprehhensive->apprehensive
 apprekiate->appreciate
+appriciate->appreciate
 appriciated->appreciated
 apprieciate->appreciate
 approacches->approaches
@@ -18545,6 +18546,7 @@ firmwaree->firmware
 firmwware->firmware
 firrmwarre->firmware
 firrst->first
+firs->first
 firsit->first
 firsl->first
 firsst->first
@@ -20270,6 +20272,7 @@ Haloween->Halloween
 halp->help
 hamorrhage->haemorrhage
 handdling->handling
+hande->handle
 handeling->handling
 handels->handles
 handing->handling
@@ -20406,6 +20409,7 @@ heaalthy->healthy
 heaard->heard
 heaave->heave
 heaaviest->heaviest
+headder->header
 headdquarteredd->headquartered
 headdquarter->headquarter
 headdquarters->headquarters
@@ -20615,6 +20619,7 @@ hesitannt->hesitant
 hesithanth->hesitant
 hesittantt->hesitant
 hessitant->hesitant
+hessitated->hesitated
 hestant->hesitant
 hestitate->hesitate
 heteorgeneous->heterogeneous
@@ -20636,6 +20641,7 @@ hetterogeneous->heterogeneous
 heve->have
 hexdecimal->hexadecimal
 hexidecimal->hexadecimal
+hexidecmal->hexadecimal
 hhabeas->habeas
 hhaemorrhhage->haemorrhage
 hhandling->handling
@@ -25921,6 +25927,7 @@ linguuistic->linguistic
 linguuistics->linguistics
 linited->limited
 linke->link
+linke->linked
 linkes->links
 linmaean->linnaean
 linnaaeaan->linnaean
@@ -26100,6 +26107,7 @@ locaal->local
 locael->local
 loca->local
 loccal->local
+locgial->logical
 lo connecl lo->to connect to
 loday's->today's
 loday->today
@@ -27122,6 +27130,7 @@ matthemattics->mathematics
 mattrices->matrices
 matttered->mattered
 matttter->matter
+maxamum->maximum
 maximus->maximum
 mayabe->maybe
 may be->maybe
@@ -28353,6 +28362,7 @@ monikerrs->monikers
 monikerss->monikers
 monikkers->monikers
 moniklers->monikers
+monitary->monetary
 Monlana->Montana
 monlh->month
 monlhs->months
@@ -30795,6 +30805,7 @@ ouevre->oeuvre
 oulpulling->outputting
 oulpul->output
 oulslanding->outstanding
+ouptuts->outputs
 ouput->output
 oustanding->outstanding
 ousttanding->outstanding
@@ -36869,6 +36880,7 @@ reprodukible->reproducible
 reproduucible->reproducible
 reprooducible->reproducible
 reprotedly->reportedly
+reprot->report
 reprtoire->repertoire
 repsectively->respectively
 repsonse->response
@@ -44026,6 +44038,7 @@ truust->trust
 truustworthiness->trustworthiness
 tryd->tried
 tryed->tried
+tryin->trying
 trys->tries
 tryy->try
 tsability->stability
