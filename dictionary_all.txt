@@ -3041,6 +3041,7 @@ alomst->almost
 a loot->a lot
 alophone->allophone
 alophones->allophones
+alorgithm->algorithm
 alot->a lot
 alot->a lot, allot
 a loth->a lot
@@ -11747,6 +11748,7 @@ coururier->courier
 coururier->courier, couturier
 coururier->courier, couturier,
 coururier->couturier
+couse->course
 coutd->could
 coutd have->could have
 coutd not->could not
@@ -17444,6 +17446,7 @@ exerrcises->exercises
 exerrcising->exercising
 exerrted->exerted
 exersize->exercise
+exersizing->exercising
 exertedd->exerted
 exerternal->external
 exerthed->exerted
@@ -17669,6 +17672,7 @@ explanathion->explanation
 explanatiion->explanation
 explanatioon->explanation
 explanattion->explanation
+explaned->explained
 explaning->explaining
 explannationn->explanation
 explicate->explicit
@@ -24518,6 +24522,7 @@ issuingg->issuing
 issuinng->issuing
 issuuing->issuing
 ist->is
+isue->issue
 isuing->issuing
 isuue->issue
 Itaca->Ithaca
@@ -32599,6 +32604,7 @@ poowerful->powerful
 poower->power
 poping->popping
 poping up->popping up
+pople->people
 poportional->proportional
 popoulation->population
 poppiing->popping
@@ -46555,6 +46561,7 @@ whitelsit->whitelist
 whithin->within
 whithout->without
 whith->with
+whit->white
 whit->with
 whlch->which
 whn->when
