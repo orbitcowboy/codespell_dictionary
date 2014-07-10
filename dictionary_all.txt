@@ -1251,6 +1251,7 @@ acthivathed->activated
 acthively->actively
 acthivithies->activities
 acthually->actually
+acticles->articles
 actiivate->activate
 actiivated->activated
 actiively->actively
@@ -4704,6 +4705,8 @@ assiging->assigning
 assigment->assignment
 assigne->assign
 assignement->assignment
+assignements->assignments
+assignenent->assignment
 assignes->assigns
 assignn->assign
 assignns->assigns
@@ -6222,6 +6225,7 @@ betwween->between
 bevaviour->behavior
 beween->between
 bewteen->between
+beyound->beyond
 bianry->binary
 bigining->beginning
 biginning->beginning
@@ -6717,6 +6721,7 @@ bugg->bug
 buiild->build
 buildd->build
 buildign->building
+builing->building
 builld->build
 buisness->business
 buisnessman->businessman
@@ -10682,6 +10687,7 @@ constructes->constructs
 constructiion->construction
 construuction->construction
 construucts->constructs
+consts->constants
 consttantt->constant
 consttanttly->constantly
 constternattion->consternation
@@ -11069,6 +11075,7 @@ conventionael->conventional
 conventionall->conventional
 conventionat->conventional
 conventtional->conventional
+converion->conversion
 converison->conversion
 converl->convert
 converled->converted
@@ -15198,6 +15205,7 @@ dryass->dryas
 dryyas->dryas
 dstination->destination
 duble->double
+dublicates->duplicates
 duel->dual
 dum->dumb
 dupicate->duplicate
@@ -18473,6 +18481,7 @@ filamenth->filament
 filamentt->filament
 filamment->filament
 filed name->field name
+fileds->fields
 filee->file
 filees->files
 fileesysteem->filesystem
@@ -29078,6 +29087,7 @@ necessarrily->necessarily
 necessarry->necessary
 necessaryy->necessary
 necessiate->necessitate
+necessiates->necessitates
 necessiitate->necessitate
 necessiitiies->necessities
 necessilale->necessitate
@@ -33445,6 +33455,7 @@ precisise->precise
 precisly->precisely
 precissely->precisely
 precisse->precise
+precission->precision
 precurser->precursor
 precursoor->precursor
 precursro->precursor
@@ -34046,6 +34057,7 @@ proceeeeding->proceeding
 proceeeedings->proceedings
 proceeeed->proceed
 proceeeeds->proceeds
+procees->process
 proceessing->processing
 proceessor->processor
 proceess->process
@@ -41774,6 +41786,7 @@ suppy->supply
 supressed->suppressed
 supresses->suppresses
 supressing->suppressing
+supressions->suppressions
 supresss->suppresss
 supress->suppress
 supress->suppresss
