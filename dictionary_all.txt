@@ -1311,6 +1311,7 @@ adaptt->adapt
 adaptter->adapter
 adavanced->advanced
 adbandon->abandon
+addage->adage
 addapt->adapt
 addapter->adapter
 addddition->addition
@@ -4833,6 +4834,7 @@ assynchronouss->asynchronous
 astaeroid->asteroid
 asteeroid->asteroid
 asteorid->asteroid
+asterik->asterisk
 asteriod->asteroid
 asteroidd->asteroid
 asteroiid->asteroid
@@ -7310,6 +7312,7 @@ capturedd->captured
 captureed->captured
 capturred->captured
 captuured->captured
+capured->captured
 Caracass->Caracas
 Caraccas->Caracas
 carachter->character
@@ -9306,6 +9309,7 @@ committtting->committing
 commived->connived
 commmemorated->commemorated
 commmented->commented
+commments->comments
 commmited->committed
 commmmand->command
 commmmandeer->commandeer
@@ -10047,6 +10051,7 @@ conjecutre->conjecture
 conjeecturee->conjecture
 conjjecture->conjecture
 conjjunction->conjunction
+conjucntion->conjunction
 conjuction->conjunction
 conjunclion->conjunction
 conjuncthion->conjunction
@@ -13376,6 +13381,7 @@ descenndannt->descendant
 descenndannts->descendants
 descibed->described
 descibing->describing
+desciptions->descriptions
 desciptor->descriptor
 descision->decision
 descisions->decisions
@@ -13540,6 +13546,7 @@ despperation->desperation
 desppicable->despicable
 desppite->despite
 desribed->described
+desribe->describe
 desscendant->descendant
 desscendantss->descendants
 desscribed->described
@@ -14912,6 +14919,7 @@ doccument->document
 doccumented->documented
 doccuments->documents
 doclrines->doctrines
+docmentable->documentable
 docoding->decoding
 docrines->doctrines
 docthrines->doctrines
@@ -15088,6 +15096,7 @@ doubth->doubt
 doubtt->doubt
 doucment->document
 doucments->documents
+doucumentation->documentation
 doulbe->double
 douuble->double
 douubt->doubt
@@ -16167,6 +16176,7 @@ emppty->empty
 emprisoned->imprisoned
 empthy->empty
 emptoys->employs
+emptry->empty
 emptty->empty
 emptyy->empty
 emtited->emitted
@@ -19171,6 +19181,7 @@ functioon->function
 functiooning->functioning
 functtion->function
 functtioning->functioning
+functuion->function
 fundaamentaal->fundamental
 fundaamentaals->fundamentals
 fundaementael->fundamental
@@ -22114,6 +22125,7 @@ implementtattion->implementation
 implementted->implemented
 implementt->implement
 implementting->implementing
+implemetation->implementation
 implemeted->implemented
 implemetnation->implementation
 implemntaion->implementation
@@ -22766,6 +22778,7 @@ indicess->indices
 indicies->indices
 indicl->indict
 indiclmenl->indictment
+indictaes->indicates
 indictement->indictment
 indicth->indict
 indicthmenth->indictment
@@ -23111,6 +23124,7 @@ infoormatioon->information
 inforamtion->information
 informaation->information
 informaetion->information
+informaiton->information
 informalion->information
 informathion->information
 informatin->information
@@ -26624,6 +26638,7 @@ maklefile->makefile
 makle->make
 makles->makes
 makng->making
+makr->make
 makse->makes
 Malccolm->Malcolm
 malching->matching
@@ -30355,6 +30370,7 @@ onee nicee->one nice
 one nicce->one nice
 one niice->one nice
 one nike->one nice
+onerus->onerous
 ones->one's
 one think i->one thing i
 on line->online
@@ -31848,6 +31864,7 @@ perrsuading->persuading
 perrturrbation->perturbation
 perrturrbations->perturbations
 perrverrse->perverse
+perservering->persevering
 perseveerance->perseverance
 perseveraance->perseverance
 perseveraence->perseverance
@@ -33887,6 +33904,7 @@ prioritizzation->prioritization
 priorittizattion->prioritization
 priorization->prioritization
 priorty->priority
+prioty->priority
 priroitization->prioritization
 privaate->private
 privaete->private
@@ -38874,6 +38892,7 @@ sharring->sharing
 shatt be defined global->shall be defined global
 shatt be defined gtobat->shall be defined global
 shatt->shall
+shbould->should
 sheaath->sheath
 sheaeth->sheath
 sheaht->sheath
@@ -39997,6 +40016,7 @@ speciffied->specified
 speciffying->specifying
 speciffy->specify
 specifiaclly->specifically
+specificaiton->specification
 specificall->specifically
 specificied->specified
 specificy->specify
@@ -42273,6 +42293,7 @@ synoonymoous->synonymous
 synoonyms->synonyms
 synphony->symphony
 synronous->synchronous
+syntatically->syntactically
 syphhilis->syphilis
 syphiiliis->syphilis
 syphillis->syphilis
@@ -42911,6 +42932,7 @@ thesthicular->testicular
 thete->there
 th e->the
 the the->the
+thet->that
 theyre->they're
 theyre->they're,
 theyre->they\"re
@@ -44275,6 +44297,7 @@ tuesdayy->tuesday
 tuesdday->tuesday
 tuessday->tuesday
 Tukson->Tucson
+tunel->tunnel
 tuorial->tutorial
 turncey->turnkey
 turnckey->turnkey
