@@ -9756,6 +9756,7 @@ comprehensivee->comprehensive
 comprehensivve->comprehensive
 comprehenssive->comprehensive
 comprehhensive->comprehensive
+compres->compress
 compressing->compression
 comprimise->compromise
 compromiise->compromise
@@ -13049,6 +13050,7 @@ deiity->deity
 deilies->deities
 deily->deity
 deisgn->design
+deisgned->designed
 deithies->deities
 deithy->deity
 deitiess->deities
@@ -16224,6 +16226,7 @@ encouraggingg->encouraging
 encouragiing->encouraging
 encouraing->encouraging
 encourraging->encouraging
+encoutered->encountered
 encouuraging->encouraging
 encrpyted->encrypted
 encrpyt->encrypt
@@ -16549,6 +16552,7 @@ entist->enlist
 entites->entities
 entitites->entities
 entitity->entity
+entitiy->entity
 entitledd->entitled
 entitlied->entitled
 entitlled->entitled
@@ -24723,6 +24727,7 @@ jourrnaling->journaling
 jourrneyed->journeyed
 jourrney->journey
 jourrneys->journeys
+jour->your
 jouurnaling->journaling
 jouurneyed->journeyed
 jouurney->journey
@@ -30773,6 +30778,7 @@ orignially->originally
 oriigiinally->originally
 oriigiinal->original
 oriigiin->origin
+oriniationg->origination
 orommate->roommate
 orrally->orally
 orrderred->ordered
@@ -33773,6 +33779,7 @@ presumablly->presumably
 presumablyy->presumably
 presumabty->presumably
 presumaebly->presumably
+presumbaly->presumably
 presumibly->presumably
 presummably->presumably
 presuumably->presumably
@@ -45413,6 +45420,7 @@ uppgraded->upgraded
 uppon->upon
 uppper->upper
 upp to->up to
+upsteam->upstream
 up tho->up to
 up too->up to
 upto->up to
