@@ -3775,6 +3775,7 @@ appaearancaes->appearances
 appaeling->appealing
 appaerance->appearance
 appaerances->appearances
+appaers->appears
 appaling->appalling
 appalliing->appalling
 appallingg->appalling
@@ -15043,6 +15044,7 @@ dominnannt->dominant
 dominnationn->domination
 domminant->dominant
 dommination->domination
+don->don't
 donesn't->does not
 donig->doing
 don'l->don't
@@ -32765,6 +32767,7 @@ porpagates->propagates
 porpagation->propagation
 porperly->properly
 porper->proper
+porperty->porperty
 porphecy->prophecy
 porportional->proportional
 porportions->proportions
@@ -46736,6 +46739,7 @@ will will->will
 wil->will
 windos->windows
 Windows Sever->Windows Server
+Windwos->Windows
 wioth->with
 wirting->writing
 witdrawal->withdrawal
