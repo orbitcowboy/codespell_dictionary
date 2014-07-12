@@ -8316,6 +8316,7 @@ Champagnee->Champagne
 Champagnne->Champagne
 Champange->Champagne
 Champpagne->Champagne
+chanel->channel
 changable->changeable
 changaeablae->changeable
 changaeble->changeable
@@ -14968,6 +14969,7 @@ documenthathion->documentation
 documenth->document
 documenthed->documented
 documenths->documents
+documenting style->documentation style
 documentss->documents
 documenttary->documentary
 documenttattion->documentation
@@ -31748,6 +31750,7 @@ perhasp->perhaps
 perheaps->perhaps
 perhhaps->perhaps
 perhpas->perhaps
+periheral->peripheral
 periiod->period
 periipatetiic->peripatetic
 periodd->period
@@ -46657,6 +46660,7 @@ widesprread->widespread
 widesread->widespread
 widesspread->widespread
 widlcarded->wildcarded
+widows xp->windows xp
 wieeldeed->wielded
 wieeld->wield
 wief->wife
