@@ -411,6 +411,7 @@ abbbbreviate->abbreviate
 abbbbreviated->abbreviated
 abbbbreviation->abbreviation
 abbbbreviations->abbreviations
+abberation->aberration
 abberration->aberration
 abbilities->abilities
 abbility->ability
@@ -3836,6 +3837,7 @@ appennines->apennines
 Appennines->Apennines
 apperance->appearance
 apperances->appearances
+apper->appear
 appereance->appearance
 appereances->appearances
 appliaction->application
@@ -9094,6 +9096,7 @@ commaando->commando
 commaandos->commandos
 commaands->commands
 commaas->commas
+commad->command
 commaemoratae->commemorate
 commaemorataed->commemorated
 commaemorataes->commemorates
@@ -28293,6 +28296,7 @@ modifiablle->modifiable
 modifiabte->modifiable
 modifiaeble->modifiable
 modifiing->modifying
+modifing->modifying
 modifiying->modifying
 modifiy->modify
 modifyable->modifiable
