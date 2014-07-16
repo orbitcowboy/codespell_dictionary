@@ -13022,6 +13022,7 @@ definitionss->definitions
 definitioon->definition
 definitioons->definitions
 definitition->definition
+definitively->definitely
 definitly->definitely
 definiton->definition
 definitons->definitions
@@ -13029,6 +13030,7 @@ definitte->definite
 definittely->definitely
 definittion->definition
 definittions->definitions
+definitvely->definitely
 definned as globals->defined as globals
 definned->defined
 definne->define
@@ -13873,6 +13875,7 @@ dicovered->discovered
 dicovering->discovering
 dicovers->discovers
 dicovery->discovery
+dictionairy->dictionary
 dictionarys->dictionaries
 dictionay->dictionary
 dictionnary->dictionary
@@ -14966,6 +14969,7 @@ documentaetion->documentation
 documentarry->documentary
 documentaryy->documentary
 documentatiion->documentation
+documentatio->documentation
 documen-tation->documentation
 documenthary->documentary
 documenthathion->documentation
@@ -15124,6 +15128,7 @@ doxygeen->doxygen
 doxygenn->doxygen
 doxyggen->doxygen
 doxyguen->doxygen
+doxywizrd->doxywizard
 doxyygen->doxygen
 draamaatic->dramatic
 draam->dram
@@ -18730,6 +18735,7 @@ Fomallhaut->Fomalhaut
 fomat->format
 Fomathaut->Fomalhaut
 fomed->formed
+fom->from
 Fommalhaut->Fomalhaut
 fomr->form
 fomr->from
@@ -29863,6 +29869,7 @@ numb->number
 numeeric->numeric
 numeerous->numerous
 numeorus->numerous
+numerated->enumerated
 numericc->numeric
 numeriic->numeric
 numerik->numeric
@@ -29953,6 +29960,7 @@ obsaessaed->obsessed
 obsaession->obsession
 obseesseed->obsessed
 obseession->obsession
+obselete->obsolete
 obsesed->obsessed
 obsesion->obsession
 obsessedd->obsessed
@@ -30701,6 +30709,7 @@ ordinarilly->ordinarily
 ordinarilyy->ordinarily
 ordinarity->ordinarily
 ordinnarily->ordinarily
+ore->or
 orgaanisaation->organisation
 orgaanise->organise
 orgaanism->organism
@@ -30843,6 +30852,7 @@ oulpul->output
 oulslanding->outstanding
 ouptuts->outputs
 ouput->output
+ouputs->outputs
 oustanding->outstanding
 ousttanding->outstanding
 outhputh->output
@@ -38643,6 +38653,7 @@ separalisl->separatist
 separalism->separatism
 separalor->separator
 separatedd->separated
+separatedly->separately
 separatelly->separately
 separatelyy->separately
 separatety->separately
@@ -38796,6 +38807,7 @@ servval->serval
 servver not reachable->server not reachable
 servvice->service
 servvile->servile
+se->see
 sesison->session
 setdom->seldom
 seththing->setting
@@ -38809,6 +38821,7 @@ settign->setting
 settiing->setting
 settingg->setting
 settinng->setting
+settins->settings
 settlemennt->settlement
 settlemment->settlement
 settllement->settlement
@@ -42776,6 +42789,7 @@ tesiticular->testicular
 tessticular->testicular
 testcase->test case
 teste->test
+testet->tested
 testiccular->testicular
 testiclular->testicular
 testiculaar->testicular
@@ -43223,6 +43237,7 @@ thrreatened->threatened
 thrreatening->threatening
 thrree->three
 thrreshold->threshold
+thrre->there
 thrroughout->throughout
 thrrough->through
 thruly->truly
@@ -45465,6 +45480,7 @@ useing->using
 useracount->user account
 UserID->User ID
 usesrs->users
+usfull->useful
 usigned->unsigned
 usiing->using
 usind->using
@@ -46093,6 +46109,7 @@ virtuatty->virtually
 virtuat->virtual
 virtuually->virtually
 virtuual->virtual
+virusses->viruses
 virutally->virtually
 virutal->virtual
 visable->visible
@@ -46839,6 +46856,7 @@ worc->work
 wordds->words
 wordlwide->worldwide
 wordss->words
+woring->working
 work-around->workaround
 workiing->working
 workingg->working
