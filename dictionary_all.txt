@@ -17137,6 +17137,7 @@ evidentty->evidently
 eviidently->evidently
 eviil->evil
 evill->evil
+evironment->environment
 evit->evil
 evn though->even though
 evntually->eventually
@@ -45283,6 +45284,7 @@ unsuccessfullyy->unsuccessfully
 unsuccessfuly->unsuccessfully
 unsuccessfutty->unsuccessfully
 unsuccessfut->unsuccessful
+unsuccessufully->unsuccessfully
 unsucesful->unsuccessful
 unsucesfuly->unsuccessfully
 unsucessfull->unsuccessful
