@@ -6440,6 +6440,7 @@ Bostton->Boston
 Botson->Boston
 botstrap->bootstrap
 bottlekneck->bottleneck
+bouce->bounce
 boul->bout
 boundaaries->boundaries
 boundaary->boundary
@@ -15093,6 +15094,7 @@ dosen't->doesn't
 dosen\"t->doesn\"t
 dosent'->doesn't
 doubble->double
+doubbles->doubles
 doubbt->doubt
 doub->daub
 doub->doubt
@@ -15133,6 +15135,7 @@ doxyggen->doxygen
 doxyguen->doxygen
 doxywizrd->doxywizard
 doxyygen->doxygen
+doygen->Doxygen
 draamaatic->dramatic
 draam->dram
 draaughtsmaan->draughtsman
@@ -18467,6 +18470,7 @@ fierkely->fiercely
 fierrcely->fiercely
 fietd->field
 fietds->fields
+fifndhs->fifths
 figghtingg->fighting
 fighhting->fighting
 fighling->fighting
@@ -25519,6 +25523,7 @@ lavvatory->lavatory
 laxonomic->taxonomic
 laxonomy->taxonomy
 layed->laid
+laytex->latex
 laziiness->laziness
 lazinaess->laziness
 lazineess->laziness
@@ -39727,6 +39732,7 @@ someewheeree->somewhere
 somehting->something
 somelhing->something
 somelimes->sometimes
+somemore->some more
 somene->someone
 someonne->someone
 somethhing->something
@@ -41617,6 +41623,7 @@ suficiently->sufficiently
 suficient->sufficient
 sufrage->suffrage
 sugested->suggested
+sugestion->suggestion
 sugest->suggest
 suggessted->suggested
 suggestiong->suggesting
