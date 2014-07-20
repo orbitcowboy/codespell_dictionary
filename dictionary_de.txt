@@ -5,6 +5,7 @@ Abstatzstil->Absatzstil
 Addresse->Adresse
 agressiv->aggressiv
 Akkustik->Akustik
+Splenkörper->Spulenkörper
 albel->Label
 allle->alle
 Amalgan->Amalgam
