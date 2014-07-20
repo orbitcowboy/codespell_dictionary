@@ -6095,6 +6095,7 @@ bellwetherr->bellwether
 bellwethher->bellwether
 bellwetther->bellwether
 bellwwether->bellwether
+beloging->belonging
 belooved->beloved
 beloow->below
 belovd->beloved
@@ -7177,6 +7178,7 @@ campain->campaign
 campains->campaigns
 camppaign->campaign
 camppaigns->campaigns
+cancelation->cancellation
 candadate->candidate
 canddiddate->candidate
 canddiddates->candidates
@@ -11584,6 +11586,7 @@ corresspondent->correspondent
 corresspondentss->correspondents
 corressponding->corresponding
 corresspondss->corresponds
+corretly->correctly
 corriddors->corridors
 corridoors->corridors
 corridorss->corridors
@@ -11615,6 +11618,7 @@ coruse->course
 corwn->crown
 cosinus->cosine
 costitution->constitution
+costom->custom
 costumer->customer
 cotander->colander
 cotonies->colonies
@@ -13204,6 +13208,7 @@ demoographic->demographic
 demoolitioon->demolition
 demoonstratioon->demonstration
 demorcracy->democracy
+demostrates->demonstrates
 demostration->demonstration
 demotition->demolition
 demp->temp
@@ -16704,6 +16709,7 @@ envirronmentalist->environmentalist
 envirronmentally->environmentally
 envirronment->environment
 envirronments->environments
+envoke->invoke
 envolutionary->evolutionary
 envrionments->environments
 envvironmental->environmental
@@ -22150,6 +22156,7 @@ implementting->implementing
 implemetation->implementation
 implemeted->implemented
 implemetnation->implementation
+implemnetations->implementations
 implemntaion->implementation
 implemnted->implemented
 implentation->implementation
@@ -24254,6 +24261,7 @@ introducced->introduced
 introducce->introduce
 introduceed->introduced
 introducee->introduce
+introductionary->introductory
 introdued->introduced
 introduked->introduced
 introduke->introduce
@@ -30414,6 +30422,7 @@ onot->note, not
 onot->note, not,
 onty->only
 onyl->only
+ony->only
 oobedience->obedience
 oobedient->obedient
 oobsessed->obsessed
@@ -32489,6 +32498,7 @@ poing->point
 poisin->poison
 poisonn->poison
 poisson->poison
+poistion->position
 polaloes->potatoes
 polical->political
 poliitiical->political
@@ -33630,6 +33640,7 @@ preffer->prefer
 prefferrable->preferable
 prefferred->preferred
 prefferring->preferring
+prefixe->prefix
 preform->perform
 pregancies->pregnancies
 preggnancies->pregnancies
@@ -36678,6 +36689,7 @@ remmemmber->remember
 remmemmbrance->remembrance
 remminiscent->reminiscent
 remmnant->remnant
+remmove->remove
 remnaant->remnant
 remnaent->remnant
 remnanl->remnant
@@ -38756,6 +38768,7 @@ seputcher->sepulcher
 seputchre->sepulchre
 sepuulcher->sepulcher
 sepuulchre->sepulchre
+seqence->sequence
 seqeunce->sequence
 sequnce->sequence
 sequnece->sequence
@@ -43096,6 +43109,7 @@ thisis->this is
 this requirements->these requirements
 thiss->this
 thiunk->think
+thiw->this
 thna->than
 thne->then
 thnigs->things
@@ -46709,6 +46723,7 @@ wielddedd->wielded
 wieldd->wield
 wiellded->wielded
 wielld->wield
+wierdly->weirdly
 wierdness->weirdness
 wierd->weird
 wietded->wielded
