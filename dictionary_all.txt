@@ -23692,6 +23692,7 @@ inseparrable->inseparable
 inseperable->inseparable
 insepparable->inseparable
 insfrastructure-> infrastructure
+insiede->inside
 insightfull->insightful
 insisitence->insistence
 insislence->insistence
@@ -25026,6 +25027,7 @@ knowlaedgae->knowledge
 knowleddgeable->knowledgeable
 knowleddge->knowledge
 knowledegable->knowledgeable
+knowledege->knowledge
 knowledgaeble->knowledgeable
 knowledgeaable->knowledgeable
 knowledgeabble->knowledgeable
@@ -26132,6 +26134,7 @@ llike->like
 llikellihood->likelihood
 llikud->likud
 llimits->limits
+lline->line
 llinguistic->linguistic
 llinguistics->linguistics
 llinnaean->linnaean
@@ -31317,6 +31320,7 @@ parenlheses->parentheses
 parenlhesis->parenthesis
 parenntheses->parentheses
 parennthesis->parenthesis
+paren->parent
 parenteses->parentheses
 parentesis->parenthesis
 parenthesiis->parenthesis
@@ -38830,7 +38834,6 @@ servval->serval
 servver not reachable->server not reachable
 servvice->service
 servvile->servile
-se->see
 sesison->session
 setdom->seldom
 seththing->setting
