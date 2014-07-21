@@ -4914,6 +4914,9 @@ ateism->atheism
 ateist->atheist
 ateistic->atheistic
 Atemel->Atmel
+Atemga128a->Atmega128a
+Atemga128->Atmega128
+Atemga->Atmega
 atempt->attempt
 atempted->attempted
 atempting->attempting
@@ -5853,6 +5856,7 @@ becaame->became
 becaause->because
 becaeme->became
 becaeuse->because
+becaise->because
 becamae->became
 becames->became
 becames->becomes
@@ -18665,6 +18669,7 @@ Flemishh->Flemish
 Flemissh->Flemish
 Flemmish->Flemish
 flexibile->flexible
+FlexLint->FlexeLint
 fligght->flight
 flighht->flight
 flighl->flight
@@ -19184,6 +19189,7 @@ fulfitted->fulfilled
 fulfitt->fulfill
 fulhark->futhark
 fulhorc->futhorc
+fulley->fully
 fullfilled->fulfilled
 fullfill->fulfill
 fullfilllled->fulfilled
@@ -23418,6 +23424,7 @@ inlerrupls->interrupts
 inlervals->intervals
 inlervene->intervene
 inlervenes->intervenes
+inlineing->inlining
 inlo->into
 inlroduced->introduced
 inlroduce->introduce
@@ -27114,6 +27121,7 @@ materialits->materialist
 materiallist->materialist
 materiatist->materialist
 materiialiist->materialist
+mater->matter
 materrialist->materialist
 mathaematically->mathematically
 mathaematician->mathematician
@@ -36392,6 +36400,7 @@ regitsered->registered
 regitser->register
 regitsers->registers
 regluar->regular
+regsion->region
 regsiter->register
 reguarly->regularly
 regulaarly->regularly
@@ -39649,6 +39658,7 @@ snese->sneeze
 sneze->sneeze
 snipet->snippet
 snipets->snippets
+sniplet->snippet
 snneaks->sneaks
 snneeze->sneeze
 socalism->socialism
@@ -43997,6 +44007,7 @@ triggggered->triggered
 trigggger->trigger
 trigguered->triggered
 trigguer->trigger
+trignometric->trigonometric
 trigrpahs->trigraphs
 triguered->triggered
 triiggered->triggered
@@ -45273,6 +45284,7 @@ unrrecognized->unrecognized
 unrrepentant->unrepentant
 unsed->unused
 unsed->used, unused, unsaid
+unsiged->unsigned
 unsiggned->unsigned
 unsignaed->unsigned
 unsignedd->unsigned
@@ -46789,6 +46801,7 @@ willinngnness->willingness
 willk->will
 willllingness->willingness
 willll->will
+will observer->will observe
 will shall->shall
 will will->will
 wil->will
