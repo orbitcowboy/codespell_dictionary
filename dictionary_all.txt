@@ -10670,6 +10670,7 @@ constituaent->constituent
 constituaents->constituents
 constituant->constituent
 constituants->constituents
+constitue->constitute
 constitueenciees->constituencies
 constitueency->constituency
 constitueent->constituent
@@ -14172,6 +14173,7 @@ dimenions->dimensions
 dimennsionnal->dimensional
 dimennsionn->dimension
 dimennsionns->dimensions
+dimensial->dimensional
 dimensionaal->dimensional
 dimensionael->dimensional
 dimensionall->dimensional

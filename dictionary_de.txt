@@ -5,7 +5,6 @@ Abstatzstil->Absatzstil
 Addresse->Adresse
 agressiv->aggressiv
 Akkustik->Akustik
-Splenkörper->Spulenkörper
 albel->Label
 allle->alle
 Amalgan->Amalgam
@@ -294,6 +293,7 @@ Softwwareversion->Softwareversion
 Spass->Spaß
 Speoche->Speicher
 Spirenzchen->Sperenzchen
+Splenkörper->Spulenkörper
 sponsorn->sponsern
 sprigst->springst
 Standart->Standard
