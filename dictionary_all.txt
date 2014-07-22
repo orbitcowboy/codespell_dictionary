@@ -848,6 +848,7 @@ accompanieed->accompanied
 accompaniied->accompanied
 accompannied->accompanied
 accompanyed->accompanied
+accompish->accomplish
 accompliish->accomplish
 accompliished->accomplished
 accompliishment->accomplishment
@@ -8579,6 +8580,7 @@ chosse->chose
 chossen->chosen
 chould->should, could,
 chracter->character
+chrashes->crashes
 Christain->Christian
 chuch->church
 churchaes->churches
@@ -9217,6 +9219,7 @@ commemroates->commemorates
 commemroating->commemorating
 commemroation->commemoration
 commemroative->commemorative
+commentet->commented
 commerciaal->commercial
 commerciaally->commercially
 commerciael->commercial
@@ -20630,6 +20633,7 @@ hense->hence
 heores->heroes
 heor->hero
 Heraa->Hera
+herader->header
 herad->heard
 herad->heard, Hera
 herad->heard, Hera,
@@ -38649,6 +38653,7 @@ semaphorre->semaphore
 semaphroe->semaphore
 semapphore->semaphore
 semgentation->segmentation
+semikolon->semicolon
 semmaphore->semaphore
 senarios->scenarios
 sence->sense
