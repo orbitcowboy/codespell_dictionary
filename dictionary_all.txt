@@ -10776,6 +10776,7 @@ contaiminate->contaminate
 containes->contains
 containig->containing
 containss->contains
+contais->contains
 contamiinate->contaminate
 contaminatae->contaminate
 contaminatee->contaminate
@@ -27468,6 +27469,7 @@ messengger->messenger
 messenging->messaging
 messenguer->messenger
 messennger->messenger
+messsage->message
 messsing->messing
 messssaging->messaging
 messssenger->messenger
@@ -32831,6 +32833,7 @@ porselytizing->proselytizing
 porshan->portion
 porshon->portion
 portabilitity->portability
+portabilty->portability
 portagonist->protagonist
 portagonists->protagonists
 portait->portrait
