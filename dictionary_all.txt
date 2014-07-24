@@ -3970,6 +3970,7 @@ appropriiateness->appropriateness
 appropropiate->appropriate
 appropropiately->appropriately
 approproximate->approximate
+approriate->appropriate
 approrpiate->appropriate
 approxamately->approximately
 approxiately->approximately
@@ -8359,6 +8360,7 @@ charactaeristic->characteristic
 charactaeristics->characteristics
 charactaerizaed->characterized
 charactaers->characters
+characted->character
 characteer->character
 characteeristic->characteristic
 characteeristics->characteristics
@@ -30899,6 +30901,7 @@ outpulling->outputting
 outpulting->outputting
 outputing->outputting
 outputling->outputting
+out put->output
 outputtiing->outputting
 outputtingg->outputting
 outputtinng->outputting
