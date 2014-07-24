@@ -29027,6 +29027,7 @@ nalurally->naturally
 nalural->natural
 namae->name
 namee->name
+namers->names
 namley->namely
 namme->name
 Naploeon->Napoleon
@@ -31909,6 +31910,7 @@ perrturrbation->perturbation
 perrturrbations->perturbations
 perrverrse->perverse
 perservering->persevering
+perserving->preserving
 perseveerance->perseverance
 perseveraance->perseverance
 perseveraence->perseverance
@@ -37120,6 +37122,7 @@ residentts->residents
 residingg->residing
 residinng->residing
 resiggnment->resignment
+resiging->resizing
 resigmment->resignment
 resignement->resignment
 resignmenl->resignment
@@ -41071,6 +41074,7 @@ structuredd->structured
 structureed->structured
 structuree->structure
 strucutred->structured
+strucutre->structure
 strucuture->structure
 strugggglingg->struggling
 struggliing->struggling
@@ -43111,6 +43115,7 @@ thirrd->third
 thisis->this is
 this requirements->these requirements
 thiss->this
+this this->this
 thiunk->think
 thiw->this
 thna->than
@@ -44491,6 +44496,7 @@ uglinness->ugliness
 uglliness->ugliness
 uglyness->ugliness
 ugtiness->ugliness
+uinitialzed->uninitialized
 uise->use
 Ukkrainian->Ukrainian
 uknown->unknown
