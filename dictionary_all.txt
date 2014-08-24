@@ -13807,6 +13807,7 @@ developmment->development
 developp->develop
 developped->developed
 developper->developer
+developper's->developer's
 developpers->developers
 developping->developing
 developpment->development
@@ -29761,6 +29762,7 @@ nothificathion->notification
 noth->north
 nothoriethy->notoriety
 nothwithhsthanding->notwithstanding
+notibly->notably
 noticable->noticeable
 noticably->noticeably
 noticaeablae->noticeable
@@ -29993,6 +29995,9 @@ obediient->obedient
 obeedieencee->obedience
 obeedieent->obedient
 obession->obsession
+obfuscuated->obfuscated
+obfuscuator->obfuscator
+obfuste->obfuscate
 obivously->obviously
 obivous->obvious
 objectivies->objectives
@@ -30053,6 +30058,7 @@ obsttructted->obstructed
 obtsacle->obstacle
 obtsacles->obstacles
 obtsructed->obstructed
+obuscation->obfuscation
 obveious->obvious
 obviious->obvious
 obviouss->obvious
@@ -30123,6 +30129,7 @@ occccurrencces->occurrences
 occccurring->occurring
 occccurs->occurs
 occopy->occupy
+occourence->occurrence
 occour->occur
 occtahedral->octahedral
 occtahedra->octahedra
@@ -30568,6 +30575,7 @@ operaetor->operator
 operalor->operator
 operandes->operands
 operaotor->operator
+operater->operator
 operathor->operator
 operatro->operator
 operattor->operator
@@ -40792,6 +40800,7 @@ statemnt->statement
 statesmann->statesman
 statesments->statements
 statesmman->statesman
+staticly->statically
 statiion->station
 stationn->station
 statioon->station
