@@ -14999,6 +14999,7 @@ documenth->document
 documenthed->documented
 documenths->documents
 documenting style->documentation style
+documention->documentation
 documentss->documents
 documenttary->documentary
 documenttattion->documentation
@@ -20971,6 +20972,7 @@ hippopotamuus->hippopotamus
 hippopothamus->hippopotamus
 hippopottamus->hippopotamus
 hippppoppotamus->hippopotamus
+hirachry->hierarchy
 hirarchie->hierarchy
 hirarchy->hierarchy
 hisitocompatibility->histocompatibility
