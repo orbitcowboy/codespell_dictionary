@@ -6845,6 +6845,7 @@ buusiness->business
 buusinesses->businesses
 buusinessman->businessman
 bwloe->below
+by by->by
 by the ame->by the same
 Caaesaar->Caesar
 Caaesar->Caesar
@@ -15155,6 +15156,7 @@ doxyguen->doxygen
 doxywizrd->doxywizard
 doxyygen->doxygen
 doygen->Doxygen
+dpcument->document
 draamaatic->dramatic
 draam->dram
 draaughtsmaan->draughtsman
@@ -16991,6 +16993,7 @@ esttablishing->establishing
 esttimatted->estimated
 etapsed->elapsed
 etcc->etc
+etct->etc
 etected->elected
 etection->election
 etectricat->electrical
@@ -21406,6 +21409,7 @@ hyypocrites->hypocrites
 iam->i am
 icconocclasticc->iconoclastic
 icluded->included
+icnlude->include
 iconclastic->iconoclastic
 iconnoclastic->iconoclastic
 iconoclaastic->iconoclastic
