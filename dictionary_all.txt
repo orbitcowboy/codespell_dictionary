@@ -19659,6 +19659,7 @@ gguesswork->guesswork
 gguidance->guidance
 gguttural->guttural
 Ghandi->Gandhi
+ghostcript->ghostscript
 gigits->digits
 giist->gist
 Giiuliia->Giulia
@@ -25460,6 +25461,7 @@ languagees->languages
 languagess->languages
 languague->language
 languagues->languages
+langugage->language
 languuage->language
 languuages->languages
 lannguage->language
@@ -26683,6 +26685,7 @@ makefille->makefile
 makefite->makefile
 makerel->mackerel
 makess->makes
+makfile->makefile
 makhine->machine
 makiing->making
 makingg->making
@@ -31290,6 +31293,7 @@ parakeetts->parakeets
 parakets->parakeets
 parakkeets->parakeets
 parakleets->parakeets
+paralelle->parallel
 paralell->parallel
 paralelly->parallelly
 paralel->parallel
@@ -31393,6 +31397,7 @@ parlliament->parliament
 paroject->project
 parrade->parade
 parrakeets->parakeets
+parralell->parallel
 parralel->parallel
 parrallell->parallel
 parrallelly->parallelly
@@ -38447,6 +38452,7 @@ scleraa->sclera
 sclerae->sclera
 sclerra->sclera
 scllera->sclera
+scnanned->scanned
 scoll->scroll
 scorll->scroll
 scraatchbox->scratchbox
@@ -41354,6 +41360,7 @@ subpoenae->subpoena
 subpoenna->subpoena
 subpooena->subpoena
 subppoena->subpoena
+subracted->subtracted
 subsaequaently->subsequently
 subsaequaent->subsequent
 subsccribe->subscribe
@@ -42194,6 +42201,7 @@ suuperfluuouus->superfluous
 suuperintendent->superintendent
 suuperseded->superseded
 suupersede->supersede
+suuposed->supposed
 suupplanted->supplanted
 suupplemented->supplemented
 suupplementing->supplementing
@@ -43404,6 +43412,7 @@ tiome->time, tome
 tiome->time, tome,
 tiome->tome
 tipizzaner->lipizzaner
+tipo->typo
 tiquefy->liquefy
 tird->third
 tisteners->listeners
