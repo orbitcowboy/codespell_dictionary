@@ -8566,6 +8566,7 @@ chitd's->child's
 chnage->change
 chnaged->changed
 chnaging->changing
+choaking->choking
 choise->choice
 choosed->chose
 choosed->chose, chosen,
