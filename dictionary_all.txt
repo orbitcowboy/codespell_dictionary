@@ -3068,6 +3068,7 @@ alphabettically->alphabetically
 alphanumberic->alphanumeric
 alphhabetically->alphabetically
 alpphabetically->alphabetically
+alrady->already
 alraeady->already
 alraedy->already
 alreaddy->already
@@ -9724,6 +9725,7 @@ complicance->compliance
 complie->compile
 complied->compiled
 complier->compiler
+complilation->compilation
 complinace->compliance
 complleted the->completed the
 complletelly->completely
@@ -11483,6 +11485,7 @@ cordinate->coordinate
 cordination->coordination
 corectness->correctness
 corectors->correctors
+coreesponding->corresponding
 corespond->correspond
 coresponded->corresponded
 corespondent->correspondent
@@ -24940,6 +24943,7 @@ kervikal->cervical
 keybboard->keyboard
 keyboaard->keyboard
 keyboaerd->keyboard
+keyboa->keyboard
 keyboardd->keyboard
 keyboarrd->keyboard
 keybooard->keyboard
@@ -38616,6 +38620,7 @@ seeveerity->severity
 sef->self,safe
 Segate->Seagate
 segementation->segmentation
+segement->segment
 segements->segments
 seges->segues
 seg fault->segfault
@@ -41067,6 +41072,7 @@ stringstreamm->stringstream
 stringuent->stringent
 strinngennt->stringent
 strnad->strand
+stroe->store
 stroies->stories
 strongaest->strongest
 strongeest->strongest
@@ -43419,6 +43425,7 @@ tird->third
 tisteners->listeners
 titeratty->literally
 titerature->literature
+titlt->tilt
 tittte->little
 tived->lived
 tivety->lively
@@ -45193,6 +45200,7 @@ unneeceessarily->unnecessarily
 unneeceessary->unnecessary
 unnekessarily->unnecessarily
 unnekessary->unnecessary
+unnessary->unnecessary
 unnflagged->unflagged
 unnforeseenn->unforeseen
 unnforgettable->unforgettable
