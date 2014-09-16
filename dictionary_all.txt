@@ -21917,6 +21917,7 @@ imbbalanced->imbalanced
 imbbalance->imbalance
 imcomplete->incomplete
 im doin->i am doing
+imediate->immediate
 imediatelly->immediately
 imediately->immediately
 imense->immense
@@ -21973,6 +21974,7 @@ imittatting->imitating
 imittattor->imitator
 imlementation->implementation
 immaanent->immanent
+immadiate->immediate
 immaediataely->immediately
 immaenent->immanent
 immaensae->immense
@@ -21996,6 +21998,7 @@ immediatelly->immediately
 immediatelyy->immediately
 immediatety->immediately
 immediathely->immediately
+immediat->immediate
 immediatley->immediately
 immediatly->immediately
 immediattely->immediately
