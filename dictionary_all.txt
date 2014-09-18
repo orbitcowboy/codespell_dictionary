@@ -19674,6 +19674,7 @@ gisl->gist
 gisst->gist
 gisth->gist
 gistt->gist
+GitHut->GitHub
 Giuliaa->Giulia
 Giuliae->Giulia
 Giulioo->Giulio
@@ -23192,6 +23193,7 @@ informattion->information
 informmation->information
 informtion->information
 inforrmation->information
+infput->input
 infraastructure->infrastructure
 infraestructure->infrastructure
 infrantryman->infantryman
@@ -23339,6 +23341,7 @@ initiaetion->initiation
 initiaetive->initiative
 initiaitive->initiative
 initialialized->initialized
+initialiation->initialization
 initialisae->initialise
 initialisee->initialise
 initialisse->initialise
@@ -35197,6 +35200,7 @@ puutting->putting
 pwoer->power
 pyhon->python
 pyscic->psychic
+pyton->python
 qarter->quarter
 qquantity->quantity
 qquarantine->quarantine
@@ -36321,6 +36325,7 @@ refer tho->refer to
 refer too->refer to
 refert->refer
 refer tto->refer to
+refesh->refresh
 reffered->referred
 refferenced->referenced
 refference->reference
