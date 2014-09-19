@@ -3291,6 +3291,7 @@ amussed->amused
 amuused->amused
 analagous->analogous
 analisis->analysis
+analisys->analysis
 analitic->analytic
 analiysis->analysis
 anallogous->analogous
@@ -8724,6 +8725,7 @@ clera->clear
 clera->clear, sclera
 clera->clear, sclera,
 clera->sclera
+cliboard->clipboard
 cliiniical->clinical
 cliiniically->clinically
 clincial->clinical
@@ -20913,6 +20915,7 @@ highllight->highlight
 highllighting->highlighting
 hightight->highlight
 hightighting->highlighting
+hightlighted->highlighted
 hightlighting->highlighting
 highwaay->highway
 highwaey->highway
@@ -33811,6 +33814,7 @@ pre-pended->prepended
 prepennded->prepended
 preperation->preparation
 preperations->preparations
+prepocessor->preprocessor
 prepresent->represent
 preriod->period
 prerogaative->prerogative
@@ -45539,6 +45543,7 @@ upoon->upon
 uppanishad->upanishad
 uppcoming->upcoming
 uppgraded->upgraded
+upplay->apply
 uppon->upon
 uppper->upper
 upp to->up to
