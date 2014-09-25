@@ -26835,6 +26835,7 @@ maneuvverable->maneuverable
 maneuvver->maneuver
 maneuvvers->maneuvers
 mangement->management
+manger->manager
 manifaestations->manifestations
 manifeestations->manifestations
 manifesitations->manifestations
@@ -30575,6 +30576,7 @@ opemness->openness
 opended->opened
 opend->opened
 openedd->opened
+openeded->opened
 openeing->opening
 openend->opened
 openening->opening
@@ -34648,8 +34650,10 @@ proprielary->proprietary
 proprietaary->proprietary
 proprietaery->proprietary
 proprietaryy->proprietary
+proprietery->proprietary
 propriethary->proprietary
 proprietory->proprietary
+proprietry->propriety
 propriettary->proprietary
 propriietary->proprietary
 proprocessor->preprocessor
@@ -42493,6 +42497,7 @@ taboratory->laboratory
 tacing->taking
 tackes->takes
 tacke->take
+tacking->taking
 taechnicians->technicians
 taechnician->technician
 taechniquaes->techniques
@@ -44429,6 +44434,7 @@ tuesdayy->tuesday
 tuesdday->tuesday
 tuessday->tuesday
 Tukson->Tucson
+tuncated->truncated
 tunel->tunnel
 tuorial->tutorial
 turncey->turnkey
@@ -47189,6 +47195,7 @@ wwrote->wrote
 wxWidges->wxWidgets
 wx wingets->wxWidgets
 wysiwig->wysiwyg
+WYSIWIG->WYSIWYG
 xaenophobia->xenophobia
 xeenophobia->xenophobia
 xennophobia->xenophobia
