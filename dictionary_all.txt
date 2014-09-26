@@ -7071,6 +7071,7 @@ calculattion->calculation
 calculattions->calculations
 calculattor->calculator
 calculs->calculus
+calcultae->calculate
 calculuss->calculus
 calcuulate->calculate
 calcuulated->calculated
@@ -16734,6 +16735,7 @@ envirronments->environments
 envoke->invoke
 envolutionary->evolutionary
 envrionments->environments
+envronment->environment
 envvironmental->environmental
 envvironmentalist->environmentalist
 envvironmentally->environmentally
@@ -24055,6 +24057,7 @@ interactivve->interactive
 interaective->interactive
 interaktive->interactive
 interal->internal
+interate->iterate
 interational->international
 interation->iteration
 interations->iterations
@@ -31376,6 +31379,7 @@ parenlhesis->parenthesis
 parenntheses->parentheses
 parennthesis->parenthesis
 paren->parent
+parens->parents
 parenteses->parentheses
 parentesis->parenthesis
 parenthesiis->parenthesis
@@ -31465,6 +31469,7 @@ particutar->particular
 particutarty->particularly
 particuularly->particularly
 particuular->particular
+Particvaly->particularly
 partiially->partially
 partiiciipants->participants
 partiicularly->particularly
@@ -34303,6 +34308,7 @@ prograems->programs
 prograessaed->progressed
 programable->programmable
 programatically->programmatically
+programaticaly->pragmatically
 programaticaly->programmatically
 programatic->programmatic
 programers->programmers
@@ -34657,6 +34663,7 @@ proprietry->propriety
 propriettary->proprietary
 propriietary->proprietary
 proprocessor->preprocessor
+proprose->propose
 proprotional->proportional
 proprotions->proportions
 propse->propose
@@ -37516,6 +37523,7 @@ retiever->reliever
 retigious->religious
 retigiousty->religiously
 retinquishment->relinquishment
+retore->restore
 retreive->retrieve
 retreiving->retrieving
 retreval->retrieval
@@ -39764,6 +39772,7 @@ soldiaers->soldiers
 soldieers->soldiers
 soldierrs->soldiers
 soldiiers->soldiers
+soled->solved
 soleely->solely
 solelyy->solely
 soley->solely
@@ -41097,6 +41106,7 @@ strongeest->strongest
 stronggest->strongest
 strongg->strong
 stronguest->strongest
+stronly->strongly
 stronngest->strongest
 stronng->strong
 stroongest->strongest
@@ -42491,8 +42501,10 @@ taaught->taught
 taaxonomic->taxonomic
 taaxonomy->taxonomy
 tabacco->tobacco
+tabel->table
 tabeted->labeled
 tabetted->labelled
+tabl->table
 taboratory->laboratory
 tacing->taking
 tackes->takes
@@ -45520,6 +45532,7 @@ unwwarranted->unwarranted
 unwwieldy->unwieldy
 unwwritten->unwritten
 upaanishaad->upanishad
+upadate->update
 upaenishaed->upanishad
 upaniishad->upanishad
 upanishadd->upanishad
@@ -45603,6 +45616,7 @@ usingg->using
 usings->using
 usinng->using
 usin->using
+usng->using
 ussable->usable
 ussage->usage
 ussefully->usefully
