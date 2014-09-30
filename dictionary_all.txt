@@ -8460,6 +8460,7 @@ checksumning->checksumming
 checksunming->checksumming
 checksunning->checksumming
 checksuumming->checksumming
+checkung->checking
 cheeat->cheat
 cheeck->check
 cheecksumming->checksumming
@@ -19443,6 +19444,7 @@ gangtser->gangster
 Ganndhi->Gandhi
 ganngster->gangster
 ganster->gangster
+garabage->garbage
 garanteed->guaranteed
 garantee->guarantee
 garantees->guarantees
@@ -26095,6 +26097,7 @@ literatty->literally
 literatuure->literature
 literl->literal
 literrally->literally
+literrals->literals
 literraturre->literature
 literture->literature
 litherally->literally
@@ -26104,6 +26107,7 @@ litle->little
 litlle->little
 litseners->listeners
 littel->little
+litteral->literal
 litterally->literally
 litteratture->literature
 littlae->little
@@ -30244,6 +30248,7 @@ octohedron->octahedron
 octtahedral->octahedral
 octtahedra->octahedra
 octtahedron->octahedron
+ocument->document
 ocuntries->countries
 ocuntry->country
 ocured->occurred
@@ -38954,6 +38959,7 @@ sever not reachable->server not reachable
 severral->several
 severrely->severely
 severrity->severity
+sever->server
 sevice->service
 sevral->several
 sevrely->severely
@@ -39403,6 +39409,7 @@ simplifiedd->simplified
 simplifieed->simplified
 simplifiy->simplify
 simplifyy->simplify
+simplist->simplest
 simplitfication->simplification
 simpliy->simplify
 simpller->simpler
@@ -41727,6 +41734,7 @@ sugestion->suggestion
 sugest->suggest
 suggessted->suggested
 suggestiong->suggesting
+sugggest->suggest
 suiccidal->suicidal
 suiccide->suicide
 suicidaal->suicidal
@@ -44749,6 +44757,7 @@ unchhangeable->unchangeable
 uncknown->unknown
 unclude->include
 uncnown->unknown
+uncommited->uncommitted
 uncommpetitive->uncompetitive
 uncompaetitivae->uncompetitive
 uncompeetitivee->uncompetitive
