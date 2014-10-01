@@ -8723,6 +8723,7 @@ cleear->clear
 cleeareer->clearer
 cleearly->clearly
 cleenex->kleenex
+clell->cell
 clera->clear
 clera->clear, sclera
 clera->clear, sclera,
@@ -22151,6 +22152,7 @@ impeeccably->impeccably
 impeedancee->impedance
 impeerial->imperial
 impekkably->impeccably
+impelement->implemented
 imperiaal->imperial
 imperiael->imperial
 imperiall->imperial
@@ -24047,6 +24049,7 @@ intented->indented
 intented->intended
 intented->intended, indented
 intented->intended, indented,
+intent->intend
 intentned->intended
 intepretation->interpretation
 intepretator->interpretor
@@ -28695,6 +28698,7 @@ muder->murder
 muhammadan->muslim
 mukous->mucous
 mulilaled->mutilated
+muliple->multiple
 mulitchar->multichar
 mulithread->multi-thread,multi thread
 mulitple->multiple
@@ -30873,6 +30877,7 @@ oriigiinal->original
 oriigiin->origin
 oriniationg->origination
 orommate->roommate
+oro->or
 orrally->orally
 orrderred->ordered
 orrdinarrily->ordinarily
