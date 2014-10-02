@@ -3656,6 +3656,7 @@ antthropomorphizattion->anthropomorphization
 anual->annual
 anually->annually
 anulled->annulled
+anwer->answer
 anwsered->answered
 anwyays->anyways
 any body->anybody
@@ -15025,6 +15026,7 @@ docummentation->documentation
 documment->document
 docummented->documented
 documments->documents
+documnets->documents
 docuumentary->documentary
 docuumentation->documentation
 docuument->document
@@ -19288,6 +19290,7 @@ furlher->further
 furlhermore->furthermore
 furrtherr->further
 furrtherrmorre->furthermore
+furst->first
 furter->further
 furtermore->furthermore
 furthaer->further
@@ -20476,12 +20479,14 @@ Hattoween->Halloween
 havae->have
 havee->have
 haveing->having
+have meen->have been
 havent->haven't
 have they been->they have been
 hav->have
 haviest->heaviest
 haviing->having
 havingg->having
+havin->having
 havinng->having
 havnt->have not
 havn't->haven't
@@ -26692,6 +26697,7 @@ mainttaining->maintaining
 mainttenance->maintenance
 mainty->mainly
 maitainability->maintainability
+maitaing->maintaining
 majjority->majority
 majoority->majority
 majoriity->majority
@@ -31005,6 +31011,7 @@ oveerwhelming->overwhelming
 over head->overhead
 over htere->over there
 overidden->overridden
+overiding->overriding
 overlapps->overlaps
 over lhere->over there
 overlow->overflow
@@ -44776,6 +44783,7 @@ unchattengeable->unchallengeable
 unchattengeabte->unchallengeable
 unchhallengeable->unchallengeable
 unchhangeable->unchangeable
+uncjeched->unchecked
 uncknown->unknown
 unclude->include
 uncnown->unknown
@@ -46065,6 +46073,7 @@ verificatioon->verification
 verificattion->verification
 verificcation->verification
 verifikation->verification
+verifing->verifying
 verifiy->verify
 verifyable->verifiable
 verifyy->verify
@@ -46809,6 +46818,7 @@ whilee->while
 whilever->whenever
 whille->while
 whio->who
+whitch->which
 whitelsit->whitelist
 whithin->within
 whithout->without
