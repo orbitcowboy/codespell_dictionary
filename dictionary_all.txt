@@ -15035,6 +15035,7 @@ doees->does
 doees not->does not
 doeesn't->doesn't
 doen->done
+doenlt->does not
 doens->does
 doen't->doesn't
 doesn'l->doesn't
@@ -24664,6 +24665,7 @@ Ithaka->Ithaca
 ith can sthill->it can still
 ithem->item
 Ithhaca->Ithaca
+I thing->I think
 ith->it
 it it->it
 it kan still->it can still
@@ -26220,6 +26222,7 @@ lobacco->tobacco
 locaal->local
 locael->local
 loca->local
+localy->locally
 loccal->local
 locgial->logical
 lo connecl lo->to connect to
@@ -34112,6 +34115,7 @@ probabilitty->probability
 probabilityy->probability
 probabillistic->probabilistic
 probabillity->probability
+probabilty->probability
 probabitistic->probabilistic
 probabitity->probability
 probablistic->probabilistic
@@ -39467,6 +39471,7 @@ simultanneously->simultaneously
 simultanneous->simultaneous
 simultanously->simultaneously
 simultanous->simultaneous
+simultanteously->simultaneously
 simulthaneously->simultaneously
 simulthaneous->simultaneous
 simulttaneously->simultaneously
@@ -45849,6 +45854,7 @@ variabte->variable
 variadiac->variance
 variaetiaes->varieties
 variaety->variety
+varialbe->variable
 varialions->variations
 varianl->variant
 variannt->variant
