@@ -1286,6 +1286,7 @@ acttivatted->activated
 acttively->actively
 acttivitties->activities
 acttually->actually
+actua->actual
 actualllly->actually
 actuallyy->actually
 actualy->actually
@@ -3399,6 +3400,7 @@ and theen->and then
 and then and then->and then
 and thhen->and then
 and tthen->and then
+angeled->angled
 anggina->angina
 angiina->angina
 anhtropologist->anthropologist
@@ -8559,6 +8561,7 @@ childraen->children
 childreen->children
 childrenn->children
 childrren->children
+childs->children
 child'ss->child's
 childs's->child's
 chilldbirth->childbirth
@@ -12805,6 +12808,7 @@ decoompoosed->decomposed
 decoompoose->decompose
 decoompooses->decomposes
 decoompoosing->decomposing
+decreas->decrease
 decreess->decrees
 decremenlor->decrementor
 decremenntor->decrementor
@@ -17136,6 +17140,7 @@ eventualy->eventually
 eventuatty->eventually
 eventuually->eventually
 eveolutionary->evolutionary
+everbody->everybody
 evereytime->everytime
 everithing->everything
 everry->every
@@ -23819,6 +23824,7 @@ instaell->install
 instaence->instance
 instaentiaetion->instantiation
 instalation->installation
+instaled->installed
 installa->install a
 installaion->installation
 installll->install
@@ -25473,6 +25479,7 @@ lalking->talking
 lalloos->tattoos
 lalloo->tattoo
 langage->language
+langages->languages
 langauge->language
 langguagge->language
 langguagges->languages
@@ -29081,6 +29088,7 @@ nalurally->naturally
 nalural->natural
 namae->name
 namee->name
+nameley->namely
 namers->names
 namley->namely
 namme->name
@@ -29740,6 +29748,7 @@ norht->north
 norlheaslern->northeastern
 norlhern->northern
 norlh->north
+normaliztion->normalization
 normaly->normally
 norrtheasterrn->northeastern
 norrtherrn->northern
@@ -34201,6 +34210,7 @@ procees->process
 proceessing->processing
 proceessor->processor
 proceess->process
+procenteges->percentages
 procesing->processing
 procesor->processor
 proces->process
@@ -35664,6 +35674,7 @@ reacing->reaching
 reacll->recall
 readablity->readability
 readdmission->readmission
+readed->read
 readibility->readability
 Read me->Readme
 readmiissiion->readmission
@@ -45088,6 +45099,7 @@ univeersitiees->universities
 univeersities->universities
 univeersity->university
 univeral->universal
+univerisity->university
 univeristies->universities
 univeristy->university
 univerity->university
@@ -46832,6 +46844,7 @@ widesprread->widespread
 widesread->widespread
 widesspread->widespread
 widlcarded->wildcarded
+Widows 7->Windows 7
 widows xp->windows xp
 wieeldeed->wielded
 wieeld->wield
