@@ -9839,6 +9839,7 @@ concaernaed->concerned
 concaern->concern
 concaerning->concerning
 concatinate->concatenate
+concating->concatenate
 concecptional->conceptual
 conceeiteed->conceited
 conceeiveed->conceived
@@ -27938,6 +27939,7 @@ Miraendae->Miranda
 Mirandda->Miranda
 Mirannda->Miranda
 mircocontroller->microcontroller
+mirco->micro
 Mircosoft->Microsoft
 Mircrosoft->Microsoft
 mirgate->migrate
@@ -31421,6 +31423,7 @@ parenthhesis->parenthesis
 parenttheses->parentheses
 parentthesis->parenthesis
 parisitic->parasitic
+paritioning->partitioning
 parituclar->particular
 parlially->partially
 parliamaentarian->parliamentarian
@@ -31886,6 +31889,7 @@ periheral->peripheral
 periiod->period
 periipatetiic->peripatetic
 periodd->period
+periode->period
 periood->period
 peripaatetic->peripatetic
 peripaetetic->peripatetic
@@ -32443,6 +32447,7 @@ plaetform->platform
 plaeusible->plausible
 plaeywright->playwright
 plaeywrights->playwrights
+plaform->platform
 plagarism->plagiarism
 plaggiarism->plagiarism
 plagiarismm->plagiarism
@@ -36103,7 +36108,9 @@ redeemming->redeeming
 redeming->redeeming
 rediculous->ridiculous
 redristibutable->redistributable
+redudancy->redundancy
 redunant->redundant
+redundany->redundancy
 reduntant->redundant
 reeacheed->reached
 reeaching->reaching
@@ -41281,6 +41288,7 @@ studyinng->studying
 studyying->studying
 studyy->study
 stuggling->struggling
+stumbeld->stumbled
 sturct->struct
 sturcture->structure
 sturday->saturday
@@ -42822,10 +42830,12 @@ temporaary->temporary
 temporaerily->temporarily
 temporaery->temporary
 temporaly->temporarily
+temporarely->temporarily
 temporariily->temporarily
 temporarilly->temporarily
 temporarilyy->temporarily
 temporarity->temporarily
+temporarly->temporarily
 temporaryy->temporary
 temporrarrily->temporarily
 temporrarry->temporary
@@ -46975,6 +46985,7 @@ withold->withhold
 withouyt->without
 witht->with
 with with->with
+witihn->within
 witing->writing
 witin->within
 witn->with
