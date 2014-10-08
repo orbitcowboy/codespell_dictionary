@@ -15108,6 +15108,7 @@ dont->do not
 dont->don't
 dont->don't, do not
 don'th->don't
+dont't->do not
 don'tt->don't
 dont't->don't
 don't thing->don't think
@@ -28072,6 +28073,7 @@ mispelld->misspelled
 mispelled->misspelled
 mispelling->misspelling
 mispell->misspell
+misrable->miserable
 missassssignment->misassignment
 misscellaneouss->miscellaneous
 misschievouss->mischievous
@@ -29194,6 +29196,7 @@ Neanderthat->Neanderthal
 Neanderthhal->Neanderthal
 Neandertthal->Neanderthal
 Neannderthal->Neanderthal
+neaxt->next
 neccccessary->neccessary
 neccesarily->necessarily
 neccesary->necessary
@@ -31500,6 +31503,7 @@ particcular->particular
 participannts->participants
 participanst->participants
 participantss->participants
+particualar->particular
 particually->particularly
 particualr->particular
 particuarly->particularly
@@ -32561,6 +32565,7 @@ plebisscite->plebiscite
 pleeasant->pleasant
 pleebiscitee->plebiscite
 plesant->pleasant
+plese->please
 pllace->place
 pllagiarism->plagiarism
 pllaintiff->plaintiff
@@ -34219,6 +34224,7 @@ proceedding->proceeding
 proceeddings->proceedings
 proceedd->proceed
 proceedds->proceeds
+proceede->proceed
 proceediing->proceeding
 proceediings->proceedings
 proceedingg->proceeding
@@ -34835,6 +34841,7 @@ provideers->providers
 providees->provides
 provideing->providing
 providess->provides
+provied->provided
 provies->provides
 proviided->provided
 proviides->provides
@@ -42243,6 +42250,7 @@ suspensiion->suspension
 suspensioon->suspension
 suspention->suspension
 suspicicous->suspicious
+suspiction->suspicion
 susppension->suspension
 suubcategories->subcategories
 suubcategory->subcategory
