@@ -17741,6 +17741,7 @@ expet->expel
 expets->expels
 expiditions->expeditions
 expierence->experience
+expirimental->experimental
 explaain->explain
 explaaining->explaining
 explaanaation->explanation
@@ -31925,6 +31926,7 @@ permaanent->permanent
 permaenently->permanently
 permaenent->permanent
 perma-link->permalink
+permananent->permanent
 permanant->permanent
 permanenlly->permanently
 permanenl->permanent
