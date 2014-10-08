@@ -32508,7 +32508,7 @@ plathform->platform
 plathome->platform
 platteau->plateau
 plattform->platform
-plattform->plattform
+plattfrom->platform
 plausable->plausible
 plausibble->plausible
 plausiblae->plausible
@@ -39781,6 +39781,7 @@ snipets->snippets
 sniplet->snippet
 snneaks->sneaks
 snneeze->sneeze
+snuggly->snugly
 socalism->socialism
 soccialism->socialism
 soccieties->societies
