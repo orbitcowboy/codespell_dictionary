@@ -18925,6 +18925,7 @@ forettelling->foretelling
 forewarded->forwarded
 foreward->foreword
 foreward->foreword, forward,
+forewared->forwarded
 forewordd->foreword
 forewword->foreword
 forfaeit->forfeit
@@ -41826,6 +41827,7 @@ summarry->summary
 summar->summary
 summaryy->summary
 summmmary->summary
+summory->summary
 sumnary->summary
 sungglasses->sunglasses
 sunglaasses->sunglasses
