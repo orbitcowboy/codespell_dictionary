@@ -4865,6 +4865,7 @@ aswell->as well
 as wellll->as well
 as wett->as well
 as wwell->as well
+asychronous->asynchronous
 asymetrical->asymmetrical
 asymetric->asymmetric
 asymmaetrical->asymmetrical
@@ -9572,6 +9573,7 @@ comparrison->comparison
 comparrisons->comparisons
 comparsion->comparison
 comparsions->comparisons
+compartors->comparators
 compatabilities->compatibilities
 compatability->compatibility
 compatabilty->compatibility
@@ -14068,6 +14070,7 @@ diggits->digits
 digils->digits
 digist->digits
 digiths->digits
+digitial->digital
 digitss->digits
 digitts->digits
 digrpahs->digraphs
@@ -18917,6 +18920,7 @@ foretelllling->foretelling
 foretetting->foretelling
 forethelling->foretelling
 forettelling->foretelling
+forewarded->forwarded
 foreward->foreword
 foreward->foreword, forward,
 forewordd->foreword
@@ -19718,6 +19722,9 @@ glamorrous->glamorous
 glamourous->glamorous
 glamroous->glamorous
 gleamed->gelaned
+glidesplope->glide slope
+glid slope->glide slope
+glidslope->glide slope
 glight->flight
 gllamorous->glamorous
 gllowed->allowed
@@ -24252,6 +24259,8 @@ intettectual->intellectual
 intettectuat->intellectual
 intettigence->intelligence
 intettigent->intelligent
+inteval->interval
+intevalls->intervals
 intevene->intervene
 intger->integer
 intgers->integers
@@ -25422,6 +25431,7 @@ labeeleed->labeled
 labeelleed->labelled
 labeledd->labeled
 labelledd->labelled
+labes->labels
 labetted->labelled
 labled->labeled
 labled->labelled
@@ -36110,6 +36120,7 @@ rediculous->ridiculous
 redristibutable->redistributable
 redudancy->redundancy
 redunant->redundant
+RedundancyCheck->Redundancy Check
 redundany->redundancy
 reduntant->redundant
 reeacheed->reached
