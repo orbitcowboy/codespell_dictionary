@@ -11873,6 +11873,7 @@ craeataed->created
 craedaencae->credence
 craeted->created
 crashs->crashes
+crated->created
 creaated->created
 creaed->created
 creaeted->created
@@ -12190,6 +12191,8 @@ custommize->customize
 custoomize->customize
 custtomize->customize
 cutminating->culminating
+cutomer->customer
+cutomers->customers
 cutsomize->customize
 cuulminating->culminating
 cuumuulative->cumulative
@@ -19570,6 +19573,7 @@ generatte->generate
 generatting->generating
 generattion->generation
 generatty->generally
+generilized->generalized
 generrally->generally
 generrate->generate
 generrating->generating
@@ -22822,6 +22826,7 @@ indempootent->indempotent
 indempothenth->indempotent
 indempottentt->indempotent
 indemppotent->indempotent
+indendation->indentation
 indenlalion->indentation
 indenled->indented
 indentaation->indentation
@@ -33123,6 +33128,7 @@ potatoaes->potatoes
 potatoees->potatoes
 potatoess->potatoes
 potatos->potatoes
+potentail->potential
 potentiall->potentially
 pothathoes->potatoes
 Pothsdam->Potsdam
@@ -42109,6 +42115,7 @@ surrended->surrounded, surrendered
 surrended->surrounded, surrendered,
 surrenderiing->surrendering
 surrenderingg->surrendering
+surrend->surrender
 surrenndered->surrendered
 surrennderinng->surrendering
 surrepetitiously->surreptitiously
@@ -44663,6 +44670,7 @@ uglyness->ugliness
 ugtiness->ugliness
 uinitialzed->uninitialized
 uise->use
+uisng->using
 Ukkrainian->Ukrainian
 uknown->unknown
 Ukraainiaan->Ukrainian
@@ -47388,6 +47396,7 @@ yietding->yielding
 yietd->yield
 yiieldiing->yielding
 yiield->yield
+yon->you
 yoourself->yourself
 yoousef->yousef
 yooutube->youtube
