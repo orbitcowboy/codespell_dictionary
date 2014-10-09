@@ -5464,6 +5464,7 @@ avalanchhe->avalanche
 avalankhe->avalanche
 avalannche->avalanche
 avaliable->available
+avalibility->availability
 avalible->available
 avallanche->avalanche
 a variabble->a variable
@@ -9725,6 +9726,7 @@ complethely->completely
 complethion->completion
 completiion->completion
 completionn->completion
+completition->completion
 completly->completely
 complets->completes
 completted tthe->completed the
@@ -15412,6 +15414,7 @@ ect->etc
 ectipse->eclipse
 ectsasy->ecstasy
 edding->adding
+edite->edit
 editior->editor
 editr->editor
 eeach->each
@@ -29245,6 +29248,7 @@ necessssitiess->necessities
 necesstate->necessitate
 necessties->necessities
 neded->needed
+ned->need
 Neeandeerthal->Neanderthal
 neecceessary->neccessary
 neeceessarily->necessarily
@@ -34822,6 +34826,7 @@ provacative->provocative
 provaed->proved
 provae->prove
 provded->provided
+provdies->provides
 provd->proved
 provedd->proved
 proveed->proved
@@ -36131,6 +36136,7 @@ redristibutable->redistributable
 redudancy->redundancy
 redunant->redundant
 RedundancyCheck->Redundancy Check
+redundand->redundant
 redundany->redundancy
 reduntant->redundant
 reeacheed->reached
