@@ -7,7 +7,6 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-fehl->fehlt
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -104,6 +103,7 @@ es es->es
 ettliche->etliche
 Extase->Ekstase
 Fehlerberg->Fehlberg
+fehl->fehlt
 Fehlfuktion->Fehlfunktion
 fesgtgesegtzgt->festgesetzt
 fiel->viel
