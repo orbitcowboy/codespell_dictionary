@@ -4,6 +4,8 @@ abrechen->abbrechen
 Abstatzstil->Absatzstil
 Addresse->Adresse
 agressiv->aggressiv
+irgenwas->irgendwas
+kommmt->kommt
 Akkustik->Akustik
 albel->Label
 allle->alle

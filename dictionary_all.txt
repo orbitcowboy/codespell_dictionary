@@ -17508,6 +17508,7 @@ exensively->extensively
 exeperiment->experiment
 exept->except
 exeptional->exceptional
+exeption->exception
 exerbated->exacerbated
 exerbate->exacerbate
 exerccise->exercise
@@ -22249,6 +22250,7 @@ impllementing->implementing
 impllicitlly->implicitly
 implmementing->implementing
 implmentation->implementation
+implmented->implemented
 imploys->employs
 impolile->impolite
 impolitae->impolite
@@ -30319,6 +30321,7 @@ oeuvere->oeuvre
 oeuvrre->oeuvre
 oeuvvre->oeuvre
 of 10microseconds->by 10 microseconds
+of coarse->of course
 ofcourse->of course
 ofered->offered
 oferings->offerings
