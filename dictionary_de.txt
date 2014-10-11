@@ -4,9 +4,6 @@ abrechen->abbrechen
 Abstatzstil->Absatzstil
 Addresse->Adresse
 agressiv->aggressiv
-irgenwas->irgendwas
-kommmt->kommt
-requiremens->requirements
 Akkustik->Akustik
 albel->Label
 allle->alle
@@ -168,6 +165,7 @@ in wie fern->inwiefern
 in wiefern->inwiefern
 in wie weit->inwieweit
 in wieweit->inwieweit
+irgenwas->irgendwas
 ist die das->ist es das
 jagd->jagt
 Jagt->Jagd
@@ -181,6 +179,7 @@ Koffeein->Koffein
 Komillitone->Kommilitone
 Komission->Kommission
 Kommitee->Komitee
+kommmt->kommt
 konsilarisch->konsiliarisch
 Koordiantenarten->Koordinatenarten
 kovertieren->konvertieren
@@ -264,6 +263,7 @@ reperatur->Reparatur
 Reperatur->Reparatur
 reperieren->reparieren
 Representation->Repräsentation
+requiremens->requirements
 resetet->führt einen Reset durch
 resliche->restliche
 Resourcen->Ressourcen
