@@ -2469,6 +2469,7 @@ aforrementioned->aforementioned
 afroementioned->aforementioned
 aftaer raecaeiving->after receiving
 afteer reeceeiving->after receiving
+afterh->after
 after recceiving->after receiving
 after receiiviing->after receiving
 after receiveing->after receiving
@@ -8588,6 +8589,7 @@ chose->choose
 chosee->chose
 choseen->chosen
 chosenn->chosen
+chosse->choose
 chosse->chose
 chossen->chosen
 chould->should, could,
@@ -15146,6 +15148,7 @@ doub->daub
 doub->doubt
 doub->doubt, daub
 doub->doubt, daub,
+doube-clicking->double-clicking
 doubele->double
 doublae->double
 doublce->double
@@ -17451,6 +17454,7 @@ exctudes->excludes
 exctusivety->exclusively
 exculsivly->exclusively
 excuted->executed
+excute->execute
 execcuted->executed
 execcute->execute
 execcutes->executes
@@ -17741,6 +17745,7 @@ experimentts->experiments
 experimment->experiment
 experimments->experiments
 experince->experience
+expermental->experimental
 experrienced->experienced
 experrience->experience
 experriment->experiment
@@ -18646,6 +18651,7 @@ firsl->first
 firsst->first
 firsth->first
 firstt->first
+firt->first
 firts->first
 firts->flirts
 firts->flirts, first
@@ -35258,6 +35264,7 @@ pursuith->pursuit
 pursuiths->pursuits
 pursuitt->pursuit
 pursuitts->pursuits
+pusing->pushing
 pususading->persuading
 puththing->putting
 puting->putting
@@ -39996,6 +40003,7 @@ sorce->source
 sorkerer->sorcerer
 sorrcerrerr->sorcerer
 sorrounding->surrounding
+soruce->source
 sosftware->software
 sotdiers->soldiers
 sotd->sold
@@ -46982,6 +46990,7 @@ will shall->shall
 will will->will
 wil->will
 windos->windows
+Window 7->Windows 7
 Windows Sever->Windows Server
 Windwos->Windows
 wioth->with

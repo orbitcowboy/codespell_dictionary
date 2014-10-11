@@ -6,6 +6,7 @@ Addresse->Adresse
 agressiv->aggressiv
 irgenwas->irgendwas
 kommmt->kommt
+requiremens->requirements
 Akkustik->Akustik
 albel->Label
 allle->alle
