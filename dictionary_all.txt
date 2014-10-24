@@ -9742,6 +9742,7 @@ complied->compiled
 complier->compiler
 complilation->compilation
 complinace->compliance
+complinance->compliance
 complleted the->completed the
 complletelly->completely
 complletion->completion
@@ -9954,6 +9955,7 @@ condilions of->conditions of
 condithion->condition
 condithions->conditions
 condithions of->conditions of
+conditionnal->conditional
 conditionsof->conditions of
 conditions off->conditions of
 conditionss->conditions
@@ -11848,6 +11850,7 @@ covenanl->covenant
 covenanth->covenant
 covenantt->covenant
 covennannt->covenant
+coverae->coverage
 coveredd->covered
 coverred->covered
 covert->convert
@@ -13473,6 +13476,7 @@ descriptros->descriptors
 descripttion->description
 descripttor->descriptor
 descripttors->descriptors
+descritption->description
 descrribed->described
 descrribe->describe
 descrribes->describes
@@ -13728,6 +13732,7 @@ deteriroating->deteriorating
 determeined->determined
 determiine->determine
 determiiniing->determining
+determinded->determined
 determin->determine
 determiningg->determining
 determinining->determining
@@ -15948,6 +15953,7 @@ eliminathing->eliminating
 eliminatingg->eliminating
 eliminatted->eliminated
 eliminatting->eliminating
+eliminiated->eliminated
 eliminnated->eliminated
 eliminnatinng->eliminating
 elimminated->eliminated
@@ -23861,6 +23867,7 @@ instalation->installation
 instaled->installed
 installa->install a
 installaion->installation
+installatin->installation
 installll->install
 instancae->instance
 instancce->instance
@@ -23921,6 +23928,8 @@ instrumaents->instruments
 instrumeental->instrumental
 instrumeent->instrument
 instrumeents->instruments
+instrumenation->instrumentation
+instrumenations->instrumentations
 instrumenst->instruments
 instrumentaal->instrumental
 instrumentael->instrumental
@@ -41239,6 +41248,7 @@ structurael->structural
 structurae->structure
 structurall->structural
 structurat->structural
+structureal->structural
 structuredd->structured
 structureed->structured
 structuree->structure
@@ -45887,6 +45897,7 @@ validitty->validity
 validityy->validity
 valiidiity->validity
 vallaetta->valletta
+valldatlon->validation
 valleetta->valletta
 vallella->valletta
 vallelta->valletta
