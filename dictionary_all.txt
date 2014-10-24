@@ -11883,6 +11883,7 @@ crealed->created
 creat->create
 createc->created
 createdd->created
+creater->creator
 creathed->created
 creatted->created
 crèchae->crèche
@@ -37344,6 +37345,7 @@ reslore->restore
 reslrainl->restraint
 reslricled->restricted
 reson->reason
+resonsible->responsible
 resoources->resources
 resouce->resource
 resourcces->resources
