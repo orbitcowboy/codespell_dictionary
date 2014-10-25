@@ -11852,6 +11852,7 @@ covenantt->covenant
 covennannt->covenant
 coverae->coverage
 coveredd->covered
+coverge->coverage
 coverred->covered
 covert->convert
 coverted->converted
@@ -12410,6 +12411,8 @@ Darrdanelles->Dardanelles
 darw->draw
 data base->database
 databse->database
+datafile->data file
+datafiles->data files
 Datase->Database
 data typae->data type
 datatyp->data type
@@ -27548,6 +27551,7 @@ merrchandise->merchandise
 merre->mere
 mesage->message
 mesaging->messaging
+mesaure->measure
 mesenger->messenger
 messaaging->messaging
 messaeging->messaging
@@ -33139,6 +33143,9 @@ posthummous->posthumous
 posthuumouus->posthumous
 postion->position
 postive->positive
+postprocessing->post processing
+postprocessor->post processor
+postprocessors->post processors
 postthumous->posthumous
 postumous->posthumous
 potaatoes->potatoes
@@ -42419,6 +42426,8 @@ syas->says
 sychronously->synchronously
 syetem->system
 syle->style
+symbolfiles->symbol files
+symbolfile->symbol file
 symetrically->symmetrically
 symetrical->symmetrical
 symetric->symmetric
@@ -45160,6 +45169,7 @@ uninterruptedd->uninterrupted
 uninterupted->uninterrupted
 unintherrupthed->uninterrupted
 unintterruptted->uninterrupted
+uniqe->unique
 uniq->unique
 unistalled->uninstalled
 UnitaedStataes->UnitedStates
