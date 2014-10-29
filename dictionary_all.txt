@@ -3657,6 +3657,7 @@ antthropomorphizattion->anthropomorphization
 anual->annual
 anually->annually
 anulled->annulled
+an unique->a unique
 anwer->answer
 anwsered->answered
 anwyays->anyways
@@ -16433,6 +16434,7 @@ enhankement->enhancement
 enhhancement->enhancement
 enhtusiasm->enthusiasm
 enhtusiastic->enthusiastic
+enitities->entities
 enkodding->encoding
 enkoddings->encoSdings
 enkouraging->encouraging
@@ -17519,6 +17521,7 @@ exemppt->exempt
 exempth->exempt
 exemptt->exempt
 exensively->extensively
+exepcted->expected
 exeperiment->experiment
 exept->except
 exeptional->exceptional
@@ -25545,6 +25548,7 @@ languuage->language
 languuages->languages
 lannguage->language
 lannguages->languages
+lanugage->language
 largae->large
 largaest->largest
 largee->large
@@ -42428,6 +42432,7 @@ syetem->system
 syle->style
 symbolfiles->symbol files
 symbolfile->symbol file
+symbo->symbol
 symetrically->symmetrically
 symetrical->symmetrical
 symetric->symmetric
