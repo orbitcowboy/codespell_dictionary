@@ -6696,6 +6696,7 @@ broughth->brought
 broughtt->brought
 brougth->brought
 brouught->brought
+brower->browser
 browswer->browser
 brrain-damaged->brain-damaged
 Brrazilian->Brazilian
@@ -9033,6 +9034,7 @@ comandos->commandos
 comands->commands
 comany->company
 comapany->company
+comapring->comparing
 comata->commas
 comback->comeback
 combanations->combinations
@@ -13988,6 +13990,7 @@ diffeereential->differential
 diffeereentiatee->differentiate
 diffeereentiations->differentiations
 diffence->difference
+diffenrence->difference
 differance->difference
 differeces->differences
 differencce between->difference between
@@ -14078,6 +14081,7 @@ difficuulty->difficulty
 diffikult->difficult
 diffikulties->difficulties
 diffikulty->difficulty
+diffrence->difference
 diffrent->different
 dificul->difficult
 dificult->difficult
@@ -18800,6 +18804,7 @@ focuus->focus
 foe->for
 fokus->focus
 follllowing->following
+followes->follows
 followiing->following
 followingg->following
 followinhg->following
@@ -22254,6 +22259,7 @@ implentation->implementation
 impliccitly->implicitly
 implicilly->implicitly
 implicite->implicit
+implicitely->implicitly
 implicithly->implicitly
 implicitlyy->implicitly
 implicittly->implicitly
@@ -27355,6 +27361,7 @@ mear->wear
 mear->wear, mere, mare
 mear->wear, mere, mare,
 measureable->measurable
+measurment->measurement
 mecchaniccs->mechanics
 mechaanics->mechanics
 mechaenics->mechanics
@@ -29482,6 +29489,7 @@ nestiing->nesting
 nestingg->nesting
 nestin->nesting
 nestting->nesting
+nethertheless->nevertheless
 nethwork->network
 netsing->nesting
 nettwork->network
@@ -32604,6 +32612,7 @@ plebiskite->plebiscite
 plebisscite->plebiscite
 pleeasant->pleasant
 pleebiscitee->plebiscite
+plently->plenty
 plesant->pleasant
 plese->please
 pllace->place
