@@ -282,6 +282,7 @@ Rückrat->Rückgrat
 Rythmus->Rhythmus
 Schärflein->Scherflein
 Scheifenausführung->Schleifenausführung
+Schermetalle->Schwermetalle
 schliesslich->schließlich
 Script->Skript
 seelig->selig

@@ -5449,6 +5449,7 @@ availablee->available
 availablity->availability
 availaible->available
 availalbe->available
+availbale->available
 availbel->available
 availble->available
 availiable->available
@@ -15387,6 +15388,7 @@ easthetic->aesthetic
 easthetical->aesthetical
 easthetically->aesthetically
 Eaxample->example
+eaxmple->example
 eccleccticc->eclectic
 ecclectic->eclectic
 ecclipse->eclipse
@@ -26312,6 +26314,7 @@ longaer->longer
 longeer->longer
 longerr->longer
 longger->longer
+longgest->longest
 Longgitude->Longitude
 longgitudinal->longitudinal
 Longiitude->Longitude
