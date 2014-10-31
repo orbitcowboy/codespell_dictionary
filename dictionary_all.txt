@@ -20152,6 +20152,7 @@ guarrantee->guarantee
 guarrantees->guarantees
 guarrd->guard
 guarrenteed->guaranteed
+guarteen->guarantee
 Guataemala->Guatemala
 Guataemalan->Guatemalan
 Guatamala->Guatemala
@@ -22831,6 +22832,7 @@ inddulge->indulge
 inddustrial->industrial
 inddustry->industry
 indecation->indication
+in deed->indeed
 indeefiniteely->indefinitely
 indeempoteent->indempotent
 indeentation->indentation
@@ -25883,6 +25885,7 @@ liasons->liaisons
 libael->libel
 libaertarianism->libertarianism
 libaries->libraries
+libari->library
 libary->library
 libbel->libel
 libbertarianism->libertarianism
