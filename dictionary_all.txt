@@ -3418,6 +3418,7 @@ anlarclic->antarctic
 anlhropologisl->anthropologist
 anlhropology->anthropology
 anlhropomorphizalion->anthropomorphization
+an linux->a linux
 anmihilation->annihilation
 anmiversary->anniversary
 anmounced->announced
@@ -5876,6 +5877,7 @@ becames->becomes, became
 becames->becomes, became,
 becamme->became
 becasue->because
+becaue->because
 becaus->because
 because auf->because of
 becausse->because
@@ -18981,6 +18983,7 @@ for for->for
 forground->foreground
 forhead->forehead
 foriegn->foreign
+forlder->folder
 forlies->forties
 forly->forty
 formaalized->formalized
@@ -32377,6 +32380,7 @@ philossophically->philosophically
 philossophical->philosophical
 philossophiess->philosophies
 philossophy->philosophy
+phisical->physical
 Phitippine->Philippine
 Phitippines->Philippines
 phitosopher->philosopher
@@ -39844,6 +39848,7 @@ smoe->some
 snaeaezae->sneeze
 snaeaks->sneaks
 snaeks->sneaks
+snapshoted->snapshotted
 sneaaks->sneaks
 sneacks->sneaks
 sneacs->sneaks
@@ -46445,6 +46450,7 @@ vitories->victories
 vittain->villain
 vittein->villein
 vitti->villi
+vmwre->vmware
 vngeance->vengeance
 vnomous->venomous
 volcaano->volcano
