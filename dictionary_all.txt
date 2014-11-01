@@ -8608,6 +8608,7 @@ churrch->church
 churrches->churches
 chuurch->church
 chuurches->churches
+cicuitry->circuitry
 Ciinciinnatii->Cincinnati
 ciircuiit->circuit
 ciirculatiion->circulation
@@ -9968,6 +9969,7 @@ conditon->condition
 condittion->condition
 condittions->conditions
 condittions of->conditions of
+condtion->condition
 conecpt->concept
 conected->connected
 Conecticut->Connecticut
@@ -11855,6 +11857,7 @@ covenanth->covenant
 covenantt->covenant
 covennannt->covenant
 coverae->coverage
+coverage coverage->coverage
 coveredd->covered
 coverge->coverage
 coverred->covered
@@ -12418,6 +12421,7 @@ databse->database
 datafile->data file
 datafiles->data files
 Datase->Database
+datastrem->data stream
 data typae->data type
 datatyp->data type
 datatype->data type
@@ -12695,6 +12699,7 @@ deaectivaeted->deactivated
 deael->deal
 deafult->default
 deaktivated->deactivated
+dealed->dialed
 deall->deal
 de-allocated->deallocated
 deat->deal
@@ -13210,6 +13215,7 @@ demeanoor->demeanor
 demeanorr->demeanor
 demeanro->demeanor
 demenor->demeanor
+demical->decimal
 demmeanor->demeanor
 demmocracy->democracy
 demmographic->demographic
@@ -13860,6 +13866,7 @@ devetop->develop
 devetoped->developed
 devetopers->developers
 devetopment->development
+deviaton->deviation
 devicce->device
 devided->divided
 devide->divide
@@ -16912,6 +16919,7 @@ erratik->erratic
 errattically->erratically
 errattic->erratic
 errected->erected
+errenous->erroneous
 erro->error
 erroneouss->erroneous
 erroneouus->erroneous
@@ -16919,6 +16927,7 @@ erronneous->erroneous
 erronous->erroneous
 errooneoous->erroneous
 erroor->error
+errorcondition->error condition
 erros->errors
 errro->error
 errror->error
@@ -19072,6 +19081,7 @@ forunner->forerunner
 forwaard->forward
 forwaerd->forward
 forwardd->forward
+forwared->forwarded
 forwward->forward
 fotball->football
 fo the->for the
@@ -20777,6 +20787,7 @@ hetpfutty->helpfully
 hetp->help
 hetterogeneous->heterogeneous
 heve->have
+hexademical->hexadecimal
 hexdecimal->hexadecimal
 hexidecimal->hexadecimal
 hexidecmal->hexadecimal
@@ -27762,6 +27773,7 @@ micricontroller->microcontroller
 microconlroller->microcontroller
 microconntroller->microcontroller
 microconthroller->microcontroller
+microcontoller->mircrocontroller
 microcontroler->microcontroller
 microcontrollaer->microcontroller
 microcontrolleer->microcontroller
@@ -46704,6 +46716,7 @@ wardrobae->wardrobe
 wardrobbe->wardrobe
 wardrobee->wardrobe
 wardroobe->wardrobe
+warings->warnings
 waring->warning
 warining->warning
 wariors->warriors
