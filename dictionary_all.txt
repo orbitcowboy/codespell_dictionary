@@ -47081,6 +47081,7 @@ withdrawl->withdrawal, withdraw
 withdrrawal->withdrawal
 withdrraw->withdraw
 witheld->withheld
+withespace->whitespace
 withhaeld->withheld
 withhdrawal->withdrawal
 withhdraw->withdraw
@@ -47102,6 +47103,7 @@ withing->within
 withinn->within
 withold->withhold
 withouyt->without
+withspace->whitespace
 witht->with
 with with->with
 witihn->within
