@@ -3864,6 +3864,7 @@ applicationns->applications
 applicationss->applications
 applicatioon->application
 applicatioons->applications
+applicatons->applications
 applicattion->application
 applicattions->applications
 appliccation->application
@@ -5948,6 +5949,7 @@ befored->before
 beforre->before
 befroe->before
 beggggingg->begging
+beggging->begging
 beggiing->begging
 beggin->begging
 beggin->begin
@@ -30873,6 +30875,7 @@ optimmismm->optimism
 optimmizations->optimizations
 optionnal->optional
 optmizations->optimizations
+optmizing->optimizing
 optomism->optimism
 optons->options
 opttimism->optimism
@@ -34458,6 +34461,7 @@ progresed->progressed
 progresive->progressive
 progressedd->progressed
 progressssed->progressed
+progrms->programs
 progrom->pogrom
 progrom->pogrom, program
 progrom->pogrom, program,
@@ -34796,6 +34800,7 @@ proprotions->proportions
 propse->propose
 propted->prompted
 propterties->properties
+proram->program
 prorotyped->prototyped
 prosaelytizing->proselytizing
 proseelytizing->proselytizing
@@ -44044,6 +44049,7 @@ transacction->transaction
 transactiion->transaction
 transactioon->transaction
 transaktion->transaction
+transation->transaction
 transcaeivaer->transceiver
 transcaendaencae->transcendence
 transcaendaental->transcendental
@@ -45521,6 +45527,7 @@ unrrepentant->unrepentant
 unsed->unused
 unsed->used, unused, unsaid
 unsiged->unsigned
+unsigend->unsigned
 unsiggned->unsigned
 unsignaed->unsigned
 unsignedd->unsigned
