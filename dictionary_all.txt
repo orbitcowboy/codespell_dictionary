@@ -1401,6 +1401,7 @@ addressabble->addressable
 addressablle->addressable
 addressabte->addressable
 addressess->addresses
+addressible->addressable
 addressiing->addressing
 addressingg->addressing
 addressinng->addressing
@@ -10741,6 +10742,7 @@ constrructs->constructs
 construcst->constructs
 constructes->constructs
 constructiion->construction
+construcutor->constructor
 construuction->construction
 construucts->constructs
 consts->constants
@@ -13977,6 +13979,7 @@ dieing->dyeing
 dieing->dying
 dieing->dying, dyeing
 dieing->dying, dyeing,
+diesplay->display
 dieties->deities
 diety->deity
 diference between->difference between
@@ -18817,6 +18820,7 @@ focuus->focus
 foe->for
 fokus->focus
 follllowing->following
+folllowing->following
 followes->follows
 followiing->following
 followingg->following
@@ -19549,6 +19553,7 @@ gaurentees->guarantees
 gauuge->gauge
 Gauuguuin->Gauguin
 Geal->Gael
+geberated->generated
 geeneealogical->genealogical
 geeneealogiees->genealogies
 geeneealogy->genealogy
@@ -41936,6 +41941,7 @@ supeerseedee->supersede
 superceded->superseded
 supercede->supersede
 superceeded->superseded
+superfelous->superfluous
 superffluous->superfluous
 superflluous->superfluous
 superflous->superfluous
