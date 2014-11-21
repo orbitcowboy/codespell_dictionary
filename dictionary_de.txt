@@ -89,6 +89,7 @@ Entdckung->Entdeckung
 Entgeld->Entgelt
 entgültig->endgültig
 entlich->endlich
+entonmmen->entnommen
 entscheident->entscheidend
 entwickleln->entwickeln
 Ereignisandzeige->Ereignisanzeige

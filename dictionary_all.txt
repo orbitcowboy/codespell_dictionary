@@ -1277,6 +1277,7 @@ activitiaes->activities
 activitiees->activities
 activitiess->activities
 activly->actively
+activties->activities
 activvate->activate
 activvated->activated
 activvely->actively
@@ -7607,6 +7608,7 @@ categoories->categories
 categoorize->categorize
 categoorized->categorized
 categoory->category
+categorie->category
 categoriess->categories
 categoriies->categories
 categoriize->categorize
@@ -13389,6 +13391,7 @@ deram->dream
 derectory->directory
 derefencing->dereferencing
 dereferenccing->dereferencing
+dereferenceable->dereferencable
 dereferenciing->dereferencing
 dereferencingg->dereferencing
 dereferencs->dereferences
@@ -13872,6 +13875,7 @@ devetop->develop
 devetoped->developed
 devetopers->developers
 devetopment->development
+deviatations->deviations
 deviaton->deviation
 devicce->device
 devided->divided
@@ -19228,6 +19232,7 @@ fromerly->formerly
 fromidable->formidable
 fromm->from
 fromula->formula
+fron->front
 froniter->frontier
 fronlier->frontier
 fronntier->frontier
@@ -21621,6 +21626,7 @@ idiosynncratic->idiosyncratic
 idiosyyncrasyy->idiosyncrasy
 idiosyyncratic->idiosyncratic
 idnentifier->identifier
+iff->if
 iff one sets->if one sets
 iff you want->if you want
 if onae saets->if one sets
@@ -37874,6 +37880,7 @@ rococco->rococo
 rocord->record
 rodered->ordered
 rodinarily->ordinarily
+rodmap->roadmap
 roganisation->organisation
 roganise->organise
 roganism->organism
@@ -39852,6 +39859,7 @@ smeltiing->smelting
 smeltingg->smelting
 smeltinng->smelting
 smeltting->smelting
+smething->something
 smetting->smelting
 smmelting->smelting
 smoe->some
@@ -39999,6 +40007,7 @@ somme->some
 sommething->something
 sommetimmes->sometimes
 sommewhere->somewhere
+somone->someone
 somthing->something
 somtimes->sometimes
 somwhere->somewhere
@@ -40997,6 +41006,7 @@ statemnt->statement
 statesmann->statesman
 statesments->statements
 statesmman->statesman
+staticaly->statically
 staticly->statically
 statiion->station
 stationn->station
@@ -43213,6 +43223,7 @@ therebyy->thereby
 thereffore->therefore
 therefoore->therefore
 therefor->therefore
+therefre->therefore
 therefroe->therefore
 therefromhere->therefrom here
 therfore->therefore
