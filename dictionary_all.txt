@@ -8658,11 +8658,14 @@ circummcision->circumcision
 circumsicion->circumcision
 circutation->circulation
 circut->circuit
+circuts->circuits
 circuuit->circuit
 circuulation->circulation
 circuumcision->circumcision
 ciricuit->circuit
 ciriculum->curriculum
+cirlce->circle
+cirlces->circles
 cirrcuit->circuit
 cirrculation->circulation
 cirrcumcision->circumcision
@@ -13934,6 +13937,7 @@ diagramm->diagram
 diagrammmmatic->diagrammatic
 diagramnatic->diagrammatic
 diagranmatic->diagrammatic
+diagranm->diagram
 diagrannatic->diagrammatic
 diagrms->diagrams
 diagrrammatic->diagrammatic
@@ -20445,6 +20449,7 @@ halp->help
 hamorrhage->haemorrhage
 handdling->handling
 hande->handle
+handeing->handing
 handeling->handling
 handels->handles
 handing->handling
