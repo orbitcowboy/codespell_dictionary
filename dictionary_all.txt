@@ -8113,6 +8113,7 @@ ceereemony->ceremony
 ceertain->certain
 ceertainty->certainty
 ceervical->cervical
+ceilling->ceiling
 Celcius->Celsius
 cellllpadding->cellpadding
 cellpaadding->cellpadding
@@ -11670,6 +11671,7 @@ costitution->constitution
 costom->custom
 costumer->customer
 cotander->colander
+cotent->content
 cotonies->colonies
 cotonizers->colonizers
 cotonnade->colonnade
@@ -18819,6 +18821,7 @@ fluroine->fluorine
 fluuorescent->fluorescent
 fluuorine->fluorine
 foccus->focus
+focussed->focused
 focusses->focuses
 focuss->focus
 focuus->focus
