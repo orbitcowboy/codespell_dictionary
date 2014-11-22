@@ -3050,6 +3050,7 @@ a loot->a lot
 alophone->allophone
 alophones->allophones
 alorgithm->algorithm
+alos->also
 alot->a lot
 alot->a lot, allot
 a loth->a lot
@@ -3083,6 +3084,7 @@ alreeady->already
 alrocilies->atrocities
 alrogithm->algorithm
 alrready->already
+alse->also
 alse->else
 alsoo->also
 alsot->also
@@ -10029,6 +10031,7 @@ configguration->configuration
 configgure->configure
 configiration->configuration
 configuartion->configuration
+configuation->configuration
 configue->configure
 configuraable->configurable
 configuraation->configuration
@@ -10142,6 +10145,8 @@ conlrols->controls
 conlroversial->controversial
 conlroversies->controversies
 conlroversy->controversy
+conlusion->conclusion
+conlusions->conclusions
 conmand->command
 conmandeer->commandeer
 conmander->commander
@@ -10764,6 +10769,7 @@ consttruction->construction
 consttructtion->construction
 consttructts->constructs
 constuction->construction
+constuctor->constructor
 consulant->consultant
 consullanl->consultant
 consulltant->consultant
@@ -16329,6 +16335,7 @@ encouragiing->encouraging
 encouraing->encouraging
 encourraging->encouraging
 encoutered->encountered
+encouter->encounter
 encouuraging->encouraging
 encrpyted->encrypted
 encrpyt->encrypt
@@ -17155,6 +17162,7 @@ evaluatioon->evaluation
 evaluatted->evaluated
 evaluattion->evaluation
 evalutation->evaluation
+evalutations->evaluations
 evaluted->evaluated
 evaluuated->evaluated
 evaluuation->evaluation
@@ -25947,6 +25955,7 @@ libraaries->libraries
 libraary->library
 libraeries->libraries
 libraery->library
+libraies->libraries
 libraly->library
 librariaes->libraries
 librariees->libraries
@@ -27603,6 +27612,7 @@ mesaure->measure
 mesenger->messenger
 messaaging->messaging
 messaeging->messaging
+messager->messenger
 messaggingg->messaging
 messagiing->messaging
 messagin->messaging
@@ -31047,6 +31057,7 @@ othaer->other
 otheer->other
 otherr->other
 other then->other than
+otherwisee->otherwise
 othher->other
 ot->of
 otther->other
@@ -31512,6 +31523,7 @@ paren->parent
 parens->parents
 parenteses->parentheses
 parentesis->parenthesis
+parenthese->parentheses
 parenthesiis->parenthesis
 parenthesis->parentheses
 parenthessess->parentheses
@@ -44234,6 +44246,7 @@ trasaction->transaction
 trascation->transaction
 trasfered->transferred
 trasnaction->transaction
+travesal->traversal
 tray->try
 treatement->treatment
 treatened->threatened
