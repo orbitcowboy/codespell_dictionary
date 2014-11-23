@@ -2595,6 +2595,7 @@ agina->again, angina
 agina->angina
 agin->again
 aginst->against
+agorithm->algorithm
 agraeae->agree
 agraeaed->agreed
 agraeaeing->agreeing
@@ -2698,6 +2699,7 @@ airrcrraft->aircraft
 airrporrt->airport
 airrporrts->airports
 aisian->asian
+ajust->adjust
 ajustments->adjustments
 akademik->academic
 akademy->academy
@@ -3268,6 +3270,7 @@ amnulled->annulled
 amnunition->ammunition
 amongg->among
 amonggst->amongst
+amongs->amongst
 amongsit->amongst
 amongsl->amongst
 amongsst->amongst
@@ -4029,6 +4032,7 @@ apprroximately->approximately
 apptication->application
 apptications->applications
 apptied->applied
+appy->apply
 apreciate->appreciate
 aprehensive->apprehensive
 aproach->approach
@@ -6465,6 +6469,7 @@ Bostton->Boston
 Botson->Boston
 botstrap->bootstrap
 bottlekneck->bottleneck
+botttom->bottom
 bouce->bounce
 boul->bout
 boundaaries->boundaries
@@ -11158,6 +11163,7 @@ converrtibles->convertibles
 conversiion->conversion
 converson->conversion
 converssion->conversion
+convertable->convertible
 convertables->convertibles
 convertedd->converted
 convertes->converts
@@ -11409,6 +11415,7 @@ coonvinced->convinced
 cooooperatioon->cooperation
 coooordinate->coordinate
 coooordinatioon->coordination
+cooordinates->coordinates
 coopaeration->cooperation
 coopeeration->cooperation
 cooperaation->cooperation
@@ -17238,6 +17245,7 @@ everytyhing->everything
 everyy->every
 everyything->everything
 everyy time->every time
+evey->every
 eveyr->every
 eviddently->evidently
 evidenlly->evidently
@@ -23419,6 +23427,7 @@ inilially->initially
 inital->initial
 initalise->initialise
 initalization->initialization
+initalized->initialized
 initalize->initialize
 initally->initially
 initated->initiated
@@ -24240,6 +24249,7 @@ interfereing->interfering
 interferencce->interference
 interferenke->interference
 interferingg->interfering
+interfer->interfere
 interfface->interface
 interfference->interference
 interffering->interfering
@@ -37206,6 +37216,7 @@ reprotedly->reportedly
 reprot->report
 reprtoire->repertoire
 repsectively->respectively
+repsective->respective
 repsonse->response
 reptacement->replacement
 reptition->repetition
@@ -43609,6 +43620,7 @@ tiimiing->timing
 tiked->liked
 tiketihood->likelihood
 tikud->likud
+tile->title
 tilling->telling
 tilte->title
 timaesort->timesort
@@ -44251,6 +44263,7 @@ trasaction->transaction
 trascation->transaction
 trasfered->transferred
 trasnaction->transaction
+trasverse->traverse
 travesal->traversal
 tray->try
 treatement->treatment
