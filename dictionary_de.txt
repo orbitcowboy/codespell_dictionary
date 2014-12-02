@@ -92,6 +92,8 @@ entlich->endlich
 entonmmen->entnommen
 entscheident->entscheidend
 entwickleln->entwickeln
+Enwicklergruppe->Entwicklergruppe
+Enwicklergruppen->Entwicklergruppen
 Ereignisandzeige->Ereignisanzeige
 Ereigns->Ereignis
 Ergebniss->Ergebnis

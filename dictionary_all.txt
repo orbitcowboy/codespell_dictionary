@@ -842,6 +842,7 @@ accomodationn->accomodation
 accomodations->accommodations
 accomodattion->accomodation
 accomoddation->accomodation
+accomodte->accommodate
 accompaniaed->accompanied
 accompaniedd->accompanied
 accompanieed->accompanied
@@ -12749,6 +12750,7 @@ Debiaen->Debian
 Debiann->Debian
 Debiian->Debian
 debuger->debugger
+debuget->debugged
 debugg->debug
 debuggggingg->debugging
 debuggiing->debugging
@@ -13352,6 +13354,7 @@ departmments->departments
 departtmenttal->departmental
 departtmentt->department
 departtmentts->departments
+depcreated->deprecated
 depencies->dependencies
 dependance->dependence
 dependancies->dependencies
@@ -18780,6 +18783,7 @@ Flemiish->Flemish
 Flemishh->Flemish
 Flemissh->Flemish
 Flemmish->Flemish
+flexable->flexible
 flexibile->flexible
 FlexLint->FlexeLint
 fligght->flight
@@ -25628,6 +25632,7 @@ largets->largest
 largge->large
 larggest->largest
 larg->large
+largly->largely
 largst->largest
 largue->large
 larguest->largest
@@ -33787,6 +33792,7 @@ predictabble->predictable
 predictablle->predictable
 predictabte->predictable
 predictaeble->predictable
+predicter->predictor
 predicthable->predictable
 predicthions->predictions
 predictionns->predictions
@@ -34169,6 +34175,8 @@ principlee->principle
 principlle->principle
 principly->principally
 principte->principle
+princiqle->principle
+princple->principle
 prinicipal->principal
 prinkipal->principal
 prinkiple->principle
@@ -37717,6 +37725,7 @@ retriev->retrieve
 retrievve->retrieve
 retriieve->retrieve
 retrived->retrieved
+retrow->re-throw
 retrun->return
 retsarted->restarted
 retsaurant->restaurant
@@ -44283,6 +44292,7 @@ tremooloo->tremolo
 tremotos->tremolos
 tremoto->tremolo
 treshold->threshold
+treturns->returns
 trigered->triggered
 triger->trigger
 triggaeraed->triggered
@@ -45063,6 +45073,7 @@ underrgrround->underground
 underrstood->understood
 undersitood->understood
 underslood->understood
+undersquare->underscore
 undersstood->understood
 understanability->understandability
 understant->understand
@@ -45804,6 +45815,7 @@ usaefully->usefully
 usaeful->useful
 usaege->usage
 usae->use
+usafe->unsafe
 usagae->usage
 usagee->usage
 usagge->usage
@@ -46021,6 +46033,7 @@ valuablee->valuable
 valuble->valuable
 valud->valid,value
 valueable->valuable
+valuess->values
 valuuable->valuable
 varables->variables
 varaible->variable
