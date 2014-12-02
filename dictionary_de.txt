@@ -1,4 +1,5 @@
 abe rauch->aber auch
+abgarbeitet->abgearbeitet
 abgeschalten->abgeschaltet
 abrechen->abbrechen
 Abstatzstil->Absatzstil
@@ -11,6 +12,7 @@ Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
+and->an
 andersweitig->anderweitig
 and->und
 angzeigt->angezeigt
@@ -25,6 +27,7 @@ Ausführungsgeschwindigkeit->Ausführungszeit
 außderem->außerdem
 ausser->außer
 ausserdem->außerdem
+Ausstatting->Ausstattung
 authorisieren->autorisieren
 authorisiert->autorisiert
 Authorisierung->Autorisierung
@@ -217,6 +220,7 @@ Modusse->Modi
 montalichen->monatlichen
 nach dem->nachdem
 Nachname->Nachnahme
+nachsten->nächsten
 nachwievor->nach wie vor
 nähmlich->nämlich
 narzistisch->narzisstisch
@@ -250,12 +254,14 @@ prinizpiell->prinzipiell
 Proffessor->Professor
 profozieren->provozieren
 Program->Programm
+Projektstruktureplans->Projektstrukturplans
 projezieren->projizieren
 Prophezeihung->Prophezeiung
 Prüdsummen->Prüfsummen
 Prüdsumme->Prüfsumme
 Qualiät->Qualität
 Qualifkation->Qualifikation
+Qualifkationsbedarf->Qualifikationsbedarf
 qualitätssicherende->qualitätssichernde
 rauh->rau
 Rechts-klick->Rechtsklick
@@ -274,6 +280,7 @@ Resource->Ressource
 Restgliederfehler->Restgliedfehler
 rethorisch->rhetorisch
 revangieren->revanchieren
+revevanten->relevanten
 rezepieren->rezipieren
 rezepiert->rezipiert
 rhethorisch->rhetorisch
@@ -330,6 +337,7 @@ totschick->todschick
 unentgeldlich->unentgeltlich
 unverholen->unverhohlen
 ursprünglcih->ursprünglich
+Verandstaltung->Veranstaltung
 Verließ->Verlies
 Verpsrechungen->Versprechungen
 verschiendenen->verschiedenen
