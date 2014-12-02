@@ -3867,6 +3867,7 @@ applicalion->application
 applicalions->applications
 applicathion->application
 applicathions->applications
+applicatins->applications
 applicationn->application
 applicationns->applications
 applicationss->applications
@@ -18348,6 +18349,7 @@ fanatism->fanaticism
 fanatticism->fanaticism
 fannaticism->fanaticism
 fantasic->fantastic
+faour->favor
 Farenheit->Fahrenheit
 fasccinated->fascinated
 fasccist->fascist
@@ -20275,6 +20277,7 @@ guidannce->guidance
 guiddance->guidance
 guidence->guidance
 guidline->guideline
+guidlines->guidelines
 guiidance->guidance
 Guiinness->Guinness
 Guilia->Giulia
@@ -20493,6 +20496,7 @@ happendd->happend
 happended->happened
 happend->happened
 happenedd->happened
+happenes->happened
 happeniing->happening
 happeningg->happening
 happennd->happend
@@ -30619,7 +30623,6 @@ one nicce->one nice
 one niice->one nice
 one nike->one nice
 onerus->onerous
-ones->one's
 one think i->one thing i
 on line->online
 onlly->only
@@ -31042,6 +31045,7 @@ orrupt->corrupt
 orr without->or without
 orse->rose
 orughly->roughly
+oruselves->ourselves
 or wihtout->or without
 or wiithout->or without
 or wilhoul->or without
@@ -39923,6 +39927,7 @@ sneze->sneeze
 snipet->snippet
 snipets->snippets
 sniplet->snippet
+snipplets->snippets
 snneaks->sneaks
 snneeze->sneeze
 snuggly->snugly
@@ -41344,7 +41349,6 @@ strruggling->struggling
 strucctural->structural
 strucctured->structured
 struccture->structure
-structs->structures
 structual->structural
 structude->structured
 structuraal->structural
@@ -41465,6 +41469,7 @@ stylle->style
 styllus->stylus
 stylsheet->stylesheet
 styluus->stylus
+styructs->structs
 styte->style
 stytus->stylus
 styyle->style
@@ -43400,6 +43405,7 @@ thincs->thinks
 thinc->think
 thinggs->things
 thingg->thing
+thinghs->things
 thingss->things
 thinkingg->thinking
 thinkking->thinking
