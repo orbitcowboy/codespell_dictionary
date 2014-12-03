@@ -36246,6 +36246,7 @@ recurriing->recurring
 recurringg->recurring
 recurrinng->recurring
 recursiively->recursively
+recursio->recursion
 recursiveely->recursively
 recursivelly->recursively
 recursivelyy->recursively
@@ -47025,6 +47026,7 @@ whilae->while
 whilee->while
 whilever->whenever
 whille->while
+whinch->which
 whio->who
 whitch->which
 whitelsit->whitelist
