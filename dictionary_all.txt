@@ -724,6 +724,7 @@ accessiion->accession
 accessinge->accessing
 accessionn->accession
 accessioon->accession
+accessor->accessors
 accessss->access
 accessssible->accessible
 accessssion->accession
@@ -22316,6 +22317,7 @@ implemetnation->implementation
 implemnetations->implementations
 implemntaion->implementation
 implemnted->implemented
+implentation->implantation
 implentation->implementation
 impliccitly->implicitly
 implicilly->implicitly
@@ -44160,6 +44162,7 @@ transcripting->transcribing, transcription,
 transcripting->transcription
 transcriptioon->transcription
 transending->transcending
+transer->transfer
 transesxuals->transsexuals
 transexuals->transsexuals
 transexual->transsexual
@@ -45868,6 +45871,7 @@ usuallyy->usually
 usualy->usually
 usuatty->usually
 ususally->usually
+utilies->utilities
 utilties->utilities
 utilty->utility
 uttimately->ultimately

@@ -43,6 +43,7 @@ bestägtigen->bestätigen
 Bewerbungfotos->Bewerbungsfotos
 Bewerbunggespräche->Bewerbungsgespräche
 Billiard->Billard
+git->gibt
 binaer->binär
 bischen->bisschen
 Bisquit->Biskuit
