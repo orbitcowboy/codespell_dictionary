@@ -13552,6 +13552,7 @@ desigining->designing
 designn->design
 designned->designed
 designninng->designing
+designrules->design rules
 desiiccated->desiccated
 desiign->design
 desiigned->designed
@@ -29344,6 +29345,7 @@ necessarity->necessarily
 necessarrily->necessarily
 necessarry->necessary
 necessaryy->necessary
+necesseray->necessary
 necessiate->necessitate
 necessiates->necessitates
 necessiitate->necessitate
@@ -40581,6 +40583,7 @@ spreadd->spread
 spreaded->spread
 spreaed->spread
 sprech->speech
+spredsheet->spreadsheet
 spred->spread
 spreead->spread
 spriritual->spiritual
@@ -41368,6 +41371,7 @@ structureal->structural
 structuredd->structured
 structureed->structured
 structuree->structure
+structur->structure
 strucutred->structured
 strucutre->structure
 strucuture->structure
@@ -41865,6 +41869,7 @@ successorr->successor
 successro->successor
 succes->success
 successully->successfully
+succsesfull->successful
 succsessfull->successful
 succsess->success
 suceeded->succeeded
@@ -46272,6 +46277,7 @@ veriffication->verification
 veriffy->verify
 verificaation->verification
 verificaetion->verification
+verificaion->verification
 verificalion->verification
 verificathion->verification
 verificatin->verification
