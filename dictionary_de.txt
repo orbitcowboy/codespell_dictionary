@@ -231,6 +231,7 @@ neuseten->neuesten
 nichts desto trotz->nichtsdestotrotz
 nießen->niesen
 Noitz->Notiz
+Nomenklartur->Nomenklatur
 notewendige->notwendige
 numerierrung->nummerierung
 Obulus->Obolus

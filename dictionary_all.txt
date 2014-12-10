@@ -10037,6 +10037,7 @@ confidenttial->confidential
 confidenttially->confidentially
 confidess->confides
 confids->confides
+confiermed->confirmed
 configgurable->configurable
 configguration->configuration
 configgure->configure
@@ -31452,6 +31453,7 @@ pamphlett->pamphlet
 pamphllet->pamphlet
 pamphtet->pamphlet
 pamplet->pamphlet
+panding->pending
 panlomime->pantomime
 panntomime->pantomime
 panthomime->pantomime
@@ -43058,6 +43060,7 @@ tendenciies->tendencies
 tendencyy->tendency
 tendenkies->tendencies
 tendenky->tendency
+TendMirco->TrendMicro
 tength->length
 tengthy->lengthy
 tenis player->tennis player
