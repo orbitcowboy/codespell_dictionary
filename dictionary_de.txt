@@ -69,6 +69,7 @@ Diphterie->Diphtherie
 Diplomanten->Diplomanden
 Disaster->Desaster
 dne->den
+Documents->Dokuments
 dokumentes->dokuments
 draussen->draußen
 duch->durch
@@ -251,6 +252,7 @@ Potenzreihintegrator->Potenzreihenintegrator
 prakmatisch->pragmatisch
 Praktikas->Praktika
 prinizpiell->prinzipiell
+processes->Prozessen
 Proffessor->Professor
 profozieren->provozieren
 Program->Programm
@@ -334,6 +336,7 @@ Tipp->Tip
 togglen->toggeln
 totlangweilig->todlangweilig
 totschick->todschick
+Übergangskriteren->Übergangskriterien
 unentgeldlich->unentgeltlich
 unverholen->unverhohlen
 ursprünglcih->ursprünglich

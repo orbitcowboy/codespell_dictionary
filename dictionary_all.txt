@@ -13876,6 +13876,7 @@ develope->develop
 developement->development
 developerrs->developers
 developerss->developers
+developes->develops
 developmement->development
 developmenl->development
 developmennt->development
@@ -16033,6 +16034,7 @@ elphant->elephant
 elsse->else
 emaanaated->emanated
 emaanaate->emanate
+emabaroged->embargoed
 emaenaeted->emanated
 emaenaete->emanate
 emanaled->emanated
@@ -19124,6 +19126,7 @@ fortties->forties
 fortty->forty
 fortunatly->fortunately
 fortyy->forty
+forula->formula
 forunner->forerunner
 forwaard->forward
 forwaerd->forward
@@ -30321,6 +30324,7 @@ occccurrencces->occurrences
 occccurring->occurring
 occccurs->occurs
 occopy->occupy
+occording->according
 occourence->occurrence
 occour->occur
 occtahedral->octahedral
