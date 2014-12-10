@@ -24185,7 +24185,6 @@ intented->indented
 intented->intended
 intented->intended, indented
 intented->intended, indented,
-intent->intend
 intentned->intended
 intepretation->interpretation
 intepretator->interpretor
