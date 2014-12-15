@@ -724,7 +724,6 @@ accessiion->accession
 accessinge->accessing
 accessionn->accession
 accessioon->accession
-accessor->accessors
 accessss->access
 accessssible->accessible
 accessssion->accession
@@ -34843,7 +34842,6 @@ proportionall->proportional
 proportionat->proportional
 proportionnal->proportional
 proportionns->proportions
-proportion->proposition
 proportionss->proportions
 proporttional->proportional
 proporttions->proportions

@@ -8,7 +8,6 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-jeweiligen Projekt->jeweiligen Projekts
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -179,6 +178,7 @@ jagd->jagt
 Jagt->Jagd
 Jahnuar->Januar
 jederman->jedermann
+jeweiligen Projekt->jeweiligen Projekts
 Kandarre->Kandare
 Kecks->Keks
 Kenntisse->Kenntnisse
