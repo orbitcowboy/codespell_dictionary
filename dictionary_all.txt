@@ -2961,6 +2961,7 @@ allll-time->all-time
 allllusion->allusion
 alllow->allow
 allmost->almost
+alloction->allocation
 allogelher->altogether
 allolled->allotted
 allolted->allotted
@@ -8599,6 +8600,7 @@ chnage->change
 chnaged->changed
 chnaging->changing
 choaking->choking
+choeses->choses
 choise->choice
 choosed->chose
 choosed->chose, chosen,
@@ -20197,6 +20199,7 @@ guaranteeee->guarantee
 guaranteeees->guarantees
 guaranteess->guarantees
 guarante->guarantee
+guarante's->guarantees
 guarantes->guarantees
 guarantheed->guaranteed
 guaranthee->guarantee
@@ -20688,6 +20691,7 @@ heaving->having
 heavve->heave
 heavviest->heaviest
 heavy weight->heavyweight
+hecked->checked
 heeadquarteereed->headquartered
 heeadquarteer->headquarter
 heeadquarteers->headquarters
@@ -21533,6 +21537,7 @@ Hypper Threading->Hyper Threading
 hyppocrisy->hypocrisy
 hyppocrite->hypocrite
 hyppocrites->hypocrites
+hypthetical->hypothetical
 hysical->physical
 hyydrogen->hydrogen
 hyydrophile->hydrophile
@@ -26756,6 +26761,7 @@ magazinae->magazine
 magazinee->magazine
 magazinne->magazine
 magazzine->magazine
+Magdelena->Magdalena
 maggazine->magazine
 maggician->magician
 maggnificent->magnificent
@@ -28842,6 +28848,7 @@ Mroissette->Morissette
 mrooccan->moroccan
 mroocco->morocco
 mrotgage->mortgage
+Mrtin->Martin
 msiing->missing
 muccous->mucous
 mucoous->mucous
@@ -32206,6 +32213,7 @@ personel->personnel, personal,
 personmel->personnel
 personnality->personality
 personnal->personal
+personnaly->personally
 personnell->personnel
 personnet->personnel
 personnnnel->personnel
@@ -34516,6 +34524,7 @@ programmablee->programmable
 programmablle->programmable
 programmabte->programmable
 programmaticaly->programmatically
+programmmer->programmer
 programmmmable->programmable
 programm->program
 programm's->program's
@@ -34987,6 +34996,7 @@ provideers->providers
 providees->provides
 provideing->providing
 providess->provides
+provied->provide
 provied->provided
 provies->provides
 proviided->provided
@@ -45300,6 +45310,7 @@ uninterruppted->uninterrupted
 uninterruptedd->uninterrupted
 uninterupted->uninterrupted
 unintherrupthed->uninterrupted
+unintialized->uninitialized
 unintterruptted->uninterrupted
 uniqe->unique
 uniq->unique
