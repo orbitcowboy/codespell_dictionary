@@ -925,6 +925,7 @@ accorddingly->accordingly
 accorddion->accordion
 accordeon->accordion
 accordian->accordion
+accordignly->accordingly
 accordiing->according
 accordiingly->accordingly
 accordiion->accordion
@@ -1016,6 +1017,7 @@ accuustom->accustom
 accuustomed->accustomed
 acedemic->academic
 aceleration->acceleration
+acending->ascending
 acenstral->ancestral
 aceptable->acceptable
 acept->accept
@@ -2844,6 +2846,7 @@ alientating->alienating
 aliggn->align
 aliggned->aligned
 aliggnment->alignment
+aligment->alignment
 aligmment->alignment
 alignaed->aligned
 alignedd->aligned
@@ -3735,6 +3738,7 @@ aparttmentts->apartments
 apealing->appealing
 apearance->appearance
 apearances->appearances
+apect->aspect
 apeenninees->apennines
 Apeenninees->Apennines
 apemmines->apennines
@@ -4714,6 +4718,7 @@ assemblle->assemble
 assembte->assemble
 assemmble->assemble
 assemple->assemble
+asserion->assertion
 asserlion->assertion
 asserrtion->assertion
 assertation->assertion
@@ -8192,6 +8197,7 @@ cententenial->centennial
 centhennial->centennial
 centhuries->centuries
 centhury->century
+centred->centered
 centruies->centuries
 centruy->century
 centtennial->centennial
@@ -11459,6 +11465,8 @@ coordinatte->coordinate
 coordinattion->coordination
 coordinnate->coordinate
 coordinnationn->coordination
+coordins->coordinates
+coords->coordinates
 coorperation->cooperation
 coorperation->cooperation, corporation
 coorperation->cooperation, corporation,
@@ -13481,6 +13489,7 @@ descendanth->descendant
 descendanths->descendants
 descendantt->descendant
 descendantts->descendants
+descendent->descendant
 descendents->descendants
 descenndannt->descendant
 descenndannts->descendants
@@ -15381,6 +15390,7 @@ dyiing->dying
 dyingg->dying
 dyinng->dying
 dynamicaly->dynamically
+dynamiccaly->dynamically
 dynamicly->dynamically
 dystroy->destroy
 dyyeing->dyeing
@@ -16737,6 +16747,7 @@ enumerabte->enumerable
 enumeraeble->enumerable
 enumerrable->enumerable
 enummerable->enumerable
+enumrating->enumerating
 enuumerable->enumerable
 enveironmental->environmental
 enveironmentalist->environmentalist
@@ -16991,6 +17002,7 @@ eruupted->erupted
 esence->essence
 esential->essential
 esentially->essentially
+esists->exists
 esitablished->established
 esitablishes->establishes
 esitablishing->establishing
@@ -18655,7 +18667,6 @@ file-name->filename
 file-names->filenames
 filess->files
 filessysstem->filesystem
-filestream->file stream
 filesysitem->filesystem
 filesyslem->filesystem
 filesystemm->filesystem
@@ -24554,6 +24565,7 @@ inumerable->innumerable
 invaentor->inventor
 invaertaebrataes->invertebrates
 invaestigatae->investigate
+invalide->invalid
 inveentor->inventor
 inveertebrates->invertebrates
 inveerteebratees->invertebrates
@@ -25900,6 +25912,7 @@ levvitated->levitated
 levvitate->levitate
 levvitates->levitates
 levvitating->levitating
+leyer->layer
 lhal's->that's
 lhal->that
 lhan->than
@@ -26805,6 +26818,7 @@ maiintaiined->maintained
 maiintaiiniing->maintaining
 maiintenance->maintenance
 mailny->mainly
+mainain->maintain
 mainlained->maintained
 mainlaining->maintaining
 mainlenance->maintenance
@@ -31174,6 +31188,8 @@ over lhere->over there
 overlow->overflow
 overridddden->overridden
 overriddenn->overridden
+overrided->overridden
+overrided->overrides
 overriden->overridden
 overriidden->overridden
 overrrridden->overridden
@@ -35880,7 +35896,6 @@ readmissioon->readmission
 readmissssion->readmission
 readmition->readmission
 readmmission->readmission
-readonly->read only
 reaeched->reached
 reaeching->reaching
 reaedmission->readmission
@@ -36685,6 +36700,7 @@ regitsers->registers
 regluar->regular
 regsion->region
 regsiter->register
+reguardless->regardless
 reguarly->regularly
 regulaarly->regularly
 regulaar->regular
@@ -37142,6 +37158,7 @@ repertoiire->repertoire
 repertooire->repertoire
 reperttoire->repertoire
 repeteadly->repeatedly
+repetetive->repetitive
 repethithion->repetition
 repetiitiion->repetition
 repetion->repetition
@@ -37487,6 +37504,7 @@ reslricled->restricted
 reson->reason
 resonsible->responsible
 resoources->resources
+resotred->restored
 resouce->resource
 resourcces->resources
 resourkes->resources
@@ -39317,6 +39335,7 @@ shippingg->shipping
 shippinng->shipping
 shipppped->shipped
 shipppping->shipping
+shold->should
 shoopkeepers->shopkeepers
 shoortly->shortly
 shoort while->short while
@@ -39412,6 +39431,7 @@ shoulld not have happened->should not have happened
 shoulld not have->should not have
 shoulldn't->shouldn't
 shoulld->should
+shoult->should
 shoutd have->should have
 shoutd not have happened->should not have happened
 shoutd not have->should not have
@@ -40601,6 +40621,7 @@ spreaad->spread
 spreadd->spread
 spreaded->spread
 spreaed->spread
+spreasheet->spreadsheet
 sprech->speech
 spredsheet->spreadsheet
 spred->spread
@@ -42906,6 +42927,7 @@ tean->lean
 tearn->learn
 tearns->learns
 teater->theater
+te be->to be
 tecchniccians->technicians
 tecchniccian->technician
 tecchniques->techniques
