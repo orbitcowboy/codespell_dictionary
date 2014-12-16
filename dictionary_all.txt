@@ -10110,6 +10110,7 @@ congressionat->congressional
 congressssional->congressional
 congrratulations->congratulations
 congrressional->congressional
+conits->consits
 conived->connived
 conjaecturae->conjecture
 conjeclure->conjecture
@@ -19091,6 +19092,7 @@ formmerly->formerly
 formm->form
 formmidable->formidable
 formost->foremost
+fornating->formating
 forntier->frontier
 forrbade->forbade
 forrbidden->forbidden
@@ -24222,10 +24224,12 @@ interchaangeaable->interchangeable
 interchaangeaably->interchangeably
 interchaengeaeble->interchangeable
 interchaengeaebly->interchangeably
+interchangability->interchangeability
 interchangable->interchangeable
 interchangably->interchangeably
 interchangaeble->interchangeable
 interchangaebly->interchangeably
+interchangbility->interchangeability
 interchangeabble->interchangeable
 interchangeabbly->interchangeably
 interchangeablle->interchangeable
@@ -29339,6 +29343,7 @@ neccessaryy->neccessary
 neccessitate->necessitate
 neccessities->necessities
 neccessssary->neccessary
+neceassary->necessary
 necesarily->necessarily
 necesary->necessary
 necesitate->necessitate
@@ -36641,6 +36646,7 @@ regardlessss->regardless
 regardlless->regardless
 regardss->regards
 regardtess->regardless
+regestry->registry
 regexs->regexes
 reggardless->regardless
 reggards->regards
@@ -43811,6 +43817,7 @@ toleerancee->tolerance
 toleraance->tolerance
 toleraence->tolerance
 tolerancce->tolerance
+toleranc->tolerance
 toleranke->tolerance
 tolerannce->tolerance
 tolerence->tolerance

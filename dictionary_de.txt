@@ -31,6 +31,7 @@ Ausstatting->Ausstattung
 authorisieren->autorisieren
 authorisiert->autorisiert
 Authorisierung->Autorisierung
+autoamzisch->automatisch
 Avionk->Avionik
 beeendet->beendet
 befel->befehl
@@ -271,6 +272,7 @@ rauh->rau
 Rechts-klick->Rechtsklick
 Reflektion->Reflexion
 regestrieren->registrieren
+Regestry->Registry
 Religiösität->Religiosität
 reperatur->Reparatur
 Reperatur->Reparatur
