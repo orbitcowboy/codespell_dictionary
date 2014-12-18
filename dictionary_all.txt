@@ -7219,6 +7219,7 @@ campains->campaigns
 camppaign->campaign
 camppaigns->campaigns
 cancelation->cancellation
+cancelled->canceled
 candadate->candidate
 canddiddate->candidate
 canddiddates->candidates
@@ -10884,6 +10885,7 @@ contempporary->contemporary
 contemproaneous->contemporaneous
 contemproaries->contemporaries
 contemproary->contemporary
+conten->content
 contendder->contender
 contenderr->contender
 contendor->contender
@@ -11466,7 +11468,6 @@ coordinattion->coordination
 coordinnate->coordinate
 coordinnationn->coordination
 coordins->coordinates
-coords->coordinates
 coorperation->cooperation
 coorperation->cooperation, corporation
 coorperation->cooperation, corporation,
@@ -18046,6 +18047,7 @@ extraordiinary->extraordinary
 extraordinarilly->extraordinarily
 extraordinarilyy->extraordinarily
 extraordinarity->extraordinarily
+extraordinarly->extraordinarily
 extraordinaryy->extraordinary
 extraordinnarily->extraordinarily
 extraordinnary->extraordinary
@@ -28541,6 +28543,7 @@ modifiablee->modifiable
 modifiablle->modifiable
 modifiabte->modifiable
 modifiaeble->modifiable
+modifiedable->modifiable
 modifiing->modifying
 modifing->modifying
 modifiying->modifying
@@ -33902,6 +33905,7 @@ preerogativee->prerogative
 preeseencee->presence
 preeseervee->preserve
 preesideential->presidential
+preessed->pressed
 preestigious->prestigious
 preesumably->presumably
 preevaleent->prevalent
@@ -35634,6 +35638,7 @@ radioactivve->radioactive
 radioacttive->radioactive
 radioaktive->radioactive
 radiooactive->radioactive
+radnom->random
 raeachaed->reached
 raeaching->reaching
 raeadmission->readmission
