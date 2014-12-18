@@ -1705,7 +1705,6 @@ advertissementss->advertisements
 adverttisementt->advertisement
 adverttisementts->advertisements
 advesary->adversary
-advice->advise
 adviced->advised
 adviised->advised
 advisaed->advised
@@ -10763,7 +10762,6 @@ constituution->constitution
 constraaints->constraints
 constraeints->constraints
 constraiints->constraints
-constrains->constraints
 constrainst->constraints
 constrraints->constraints
 constrruction->construction
@@ -25868,6 +25866,7 @@ letal->lethal
 lethaal->lethal
 lethael->lethal
 lethhal->lethal
+leting->letting
 letthal->lethal
 leutenant->lieutenant
 leveel->level
@@ -29373,6 +29372,7 @@ necessariily->necessarily
 necessarilly->necessarily
 necessarilyy->necessarily
 necessarity->necessarily
+necessarly->necessary
 necessarrily->necessarily
 necessarry->necessary
 necessaryy->necessary
@@ -32337,6 +32337,7 @@ phaenomaenon->phenomenon
 phaeraeoh->pharaoh
 Phaeraeoh->Pharaoh
 phaeromonae->pheromone
+phantasy->fantasy
 pharaooh->pharaoh
 Pharaooh->Pharaoh
 pharoah->pharaoh
@@ -34580,6 +34581,7 @@ prohibitionn->prohibition
 prohibittion->prohibition
 prohiibiitiion->prohibition
 projcedure->procedure
+project->projet
 projetcs->projects
 prokedure->procedure
 prokedures->procedures
@@ -36694,6 +36696,7 @@ registeredd->registered
 registhered->registered
 registher->register
 registhers->registers
+registrated->registered
 registred->registered
 registrs->registers
 registtered->registered
@@ -36774,6 +36777,7 @@ reinfroced->reinforced
 reinkarnation->reincarnation
 reinncarnnationn->reincarnation
 reinnforced->reinforced
+reizing->resizing
 rekall->recall
 rekeded->receded
 rekeding->receding
@@ -41404,6 +41408,7 @@ strruggling->struggling
 strucctural->structural
 strucctured->structured
 struccture->structure
+structed->structured
 structual->structural
 structude->structured
 structuraal->structural
@@ -47199,6 +47204,7 @@ windos->windows
 Window 7->Windows 7
 Windows Sever->Windows Server
 Windwos->Windows
+winsows->windows
 wioth->with
 wirting->writing
 witdrawal->withdrawal

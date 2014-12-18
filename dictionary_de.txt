@@ -367,6 +367,7 @@ wiederrum->wiederum
 Wiedersacher->Widersacher
 wiederspiegeln->widerspiegeln
 wiederspinstig->widerspenstig
+Winsows->Windows
 witmen->widmen
 Wod->Word
 ziffernblatt->zifferblatt
