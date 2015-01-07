@@ -2823,6 +2823,7 @@ algoritthm->algorithm
 algoritthms->algorithms
 algorrithm->algorithm
 algorrithms->algorithms
+algorthims->algorithm
 algroithm->algorithm
 algroithms->algorithms
 alguebraic->algebraic
@@ -13767,6 +13768,7 @@ detatched->detached
 detecct->detect
 detegates->delegates
 detekt->detect
+detemine->determine
 deteoriated->deteriorated
 deteremined->determined
 deteriate->deteriorate
@@ -15375,6 +15377,7 @@ durig->during
 duriing->during
 duringg->during
 durinng->during
+durning->during
 durring->during
 duting->during
 duuplicate->duplicate
@@ -17838,6 +17841,7 @@ experriment->experiment
 experriments->experiments
 expet->expel
 expets->expels
+expext->expect
 expiditions->expeditions
 expierence->experience
 expirimental->experimental
@@ -18694,6 +18698,7 @@ finalizee->finalize
 finalizze->finalize
 finallize->finalize
 finalllly->finally
+finallly->finally
 finallyy->finally
 finaly->finally
 financcial->financial
@@ -18884,6 +18889,7 @@ followwing->following
 follwing->following
 follwoing->following
 folowing->following
+folr->for
 Fomaalhaaut->Fomalhaut
 Fomaelhaeut->Fomalhaut
 Fomalhaul->Fomalhaut
@@ -19343,6 +19349,7 @@ fullfill->fulfill
 fullfilllled->fulfilled
 fullfillll->fulfill
 full-proof->foolproof
+funcation->function
 funcction->function
 funcctioning->functioning
 funcional->functional
@@ -28023,6 +28030,7 @@ millipeedee->millipede
 millippede->millipede
 milli second->millisecond
 milli seconds->milliseconds
+millisecs->milliseconds
 millitary->military
 millllenniallism->millennialism
 millllenniall->millennial
@@ -33329,6 +33337,7 @@ powerrful->powerful
 powerr->power
 powwerful->powerful
 powwer->power
+poxy->proxy
 ppadding->padding
 ppageant->pageant
 ppaid->paid
@@ -39734,6 +39743,7 @@ sinc ethe->since the
 since thhe->since the
 since tthe->since the
 sinees->sines
+singe->single
 singgsongg->singsong
 singsog->singsong
 singsoong->singsong
