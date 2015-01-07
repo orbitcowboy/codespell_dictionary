@@ -27635,6 +27635,7 @@ menthally->mentally
 menthioned->mentioned
 mentiioned->mentioned
 mentionedd->mentioned
+mentionend->mentioned
 mentionned->mentioned
 mentiooned->mentioned
 menttally->mentally
@@ -37543,6 +37544,7 @@ respoding->responding
 responce->response
 responese->response
 responibilities->responsibilities
+responibilitys->responsibilities
 responisble->responsible
 responnse->response
 responnses->responses
