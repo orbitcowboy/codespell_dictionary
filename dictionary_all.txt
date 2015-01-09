@@ -1280,6 +1280,7 @@ activitiaes->activities
 activitiees->activities
 activitiess->activities
 activly->actively
+activte->activity
 activties->activities
 activvate->activate
 activvated->activated
@@ -7216,6 +7217,7 @@ campaiign->campaign
 campaiigns->campaigns
 campain->campaign
 campains->campaigns
+campared->compared
 camppaign->campaign
 camppaigns->campaigns
 cancelation->cancellation
@@ -13766,6 +13768,7 @@ detaited->detailed
 detakhed->detached
 detatched->detached
 detecct->detect
+deteced->detected
 detegates->delegates
 detekt->detect
 detemine->determine
@@ -31697,6 +31700,7 @@ partiicular->particular
 partikipants->participants
 partikularly->particularly
 partikular->particular
+partioning->partitioning
 partipants->participants
 partititions->partitions
 parttially->partially
@@ -46355,6 +46359,7 @@ verifikation->verification
 verifing->verifying
 verifiy->verify
 verifyable->verifiable
+verifyed->verified
 verifyy->verify
 veriifiicatiion->verification
 veriify->verify
