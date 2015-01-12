@@ -3051,6 +3051,7 @@ almots->almost
 almsot->almost
 alochol->alcohol
 al of->all of
+alogrithm->algorithm
 a lol->a lot
 alomost->almost
 alomst->almost
@@ -3898,6 +3899,7 @@ appologetics->apologetics
 appologies->apologies
 appology->apology
 apporaches->approaches
+apporopriate->appropriate
 apporpriate->appropriate
 apporpriately->appropriately
 apporpriateness->appropriateness
@@ -17616,6 +17618,7 @@ exercciser->exerciser
 exerccises->exercises
 exerccising->exercising
 exercices->exercises
+exerciesed->exercised
 exerciese->exercises
 exerciise->exercise
 exerciiser->exerciser
@@ -22545,6 +22548,7 @@ inaddequate->inadequate
 inaddvertent->inadvertent
 inaddvertently->inadvertently
 inadeequatee->inadequate
+inadepate->inadequate
 inadeqquate->inadequate
 inadequale->inadequate
 inadequathe->inadequate
@@ -27494,6 +27498,7 @@ medditerranean->mediterranean
 Medditerranean->Mediterranean
 medeival->medieval
 medevial->medieval
+medhod->method
 mediccine->medicine
 medicciny->mediciny
 mediciney->mediciny
