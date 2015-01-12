@@ -21076,6 +21076,7 @@ highwaay->highway
 highwaey->highway
 highwayy->highway
 highwway->highway
+hig-level->high-level
 higlight->highlight
 higligting->highlighting
 higliting->highlighting
@@ -24592,6 +24593,7 @@ inveocation->invocation
 inveolveement->involvement
 inverlebrales->invertebrates
 inverrtebrrates->invertebrates
+inversing->inverting
 invertebbrates->invertebrates
 invertebraates->invertebrates
 invertebraetes->invertebrates
@@ -31197,6 +31199,7 @@ oveerwhelming->overwhelming
 over head->overhead
 over htere->over there
 overidden->overridden
+overides->overrides
 overiding->overriding
 overlapps->overlaps
 over lhere->over there
@@ -36168,6 +36171,7 @@ recomending->recommending
 recomend->recommend
 recomends->recommends
 recommaissance->reconnaissance
+recommandation->recommendation
 recommedations->recommendations
 recommeded->recommended
 recommendaations->recommendations
@@ -41133,6 +41137,8 @@ staticly->statically
 statiion->station
 stationn->station
 statioon->station
+statisfied->satisfied
+statisfy->satisfy
 statments->statements
 statment->statement
 staughterhouses->slaughterhouses
@@ -44068,6 +44074,7 @@ traansportaation->transportation
 traanssexuaals->transsexuals
 traanssexuaal->transsexual
 tracability->traceability
+tracabillity->traceability
 tracaeability->traceability
 tracaebility->traceability
 tracceability->traceability
@@ -46222,6 +46229,7 @@ veariety->variety
 vearying->varying
 veassals->vassals
 veassal->vassal
+vectorizarion->vectorization
 veegeetablees->vegetables
 veegeetablee->vegetable
 veegeetarian->vegetarian
