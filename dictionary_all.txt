@@ -2664,6 +2664,7 @@ aiirborne->airborne
 aiircraft->aircraft
 aiirport->airport
 aiirports->airports
+a internal->an internal
 aiport->airport
 airbborne->airborne
 airboorne->airborne
