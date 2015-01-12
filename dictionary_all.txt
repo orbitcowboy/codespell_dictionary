@@ -4465,6 +4465,7 @@ arrchitecturrally->architecturally
 arrchitecturre->architecture
 arrchitecturres->architectures
 arrchived->archived
+arrea->area
 arreesteed->arrested
 arrengement->arrangement
 arrengements->arrangements
@@ -11982,6 +11983,7 @@ critaeria->criteria
 critaerion->criterion
 criteeria->criteria
 criteerion->criterion
+critera->criteria
 critereon->criterion
 criteriaa->criteria
 criteriae->criteria
@@ -44285,6 +44287,7 @@ transfromation->transformation
 transfromed->transformed
 transfrom->transform
 transiitiion->transition
+transistions->transitions
 transistion->transition
 transitioon->transition
 transkeiver->transceiver
