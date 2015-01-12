@@ -17553,6 +17553,8 @@ execcute->execute
 execcutes->executes
 execcuting->executing
 execcution->execution
+exeception->exception
+execeptions->exceptions
 execising->exercising
 exection->execution
 exectuable->executable
@@ -42889,6 +42891,8 @@ taltoos->tattoos
 taltoo->tattoo
 tanguage->language
 tanguages->languages
+tansients->transients
+tansient->transient
 targaetaed->targeted
 targaeting->targeting
 targeeteed->targeted
