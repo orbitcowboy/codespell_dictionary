@@ -4857,6 +4857,7 @@ assummes->assumes
 assumming->assuming
 assumpted->assumed
 assumtion->assumption
+assurence->assurance
 assuume->assume
 assuumed->assumed
 assuuming->assuming
@@ -8274,6 +8275,7 @@ certanly->certainly
 certhain->certain
 certhainthy->certainty
 certian->certain
+certifcation->certification
 certificaiton->certification
 certtain->certain
 certtaintty->certainty
@@ -11699,6 +11701,7 @@ corrrresponding->corresponding
 corrrresponds->corresponds
 corrrridorrs->corridors
 corrrrosion->corrosion
+corrsponding->corresponding
 corruptable->corruptible
 coruse->course
 corwn->crown
@@ -15114,6 +15117,7 @@ documenttattion->documentation
 documentt->document
 documentted->documented
 documentts->documents
+documetnation->documentation
 docummentary->documentary
 docummentation->documentation
 documment->document
@@ -24192,6 +24196,7 @@ integraeted->integrated
 integraetion->integration
 integratedd->integrated
 integratioon->integration
+integratl->integral
 integrrated->integrated
 integrration->integration
 integuer->integer
@@ -27635,6 +27640,7 @@ memroable->memorable
 memroy->memory
 memssaga->message
 menally->mentally
+menas->means
 menataly->mentally
 menlally->mentally
 menlioned->mentioned
@@ -35504,6 +35510,7 @@ quaentity->quantity
 quaeraentine->quarantine
 quaestionablae->questionable
 quaestion->question
+qualifiaction->qualification
 quanlily->quantity
 quanntity->quantity
 quantaty->quantity
@@ -36805,6 +36812,7 @@ reinfroced->reinforced
 reinkarnation->reincarnation
 reinncarnnationn->reincarnation
 reinnforced->reinforced
+reiviews->reviews
 reizing->resizing
 rekall->recall
 rekeded->receded
@@ -40227,6 +40235,7 @@ sotyr->satyr, story,
 sotyr->story
 souce->source
 soucr code->source code
+soucre->source
 soudn->sound
 soudns->sounds
 sougght->sought
@@ -42776,6 +42785,7 @@ systematiically->systematically
 systematikally->systematically
 systemmatically->systematically
 systemm->system
+system system->system
 systhemathically->systematically
 systhem->system
 systtemattically->systematically
