@@ -34614,8 +34614,8 @@ prohibitionn->prohibition
 prohibittion->prohibition
 prohiibiitiion->prohibition
 projcedure->procedure
-project->projet
 projetcs->projects
+projet->project
 prokedure->procedure
 prokedures->procedures
 prokeeded->proceeded
