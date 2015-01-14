@@ -278,6 +278,7 @@ reperatur->Reparatur
 Reperatur->Reparatur
 reperieren->reparieren
 Representation->Repräsentation
+Repzepte->Rezepte
 requiremens->requirements
 resetet->führt einen Reset durch
 resliche->restliche
