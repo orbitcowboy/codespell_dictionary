@@ -31581,6 +31581,7 @@ parameeteers->parameters
 parameler->parameter
 paramelers->parameters
 parameterss->parameters
+parametes->parameters
 paramether->parameter
 paramethers->parameters
 paramet->parameter
@@ -37524,6 +37525,7 @@ resistibte->resistible
 resisttance->resistance
 resisttantt->resistant
 resisttible->resistible
+resitance->resistance
 resitarted->restarted
 resitaurant->restaurant
 resitaurants->restaurants
