@@ -27661,6 +27661,7 @@ mentionned->mentioned
 mentiooned->mentioned
 menttally->mentally
 menttioned->mentioned
+meny->many
 meory->memory
 meranda->Miranda
 meranda->veranda
@@ -37044,6 +37045,7 @@ reminscent->reminiscent
 reminsicent->reminiscent
 remmaining->remaining
 remmant->remnant
+remmebers->remembers
 remmemmber->remember
 remmemmbrance->remembrance
 remminiscent->reminiscent
