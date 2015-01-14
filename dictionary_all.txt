@@ -1261,6 +1261,7 @@ actiivate->activate
 actiivated->activated
 actiively->actively
 actiiviitiies->activities
+actitivities->activities
 activaely->actively
 activatae->activate
 activataed->activated
@@ -8845,6 +8846,7 @@ codaed->coded
 codaespaell->codespell
 coddedd->coded
 coddespell->codespell
+codeand->code and
 codeed->coded
 codeespeell->codespell
 codeing->coding
@@ -10092,6 +10094,7 @@ confiides->confides
 confiigurable->configurable
 confiiguratiion->configuration
 confiigure->configure
+confirguration->configuration
 confirmes by->confirmed by
 confitions->conditions
 confiugre->configure
@@ -13089,6 +13092,7 @@ defiaence->defiance
 defiancce->defiance
 defianke->defiance
 defiannce->defiance
+deficinies->deficiencies
 defiiance->defiance
 defiined as globals->defined as globals
 defiined->defined
@@ -31161,6 +31165,7 @@ ouevre->oeuvre
 oulpulling->outputting
 oulpul->output
 oulslanding->outstanding
+ouptputs->outputs
 ouptuts->outputs
 ouput->output
 ouputs->outputs
@@ -40233,6 +40238,7 @@ sotitoquy->soliloquy
 sotry->story
 sotubte->soluble
 sotving->solving
+sotware->software
 sotyr->satyr
 sotyr->satyr, story
 sotyr->satyr, story,
@@ -46393,6 +46399,7 @@ verificcation->verification
 verifikation->verification
 verifing->verifying
 verifiy->verify
+verifyability->verifiability
 verifyable->verifiable
 verifyed->verified
 verifyy->verify
