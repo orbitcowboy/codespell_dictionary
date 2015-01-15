@@ -4733,6 +4733,7 @@ assertiion->assertion
 assertionn->assertion
 assertioon->assertion
 asserttion->assertion
+assesment->assessment
 ass far->as far
 assian->asian
 asside->aside
@@ -15329,6 +15330,7 @@ dreasm->dreams
 dreeam->dream
 dreeams->dreams
 driectly->directly
+drier->driver
 driink->drink
 drinc->drink
 drinck->drink
