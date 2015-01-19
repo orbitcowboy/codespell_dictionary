@@ -40095,6 +40095,8 @@ soled->solved
 soleely->solely
 solelyy->solely
 soley->solely
+solftare->software
+solftware->software
 soliders->soldiers
 soliiloquy->soliloquy
 soliitary->solitary
@@ -40241,6 +40243,8 @@ sosftware->software
 sotdiers->soldiers
 sotd->sold
 sotety->solely
+sotflware->software
+sotftare->software
 sotftware->software
 sotitary->solitary
 sotitoquy->soliloquy
