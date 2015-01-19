@@ -5890,6 +5890,7 @@ beautitful->beautiful
 beauttiful->beautiful
 beautyfull->beautiful
 beauutifuul->beautiful
+be be->be
 becaame->became
 becaause->because
 becaeme->became
@@ -8279,6 +8280,7 @@ certhainthy->certainty
 certian->certain
 certifcation->certification
 certificaiton->certification
+certificatin->certification
 certtain->certain
 certtaintty->certainty
 cerveical->cervical
@@ -10100,6 +10102,7 @@ confirmes by->confirmed by
 confitions->conditions
 confiugre->configure
 conflusion->conclusion
+conformane->conformance
 conform->confirm
 conformm->conform
 conforrm->conform
@@ -12281,6 +12284,7 @@ cygin->cygwin
 cygwiin->cygwin
 cygwinn->cygwin
 cygwwin->cygwin
+cylce->cycle
 cyliinder->cylinder
 cylindaer->cylinder
 cylindder->cylinder
@@ -13529,6 +13533,7 @@ descriibiing->describing
 descriiptiion->description
 descriiptor->descriptor
 descriiptors->descriptors
+descriped->described
 descripition->description
 descriplion->description
 descriplor->descriptor
@@ -21684,6 +21689,7 @@ ideooloogy->ideology
 ideosyncratic->idiosyncratic
 ideotogies->ideologies
 ideotogy->ideology
+idependence->independence
 idesa->ideas
 idesa->ideas, ides
 idesa->ideas, ides,
@@ -29849,6 +29855,7 @@ nnutriennt->nutrient
 nnutriennts->nutrients
 noatation->notation
 no body->nobody
+nodifiable->modifiable
 nolable->notable
 nolably->notably
 noliceable->noticeable
@@ -41971,6 +41978,7 @@ successoor->successor
 successorr->successor
 successro->successor
 succes->success
+successuflly->successfully
 successully->successfully
 succsesfull->successful
 succsessfull->successful
