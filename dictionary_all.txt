@@ -5679,6 +5679,7 @@ bahviour->behaviour
 baically->basically
 bak->back
 bakc->back
+bakcup->backup
 bakground->background
 bakgrounds->backgrounds
 bakk->back
@@ -8812,6 +8813,7 @@ clok->clock
 clooud->cloud
 cloudd->cloud
 clouud->cloud
+cltr->ctrl
 cmo->com
 cmo->com, disabled due to lots of false positives
 cmoputer->computer
@@ -10960,6 +10962,7 @@ continggent->contingent
 continguent->contingent
 continguous->continuous
 continious->continuous
+continiously->continuously
 continous->continuous
 continously->continuously
 continuaally->continually
@@ -39339,6 +39342,7 @@ shatt be defined global->shall be defined global
 shatt be defined gtobat->shall be defined global
 shatt->shall
 shbould->should
+shcedule->schedule
 sheaath->sheath
 sheaeth->sheath
 sheaht->sheath
