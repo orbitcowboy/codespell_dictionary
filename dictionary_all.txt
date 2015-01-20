@@ -11035,6 +11035,7 @@ contriibutors->contributors
 contritutions->contributions
 controled->controlled
 controler->controller
+controles->controls
 controling->controlling
 controllaed->controlled
 controllaer->controller
@@ -13516,6 +13517,7 @@ descibed->described
 descibing->describing
 desciptions->descriptions
 desciptor->descriptor
+descirbes->describes
 descision->decision
 descisions->decisions
 descktop->desktop
