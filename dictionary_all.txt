@@ -16659,6 +16659,7 @@ ensconsed->ensconced
 enscoonced->ensconced
 enskonked->ensconced
 enssconced->ensconced
+enstimation->estimation
 entaanglements->entanglements
 entaenglements->entanglements
 entaglements->entanglements
@@ -27517,6 +27518,7 @@ Medditerranean->Mediterranean
 medeival->medieval
 medevial->medieval
 medhod->method
+medica->medical
 mediccine->medicine
 medicciny->mediciny
 mediciney->mediciny
@@ -28146,6 +28148,7 @@ Mircosoft->Microsoft
 Mircrosoft->Microsoft
 mirgate->migrate
 mirgration->migration
+miro->micro
 mirored->mirrored
 mirorred->mirrored
 Mirranda->Miranda
@@ -28575,6 +28578,7 @@ moderm->modem
 modess->modes
 modet->model
 modetted->modelled
+modfiable->modifiable
 modfiied->modified
 modifed->modified
 modiffiable->modifiable
@@ -28585,6 +28589,7 @@ modifiablee->modifiable
 modifiablle->modifiable
 modifiabte->modifiable
 modifiaeble->modifiable
+modifiation->modification
 modifiedable->modifiable
 modifiing->modifying
 modifing->modifying
@@ -36634,6 +36639,7 @@ referss->refers
 refer tho->refer to
 refer too->refer to
 refert->refer
+referts->refers
 refer tto->refer to
 refesh->refresh
 reffered->referred
@@ -47190,6 +47196,7 @@ whther->whether
 wht->what
 wiaeldaed->wielded
 wiaeld->wield
+wiat->wait
 wich->which
 wich->which, witch
 widaespraead->widespread
