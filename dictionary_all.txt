@@ -5731,6 +5731,7 @@ basiclly->basically
 basicly->basically
 basiically->basically
 basikally->basically
+basline->baseline
 bassically->basically
 batcch monitor->batch monitor
 batchh monitor->batch monitor
@@ -16665,6 +16666,7 @@ enscoonced->ensconced
 enskonked->ensconced
 enssconced->ensconced
 enstimation->estimation
+ensurs->ensures
 entaanglements->entanglements
 entaenglements->entanglements
 entaglements->entanglements
@@ -17112,6 +17114,7 @@ establishhing->establishing
 establishingg->establishing
 establishinng->establishing
 establising->establishing
+establisthment->establishment
 establlished->established
 establlishes->establishes
 establlishing->establishing
@@ -17580,6 +17583,7 @@ execcution->execution
 exeception->exception
 execeptions->exceptions
 execising->exercising
+Execl->Excel
 exection->execution
 exectuable->executable
 exectued->executed
@@ -22995,6 +22999,7 @@ indentatioon->indentation
 indenthathion->indentation
 indenthed->indented
 indentical->identical
+indentified->identified
 indentifier->identifier
 indentify->identify
 indention->indentation
@@ -37266,6 +37271,7 @@ reportedlly->reportedly
 reportedlyy->reportedly
 reportedty->reportedly
 reporthedly->reportedly
+reportings->reporting
 reporttedly->reportedly
 reposiitory->repository
 reposilory->repository
@@ -45432,6 +45438,7 @@ unintherrupthed->uninterrupted
 unintialized->uninitialized
 unintterruptted->uninterrupted
 uniqe->unique
+uniquly->uniquely
 uniq->unique
 unistalled->uninstalled
 UnitaedStataes->UnitedStates
