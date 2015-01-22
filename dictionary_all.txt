@@ -3614,6 +3614,7 @@ ansalisation->nasalization
 ansalization->nasalization
 anser->answer
 ansestors->ancestors
+an so->and so
 ans so->and so
 ansswered->answered
 answaeraed->answered
@@ -13053,6 +13054,7 @@ defaulth->default
 defaultt->default
 defautt->default
 defauult->default
+defciencies->deficiencies
 defendaant->defendant
 defendaants->defendants
 defendaent->defendant
@@ -13689,6 +13691,7 @@ desppicable->despicable
 desppite->despite
 desribed->described
 desribe->describe
+desribes->describes
 desscendant->descendant
 desscendantss->descendants
 desscribed->described
@@ -17114,6 +17117,7 @@ establishhing->establishing
 establishingg->establishing
 establishinng->establishing
 establising->establishing
+establisthed->established
 establisthment->establishment
 establlished->established
 establlishes->establishes
@@ -36006,6 +36010,7 @@ reall->real
 reallyy->really
 realsied->realized
 realsitic->realistic
+realted->related
 realtion->relation
 realtionship->relationship
 realtions->relations
@@ -37644,6 +37649,7 @@ respoonsibilities->responsibilities
 respoonsibility->responsibility
 respoonsible->responsible
 resposibility->responsibility
+respository->repository
 resppectively->respectively
 respponse->response
 respponses->responses
