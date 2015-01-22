@@ -3900,6 +3900,7 @@ appllications->applications
 appllied->applied
 appologetics->apologetics
 appologies->apologies
+appologize->apologize
 appology->apology
 apporaches->approaches
 apporopriate->appropriate
@@ -9794,6 +9795,7 @@ complier->compiler
 complilation->compilation
 complinace->compliance
 complinance->compliance
+complirs->compilers
 complleted the->completed the
 complletelly->completely
 complletion->completion
@@ -13052,6 +13054,7 @@ defaull->default
 defaullt->default
 defaulth->default
 defaultt->default
+defaut->default
 defautt->default
 defauult->default
 defciencies->deficiencies
@@ -23575,6 +23578,7 @@ initiallizing->initializing
 initialllly->initially
 initiallyy->initially
 initialy->initially
+initialzed->initialized
 initiataed->initiated
 initiatedd->initiated
 initiateed->initiated
@@ -24809,6 +24813,7 @@ is check for->is checked for
 is check that->is checked that
 isince->since
 is is->is
+is is->it is
 isn'l->isn't
 isnn't->isn't
 isn'th->isn't
@@ -38523,6 +38528,7 @@ sanctiooned->sanctioned
 sanctiooning->sanctioning
 sancttioned->sanctioned
 sancttioning->sanctioning
+sandards->standards
 sanddwich->sandwich
 sandwhich->sandwich
 sandwicch->sandwich
@@ -42681,6 +42687,7 @@ syas->says
 sychronously->synchronously
 syetem->system
 syle->style
+symantical->semantical
 symbolfiles->symbol files
 symbolfile->symbol file
 symbo->symbol
@@ -45459,6 +45466,7 @@ UnitesStates->UnitedStates
 UnithedSthathes->UnitedStates
 unitialized ->uninitialized
 unitialized->uninitialized
+unitinitialized->uninitialized
 UnittedSttattes->UnitedStates
 unittests->unit tests
 univaersal->universal
