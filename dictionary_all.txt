@@ -15307,6 +15307,7 @@ draems->dreams
 draeughtsmaen->draughtsman
 Draevidiaen->Dravidian
 draew->draw
+draging->dragging
 draing->drained
 dramalic->dramatic
 dramathic->dramatic
@@ -31829,6 +31830,7 @@ pataentaed->patented
 patcch->patch
 patchh->patch
 patchlet->patch
+patchs->patches
 pateenteed->patented
 patennted->patented
 patentedd->patented
