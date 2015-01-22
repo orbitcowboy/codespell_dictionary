@@ -1102,6 +1102,7 @@ achivements->achievements
 acident->accident
 acidentally->accidentally
 acitivities->activities
+acitivity->activity
 ackknowledged->acknowledged
 ackknowledging->acknowledging
 acknnowledged->acknowledged
@@ -24229,6 +24230,7 @@ integraetion->integration
 integratedd->integrated
 integratioon->integration
 integratl->integral
+integrety->integrity
 integrrated->integrated
 integrration->integration
 integuer->integer
@@ -26896,6 +26898,7 @@ maintaineed->maintained
 maintainence->maintenance
 maintainign->maintaining
 maintainingg->maintaining
+maintainted->maintained
 maintance->maintenance
 mainteenancee->maintenance
 maintenancce->maintenance
@@ -30286,6 +30289,7 @@ obediience->obedience
 obediient->obedient
 obeedieencee->obedience
 obeedieent->obedient
+obejective->objective
 obession->obsession
 obfuscuated->obfuscated
 obfuscuator->obfuscator
@@ -36327,6 +36331,7 @@ record porducer->record producer
 record pproducer->record producer
 recordproducer->record producer
 record produucer->record producer
+recoreded->recorded
 recquired->required
 recraetional->recreational
 recrational->recreational
@@ -37868,6 +37873,7 @@ retrievee->retrieve
 retriev->retrieve
 retrievve->retrieve
 retriieve->retrieve
+retrival->retrieval
 retrived->retrieved
 retrow->re-throw
 retrun->return
