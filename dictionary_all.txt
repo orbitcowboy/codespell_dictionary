@@ -1304,6 +1304,7 @@ acused->accused
 acustom->accustom
 acustomed->accustomed
 acustommed->accustomed
+acutal->actual
 acutally->actually
 adaequatae->adequate
 adapl->adapt
@@ -16933,6 +16934,7 @@ equilibriumm->equilibrium
 equilibrrium->equilibrium
 equilibrum->equilibrium
 equillibrium->equilibrium
+equimpemnet->equipment
 equiped->equipped
 equipement->equipment
 equipmenl->equipment
@@ -24556,6 +24558,7 @@ intsrument->instrument
 intsruments->instruments
 intstall->install
 intstead->instead
+intstructions->instructions
 intteger->integer
 inttegratted->integrated
 inttegrattion->integration
@@ -28952,6 +28955,7 @@ mulilaled->mutilated
 muliple->multiple
 mulitchar->multichar
 mulithread->multi-thread,multi thread
+mulitline->multiline
 mulitple->multiple
 mulitplexer->multiplexer
 mulitplicator->multiplicator
@@ -35037,6 +35041,7 @@ protoccol->protocol
 protocl->protocol
 protocoll->protocol
 protocot->protocol
+protoction->protection
 protoganist->protagonist
 protokoll->protocol
 protokol->protocol
@@ -43915,6 +43920,7 @@ togehter->together
 togeter->together
 togetherr->together
 togethher->together
+togethor->together
 toggeling->toggling
 toggether->together
 togggglingg->toggling
@@ -44168,6 +44174,8 @@ traceabiiliity->traceability
 traceabilityy->traceability
 traceabillity->traceability
 traceabitity->traceability
+traceablilty->traceability
+traceablity->traceability
 traceackbility->traceability
 tracebale->traceable
 tracebility->traceability
