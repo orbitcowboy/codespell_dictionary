@@ -8,7 +8,6 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-foglich->folglich
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -117,6 +116,7 @@ Fehlfuktion->Fehlfunktion
 fesgtgesegtzgt->festgesetzt
 fiel->viel
 fluoriszierend->fluoreszierend
+foglich->folglich
 Forumlar->Fromular
 Fotrderungen->Forderungen
 fröhnen->frönen
