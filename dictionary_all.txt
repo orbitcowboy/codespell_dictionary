@@ -4316,6 +4316,7 @@ archivation->archiving
 archivd->archived
 archivedd->archived
 archiveed->archived
+archivied->archived
 archivved->archived
 archtype->archetype
 archtypes->archetypes
@@ -9901,6 +9902,7 @@ concaernaed->concerned
 concaern->concern
 concaerning->concerning
 concatinate->concatenate
+concatinated->concatenated
 concating->concatenate
 concecptional->conceptual
 conceeiteed->conceited
@@ -16974,6 +16976,7 @@ erally->orally
 erally->orally, really
 erally->orally, really,
 erally->really
+eraseable->erasable
 eratically->erratically
 eratic->erratic
 eraticly->erratically
@@ -20643,6 +20646,7 @@ harrassment->harassment
 harrassments->harassments
 harrdwarre->hardware
 harware->hardware
+harzardous->hazardous
 has has->has
 hasn'l->hasn't
 hasnn't->hasn't
@@ -22366,6 +22370,7 @@ impleemeenteed->implemented
 impleemeent->implement
 impleemeenting->implementing
 implemantation->implementation
+implemenatation->implementation
 implemenlalion->implementation
 implemenled->implemented
 implemenl->implement
@@ -26439,6 +26444,7 @@ llothringen->lothringen
 llove->love
 llying->lying
 lmits->limits
+loadly->loudly
 lo allocale->to allocate
 lobacco->tobacco
 locaal->local
@@ -26899,6 +26905,7 @@ maintainance->maintenance
 maintainedd->maintained
 maintaineed->maintained
 maintainence->maintenance
+maintaines->maintains
 maintainign->maintaining
 maintainingg->maintaining
 maintainted->maintained
@@ -34604,6 +34611,7 @@ profusiion->profusion
 profusionn->profusion
 profussion->profusion
 profuusion->profusion
+progammable->programmable
 progarm->program
 progessed->progressed
 progess->progress
@@ -39442,6 +39450,7 @@ shippingg->shipping
 shippinng->shipping
 shipppped->shipped
 shipppping->shipping
+shoftware->software
 shold->should
 shoopkeepers->shopkeepers
 shoortly->shortly
