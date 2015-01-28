@@ -4739,6 +4739,7 @@ assertionn->assertion
 assertioon->assertion
 asserttion->assertion
 assesment->assessment
+assesst->assessed
 ass far->as far
 assian->asian
 asside->aside
@@ -9595,6 +9596,7 @@ comparabte->comparable
 comparaison->comparison
 comparalive->comparative
 comparalively->comparatively
+comparater->comparator
 comparathive->comparative
 comparathively->comparatively
 comparatiive->comparative
@@ -17647,6 +17649,7 @@ exempth->exempt
 exemptt->exempt
 exensively->extensively
 exepcted->expected
+exepected->expected
 exeperiment->experiment
 exept->except
 exeptional->exceptional
@@ -33410,6 +33413,7 @@ powaer->power
 poweerful->powerful
 poweer->power
 poweful->powerful
+powerded->powered
 powerfful->powerful
 powerfull->powerful
 powerfut->powerful
@@ -41155,6 +41159,7 @@ staatement->statement
 staatesmaan->statesman
 staation->station
 staayed->stayed
+stabalizing->stabilizing
 stabbility->stability
 stabble->stable
 stabiiliity->stability
@@ -47440,6 +47445,7 @@ wordds->words
 wordlwide->worldwide
 wordss->words
 woring->working
+workardound->workaround
 work-around->workaround
 workiing->working
 workingg->working
