@@ -9810,6 +9810,7 @@ componeent->component
 componenl->component
 componenth->component
 componentt->component
+componets->components
 componnennt->component
 compormise->compromise
 comppany->company
@@ -15396,6 +15397,7 @@ dryaes->dryas
 dryass->dryas
 dryyas->dryas
 dstination->destination
+Dtandards->standards
 duble->double
 dublicates->duplicates
 duel->dual
@@ -34977,6 +34979,7 @@ propostion->proposition
 propotions->proportions
 propperly->properly
 propper->proper
+propreitery->proprietary
 proprely->properly
 propriaetary->proprietary
 proprieetary->proprietary
@@ -43080,6 +43083,7 @@ techniciaan->technician
 techniciaens->technicians
 techniciaen->technician
 technicianss->technicians
+technic->technical
 techniiciians->technicians
 techniiciian->technician
 techniiques->techniques
