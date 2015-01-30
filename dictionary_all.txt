@@ -4600,6 +4600,9 @@ ascpects->aspects
 aseembly->assembly
 asemble->assemble
 asertion->assertion
+asesment->assessment
+asessment->assessment
+asesssment->assessment
 asetic->ascetic
 asfar->as far
 as farr->as far
@@ -4823,6 +4826,7 @@ assosication->assassination
 asspectss->aspects
 assphyxiation->asphyxiation
 asssassans->assassins
+asssessment->assessment
 asssignment->assignment
 assssassssin->assassin
 assssassssinate->assassinate
@@ -5332,6 +5336,7 @@ authoritiers->authorities
 authoritiess->authorities
 authoritive->authoritative
 authorityy->authority
+authoriy->authority
 authorr->author
 authorritative->authoritative
 authorrities->authorities
