@@ -10819,6 +10819,7 @@ consttittuentts->constituents
 consttittutted->constituted
 consttittuttional->constitutional
 consttittuttion->constitution
+consttrainsts->constraints
 consttraintts->constraints
 consttruction->construction
 consttructtion->construction
@@ -14011,6 +14012,7 @@ diagrammatik->diagrammatic
 diagrammattic->diagrammatic
 diagramm->diagram
 diagrammmmatic->diagrammatic
+diagramms->diagrams
 diagramnatic->diagrammatic
 diagranmatic->diagrammatic
 diagranm->diagram
@@ -19345,6 +19347,7 @@ froeseeable->foreseeable
 froetelling->foretelling
 froewrod->foreword
 frofeit->forfeit
+fromal->formal
 fromalized->formalized
 fromalize->formalize
 fromally->formally
@@ -37460,6 +37463,7 @@ requred->required
 requrements->requirements
 requre->require
 requriements->requirements
+requriemnets->requirements
 requries->requires
 requrired->required
 requuest->request
