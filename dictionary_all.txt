@@ -7627,6 +7627,7 @@ catapillars->caterpillars
 catapiller->caterpillar
 catapillers->caterpillars
 Catatina->Catalina
+catched->cached
 catcutate->calculate
 catcutated->calculated
 catcutation->calculation
@@ -7661,6 +7662,7 @@ categorrized->categorized
 categorry->category
 categoryy->category
 categroies->categories
+categroization->categorization
 categroize->categorize
 categroized->categorized
 categroy->category
@@ -12525,6 +12527,7 @@ daugther->daughter
 dauub->daub
 dauughter->daughter
 days latter->days later
+dcoument->document
 ddahl->dahl
 ddaiquiri->daiquiri
 ddalmatian->dalmatian
@@ -18059,6 +18062,7 @@ externael->external
 externall->external
 externnal->external
 exterrnal->external
+extesion->extension
 exthanth->extant
 exthension->extension
 exthensions->extensions
@@ -40531,6 +40535,7 @@ speciallized->specialized
 specialy->specially
 speciatised->specialised
 speciatized->specialized
+specieid->specified
 specifc->specific
 specifed->specified
 speciffic->specific
