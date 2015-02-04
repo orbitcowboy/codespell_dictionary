@@ -11552,6 +11552,7 @@ coovered->covered
 cooveted->coveted
 cooy->coy
 coperation->cooperation
+copiable->copyable
 copiler->compiler
 copmetitors->competitors
 copmpiler->compiler
@@ -15171,6 +15172,7 @@ docummentation->documentation
 documment->document
 docummented->documented
 documments->documents
+documnent->document
 documnets->documents
 docuumentary->documentary
 docuumentation->documentation
@@ -18952,6 +18954,7 @@ focusses->focuses
 focuss->focus
 focuus->focus
 foe->for
+fo->for
 fokus->focus
 follllowing->following
 folllowing->following
@@ -20653,7 +20656,6 @@ harassss->harass
 harassssing->harassing
 harassssment->harassment
 harassssmentss->harassments
-hard-coded->hardcoded
 harddware->hardware
 hardwarae->hardware
 hardwaree->hardware
@@ -23162,6 +23164,7 @@ individuats->individuals
 individuatty->individually
 individuually->individually
 individuuals->individuals
+indiviual->individual
 indivvidually->individually
 indivviduals->individuals
 indpendent->independent
@@ -29024,7 +29027,6 @@ multhiplied->multiplied
 multhipliers->multipliers
 multhithhreaded->multithreaded
 multhithhread->multithread
-multibyte->multi byte
 multicculturalism->multiculturalism
 multicultralism->multiculturalism
 multiculturaalism->multiculturalism
@@ -39684,6 +39686,7 @@ signatroy->signatory
 signats->signals
 signattories->signatories
 signattory->signatory
+signes->signs
 signficant->significant
 signficiant->significant
 signfies->signifies
