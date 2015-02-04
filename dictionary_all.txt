@@ -5298,6 +5298,7 @@ Austrralia->Australia
 Austrralian->Australian
 Austtralia->Australia
 Austtralian->Australian
+autenticate->authenticate
 authentification->authentication
 auther->author
 authhor->author
@@ -5628,6 +5629,7 @@ backkward->backward
 backrounds->backgrounds
 backwardd->backward
 backwarrd->backward
+backwords->backwards
 backwward->backward
 baeachhaead->beachhead
 baeautiful->beautiful
@@ -9821,6 +9823,7 @@ componentt->component
 componets->components
 componnennt->component
 compormise->compromise
+compount->compound
 comppany->company
 compparable->comparable
 compparative->comparative
@@ -10890,6 +10893,7 @@ contant->constant
 contant->contact
 contant->contact,constant
 contants->constants
+contatining->containing
 conteemporaneeous->contemporaneous
 conteemporariees->contemporaries
 conteemporary->contemporary
@@ -12223,6 +12227,7 @@ culminatingg->culminating
 culminatting->culminating
 culminnatinng->culminating
 culmminating->culminating
+cultur->culture
 cummulative->cumulative
 cumulaative->cumulative
 cumulaetive->cumulative
@@ -12923,6 +12928,7 @@ decoompoose->decompose
 decoompooses->decomposes
 decoompoosing->decomposing
 decreas->decrease
+decreate->decrease
 decreess->decrees
 decremenlor->decrementor
 decremenntor->decrementor
@@ -13473,6 +13479,7 @@ deram->dram, dream,
 deram->dream
 derectory->directory
 derefencing->dereferencing
+dereferance->dereference
 dereferenccing->dereferencing
 dereferenceable->dereferencable
 dereferenciing->dereferencing
@@ -20604,6 +20611,7 @@ happenn->happen
 happenninng->happening
 happenns->happens
 happenss->happens
+happneds->happens
 happppend->happend
 happppened->happened
 happppen->happen
@@ -22855,6 +22863,7 @@ inconsistaent->inconsistent
 inconsistant->inconsistent
 inconsisteent->inconsistent
 in consistency->inconsistency
+inconsistend->inconsistent
 inconsisten->inconsistent
 inconsisthenth->inconsistent
 inconsisttentt->inconsistent
@@ -24897,6 +24906,7 @@ iteem->item
 iteger->integer
 itegers->integers
 itemm->item
+iteratate->iterate
 Ithaacaa->Ithaca
 Ithacca->Ithaca
 Ithaecae->Ithaca
@@ -25749,6 +25759,7 @@ largesl->largest
 largesst->largest
 largesth->largest
 largestt->largest
+larget->largest
 largets->largest
 largge->large
 larggest->largest
@@ -29758,6 +29769,7 @@ New Yorrkerr->New Yorker
 New Yroker->New Yorker
 nexl->next
 nexth->next
+nexting->nesting
 nextt->next
 nexxt->next
 niaecae->niece
@@ -32697,6 +32709,7 @@ pioneerred->pioneered
 pionered->pioneered
 pionneered->pioneered
 piooneered->pioneered
+pipepline->pipeline
 pitcch->pitch
 pitchh->pitch
 pitgrimage->pilgrimage
@@ -32887,6 +32900,7 @@ pogromss->pogroms
 pogrrom->pogrom
 pogrroms->pogroms
 poiison->poison
+poiner->pointer
 poing->point
 poisin->poison
 poisonn->poison
@@ -36061,6 +36075,7 @@ realtionship->relationship
 realtions->relations
 realyl->really
 realy->really
+reaon->reason
 reasearch->research
 reasonn->reason
 reasoon->reason
@@ -36650,6 +36665,8 @@ refect->reflect
 refedendum->referendum
 refence->reference
 referal->referral
+referance->reference
+referances->references
 referece->reference
 refereces->references
 refered->referred
@@ -37669,6 +37686,7 @@ responnsibility->responsibility
 responnsibilty->responsibility
 responnsible->responsible
 responsability->responsibility
+responsable->responsible
 responsibbilities->responsibilities
 responsibbility->responsibility
 responsibble->responsible
@@ -39299,6 +39317,7 @@ setdom->seldom
 seththing->setting
 seththlementh->settlement
 seting->setting
+setings->settings
 setlement->settlement
 setling->setting
 setllement->settlement
@@ -45566,6 +45585,7 @@ unkertainty->uncertainty
 unkhallengeable->unchallengeable
 unkhangeable->unchangeable
 unkknown->unknown
+unknonw->unknown
 unknoown->unknown
 unknowwn->unknown
 unknwon->unknown
