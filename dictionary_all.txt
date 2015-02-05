@@ -5090,6 +5090,7 @@ atrrocities->atrocities
 atseroid->asteroid
 atso->also
 attache->attached
+attachement->attachment
 attaemptaed->attempted
 attaempt->attempt
 attaempting->attempting
@@ -37478,6 +37479,7 @@ requiremetn->requirement
 requiremetns->requirements
 requiremment->requirement
 requiremments->requirements
+requiremnts->requirements
 requirmeents->requirements
 requirment->requirement
 requirments->requirements
@@ -37490,6 +37492,7 @@ requriemetns->requirements
 requriemnets->requirements
 requries->requires
 requrired->required
+requrirement->requirement
 requuest->request
 requuests->requests
 requuired->required
@@ -44086,6 +44089,7 @@ toolerance->tolerance
 Toolkien->Tolkien
 toomatooes->tomatoes
 toome->tome
+too mich->too much
 too mmuch timme->too much time
 toomoorroow->tomorrow
 too mucch time->too much time
