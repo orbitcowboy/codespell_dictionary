@@ -8791,6 +8791,7 @@ cleear->clear
 cleeareer->clearer
 cleearly->clearly
 cleenex->kleenex
+cleint->client
 clell->cell
 clera->clear
 clera->clear, sclera
@@ -12263,6 +12264,7 @@ currentlyy->currently
 currenttly->currently
 currentty->currently
 currenty->currently
+curretnly->currently
 curriculem->curriculum
 curricullum->curriculum
 curriculumm->curriculum
