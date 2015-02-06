@@ -345,6 +345,7 @@ totschick->todschick
 Übergangskriteren->Übergangskriterien
 unentgeldlich->unentgeltlich
 unverholen->unverhohlen
+unzufireden->unzufrieden
 ursprünglcih->ursprünglich
 Verandstaltung->Veranstaltung
 Verließ->Verlies
