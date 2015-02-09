@@ -7184,6 +7184,7 @@ callcullus->calculus
 callendar->calendar
 callendars->calendars
 callender->calender
+calles->calls
 calliber->caliber
 callibration->calibration
 calliggraphy->calligraphy
@@ -9492,6 +9493,7 @@ commprommise->compromise
 commpulsory->compulsory
 commputer->computer
 commputerized->computerized
+commuication->communication
 commuications->communications
 commuinications->communications
 communcation->communication
@@ -41589,6 +41591,7 @@ structureal->structural
 structuredd->structured
 structureed->structured
 structuree->structure
+structurs->structures
 structur->structure
 strucutred->structured
 strucutre->structure
