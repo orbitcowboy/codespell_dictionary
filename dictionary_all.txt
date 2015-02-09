@@ -1262,6 +1262,7 @@ actiivate->activate
 actiivated->activated
 actiively->actively
 actiiviitiies->activities
+actitivies->activities
 actitivities->activities
 activaely->actively
 activatae->activate
@@ -18964,6 +18965,7 @@ folllowing->following
 followes->follows
 followiing->following
 followingg->following
+followingin->following in
 followinhg->following
 followinng->following
 followwing->following
@@ -37489,9 +37491,12 @@ requqirements->requirements
 requred->required
 requrements->requirements
 requre->require
+requrieed->required
+requrieemtns->requirements
 requriements->requirements
 requriemetns->requirements
 requriemnets->requirements
+requriemtns->requirements
 requries->requires
 requrired->required
 requrirement->requirement
