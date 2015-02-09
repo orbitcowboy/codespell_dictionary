@@ -10897,6 +10897,7 @@ contant->constant
 contant->contact
 contant->contact,constant
 contants->constants
+contast->contrast
 contatining->containing
 conteemporaneeous->contemporaneous
 conteemporariees->contemporaries
@@ -11949,6 +11950,7 @@ covennannt->covenant
 coverae->coverage
 coverage coverage->coverage
 coveredd->covered
+coverered->covered
 coverge->coverage
 coverred->covered
 covert->convert
@@ -30927,6 +30929,7 @@ operaotor->operator
 operater->operator
 operathor->operator
 operatro->operator
+operats->operates
 operattor->operator
 operratorr->operator
 ophhtalmic->ophthalmic
@@ -37493,11 +37496,13 @@ requrements->requirements
 requre->require
 requrieed->required
 requrieemtns->requirements
+requriement->requirement
 requriements->requirements
 requriemetns->requirements
 requriemnets->requirements
 requriemtns->requirements
 requries->requires
+requrimens->requirements
 requrired->required
 requrirement->requirement
 requuest->request
