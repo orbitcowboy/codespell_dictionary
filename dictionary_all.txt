@@ -3886,6 +3886,7 @@ applicationns->applications
 applicationss->applications
 applicatioon->application
 applicatioons->applications
+applicatiosn->applications
 applicatons->applications
 applicattion->application
 applicattions->applications
@@ -19442,6 +19443,7 @@ funcction->function
 funcctioning->functioning
 funcional->functional
 funcion->function
+funcions->functions
 funciontions->functions
 funciton->function
 funcitoning->functioning
@@ -31070,6 +31072,7 @@ opptimism->optimism
 opptimizations->optimizations
 opration->operation
 oprations->operations
+opreation->operation
 opression->oppression
 opressive->oppressive
 opthalmic->ophthalmic
