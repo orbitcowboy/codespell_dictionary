@@ -20701,6 +20701,7 @@ Hattowe'en->Hallowe'en
 Hattoween->Halloween
 havae->have
 havee->have
+have have->have
 haveing->having
 have meen->have been
 havent->haven't
@@ -23936,6 +23937,7 @@ inocuulated->inoculated
 inofficial->unofficial
 inokulated->inoculated
 inooculated->inoculated
+inor->minor
 inot->into
 inpeach->impeach
 inplement->implement
