@@ -12251,6 +12251,7 @@ cumullative->cumulative
 cumutative->cumulative
 curch->church
 curcuit->circuit
+curent->current
 curently->currently
 curiculum->curriculum
 curiiosiity->curiosity
@@ -14128,6 +14129,7 @@ difference betwen->difference between
 difference betwween->difference between
 differencess->differences
 differenciate->differentiate
+differenciations->differentiations
 differenke between->difference between
 differenkes->differences
 differenl->different
@@ -23676,6 +23678,7 @@ inkreased->increased
 inkredible->incredible
 inkrementally->incrementally
 inkunabula->incunabula
+inlcude->include
 inlcuding->including
 inleger->integer
 inlegraled->integrated
@@ -29382,6 +29385,7 @@ nalurally->naturally
 nalural->natural
 namae->name
 namee->name
+nameing->naming
 nameley->namely
 namers->names
 namley->namely
@@ -35527,6 +35531,7 @@ purpossely->purposely
 purpotedly->purportedly
 purprotedly->purportedly
 purpse->purpose
+purpsoe->purpose
 purrchasing->purchasing
 purritanical->puritanical
 purrporrtedly->purportedly
@@ -37011,6 +37016,7 @@ releaases->releases
 releaeses->releases
 releassess->releases
 releated->related
+releationships->relationships
 releaving->relieving
 relected->reelected
 releived->relieved
@@ -37939,6 +37945,7 @@ retigious->religious
 retigiousty->religiously
 retinquishment->relinquishment
 retore->restore
+retrancy->reentrancy
 retreive->retrieve
 retreiving->retrieving
 retreval->retrieval
@@ -41617,6 +41624,7 @@ struktural->structural
 struktured->structured
 strukture->structure
 strutured->structured
+strutures->structures
 struture->structure
 struuctuural->structural
 struuctuured->structured
@@ -45125,6 +45133,7 @@ unaeuthorised->unauthorised
 unaevaeilaeble->unavailable
 unahppy->unhappy
 unakkompanied->unaccompanied
+unambigiously->unambiguously
 unamed->unnamed
 unaniimous->unanimous
 unanimmous->unanimous
