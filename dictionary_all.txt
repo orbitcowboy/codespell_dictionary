@@ -8784,6 +8784,7 @@ cleaeraence->clearance
 cleaer->clear
 cleaerer->clearer
 cleaerly->clearly
+cleand->cleaned
 clearannce->clearance
 cleareance->clearance
 clearlyy->clearly
@@ -11149,6 +11150,7 @@ contsruction->construction
 contsructs->constructs
 contstant->constant
 contstruction->construction
+contstructor->constructor
 conttactt->contact
 conttains->contains
 conttaminatte->contaminate
@@ -46420,6 +46422,7 @@ veariety->variety
 vearying->varying
 veassals->vassals
 veassal->vassal
+vecotr->vector
 vectorizarion->vectorization
 veegeetablees->vegetables
 veegeetablee->vegetable

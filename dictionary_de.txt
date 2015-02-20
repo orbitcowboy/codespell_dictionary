@@ -13,7 +13,6 @@ Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
 and->an
-authenifizieren->authentifizieren
 andersweitig->anderweitig
 and->und
 angzeigt->angezeigt
@@ -29,6 +28,7 @@ außderem->außerdem
 ausser->außer
 ausserdem->außerdem
 Ausstatting->Ausstattung
+authenifizieren->authentifizieren
 authorisieren->autorisieren
 authorisiert->autorisiert
 Authorisierung->Autorisierung
@@ -72,6 +72,7 @@ Diplomanten->Diplomanden
 Disaster->Desaster
 dne->den
 Documents->Dokuments
+Dokumenation->Dokumenation
 dokumentes->dokuments
 draussen->draußen
 duch->durch
@@ -133,6 +134,7 @@ Geheimniss->Geheimnis
 Gehhllfen->Gehhilfen
 Gelantine->Gelatine
 gelegendlich->gelegentlich
+Gernerierung->Generierung
 gesäht->gesät
 gesammt->gesamt
 gesponsort->gesponsert
@@ -187,6 +189,7 @@ Kecks->Keks
 Kenntisse->Kenntnisse
 Kenntniss->Kenntnis
 Koffeein->Koffein
+Komentaren->Kommentaren
 Komillitone->Kommilitone
 Komission->Kommission
 Kommitee->Komitee
@@ -338,12 +341,14 @@ Syphon->Siphon
 Tabets->Tabletts
 Terasse->Terrasse
 Terrabyte->Terabyte
+Teststragegieen->Teststrategien
 Thermopen->Thermopane
 Tipp->Tip
 togglen->toggeln
 totlangweilig->todlangweilig
 totschick->todschick
 Übergangskriteren->Übergangskriterien
+Umbgebung->Umbgebung
 unentgeldlich->unentgeltlich
 unverholen->unverhohlen
 unzufireden->unzufrieden
