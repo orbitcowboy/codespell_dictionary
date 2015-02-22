@@ -21306,6 +21306,7 @@ holliday->holiday
 holyy->holy
 homae statae->home state
 homee statee->home state
+homepae->homepage
 homepathic->homeopathic
 home sitate->home state
 home slale->home state
@@ -22142,6 +22143,7 @@ imagin->imagine
 imaginnary->imaginary
 imaginne->imagine
 imaguery->imagery
+im am->i am
 imanent->eminent
 imanent->eminent, imminent
 imanent->eminent, imminent,
@@ -29135,6 +29137,7 @@ multtitthreaded->multithreaded
 multtitthread->multithread
 multy-thread->multithread
 multythread->multithread
+mumber->number
 munbers->numbers
 muncipalities->municipalities
 muncipality->municipality

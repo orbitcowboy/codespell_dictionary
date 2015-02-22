@@ -13,6 +13,7 @@ Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
 and->an
+authenifizieren->authentifizieren
 andersweitig->anderweitig
 and->und
 angzeigt->angezeigt
