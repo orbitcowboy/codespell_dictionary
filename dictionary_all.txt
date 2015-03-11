@@ -17067,6 +17067,7 @@ erronous->erroneous
 errooneoous->erroneous
 erroor->error
 errorcondition->error condition
+erroronous->erroneous
 erros->errors
 errro->error
 errror->error
