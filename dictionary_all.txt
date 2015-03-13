@@ -2804,6 +2804,7 @@ algebraical->algebraic
 algebraicc->algebraic
 algebraiic->algebraic
 algebraik->algebraic
+algebric->algebraic
 algebrraic->algebraic
 algeebraic->algebraic
 alggebraic->algebraic
@@ -6976,6 +6977,7 @@ caatholicism->catholicism
 Caatiline->Catiline
 caaucuses->caucuses
 caculater->calculator
+caculator->calculator
 cacuses->caucuses
 Caeesaer->Caesar
 Caeesar->Caesar
@@ -22472,6 +22474,7 @@ impllemented->implemented
 impllement->implement
 impllementing->implementing
 impllicitlly->implicitly
+implmemented->implemented
 implmementing->implementing
 implmentation->implementation
 implmented->implemented
@@ -24571,6 +24574,7 @@ intoo->into
 intorduced->introduced
 intorduce->introduce
 intpolator->interpolator
+intput->input
 intrduced->introduced
 intresting->interesting
 intrest->interest
@@ -33444,6 +33448,7 @@ potentail->potential
 potentiall->potentially
 pothathoes->potatoes
 Pothsdam->Potsdam
+potion->portion
 potiticat->political
 potitician->politician
 potiticians->politicians
@@ -38032,6 +38037,7 @@ reverssal->reversal
 reverssible->reversible
 revieww->review
 reviiew->review
+reviwe->review
 revollutionary->revolutionary
 revolulionary->revolutionary
 revoluthionary->revolutionary
@@ -46154,6 +46160,7 @@ usuaally->usually
 usuable->usable
 usuaelly->usually
 usualllly->usually
+usuallly->usually
 usuallyy->usually
 usualy->usually
 usuatty->usually
