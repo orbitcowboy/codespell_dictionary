@@ -10810,6 +10810,7 @@ constituution->constitution
 constraaints->constraints
 constraeints->constraints
 constraiints->constraints
+constrain->constraint
 constrainst->constraints
 constrraints->constraints
 constrruction->construction
@@ -11032,6 +11033,7 @@ contorls->controls
 contorversial->controversial
 contorversies->controversies
 contorversy->controversy
+contrain->constraint
 contraint->constraint
 contraints->constraints
 contravercial->controversial
