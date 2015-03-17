@@ -16706,6 +16706,7 @@ enormouusly->enormously
 enorrmous->enormous
 enorrmously->enormously
 enought->enough
+enougth->enough
 enourmous->enormous
 enourmously->enormously
 enromous->enormous
@@ -17430,6 +17431,7 @@ exacerbbate->exacerbate
 exacerrbated->exacerbated
 exacerrbate->exacerbate
 exacl->exact
+exaclty->exactly
 exacly->exactly
 exacth->exact
 exactt->exact
@@ -24319,6 +24321,7 @@ intelllligence->intelligence
 intelllligent->intelligent
 intemal->internal
 intenational->international
+intendation->indentation
 intenddedd->intended
 intensional->intentional
 intented->indented
@@ -31273,6 +31276,7 @@ otherr->other
 other then->other than
 otherwisee->otherwise
 othher->other
+othwerise->otherwise
 ot->of
 otther->other
 ot->to
