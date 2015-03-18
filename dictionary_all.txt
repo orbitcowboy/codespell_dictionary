@@ -16044,6 +16044,7 @@ elektrikity->electricity
 elektron->electron
 elelctronics->electronics
 elelments->elements
+elemement->element
 elemements->elements
 elemenlary->elementary
 elemenls->elements
@@ -16305,6 +16306,8 @@ emittingg->emitting
 emittinng->emitting
 emitttted->emitted
 emitttting->emitting
+emlement->element
+emlements->elements
 emmanated->emanated
 emmanate->emanate
 emmbargoes->embargoes
