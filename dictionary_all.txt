@@ -13644,6 +13644,7 @@ desiirable->desirable
 desikkated->desiccated
 desination->destination
 desinations->destinations
+desin->design
 desing->design
 desintegrated->disintegrated
 desintegration->disintegration
@@ -19776,6 +19777,7 @@ generalllly->generally
 generallyy->generally
 generaly->generally
 generatation->generation
+generatd->generated
 generathe->generate
 generathing->generating
 generathion->generation
@@ -20942,6 +20944,7 @@ hertiage->heritage
 herttz->hertz
 hertzs->hertz
 hertzz->hertz
+hese->these
 hesiitant->hesitant
 hesilanl->hesitant
 hesistant->hesitant
@@ -20971,6 +20974,7 @@ hetpfutty->helpfully
 hetp->help
 hetterogeneous->heterogeneous
 heve->have
+hexadcimal->hexadecimal
 hexademical->hexadecimal
 hexdecimal->hexadecimal
 hexidecimal->hexadecimal
@@ -38476,6 +38480,7 @@ ruule->rule
 ruunning->running
 Ruussian->Russian
 rwite->write
+rying->trying
 rythem->rhythm
 rythim->rhythm
 rythmic->rhythmic
