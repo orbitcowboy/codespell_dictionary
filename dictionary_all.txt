@@ -7250,7 +7250,6 @@ campared->compared
 camppaign->campaign
 camppaigns->campaigns
 cancelation->cancellation
-cancelled->canceled
 candadate->candidate
 canddiddate->candidate
 canddiddates->candidates
