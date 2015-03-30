@@ -38016,6 +38016,7 @@ retrievve->retrieve
 retriieve->retrieve
 retrival->retrieval
 retrived->retrieved
+retrive->retrieve
 retrow->re-throw
 retrun->return
 retsarted->restarted
