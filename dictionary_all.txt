@@ -32977,6 +32977,7 @@ poisonn->poison
 poisson->poison
 poistion->position
 polaloes->potatoes
+Polian->Polish
 polical->political
 poliitiical->political
 poliitiiciian->politician
@@ -41888,6 +41889,7 @@ subklassed->subclassed
 subklass->subclass
 subkonskiously->subconsciously
 sublassed->subclassed
+sublasses->subclasses
 sublass->subclass
 sublerranean->subterranean
 sublracled->subtracted
