@@ -6426,6 +6426,7 @@ bllame->blame
 bllamed->blamed
 bllessing->blessing
 Bllitzkrieg->Blitzkrieg
+bloathed->bloated
 blockout->blackout
 boaat->boat
 boaet->boat
@@ -7172,6 +7173,7 @@ calerpillars->caterpillars
 calholic->catholic
 calholicism->catholicism
 calibaer->caliber
+calibartion->calibration
 calibber->caliber
 calibbration->calibration
 calibeer->caliber
@@ -11769,6 +11771,8 @@ costom->custom
 costumer->customer
 cotander->colander
 cotent->content
+cotnainer->container
+cotnainers->containers
 cotonies->colonies
 cotonizers->colonizers
 cotonnade->colonnade
@@ -29852,6 +29856,7 @@ nickle->nickel
 niecce->niece
 nieecee->niece
 nieke->niece
+niether->neither
 nigghtfall->nightfall
 nigghttime->nighttime
 nighhtfall->nightfall
@@ -36741,6 +36746,7 @@ re-executted->re-executed
 re-execuuted->re-executed
 re-exekuted->re-executed
 re-exxecuted->re-executed
+refactorings->refactoring
 refect->reflect
 refedendum->referendum
 refence->reference
