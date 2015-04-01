@@ -11684,6 +11684,7 @@ correctnness->correctness
 correctorss->correctors
 correcttness->correctness
 correcttors->correctors
+correection->correction
 correectneess->correctness
 correectors->correctors
 correespond->correspond
@@ -20663,6 +20664,7 @@ happenn->happen
 happenninng->happening
 happenns->happens
 happenss->happens
+happly->happily
 happneds->happens
 happppend->happend
 happppened->happened
@@ -32222,6 +32224,7 @@ perennialy->perennially
 perenniatty->perennially
 perenniially->perennially
 perennnnially->perennially
+perfer->prefer
 perfformance->performance
 perfformed->performed
 perfformers->performers
@@ -39149,6 +39152,7 @@ seeveereely->severely
 seeveerity->severity
 sef->self,safe
 Segate->Seagate
+segemantion->segmentation
 segementation->segmentation
 segement->segment
 segements->segments
