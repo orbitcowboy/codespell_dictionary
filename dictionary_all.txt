@@ -7107,6 +7107,7 @@ calcluations->calculations
 calclulation->calculation
 calcualtion->calculation
 calcualtions->calculations
+calcuation->calculation
 calculale->calculate
 calculaled->calculated
 calculalion->calculation
@@ -11245,6 +11246,7 @@ converson->conversion
 converssion->conversion
 convertable->convertible
 convertables->convertibles
+convertation->conversation
 convertedd->converted
 convertes->converts
 converth->convert
@@ -17013,6 +17015,7 @@ equippedd->equipped
 equippment->equipment
 equipppped->equipped
 equirement->requirement
+equire->require
 equitibrium->equilibrium
 equitorial->equatorial
 equivaalent->equivalent
@@ -31163,6 +31166,7 @@ oralllly->orally
 orallyy->orally
 oraly->orally
 oratty->orally
+orbitting->orbiting
 orcoco->rococo
 ordaeraed->ordered
 ordderedd->ordered
