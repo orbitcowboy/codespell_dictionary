@@ -19490,6 +19490,7 @@ functhion->function
 functhioning->functioning
 functiion->function
 functiioniing->functioning
+functinal->functional
 functio->function
 functionalies->functionalities
 functioningg->functioning
