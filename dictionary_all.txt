@@ -3321,6 +3321,7 @@ analisis->analysis
 analisys->analysis
 analitic->analytic
 analiysis->analysis
+analizer->analyzer
 anallogous->analogous
 anallytic->analytic
 analogeous->analogous
@@ -24138,6 +24139,7 @@ instancce->instance
 instancee->instance
 instanciated->instantiated
 instanciation->instantiation
+instanciations->instantiations
 instanke->instance
 instantiatioon->instantiation
 instatance->instance
