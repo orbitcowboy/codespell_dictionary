@@ -26621,6 +26621,7 @@ longue->tongue
 lonighl->tonight
 Lonitude->Longitude
 lonley->lonely
+LONLONG->LONGLONG
 lonly->lonely
 lonly->lonely, only
 lonly->lonely, only,
