@@ -17533,6 +17533,7 @@ exapansion->expansion
 exatted->exalted
 excact->exact
 excactly->exactly
+excalamation->exclamation
 excange->exchange
 excceeded->exceeded
 excceedingly->exceedingly
