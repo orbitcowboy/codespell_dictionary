@@ -9993,6 +9993,7 @@ concerningg->concerning
 concerrn->concern
 concerrned->concerned
 concerrning->concerning
+concetrator->concentrator
 concider->consider
 concidered->considered
 concidering->considering
@@ -14694,6 +14695,7 @@ discovvering->discovering
 discovvers->discovers
 discovvery->discovery
 discrepency->discrepancy
+discretes->discrete
 discribed->described
 discribe->describe
 discribes->describes
@@ -26448,6 +26450,7 @@ litherathure->literature
 liththle->little
 litle->little
 litlle->little
+litres->liters
 litseners->listeners
 littel->little
 litteral->literal
@@ -29729,6 +29732,7 @@ neighborrs->neighbors
 neighborss->neighbors
 neighbourhod->neighbourhood
 neighbourhoodd->neighbourhood
+neighbour->neighbor
 neighbourrhood->neighbourhood
 neighbourring->neighbouring
 neighbourr->neighbour
@@ -38745,6 +38749,7 @@ satelliite->satellite
 satelliites->satellites
 satellllite->satellite
 satellllites->satellites
+satement->statement
 Saterday->Saturday
 Saterdays->Saturdays
 satettite->satellite
@@ -45417,6 +45422,7 @@ undecidabte->undecidable
 undecidaeble->undecidable
 undecideable->undecidable
 undeciidable->undecidable
+undectable->undetectable
 undeecidablee->undecidable
 undeefinablee->undefinable
 undeerground->underground
