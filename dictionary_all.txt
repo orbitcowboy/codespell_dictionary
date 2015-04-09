@@ -15054,6 +15054,7 @@ distinnguishes->distinguishes
 distinnguishinng->distinguishing
 distribbuted->distributed
 distribbution->distribution
+distribtions->distributions
 distributaed->distributed
 distributeed->distributed
 distributionn->distribution
@@ -37232,6 +37233,7 @@ remembrancce->remembrance
 remembranke->remembrance
 remembrannce->remembrance
 remembrence->remembrance
+rememeber->remember
 remenant->remnant
 remenicent->reminiscent
 remiiniiscent->reminiscent
