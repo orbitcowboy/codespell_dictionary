@@ -30976,6 +30976,7 @@ opaening->opening
 opaenly->openly
 opaennaess->openness
 opaerator->operator
+opeator->operator
 opeeneed->opened
 opeening->opening
 opeenly->openly
