@@ -13817,6 +13817,7 @@ destinnationns->destinations
 destinned->destined
 destionations->destinations
 destory->destroy
+destrcuted->destructed
 destrooy->destroy
 destroyy->destroy
 destrroy->destroy
@@ -13849,6 +13850,7 @@ desttroy->destroy
 desttructtion->destruction
 desttructtive->destructive
 desttructtor->destructor
+destuctor->destructor
 detaached->detached
 detaailed->detailed
 detacched->detached
@@ -16561,6 +16563,7 @@ endooliths->endoliths
 endotiths->endoliths
 enduce->induce
 ened->need
+eneterd->entered
 enfforcing->enforcing
 enflamed->inflamed
 enfoorcing->enforcing
