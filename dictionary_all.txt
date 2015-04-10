@@ -15387,6 +15387,7 @@ dramattic->dramatic
 drammatic->dramatic
 dramm->dram
 dramtic->dramatic
+drang and drop->drag and drop
 draugghtsman->draughtsman
 draughhtsman->draughtsman
 draughlsman->draughtsman
