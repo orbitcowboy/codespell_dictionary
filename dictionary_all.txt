@@ -3096,6 +3096,7 @@ alraeady->already
 alraedy->already
 alreaddy->already
 alreadyy->already
+alreay->already
 alreayd->already
 alredy->already
 alreeady->already
@@ -47630,6 +47631,7 @@ woring->working
 workardound->workaround
 work-around->workaround
 workiing->working
+workind->working
 workingg->working
 workinng->working
 workking->working
