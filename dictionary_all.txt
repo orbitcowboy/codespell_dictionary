@@ -36953,6 +36953,7 @@ regitsers->registers
 regluar->regular
 regsion->region
 regsiter->register
+regualr->regular
 reguardless->regardless
 reguarly->regularly
 regulaarly->regularly
