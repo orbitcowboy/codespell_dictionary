@@ -498,6 +498,7 @@ abilties->abilities
 abilty->ability
 abitities->abilities
 abitity->ability
+ablout->absolute, about
 abondon->abandon
 abondoned->abandoned
 abondoning->abandoning
@@ -561,6 +562,7 @@ absenke->absence
 absennce->absence
 absense->absence
 absloute->absolute
+absoleetely->absolutely
 absollutelly->absolutely
 absolulely->absolutely
 absolutaely->absolutely
@@ -17100,6 +17102,7 @@ errattically->erratically
 errattic->erratic
 errected->erected
 errenous->erroneous
+errer->error
 erro->error
 erroneouss->erroneous
 erroneouus->erroneous
@@ -20184,6 +20187,7 @@ grammatiically->grammatically
 grammatikally->grammatically
 grammattically->grammatically
 grammer->grammar
+grammetical->grammatical
 grammmmar->grammar
 grammmmatically->grammatically
 gramnar->grammar
@@ -28411,6 +28415,7 @@ misoogynist->misogynist
 misoogyny->misogyny
 Misouri->Missouri
 mispeld->misspelled
+mispeling->misspelling
 mispelld->misspelled
 mispelled->misspelled
 mispelling->misspelling
@@ -45118,6 +45123,7 @@ typiically->typically
 typiical->typical
 typikally->typically
 typikal->typical
+typographicial->typographical
 typpeahead->typeahead
 typpe has a->type has a
 typpically->typically
