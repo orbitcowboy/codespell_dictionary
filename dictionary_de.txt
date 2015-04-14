@@ -9,7 +9,6 @@ Akkustik->Akustik
 albel->Label
 allle->alle
 Amalgan->Amalgam
-Platformtyp->Plattformtyp
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
@@ -257,6 +256,7 @@ Paswwort->Passwort
 Pavillion->Pavillon
 pieken->piken
 pieksen->piksen
+Platformtyp->Plattformtyp
 Potenzreihintegrator->Potenzreihenintegrator
 prakmatisch->pragmatisch
 Praktikas->Praktika
