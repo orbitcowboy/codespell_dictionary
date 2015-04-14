@@ -17868,6 +17868,7 @@ exludes->excludes
 EXLUSIVE->EXCLUSIVE
 exmaple->example
 exmplained->explained
+exmple->example
 exoneraate->exonerate
 exoneraete->exonerate
 exonerale->exonerate
