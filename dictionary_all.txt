@@ -42393,6 +42393,7 @@ suplimented->supplemented
 suply->supply
 supoose->suppose
 suported->supported
+suports->supports
 suport->support
 suposedly->supposedly
 suposed->supposed
