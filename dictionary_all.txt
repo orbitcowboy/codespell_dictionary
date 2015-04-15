@@ -5895,6 +5895,7 @@ bbusiness->business
 bbusinesses->businesses
 bbusinessman->businessman
 bcak->back
+bcause->because
 beaachheaad->beachhead
 beaautiful->beautiful
 beable->be able
@@ -14472,6 +14473,7 @@ directlly->directly
 directlyy->directly
 directoory->directory
 directoryy->directory
+directoy->directory
 directroy->directory
 directtly->directly
 directtory->directory
