@@ -3209,6 +3209,7 @@ amature->armature
 amature->armature, amateur
 ambiet->ambient
 ambigous->ambiguous
+amd->and
 ameelioratee->ameliorate
 ameend->amend
 ameendeed->amended
@@ -4769,6 +4770,7 @@ assignenent->assignment
 assignes->assigns
 assignn->assign
 assignns->assigns
+assihnment->assignment
 assiign->assign
 assiigns->assigns
 assiistant->assistant
@@ -8488,6 +8490,7 @@ charactteristtics->characteristics
 charactterized->characterized
 charactters->characters
 charakter->character
+charakters->characters
 charasmatic->charismatic
 charater->character
 charaterized->characterized
@@ -9798,6 +9801,7 @@ compiller->compiler
 compitation->compilation
 compitent->competent
 compiter->compiler
+compiting->compiling
 complable->compilable
 complaetaed thae->completed the
 complaetaely->completely
@@ -11110,6 +11114,7 @@ controllller->controller
 controlllling->controlling
 controlls->controls
 controlss->controls
+contronls->controls
 controt->control
 controts->controls
 controtted->controlled
@@ -11689,6 +11694,7 @@ correctlly->correctly
 correctnes->correctness
 correctnessss->correctness
 correctnness->correctness
+correcton->correction
 correctorss->correctors
 correcttness->correctness
 correcttors->correctors
@@ -16996,6 +17002,7 @@ equaal->equal
 equaatoriaal->equatorial
 equael->equal
 equaetoriael->equatorial
+equalinitially->equal
 equall->equal
 equalorial->equatorial
 equat->equal
@@ -17108,6 +17115,7 @@ errected->erected
 errenous->erroneous
 errer->error
 erro->error
+erroneousely->erroneously
 erroneouss->erroneous
 erroneouus->erroneous
 erronneous->erroneous
@@ -17334,6 +17342,7 @@ evaluattion->evaluation
 evalutation->evaluation
 evalutations->evaluations
 evaluted->evaluated
+evalute->evaluate
 evaluuated->evaluated
 evaluuation->evaluation
 evatuated->evaluated
@@ -19504,6 +19513,7 @@ funciton->function
 funcitoning->functioning
 funclion->function
 funclioning->functioning
+funcstion->function
 functhion->function
 functhioning->functioning
 functiion->function
@@ -24493,6 +24503,7 @@ internationat->international
 internation->international
 internatioonal->international
 internedd->interned
+interperter->interpreter
 interpet->interpret
 interppretation->interpretation
 interppret->interpret
@@ -24998,6 +25009,7 @@ iteger->integer
 itegers->integers
 itemm->item
 iteratate->iterate
+iteraterate->iterate
 Ithaacaa->Ithaca
 Ithacca->Ithaca
 Ithaecae->Ithaca
@@ -26851,6 +26863,7 @@ maching->marching
 maching->matching
 machin->machine
 machinne->machine
+mach->match
 macing->making
 mackaerael->mackerel
 mackeereel->mackerel
@@ -27832,6 +27845,7 @@ mentiioned->mentioned
 mentionedd->mentioned
 mentionend->mentioned
 mentionned->mentioned
+mentionning->mentioning
 mentiooned->mentioned
 menttally->mentally
 menttioned->mentioned
@@ -28048,6 +28062,7 @@ metteorology->meteorology
 metter->matter
 metthod defines how->method defines how
 metthods->methods
+mey->may
 Micchigan->Michigan
 miccroccontroller->microcontroller
 miccrosccopy->microscopy
@@ -29178,6 +29193,7 @@ multiplieed->multiplied
 multiplieers->multipliers
 multiplierrs->multipliers
 multiplierss->multipliers
+multiplikatior->multiplicand
 multiplikator->multiplicator
 multipple inclusions->multiple inclusions
 multipplexer->multiplexer
@@ -30671,6 +30687,7 @@ ocurrences->occurrences
 ocurring->occurring
 ocurr->occur
 ocurs->occurs
+ocuurences->occurrences
 od having->of having
 oeeuvree->oeuvre
 oeperator->operator
@@ -32978,6 +32995,7 @@ pllaywrights->playwrights
 plleasant->pleasant
 pllebiscite->plebiscite
 pllugins->plugins
+ploynomials->polynomials
 pluggins->plugins
 plugiin->plug-in
 plugiins->plugins
@@ -34018,6 +34036,7 @@ preceddence->precedence
 precedde->precede
 preceddes->precedes
 precedding->preceding
+precedencs->precedences
 precedennce->precedence
 precedessor->predecessor
 precedess->precedes
@@ -34366,6 +34385,7 @@ preverse->preserve
 previious->previous
 previoous->previous
 previosly->previously
+previousely->previously
 previouss->previous
 previouus->previous
 previsous->previous
@@ -34469,6 +34489,7 @@ prinkipal->principal
 prinkiple->principle
 prinncipal->principal
 prinnciple->principle
+prinziple->principle
 priooritizatioon->prioritization
 priorilizalion->prioritization
 priorites->priorities
@@ -36963,6 +36984,7 @@ regitsered->registered
 regitser->register
 regitsers->registers
 regluar->regular
+regognition->recognition
 regsion->region
 regsiter->register
 regualr->regular
@@ -43972,6 +43994,7 @@ thsoe->those
 ths->this
 thta->that
 thuesday->tuesday
+thuis->thus
 thurnkey->turnkey
 thwelfthh->twelfth
 thwo->two
@@ -45857,6 +45880,7 @@ unnecessarilyy->unnecessarily
 unnecessarity->unnecessarily
 unnecessarrily->unnecessarily
 unnecessarry->unnecessary
+unnecessaryly->unnecessarily
 unnecessaryy->unnecessary
 unnecessssarily->unnecessarily
 unnecessssary->unnecessary
@@ -46526,6 +46550,7 @@ vassssal->vassal
 vatidity->validity
 vattetta->valletta
 vatuabte->valuable
+vaule->value
 veacuum->vacuum
 veagaries->vagaries
 vealidity->validity
@@ -47236,6 +47261,7 @@ warrriors->warriors
 warrrrant->warrant
 warrrranty->warranty
 warrrriorrs->warriors
+warsip->warship
 was iggnored->was ignored
 was ignnored->was ignored
 was ignoored->was ignored
