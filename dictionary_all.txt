@@ -26367,6 +26367,7 @@ limnaean->linnaean
 limt->limit
 limts->limits
 linaean->linnaean
+linar->linear
 lingguistic->linguistic
 lingguistics->linguistics
 linguisitic->linguistic
