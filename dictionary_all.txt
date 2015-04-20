@@ -4989,6 +4989,7 @@ atended->attended
 atenian->athenian
 atenians->athenians
 atention->attention
+a tet->a test
 atgebraic->algebraic
 atgorithm->algorithm
 atgorithms->algorithms
@@ -7272,6 +7273,7 @@ campains->campaigns
 campared->compared
 camppaign->campaign
 camppaigns->campaigns
+ca nbe->can be
 cancelation->cancellation
 candadate->candidate
 canddiddate->candidate
@@ -33443,6 +33445,7 @@ positon->position
 positon->position, positron
 posittion->position
 posittive->positive
+posivites->positives
 poslhumous->posthumous
 possable->possible
 possably->possibly
@@ -38731,6 +38734,7 @@ samaba->samba
 samae->same
 samee->same
 samle->sample
+sammery->summery
 samme->same
 samtr->smart
 sancctioned->sanctioned
