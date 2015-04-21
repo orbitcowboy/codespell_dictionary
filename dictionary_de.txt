@@ -8,6 +8,8 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
+Aufagen->Aufgaben
+Aufage->Aufgabe
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -257,6 +259,7 @@ Pavillion->Pavillon
 pieken->piken
 pieksen->piksen
 Platformtyp->Plattformtyp
+Platttormtyp->Plattformtyp
 Potenzreihintegrator->Potenzreihenintegrator
 prakmatisch->pragmatisch
 Praktikas->Praktika

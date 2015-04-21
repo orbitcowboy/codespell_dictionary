@@ -4502,6 +4502,7 @@ arrguably->arguably
 arrgument->argument
 arrguments->arguments
 arriival->arrival
+arrises->arises
 arrivall->arrival
 arrivat->arrival
 arriveal->arrival
@@ -14147,6 +14148,7 @@ diferential->differential
 diferentiate->differentiate
 diferentiations->differentiations
 diferrent->different
+diferrential->differential
 diffaeraencae baetwaeaen->difference between
 diffaeraencaes->differences
 diffaeraent->different
@@ -19521,6 +19523,7 @@ functhioning->functioning
 functiion->function
 functiioniing->functioning
 functinal->functional
+functin->function
 functio->function
 functionalies->functionalities
 functioningg->functioning
@@ -22157,6 +22160,7 @@ illegittimacy->illegitimacy
 illegittimatte->illegitimate
 illess->illness
 illiegal->illegal
+illistrates->illustrates
 illllegall->illegal
 illllegitimacy->illegitimacy
 illllegitimate->illegitimate
@@ -23482,6 +23486,7 @@ infinitee->infinite
 infinithe->infinite
 infinithy->infinity
 infinit->infinite
+infinitly->infinitely
 infinitte->infinite
 infinitty->infinity
 infinityy->infinity
@@ -24644,6 +24649,7 @@ intialized->initialized
 intialize->initialize
 intializers->initializers
 intially->initially
+intitial->initial
 intoduced->introduced
 in to->into
 intoo->into
