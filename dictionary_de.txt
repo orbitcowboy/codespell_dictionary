@@ -8,8 +8,6 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-Aufagen->Aufgaben
-Aufage->Aufgabe
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -23,6 +21,8 @@ Artzt->Arzt
 assozial->asozial
 Athmosphäre->Atmosphäre
 Atrappe->Attrappe
+Aufage->Aufgabe
+Aufagen->Aufgaben
 auschalten->ausschalten
 Ausdrcuk->Ausdruck
 Ausführungsgeschwindigkeit->Ausführungszeit
