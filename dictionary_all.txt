@@ -1465,6 +1465,7 @@ adition->addition
 aditional->additional
 aditionally->additionally
 adivisory->advisory
+adjacient->adjacent
 adjjustable->adjustable
 adjjustments->adjustments
 adjusitable->adjustable
@@ -17072,6 +17073,7 @@ erally->orally, really
 erally->orally, really,
 erally->really
 eraseable->erasable
+erata->errata
 eratically->erratically
 eratic->erratic
 eraticly->erratically
@@ -19473,6 +19475,7 @@ frriendly->friendly
 frriends->friends
 frrom->from
 frrontierr->frontier
+frustating->frustating
 ftagged->flagged
 ftammabte->flammable
 ftawtess->flawless
