@@ -5926,6 +5926,7 @@ beautifut->beautiful
 beautiiful->beautiful
 beautitful->beautiful
 beauttiful->beautiful
+beautyfier->beautifier
 beautyfull->beautiful
 beauutifuul->beautiful
 be be->be
@@ -32336,6 +32337,7 @@ peripatetik->peripatetic
 peripathethic->peripatetic
 peripathetic->peripatetic
 peripattettic->peripatetic
+peripherials->peripherals
 peristent->persistent
 perjery->perjury
 perjjury->perjury
@@ -47688,6 +47690,7 @@ wordlwide->worldwide
 wordss->words
 woring->working
 workardound->workaround
+work-arounds->workarounds
 work-around->workaround
 workiing->working
 workind->working
