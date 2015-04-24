@@ -5160,6 +5160,7 @@ attemppt->attempt
 attemppted->attempted
 attemppting->attempting
 attemppts->attempts
+attemps->attempts
 attempst->attempts
 attemptedd->attempted
 attemptiing->attempting
@@ -5569,6 +5570,7 @@ aview->a view
 aviiatiion->aviation
 avilable->available
 aviod->avoid
+aviods->avoids
 avitar->avatar
 avitars->avatars
 a vngeance->a vengeance
@@ -5617,6 +5619,7 @@ baasicaally->basically
 baatch monitor->batch monitor
 baattleship->battleship
 baaud raate->baud rate
+bacause->because
 bacc->back
 baccground->background
 baccgrounds->backgrounds
@@ -7298,6 +7301,7 @@ candidiate->candidate
 candiidate->candidate
 candiidates->candidates
 canditates->candidates
+canges->changes
 caniister->canister
 caniisters->canisters
 canisiter->canister
@@ -7724,6 +7728,7 @@ caterppillars->caterpillars
 caterrpillarr->caterpillar
 caterrpillarrs->caterpillars
 Cathalina->Catalina
+cath->catch
 cathegories->categories
 cathegorize->categorize
 cathegorized->categorized
@@ -12031,6 +12036,7 @@ createc->created
 createdd->created
 creater->creator
 creathed->created
+creatioon->creation
 creatted->created
 crèchae->crèche
 creche->crèche
@@ -20564,6 +20570,7 @@ Habsburgg->Habsburg
 Habsburrg->Habsburg
 Habsbuurg->Habsburg
 Habssburg->Habsburg
+had benn->had been
 hadding->adding,having
 haeadquartaeraed->headquartered
 haeadquartaer->headquarter
@@ -20767,6 +20774,7 @@ harrassments->harassments
 harrdwarre->hardware
 harware->hardware
 harzardous->hazardous
+has benn->has been
 has has->has
 hasn'l->hasn't
 hasnn't->hasn't
@@ -23742,6 +23750,7 @@ initilization->initialization
 initilize->initialize
 initital->initial
 inititialisation->initialisation
+inititialization->initialization
 inittial->initial
 inittialise->initialise
 inittializattion->initialization
@@ -24220,6 +24229,7 @@ instituutionalized->institutionalized
 instituution->institution
 instituutions->institutions
 instnace->instance
+instread->instead
 instrruction->instruction
 instrrumental->instrumental
 instrrument->instrument
@@ -36177,6 +36187,7 @@ readablity->readability
 readdmission->readmission
 readed->read
 readibility->readability
+readiblity->readability
 Read me->Readme
 readmiissiion->readmission
 readmision->readmission
@@ -36826,6 +36837,7 @@ referances->references
 referece->reference
 refereces->references
 refered->referred
+refereence->reference
 referemce->reference
 referemces->references
 referencced->referenced
@@ -37320,6 +37332,7 @@ remnnannt->remnant
 remoe->remove
 rendde->rende
 renddezvous->rendezvous
+renderring->rendering
 rendevous->rendezvous
 rendezous->rendezvous
 rendezveous->rendezvous
@@ -37329,6 +37342,7 @@ rendezvouus->rendezvous
 rendezvvous->rendezvous
 rendezzvous->rendezvous
 renedered->rende
+renentering->reentering
 renewaal->renewal
 renewael->renewal
 renewall->renewal
@@ -37599,6 +37613,7 @@ repulicans->republicans
 repulic->republic
 repulics->republics
 reqest->request
+reqirement->requirement
 reqquest->request
 reqquests->requests
 reqquired->required
@@ -46455,6 +46470,7 @@ vaild->valid
 vailidty->validity
 vairable->variable
 vakuum->vacuum
+valagrind->valgrind
 valetta->valletta
 validdity->validity
 validily->validity
@@ -47443,6 +47459,7 @@ wherreverr->wherever
 wher->where
 wheter->whether
 whetherr->whether
+whethe->whether
 whethher->whether
 whetther->whether
 whhat->what
@@ -47696,6 +47713,7 @@ workiing->working
 workind->working
 workingg->working
 workinng->working
+workin->working
 workking->working
 workkstation->workstation
 workk units->work units
