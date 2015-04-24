@@ -3918,6 +3918,7 @@ appologetics->apologetics
 appologies->apologies
 appologize->apologize
 appology->apology
+apporach->approach
 apporaches->approaches
 apporopriate->appropriate
 apporpriate->appropriate
@@ -9409,6 +9410,7 @@ commissssioned->commissioned
 commissssioner->commissioner
 commissssioning->commissioning
 commissssionss->commissions
+commit->commit
 commited->committed
 commitee->committee
 commith->commit
@@ -10938,6 +10940,8 @@ contant->contact
 contant->contact,constant
 contants->constants
 contast->contrast
+contatenate->concatenate
+contatenates->concatenates
 contatining->containing
 conteemporaneeous->contemporaneous
 conteemporariees->contemporaries
@@ -13267,6 +13271,7 @@ deiitiies->deities
 deiity->deity
 deilies->deities
 deily->deity
+deirectory->directory
 deisgn->design
 deisgned->designed
 deithies->deities
@@ -36241,6 +36246,7 @@ realtions->relations
 realyl->really
 realy->really
 reaon->reason
+rearrangment->rearrangement
 reasearch->research
 reasonn->reason
 reasoon->reason
@@ -40775,6 +40781,7 @@ specif->specific
 specif->specific, specify
 specif->specific, specify,
 specif->specify
+specifyer->specifier
 specifyingg->specifying
 specifyinng->specifying
 specifyying->specifying
