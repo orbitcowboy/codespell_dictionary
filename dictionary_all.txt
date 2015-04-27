@@ -2492,6 +2492,7 @@ after receivving->after receiving
 after reception->after receiving
 after rekeiving->after receiving
 afterr rreceiving->after receiving
+afther->after
 afther receiving->after receiving
 aftter receiving->after receiving
 agaiin->again
@@ -3450,6 +3451,7 @@ anlhropologisl->anthropologist
 anlhropology->anthropology
 anlhropomorphizalion->anthropomorphization
 an linux->a linux
+anly->any
 anmihilation->annihilation
 anmiversary->anniversary
 anmounced->announced
@@ -18158,6 +18160,7 @@ extenssionss->extensions
 extented->extended
 extention->extension
 extentions->extensions
+exteral->external
 extered->exerted
 extermist->extremist
 externaal->external
@@ -20980,6 +20983,7 @@ henn->hen
 hense->hence
 heores->heroes
 heor->hero
+heplp->help
 Heraa->Hera
 herader->header
 herad->heard
@@ -27853,6 +27857,7 @@ memroable->memorable
 memroy->memory
 memssaga->message
 menally->mentally
+menans->means
 menas->means
 menataly->mentally
 menlally->mentally
@@ -31362,6 +31367,7 @@ or withouut->or without
 or witout->or without
 or witthoutt->or without
 or wwithout->or without
+oscilator->oscillator
 OSX ooperating systems->OSX operating systems
 OSX opaerating systaems->OSX operating systems
 OSX opeerating systeems->OSX operating systems
@@ -31926,6 +31932,7 @@ parthicularly->particularly
 parthicular->particular
 parthy->party
 partialllly->partially
+partiallly->partially
 partiallyy->partially
 partialy->partially
 partiamentarian->parliamentarian
@@ -47671,6 +47678,7 @@ wlll->will
 wnated->wanted
 wnats->wants
 wnat->want
+wndow->window
 wod->word
 wohle->whole
 woiuldn't->wouldn't
@@ -48001,6 +48009,7 @@ Yeemeenitee->Yemenite
 Yeemeeni->Yemeni
 yeilding->yielding
 yeild->yield
+yelow->yellow
 Yemeniite->Yemenite
 Yemenii->Yemeni
 Yemenile->Yemenite
