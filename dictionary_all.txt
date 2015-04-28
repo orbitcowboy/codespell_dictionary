@@ -4791,6 +4791,7 @@ assislanl->assistant
 assisl->assist
 assisnate->assassinate
 assistannt->assistant
+assistence->assistance
 assisthanth->assistant
 assisth->assist
 assisttantt->assistant
@@ -4800,6 +4801,7 @@ assit->assist
 assitsant->assistant
 assits->assist
 assmbly->assembly
+assmebles->assembles
 assmebly->assembly
 assocaited->associated
 assocation->association
@@ -47699,6 +47701,7 @@ wonderfull->wonderful
 wonderfut->wonderful
 wonderfuul->wonderful
 wonderrful->wonderful
+wondow->window
 wonnderful->wonderful
 wont->won't
 woonderful->wonderful
