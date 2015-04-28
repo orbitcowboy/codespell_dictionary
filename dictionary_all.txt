@@ -3127,6 +3127,7 @@ altendants->attendants
 altended->attended
 altention->attention
 alterantives->alternatives
+altermative->alternative
 alternatiives->alternatives
 alternation->alteration
 alternativees->alternatives
@@ -4617,6 +4618,7 @@ ascpect->aspect
 ascpects->aspects
 aseembly->assembly
 asemble->assemble
+Asembler->Assembler
 asertion->assertion
 asesment->assessment
 asessment->assessment
@@ -4745,6 +4747,7 @@ ass checked->as checked
 asseemblee->assemble
 asseertion->assertion
 assembble->assemble
+assember->assembler
 assemble->assembly
 assemblle->assemble
 assembte->assemble
@@ -18750,6 +18753,7 @@ fiaelds->fields
 fiaercaely->fiercely
 fianite->finite
 fianlly->finally
+Fibonaaci->Fibonacci
 Fibonocci->Fibonacci
 ficctitious->fictitious
 ficlilious->fictitious
@@ -19410,6 +19414,8 @@ freqquency->frequency
 freqquently->frequently
 frequecny->frequency
 frequenccy->frequency
+frequence->frequency
+frequencey->frequency
 frequencyy->frequency
 frequenky->frequency
 frequenlly->frequently
@@ -24382,6 +24388,7 @@ inteerveenee->intervene
 inteerveenees->intervenes
 inteface->interface
 integerate->integrate
+integerates->integrates
 integerr->integer
 integger->integer
 integgrated->integrated
