@@ -47509,6 +47509,7 @@ whilee->while
 whilever->whenever
 whille->while
 whinch->which
+whinges->whines
 whio->who
 whitch->which
 whitelsit->whitelist
