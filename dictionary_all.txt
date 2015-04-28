@@ -9556,6 +9556,7 @@ communicathions->communications
 communicationss->communications
 communicattion->communication
 communicattions->communications
+communictes->communicates
 communiicatiion->communication
 communiicatiions->communications
 communiitiies->communities
@@ -13272,6 +13273,7 @@ deggrade->degrade
 degraade->degrade
 degraede->degrade
 degrate->degrade
+degreading->degrading
 degrrade->degrade
 deiitiies->deities
 deiity->deity
@@ -42379,6 +42381,7 @@ suficiently->sufficiently
 suficient->sufficient
 sufrage->suffrage
 sugested->suggested
+sugestions->suggestions
 sugestion->suggestion
 sugest->suggest
 suggessted->suggested
