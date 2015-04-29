@@ -22362,6 +22362,7 @@ immedialely->immediately
 immediated->immediately
 immediatelly->immediately
 immediatelyy->immediately
+immediates->immediate
 immediatety->immediately
 immediathely->immediately
 immediat->immediate
@@ -24713,6 +24714,7 @@ introp->interop
 intrroduced->introduced
 intrroduce->introduce
 intruction->instruction
+intructions->instructions
 intruduced->introduced
 intruisive->intrusive
 intrumental->instrumental
@@ -26522,6 +26524,7 @@ litle->little
 litlle->little
 litres->liters
 litseners->listeners
+litte->little
 littel->little
 litteral->literal
 litterally->literally
