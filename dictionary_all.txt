@@ -31408,6 +31408,7 @@ otheer->other
 otherr->other
 other then->other than
 otherwisee->otherwise
+other wise->otherwise
 othher->other
 othwerise->otherwise
 ot->of
@@ -33489,6 +33490,7 @@ positiv->positive
 positivve->positive
 positon->position
 positon->position, positron
+positons->positions
 posittion->position
 posittive->positive
 posivites->positives
@@ -44555,6 +44557,7 @@ tranfer->transfer
 tranformed->transformed
 tranform->transform
 tranlation->translation
+tranmit->transmit
 trannsactionn->transaction
 trannsceiver->transceiver
 trannscenndennce->transcendence
@@ -46354,6 +46357,7 @@ ususally->usually
 utilies->utilities
 utilties->utilities
 utilty->utility
+utilzed->utilized
 uttimately->ultimately
 uttimatety->ultimately
 uubiquuitouus->ubiquitous
@@ -47672,6 +47676,7 @@ withh->with
 withing->within
 withinn->within
 withold->withhold
+with on->with one
 withouyt->without
 withspace->whitespace
 witht->with
@@ -47703,6 +47708,7 @@ wokr->work
 wondaerful->wonderful
 wondderful->wonderful
 wondeerful->wonderful
+wonderd->wondered
 wonderfful->wonderful
 wonderfull->wonderful
 wonderfut->wonderful
