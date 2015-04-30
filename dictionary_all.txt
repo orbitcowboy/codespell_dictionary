@@ -4744,6 +4744,7 @@ assauulted->assaulted
 asscenssion->ascension
 asscetic->ascetic
 ass checked->as checked
+assebler->assembler
 asseemblee->assemble
 asseertion->assertion
 assembble->assemble
@@ -4850,6 +4851,7 @@ assosication->assassination
 asspectss->aspects
 assphyxiation->asphyxiation
 asssassans->assassins
+asssembled->assembled
 asssessment->assessment
 asssignment->assignment
 assssassssin->assassin
@@ -12963,6 +12965,7 @@ declartion->declaration
 declartions->declarations
 decllaration->declaration
 decllare->declare
+decmial->decimal
 decomissioned->decommissioned
 decommiissiioned->decommissioned
 decommisioned->decommissioned
@@ -17574,6 +17577,7 @@ examinned->examined
 examle->example
 exammined->examined
 exammple->example
+examplar->exemplary
 examplifies->exemplifies
 examplle->example
 exampple->example
@@ -32346,6 +32350,7 @@ performmance->performance
 performmed->performed
 performmers->performers
 performms->performs
+perform of->performing of
 performss->performs
 perfromance->performance
 perfromed->performed
@@ -36581,7 +36586,6 @@ recrational->recreational
 recreaationaal->recreational
 recreaetionael->recreational
 recrealional->recreational
-re-create->recreate
 recreathional->recreational
 recreatiional->recreational
 recreationall->recreational
