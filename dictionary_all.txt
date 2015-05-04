@@ -24559,6 +24559,7 @@ interpretatioon->interpretation
 interprete->interpret
 interpretoor->interpretor
 interpretro->interpretor
+interptreter->interpreter
 interractive->interactive
 interrbrred->interbred
 interrbrreed->interbreed
@@ -34864,6 +34865,7 @@ programmablee->programmable
 programmablle->programmable
 programmabte->programmable
 programmaticaly->programmatically
+programminning->programming
 programmmer->programmer
 programmming->programming
 programmmmable->programmable
@@ -43110,6 +43112,7 @@ synoonymoous->synonymous
 synoonyms->synonyms
 synphony->symphony
 synronous->synchronous
+syntactica->syntactical
 syntatically->syntactically
 syphhilis->syphilis
 syphiiliis->syphilis
