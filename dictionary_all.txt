@@ -31867,6 +31867,7 @@ paraphernallia->paraphernalia
 paraphernatia->paraphernalia
 paraphernnalia->paraphernalia
 paraphhernalia->paraphernalia
+parathenses->parentheses
 parattel->parallel
 parattels->parallels
 parattet->parallel
