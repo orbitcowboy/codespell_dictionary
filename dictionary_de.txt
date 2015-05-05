@@ -196,6 +196,7 @@ Komillitone->Kommilitone
 Komission->Kommission
 Kommitee->Komitee
 kommmt->kommt
+konistenten->konsistenten
 konsilarisch->konsiliarisch
 Koordiantenarten->Koordinatenarten
 kovertieren->konvertieren
@@ -286,6 +287,7 @@ Religiösität->Religiosität
 reperatur->Reparatur
 Reperatur->Reparatur
 reperieren->reparieren
+reporduzieren->reproduzieren
 Representation->Repräsentation
 Repzepte->Rezepte
 requiremens->requirements
