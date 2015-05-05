@@ -2499,6 +2499,7 @@ agaiin->again
 agaiinst->against
 againn->again
 againnst->against
+agains->again
 agains->against
 againsit->against
 againsl->against
@@ -3646,6 +3647,7 @@ antarktik->antarctic
 antarrctic->antarctic
 antartic->antarctic
 antharcthic->antarctic
+anther->another
 anthhropologist->anthropologist
 anthhropologisth->anthropologist
 anthhropology->anthropology
@@ -5609,6 +5611,7 @@ awayy->away
 awckward->awkward
 awcward->awkward
 aweful->awful
+awfull->awful
 awhile->a while
 awkkward->awkward
 awkwardd->awkward
@@ -15643,6 +15646,7 @@ ecsthasy->ecstasy
 ecsttasy->ecstasy
 ectectic->eclectic
 ect->etc
+ect.->etc.
 ectipse->eclipse
 ectsasy->ecstasy
 edding->adding
@@ -19589,6 +19593,7 @@ fundammental->fundamental
 fundammentals->fundamentals
 funddamental->fundamental
 funddamentals->fundamentals
+fundementals->fundamentals
 funggi->fungi
 fungii->fungi
 funguses->fungi
@@ -22589,6 +22594,7 @@ implmemented->implemented
 implmementing->implementing
 implmentation->implementation
 implmented->implemented
+implment->implement
 imploys->employs
 impolile->impolite
 impolitae->impolite
@@ -24832,6 +24838,7 @@ invertebbrates->invertebrates
 invertebraates->invertebrates
 invertebraetes->invertebrates
 invertebratess->invertebrates
+invertet->inverted
 inverthebrathes->invertebrates
 invertibrates->invertebrates
 inverttebrattes->invertebrates
@@ -41740,6 +41747,7 @@ strickingly->strikingly
 strictaest->strictest
 stricteest->strictest
 strictist->strictest
+strightforward->straightforward
 striictest->strictest
 striikiingly->strikingly
 striingent->stringent
@@ -44850,6 +44858,7 @@ troups->troupes
 troups->troupes, troops
 troups->troupes, troops,
 troup->troupe
+trourgh->trough
 trouubles->troubles
 trouupes->troupes
 trouupe->troupe
@@ -46035,6 +46044,7 @@ unoficial->unofficial
 unoofficial->unofficial
 unoperational->nonoperational
 unoticeable->unnoticeable
+unpayable->unplayable
 unplaeasant->unpleasant
 unplaesant->unpleasant
 unpleaasaant->unpleasant
@@ -46339,6 +46349,7 @@ UserID->User ID
 usesrs->users
 usfull->useful
 usigned->unsigned
+usign->using
 usiing->using
 usind->using
 usingg->using
