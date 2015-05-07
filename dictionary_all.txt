@@ -6097,6 +6097,7 @@ behaviourr->behaviour
 behavious->behavior
 behaviouur->behaviour
 behaviro->behavior
+behavoir->behavior
 behavour->behavior
 behavour->behavior, behaviour
 behavour->behavior, behaviour,
@@ -20244,6 +20245,7 @@ grammatiically->grammatically
 grammatikally->grammatically
 grammattically->grammatically
 grammer->grammar
+grammers->grammars
 grammetical->grammatical
 grammmmar->grammar
 grammmmatically->grammatically
@@ -25901,6 +25903,7 @@ languagess->languages
 languague->language
 languagues->languages
 langugage->language
+languge->language
 languuage->language
 languuages->languages
 lannguage->language
@@ -27899,6 +27902,7 @@ mentatty->mentally
 menthally->mentally
 menthioned->mentioned
 mentiioned->mentioned
+menting->meting
 mentionedd->mentioned
 mentionend->mentioned
 mentionned->mentioned
@@ -36226,6 +36230,7 @@ reachingg->reaching
 reachinng->reaching
 reacing->reaching
 reacll->recall
+readabilty->readability
 readablity->readability
 readdmission->readmission
 readed->read
