@@ -4992,6 +4992,7 @@ Atemel->Atmel
 Atemga128a->Atmega128a
 Atemga128->Atmega128
 Atemga->Atmega
+Ateml->Atmel
 atempt->attempt
 atempted->attempted
 atempting->attempting
@@ -26018,6 +26019,7 @@ leaaner->leaner
 leaan->lean
 leaarn->learn
 leaarns->learns
+leades->leads
 leaegue->league
 leaener->leaner
 leaen->lean
@@ -34888,6 +34890,7 @@ programm's->program's
 programms->programs
 programnable->programmable
 programning->programming
+programs->program
 programss->programs
 progranmable->programmable
 progranming->programming
@@ -36237,6 +36240,7 @@ readdmission->readmission
 readed->read
 readibility->readability
 readiblity->readability
+readility->readability
 Read me->Readme
 readmiissiion->readmission
 readmision->readmission
@@ -40611,6 +40615,7 @@ souht->south
 sould->could
 sould->could, should, sold,
 sould->could, should, sold, soul
+souldnt->should not
 sould->should
 sould->sold
 soulhbridge->southbridge
