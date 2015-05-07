@@ -9,7 +9,6 @@ Akkustik->Akustik
 albel->Label
 allle->alle
 Amalgan->Amalgam
-geleichen->gleichen
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
 anbgeboten->angeboten
@@ -137,6 +136,7 @@ Geheimniss->Geheimnis
 Gehhllfen->Gehhilfen
 Gelantine->Gelatine
 gelegendlich->gelegentlich
+geleichen->gleichen
 Gernerierung->Generierung
 gesäht->gesät
 gesammt->gesamt

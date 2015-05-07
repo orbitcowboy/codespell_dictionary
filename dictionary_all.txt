@@ -24227,6 +24227,7 @@ instatt->install
 insteaad->instead
 insteadd->instead
 insteaed->instead
+insteaf->instead
 insteead->instead
 insthall->install
 insthance->instance
@@ -42023,6 +42024,7 @@ subcoonscioously->subconsciously
 subcribe->subscribe
 subctassed->subclassed
 subctass->subclass
+subdiretories->subdirectories
 sub-folder->subfolder
 subfolder->sub folder
 subjjugation->subjugation
@@ -46277,6 +46279,7 @@ unwwieldy->unwieldy
 unwwritten->unwritten
 upaanishaad->upanishad
 upadate->update
+upadted->updated
 upaenishaed->upanishad
 upaniishad->upanishad
 upanishadd->upanishad
