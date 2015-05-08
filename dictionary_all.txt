@@ -8886,6 +8886,7 @@ clooud->cloud
 cloudd->cloud
 clouud->cloud
 cltr->ctrl
+clumpsy->clumpy
 cmo->com
 cmo->com, disabled due to lots of false positives
 cmoputer->computer
@@ -18024,6 +18025,8 @@ experrienced->experienced
 experrience->experience
 experriment->experiment
 experriments->experiments
+expession->expression
+expessions->expressions
 expet->expel
 expets->expels
 expext->expect
@@ -19327,6 +19330,7 @@ forrwarrd->forward
 forsaw->foresaw
 forseeable->foreseeable
 fortelling->foretelling
+forth->fourth
 forthies->forties
 for thus->for this
 fortiaes->forties
@@ -30537,6 +30541,7 @@ obsitructed->obstructed
 obslacle->obstacle
 obslacles->obstacles
 obslrucled->obstructed
+obsolite->obsolete
 obssessed->obsessed
 obssessssed->obsessed
 obssessssion->obsession
@@ -34116,6 +34121,7 @@ precedess->precedes
 precediing->preceding
 precedingg->preceding
 precedinng->preceding
+preced->precede
 preceeded->preceded
 preceedence->precedence
 preceeding->preceding
@@ -46225,6 +46231,7 @@ untrranslatable->untranslatable
 untterminatted->unterminated
 unttil->until
 unttranslattable->untranslatable
+untuched->untouched
 untuitive->intuitive
 ununsed->unused
 unusaable->unusable
