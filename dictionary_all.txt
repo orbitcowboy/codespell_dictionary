@@ -14097,6 +14097,8 @@ diaegraemmaetic->diagrammatic
 diael->dial
 diaemonds->diamonds
 diaggrammatic->diagrammatic
+diagostic->diagnostic
+diagostics->diagnostics
 diagramatic->diagrammatic
 diagrammalic->diagrammatic
 diagrammathic->diagrammatic
@@ -41767,6 +41769,7 @@ strictaest->strictest
 stricteest->strictest
 strictist->strictest
 strightforward->straightforward
+strign->string
 striictest->strictest
 striikiingly->strikingly
 striingent->stringent
