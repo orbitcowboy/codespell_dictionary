@@ -7299,6 +7299,7 @@ cancelation->cancellation
 candadate->candidate
 canddiddate->candidate
 canddiddates->candidates
+can de performed->can be performed
 candiate->candidate
 candiates->candidates
 candidale->candidate
@@ -7369,6 +7370,7 @@ canonicat->canonical
 canonicatize->canonicalize
 canoniical->canonical
 canoniicaliize->canonicalize
+cano not->cannot
 canoonical->canonical
 canoonicalize->canonicalize
 canot->cannot
@@ -9976,6 +9978,7 @@ concaern->concern
 concaerning->concerning
 concatinate->concatenate
 concatinated->concatenated
+concatination->concatenation
 concating->concatenate
 concecptional->conceptual
 conceeiteed->conceited
@@ -10955,6 +10958,7 @@ contant->contact
 contant->contact,constant
 contants->constants
 contast->contrast
+contatc->contact
 contatenate->concatenate
 contatenates->concatenates
 contatining->containing
@@ -14995,6 +14999,7 @@ dissattisfacttion->dissatisfaction
 dissattisfied->dissatisfied
 dissciplined->disciplined
 disscomfort->discomfort
+dissconncted->disconnected
 dissconnectss->disconnects
 disscontent->discontent
 disscover->discover
@@ -17738,6 +17743,7 @@ Execl->Excel
 exection->execution
 exectuable->executable
 exectued->executed
+exectuted->executed
 execuation->execution
 execuled->executed
 execule->execute
@@ -45785,6 +45791,7 @@ uninitiallized->uninitialized
 uninitiatized->uninitialized
 uninittialized->uninitialized
 uninlerrupled->uninterrupted
+uninstaleed->uninstantiated
 uninstanciated->uninstantiated
 unint128_t->uint128_t
 unint16_t->uint16_t
