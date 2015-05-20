@@ -8,7 +8,6 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-Anforderrungen->Anforderungen
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -16,6 +15,7 @@ anbgeboten->angeboten
 and->an
 andersweitig->anderweitig
 and->und
+Anforderrungen->Anforderungen
 angzeigt->angezeigt
 Ärgerniss->Ärgernis
 Artzt->Arzt

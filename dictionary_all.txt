@@ -931,6 +931,7 @@ accordignly->accordingly
 accordiing->according
 accordiingly->accordingly
 accordiion->accordion
+according->according
 accordingg->according
 accordinggly->accordingly
 accordinglly->accordingly
@@ -1153,6 +1154,7 @@ acomplish->accomplish
 acomplished->accomplished
 acomplishment->accomplishment
 acomplishments->accomplishments
+acoording->according
 acooustic->acoustic
 acording->according
 acordingly->accordingly
@@ -1266,6 +1268,7 @@ actiively->actively
 actiiviitiies->activities
 actitivies->activities
 actitivities->activities
+actiual->actual
 activaded->activated
 activaely->actively
 activatae->activate
@@ -4381,6 +4384,7 @@ arguuments->arguments
 arials->aerials
 arised->arose
 arithemtic->arithmetic
+arithmatic->arithmetic
 arithmetik->arithmetic
 arival->arrival
 arkhaeologist->archaeologist
@@ -18968,6 +18972,7 @@ fites->files
 fitesystem->filesystem
 fixed bud->fixed bug
 fixed pint arithmetic->fixed point arithmetic
+fixel->pixel
 fixxed->fixed
 flaagged->flagged
 flaammaable->flammable
@@ -20221,6 +20226,7 @@ gracefful->graceful
 gracefull->graceful
 gracefut->graceful
 gracefuul->graceful
+gradent->gradient
 graeataer->greater
 graeataer than->greater than
 graeat->great
@@ -23591,6 +23597,7 @@ influuential->influential
 infomation->information
 infoormatioon->information
 inforamtion->information
+infor->information
 informaation->information
 informaetion->information
 informaiton->information
@@ -27263,6 +27270,7 @@ managment too->management tool
 managueable->manageable
 managueably->manageably
 managuement->management
+mananger->manager
 maneeuveerability->maneuverability
 maneeuveerablee->maneuverable
 maneeuveer->maneuver
@@ -40313,7 +40321,6 @@ slighlly->slightly
 slighly->slightly
 slighthly->slightly
 slightlyy->slightly
-slight->sleight
 slighttly->slightly
 slightty->slightly
 slighty->slightly
@@ -46873,6 +46880,7 @@ verthices->vertices
 verticces->vertices
 verticess->vertices
 verticies->vertices
+verticle->vertical
 vertiices->vertices
 vertikes->vertices
 verttices->vertices
