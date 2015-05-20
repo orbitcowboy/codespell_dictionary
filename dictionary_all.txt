@@ -931,7 +931,6 @@ accordignly->accordingly
 accordiing->according
 accordiingly->accordingly
 accordiion->accordion
-according->according
 accordingg->according
 accordinggly->accordingly
 accordinglly->accordingly
