@@ -21092,6 +21092,7 @@ hetterogeneous->heterogeneous
 heve->have
 hexadcimal->hexadecimal
 hexademical->hexadecimal
+hexdeciaml->hexadecimal
 hexdecimal->hexadecimal
 hexidecimal->hexadecimal
 hexidecmal->hexadecimal
@@ -30612,6 +30613,7 @@ ocassionaly->occasionally
 ocassioned->occasioned
 ocassion->occasion
 ocassions->occasions
+ocatal->octal
 occaasionaally->occasionally
 occaasionaal->occasional
 occaasioned->occasioned
@@ -42276,6 +42278,7 @@ suburbaen->suburban
 suburbann->suburban
 suburburban->suburban
 suburrban->suburban
+subvesion->subversion
 succaeaedaed->succeeded
 succaeaeding->succeeding
 succaeaeds->succeeds
