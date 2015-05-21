@@ -4384,6 +4384,7 @@ arials->aerials
 arised->arose
 arithemtic->arithmetic
 arithmatic->arithmetic
+arithmethic->arithmetic
 arithmetik->arithmetic
 arival->arrival
 arkhaeologist->archaeologist
