@@ -10880,6 +10880,7 @@ constructiion->construction
 construcutor->constructor
 construuction->construction
 construucts->constructs
+constsant->constant
 consts->constants
 consttantt->constant
 consttanttly->constantly
@@ -25105,6 +25106,7 @@ it kan still->it can still
 itnroduced->introduced
 itreration->iteration
 i tries->i tried
+its->it's
 it still can->it can still
 itt can sttill->it can still
 ittegal->illegal
@@ -33131,6 +33133,7 @@ poisin->poison
 poisonn->poison
 poisson->poison
 poistion->position
+poiting->pointing
 polaloes->potatoes
 Polian->Polish
 polical->political
