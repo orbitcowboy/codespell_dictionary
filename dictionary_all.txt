@@ -4773,6 +4773,7 @@ assesment->assessment
 assesst->assessed
 ass far->as far
 assian->asian
+assicoate->associate
 asside->aside
 assiggn->assign
 assiggns->assigns
@@ -7447,6 +7448,7 @@ Caracass->Caracas
 Caraccas->Caracas
 carachter->character
 caracterized->characterized
+caracters->characters
 caraeaer->career
 caraeaers->careers
 caraeful->careful
@@ -16008,6 +16010,7 @@ eficiently->efficiently
 efluence->effluence
 efort->effort
 eforts->efforts
+efucational->educational
 egde->edge
  e g.->e.g.
 e.g->e.g.
@@ -20531,6 +20534,7 @@ guidanke->guidance
 guidannce->guidance
 guiddance->guidance
 guidence->guidance
+guid->guide
 guidline->guideline
 guidlines->guidelines
 guiidance->guidance
@@ -32013,6 +32017,7 @@ particualr->particular
 particuarly->particularly
 particularily->particularly
 particularlyy->particularly
+particulary->particular
 particulary->particularly
 particullarlly->particularly
 particullar->particular
@@ -42330,6 +42335,7 @@ succeeeedeed->succeeded
 succeeeeding->succeeding
 succeeeeds->succeeds
 succeeeed->succeed
+succeesd->succeeds
 succeessees->successes
 succeessfully->successfully
 succeessful->successful
