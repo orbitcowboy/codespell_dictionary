@@ -14675,6 +14675,7 @@ disatisfied->dissatisfied
 disatrous->disastrous
 disatser->disaster
 disatsrous->disastrous
+discart->discard
 discciplined->disciplined
 disccomfort->discomfort
 discconneccts->disconnects
@@ -15287,6 +15288,7 @@ doees not->does not
 doeesn't->doesn't
 doen->done
 doenlt->does not
+doe not->does not
 doens->does
 doen't->doesn't
 doesn'l->doesn't
@@ -18537,6 +18539,7 @@ fakilitate->facilitate
 fakilitates->facilitates
 fakilities->facilities
 fakt->fact
+falles->falls
 fallse->false
 falsae->false
 falsee->false
@@ -21103,6 +21106,7 @@ hetp->help
 hetterogeneous->heterogeneous
 heve->have
 hexadcimal->hexadecimal
+hexadeciaml->hexadecimal
 hexademical->hexadecimal
 hexdeciaml->hexadecimal
 hexdecimal->hexadecimal
@@ -23725,6 +23729,7 @@ inilialize->initialize
 inilializing->initializing
 inilially->initially
 inital->initial
+initalisation->initialization
 initalise->initialise
 initalization->initialization
 initalized->initialized
@@ -29439,6 +29444,7 @@ mutilateed->mutilated
 mutiliated->mutilated
 mutillated->mutilated
 mutitated->mutilated
+mutliplexer->multiplexer
 mutliply->multiply
 muts exits->must exist
 mutticutturalism->multiculturalism
@@ -37723,6 +37729,7 @@ requierments->requirements
 requiired->required
 requiirement->requirement
 requiirements->requirements
+requird->required
 requiredd->required
 requiremenl->requirement
 requiremenls->requirements
@@ -39397,6 +39404,7 @@ seniro->senior
 sennior->senior
 sennse->sense
 sennsitive->sensitive
+senor->sensor
 sensiitiive->sensitive
 sensilive->sensitive
 sensithive->sensitive
