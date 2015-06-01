@@ -615,6 +615,7 @@ abundunt->abundant
 abunndannces->abundances
 abunndannt->abundant
 abust->abuts
+abut->about
 abuths->abuts
 abutss->abuts
 abutts->abuts
@@ -26075,6 +26076,7 @@ learnss->learns
 learrn->learn
 learrns->learns
 leathal->lethal
+lebael->label
 lechnicians->technicians
 lechnician->technician
 lechniques->techniques
@@ -31303,6 +31305,7 @@ optimizzations->optimizations
 optimmismm->optimism
 optimmizations->optimizations
 optionnal->optional
+optization->optimization
 optmizations->optimizations
 optmizing->optimizing
 optomism->optimism
@@ -42127,6 +42130,7 @@ subpoenna->subpoena
 subpooena->subpoena
 subppoena->subpoena
 subracted->subtracted
+subrountine->subroutine
 subsaequaently->subsequently
 subsaequaent->subsequent
 subsccribe->subscribe
