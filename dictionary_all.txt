@@ -988,6 +988,7 @@ accts->acts
 acctually->actually
 accuracyy->accuracy
 accurancy->accuracy
+accurary->accuracy
 accurences->occurrences
 accur->occur
 accurracy->accuracy
@@ -8528,6 +8529,7 @@ charakters->characters
 charasmatic->charismatic
 charater->character
 charaterized->characterized
+charaters->characters
 charcter->character
 chariismatiic->charismatic
 chariman->chairman
@@ -13648,6 +13650,7 @@ descirbes->describes
 descision->decision
 descisions->decisions
 descktop->desktop
+descprition->description
 descrepencies->discrepancies
 describbed->described
 describbe->describe
@@ -15487,6 +15490,7 @@ drier->driver
 driink->drink
 drinc->drink
 drinck->drink
+dring->drying
 drinkk->drink
 drinnk->drink
 drivability->driveability
@@ -21285,6 +21289,7 @@ higghligghtingg->highlighting
 higghway->highway
 highaer->higher
 highaest->highest
+highbyte->high byte
 higheer->higher
 higheest->highest
 higherr->higher
@@ -24646,6 +24651,7 @@ interruppts->interrupts
 interrups->interrupts
 interrupst->interrupts
 interruptss->interrupts
+Interruptvektoren->interrupt vectors
 interruupt->interrupt
 Interruupt->Interrupt
 interruupts->interrupts
@@ -26814,6 +26820,7 @@ lov->love
 lovve->love
 lowards->towards
 loward->toward
+lowbyte->low byte
 lraceabilily->traceability
 lradilionally->traditionally
 lradilional->traditional
@@ -34161,6 +34168,7 @@ precedinng->preceding
 preced->precede
 preceeded->preceded
 preceedence->precedence
+preceede->precede
 preceeding->preceding
 preceed->precede
 preceeds->precedes
@@ -41507,6 +41515,7 @@ stablle->stable
 stabl->stable
 stabte->stable
 stackoverlow->stackoverflow
+stackpointer->stack pointer
 staebility->stability
 staeble->stable
 staeinless->stainless
@@ -45662,6 +45671,7 @@ undetectaeble->undetectable
 undetektable->undetectable
 undethecthable->undetectable
 undettecttable->undetectable
+unde->under
 undicidable->undecidable
 undifined->undefined
 undooubtedly->undoubtedly
