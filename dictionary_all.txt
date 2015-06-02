@@ -499,6 +499,7 @@ abilty->ability
 abitities->abilities
 abitity->ability
 ablout->absolute, about
+aboive->above
 abondon->abandon
 abondoned->abandoned
 abondoning->abandoning
@@ -5985,6 +5986,7 @@ becomming->becoming
 becoomes->becomes
 becooming->becoming
 becouse->because
+becuas->because
 becuase->because
 bedone->be done
 bedore->before
@@ -7143,6 +7145,7 @@ calbibration->calibration
 calcalation->calculation
 calcluations->calculations
 calclulation->calculation
+calcualate->calculate
 calcualtion->calculation
 calcualtions->calculations
 calcuation->calculation
@@ -39402,6 +39405,7 @@ semaphroe->semaphore
 semapphore->semaphore
 semgentation->segmentation
 semikolon->semicolon
+semiliar->similar
 semmaphore->semaphore
 senarios->scenarios
 sence->sense
