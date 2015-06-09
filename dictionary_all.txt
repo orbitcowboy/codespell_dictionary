@@ -233,6 +233,7 @@ aantaarctic->antarctic
 aanthropologist->anthropologist
 aanthropology->anthropology
 aanthropomorphizaation->anthropomorphization
+a any->any
 aany other->any other
 aanything->anything
 aanywhere->anywhere
@@ -3015,6 +3016,8 @@ allottedd->allotted
 allotteed->allotted
 allotttted->allotted
 allowaed->allowed
+allowd->allowed
+allowe->allowed
 allowedd->allowed
 alloweed->allowed
 allowiing->allowing
@@ -5244,6 +5247,7 @@ attowing->allowing
 attribbute->attribute
 attribbuted->attributed
 attribbutes->attributes
+attribs->attributes
 attribuets->attributes
 attributae->attribute
 attributaed->attributed
@@ -9842,6 +9846,7 @@ compiliance->compliance
 compiliant->compliant
 compillation->compilation
 compiller->compiler
+compire->compiler
 compitation->compilation
 compitent->competent
 compiter->compiler
@@ -12607,6 +12612,7 @@ data base->database
 databse->database
 datafile->data file
 datafiles->data files
+datas->data
 Datase->Database
 datastrem->data stream
 data typae->data type
@@ -13823,6 +13829,7 @@ desppite->despite
 desribed->described
 desribe->describe
 desribes->describes
+desroyed->destroyed
 desscendant->descendant
 desscendantss->descendants
 desscribed->described
@@ -15450,6 +15457,7 @@ draems->dreams
 draeughtsmaen->draughtsman
 Draevidiaen->Dravidian
 draew->draw
+draggin->dragging
 draging->dragging
 draing->drained
 dramalic->dramatic
@@ -20749,6 +20757,8 @@ handting->handling
 hanged->hangs
 hangged->hanged
 hang-over->hangover
+hanlder->handler
+hanlders->handlers
 hanndlinng->handling
 hapend->happend
 hapends->happens
@@ -21949,6 +21959,7 @@ idiosynncratic->idiosyncratic
 idiosyyncrasyy->idiosyncrasy
 idiosyyncratic->idiosyncratic
 idnentifier->identifier
+ie.->i.e.
 iff->if
 iff one sets->if one sets
 iff you want->if you want
@@ -21962,6 +21973,7 @@ if ones set->if one sets
 if one ssetss->if one sets
 if onne sets->if one sets
 if oone sets->if one sets
+if will->it will
 if yoou want->if you want
 if youu want->if you want
 if you waant->if you want
@@ -25112,6 +25124,8 @@ iteem->item
 iteger->integer
 itegers->integers
 itemm->item
+itentifier->identifier
+itentifiers->identifiers
 iteratate->iterate
 iteraterate->iterate
 Ithaacaa->Ithaca
@@ -26993,6 +27007,7 @@ macos->macros
 madae->made
 madde->made
 madee->made
+madnesss->madness
 maeaerkat->meerkat
 maeaning->meaning
 maechanics->mechanics
@@ -28869,6 +28884,7 @@ modess->modes
 modet->model
 modetted->modelled
 modfiable->modifiable
+modfied->modified
 modfiied->modified
 modifed->modified
 modiffiable->modifiable
@@ -31561,6 +31577,7 @@ overrided->overridden
 overrided->overrides
 overriden->overridden
 overriidden->overridden
+overrride->override
 overrrridden->overridden
 overrrrun->overrun
 overrshadowed->overshadowed
@@ -31914,6 +31931,7 @@ parameeteer->parameter
 parameeteers->parameters
 parameler->parameter
 paramelers->parameters
+paramerers->parameters
 parameterss->parameters
 parametes->parameters
 paramether->parameter
@@ -32066,6 +32084,7 @@ partticipantts->participants
 partticularly->particularly
 partticular->particular
 partty->party
+partyl->partly
 partyy->party
 pary->party
 pased->passed
@@ -36719,6 +36738,7 @@ redeemingg->redeeming
 redeeminng->redeeming
 redeemming->redeeming
 redeming->redeeming
+redetermine->re-determine
 rediculous->ridiculous
 redristibutable->redistributable
 redudancy->redundancy
@@ -37108,6 +37128,7 @@ regislers->registers
 regisstered->registered
 regisster->register
 regissterss->registers
+registeration->registration
 registerd->registered
 registeredd->registered
 registhered->registered
@@ -39396,6 +39417,7 @@ selddom->seldom
 seldomly->seldom
 seldomm->seldom
 seldoom->seldom
+seleced->selected
 selecte->select
 selldom->seldom
 selllemenl->settlement
@@ -43553,6 +43575,7 @@ templaete->template
 templatess->templates
 templlates->templates
 templlate->template
+templte->template
 tempoorarily->temporarily
 tempoorary->temporary
 temporaarily->temporarily
@@ -44846,6 +44869,7 @@ trascation->transaction
 trasfered->transferred
 trasnaction->transaction
 trasverse->traverse
+travelsal->traversal
 travesal->traversal
 tray->try
 treatement->treatment
