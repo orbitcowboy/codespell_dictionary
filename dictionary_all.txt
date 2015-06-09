@@ -3892,6 +3892,7 @@ apperances->appearances
 apper->appear
 appereance->appearance
 appereances->appearances
+applaiction->application
 appliaction->application
 appliaed->applied
 appliation->application
@@ -6319,6 +6320,7 @@ bestiialiity->bestiality
 besttialitty->bestiality
 beteaguered->beleaguered
 beteen->between
+beter->better
 betgium->belgium
 bethween->between
 betief->belief
@@ -6733,6 +6735,7 @@ Britissh->British
 Brittain->Britain
 brittiant->brilliant
 Brittish->British
+brnaches->branches
 broaadcaast->broadcast
 broaadcaasting->broadcasting
 broaadly->broadly
@@ -27920,6 +27923,7 @@ mementho->memento
 mementoo->memento
 mementto->memento
 memeory->memory
+memmory->memory
 memoorable->memorable
 memoory->memory
 memoraable->memorable
@@ -31439,6 +31443,7 @@ orrigin->origin
 orrupt->corrupt
 orr without->or without
 orse->rose
+orthagonal->orthogonal
 orughly->roughly
 oruselves->ourselves
 or wihtout->or without
@@ -34304,6 +34309,7 @@ prefered->preferred
 prefering->preferring
 preferrable->preferable
 preferrably->preferably
+preferrably->preferrably
 preferredd->preferred
 preferriing->preferring
 preferringg->preferring
