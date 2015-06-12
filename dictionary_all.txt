@@ -4798,6 +4798,7 @@ assiign->assign
 assiigns->assigns
 assiistant->assistant
 assiist->assist
+assiming->assuming
 a ssimple->a simple
 assing->assign
 assisitant->assistant
@@ -9573,6 +9574,7 @@ commuications->communications
 commuinications->communications
 communcation->communication
 communciation->communication
+communciations->communications
 communiation->communication
 communicaation->communication
 communicaations->communications
@@ -17062,6 +17064,7 @@ epissode->episode
 epissodess->episodes
 eppisode->episode
 eppisodes->episodes
+eprom->EEPROM
 epsiode->episode
 eqaul->equal
 eqqual->equal
@@ -19572,6 +19575,7 @@ fufilled->fulfilled
 fufill->fulfill
 fuhtark->futhark
 fuhtorc->futhorc
+fujistu->Fujitsu
 fulfiilled->fulfilled
 fulfiill->fulfill
 fulfiled->fulfilled
@@ -39450,6 +39454,7 @@ sennsitive->sensitive
 senor->sensor
 sensiitiive->sensitive
 sensilive->sensitive
+sensisitive->sensitiveness
 sensithive->sensitive
 sensitivee->sensitive
 sensitiv->sensitive
@@ -39484,6 +39489,7 @@ separalion->separation
 separalisl->separatist
 separalism->separatism
 separalor->separator
+separataed->separated
 separatedd->separated
 separatedly->separately
 separatelly->separately
@@ -41053,6 +41059,7 @@ splendourr->splendour
 splendouur->splendour
 splenndour->splendour
 spliting->splitting
+splitted->split
 spllendour->splendour
 spoace->space
 sponfuls->spoonfuls
