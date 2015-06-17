@@ -5467,6 +5467,7 @@ autor->author
 autoritative->authoritative
 autorities->authorities
 autority->authority
+autorship->authorship
 Autsralia->Australia
 Autsralian->Australian
 autthor->author
@@ -7336,6 +7337,7 @@ candiidate->candidate
 candiidates->candidates
 canditates->candidates
 canges->changes
+can have only->can only have
 caniister->canister
 caniisters->canisters
 canisiter->canister
@@ -15297,6 +15299,7 @@ docummented->documented
 documments->documents
 documnent->document
 documnets->documents
+docunenting->documenting
 docuumentary->documentary
 docuumentation->documentation
 docuument->document
@@ -19613,6 +19616,7 @@ functinal->functional
 functin->function
 functio->function
 functionalies->functionalities
+functionality's->functionalities
 functioningg->functioning
 functionining->functioning
 functioon->function
@@ -22599,6 +22603,7 @@ impleemeent->implement
 impleemeenting->implementing
 implemantation->implementation
 implemenatation->implementation
+implemenation->implementation
 implemenlalion->implementation
 implemenled->implemented
 implemenl->implement
@@ -24882,6 +24887,10 @@ inumerable->innumerable
 invaentor->inventor
 invaertaebrataes->invertebrates
 invaestigatae->investigate
+invaid->invalid
+invaId->invalid
+invajd->invalid
+invald->invalid
 invalide->invalid
 inveentor->inventor
 inveertebrates->invertebrates
