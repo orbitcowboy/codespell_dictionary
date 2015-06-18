@@ -1259,6 +1259,7 @@ acrooss->across
 acros->across
 acrossss->across
 acrross->across
+ACSII->ASCII
 acthivathe->activate
 acthivathed->activated
 acthively->actively
@@ -17525,6 +17526,7 @@ evoluutionary->evolutionary
 evolveability->evolvability
 evoolutioonary->evolutionary
 evotutionary->evolutionary
+evreything->everything
 evry->every
 evrything->everything
 evry time->every time
@@ -27992,6 +27994,7 @@ mentionning->mentioning
 mentiooned->mentioned
 menttally->mentally
 menttioned->mentioned
+menubar->menu bar
 meny->many
 meory->memory
 meranda->Miranda
@@ -35232,6 +35235,7 @@ proove->prove
 proovided->provided
 proovides->provides
 proovincial->provincial
+prooving->proving
 proovisioonal->provisional
 proovisioon->provision
 proovoocative->provocative
@@ -40680,6 +40684,7 @@ sorces->sources
 sorkerer->sorcerer
 sorrcerrerr->sorcerer
 sorrounding->surrounding
+sorrt->sorry
 soruce->source
 sosftware->software
 sotdiers->soldiers
@@ -40913,6 +40918,8 @@ speciatized->specialized
 specieid->specified
 specifc->specific
 specifed->specified
+specifer->specifier
+specifers->specifiers
 speciffic->specific
 speciffied->specified
 speciffying->specifying
@@ -47861,6 +47868,7 @@ wonderfuul->wonderful
 wonderrful->wonderful
 wondow->window
 wonnderful->wonderful
+wont't->won't
 wont->won't
 woonderful->wonderful
 woords->words
