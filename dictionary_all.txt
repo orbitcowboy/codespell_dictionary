@@ -20125,6 +20125,8 @@ gllamorous->glamorous
 gllowed->allowed
 gloabl->global
 gloabls->globals
+gloassar->glossary
+gloassary->glossary
 glocal->global
 glosary->glossary
 glossar->glossary
