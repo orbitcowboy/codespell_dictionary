@@ -1327,6 +1327,7 @@ adapteer->adapter
 adapterr->adapter
 adapth->adapt
 adapther->adapter
+adaption->adaptation
 adaptions->adaptations
 adaptor->adapter
 adaptt->adapt
@@ -1600,6 +1601,7 @@ admiththed->admitted
 admiththedly->admittedly
 admitled->admitted
 admitledly->admittedly
+admitt->admit
 admittaed->admitted
 admittaedly->admittedly
 admittedlly->admittedly
@@ -5532,6 +5534,7 @@ availabilily->availability
 availabilithy->availability
 availabilitty->availability
 availabilityy->availability
+availablable->available
 availablae->available
 availablee->available
 availablity->availability
@@ -6950,6 +6953,8 @@ bussinessssess->businesses
 bussinessssman->businessman
 bussy->busy
 buton->button
+buttefly->butterfly
+buttiful->beautiful
 buttton->button
 Buuddha->Buddha
 Buuddhist->Buddhist
@@ -8782,6 +8787,7 @@ circummcision->circumcision
 circumsicion->circumcision
 circutation->circulation
 circut->circuit
+circutry->circuitry
 circuts->circuits
 circuuit->circuit
 circuulation->circulation
@@ -9595,6 +9601,7 @@ communiicatiion->communication
 communiicatiions->communications
 communiitiies->communities
 communilies->communities
+communitcates->communicates
 communitcation->communication
 communites->communities
 communithies->communities
@@ -10120,6 +10127,7 @@ conditions off->conditions of
 conditionss->conditions
 conditionss of->conditions of
 conditon->condition
+conditons->conditions
 condittion->condition
 condittions->conditions
 condittions of->conditions of
@@ -11024,6 +11032,7 @@ contendder->contender
 contenderr->contender
 contendor->contender
 contens->content
+contens->contents
 contentes->contents
 conthacth->contact
 conthains->contains
@@ -11884,6 +11893,7 @@ could hav->could have
 could havee->could have
 could havve->could have
 could hhave->could have
+couldn->couldn't
 couldn'l->couldn't
 could nnot->could not
 couldnn't->couldn't
@@ -12620,6 +12630,8 @@ datafile->data file
 datafiles->data files
 datas->data
 Datase->Database
+datasteam->data stream
+data stream->data stream
 datastrem->data stream
 data typae->data type
 datatyp->data type
@@ -13591,9 +13603,11 @@ deram->dram, dream
 deram->dram, dream,
 deram->dream
 derectory->directory
+derefence->dereference
 derefencing->dereferencing
 dereferance->dereference
 dereferenccing->dereferencing
+dereferenc->dereference
 dereferenceable->dereferencable
 dereferenciing->dereferencing
 dereferencingg->dereferencing
@@ -14154,6 +14168,7 @@ diamondss->diamonds
 diamonnds->diamonds
 diamons->diamonds
 diamoonds->diamonds
+diaram->diagram
 diaster->disaster
 diat->dial
 dicchotomy->dichotomy
@@ -16913,6 +16928,7 @@ entitlied->entitled
 entitlled->entitled
 entitted->entitled
 entityy->entity
+entrency->entrancy
 entrepeneur->entrepreneur
 entrepeneurs->entrepreneurs
 entreppreneur->entrepreneur
@@ -20390,6 +20406,7 @@ griief->grief
 grooup->group
 groow->grow
 gropu->group
+groundspeed->ground speed
 GroupID->Group ID
 groupp->group
 grouup->group
@@ -31545,6 +31562,7 @@ outpulting->outputting
 outputing->outputting
 outputling->outputting
 out put->output
+out puts->outputs
 outputtiing->outputting
 outputtingg->outputting
 outputtinng->outputting
@@ -31580,6 +31598,7 @@ oveer there->over there
 oveerun->overrun
 oveerwheelming->overwhelming
 oveerwhelming->overwhelming
+overcomplicated->over complicated
 over head->overhead
 over htere->over there
 overidden->overridden
@@ -33747,6 +33766,7 @@ powerfut->powerful
 powerfuul->powerful
 powerrful->powerful
 powerr->power
+powersupply->power supply
 powwerful->powerful
 powwer->power
 poxy->proxy
@@ -40704,6 +40724,7 @@ sotyr->satyr, story
 sotyr->satyr, story,
 sotyr->story
 souce->source
+souces->sources
 soucr code->source code
 soucre->source
 soudn->sound
@@ -44700,6 +44721,7 @@ tranfer->transfer
 tranformed->transformed
 tranform->transform
 tranlation->translation
+tranmitter->transmitter
 tranmit->transmit
 trannsactionn->transaction
 trannsceiver->transceiver
@@ -47511,6 +47533,7 @@ wastteful->wasteful
 watcchdog->watchdog
 watchddog->watchdog
 watchdogg->watchdog
+watchdogtimer->watchdog timer
 watchdoog->watchdog
 watchhdog->watchdog
 watchodg->watchdog
