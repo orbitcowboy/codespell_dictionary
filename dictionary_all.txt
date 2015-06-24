@@ -6947,6 +6947,7 @@ businness->business
 businnesses->businesses
 businnessmann->businessman
 busness->business
+busses->buses
 bussiness->business
 bussinessss->business
 bussinessssess->businesses
@@ -10132,6 +10133,7 @@ condittion->condition
 condittions->conditions
 condittions of->conditions of
 condtion->condition
+condtions->conditions
 conecpt->concept
 conected->connected
 Conecticut->Connecticut
@@ -17212,6 +17214,7 @@ errected->erected
 errenous->erroneous
 errer->error
 erro->error
+erronenous->erroneous
 erroneousely->erroneously
 erroneouss->erroneous
 erroneouus->erroneous
@@ -17347,6 +17350,7 @@ esttablishing->establishing
 esttimatted->estimated
 etapsed->elapsed
 etcc->etc
+etc->etc.
 etct->etc
 etected->elected
 etection->election
@@ -19601,6 +19605,7 @@ fujistu->Fujitsu
 fulfiilled->fulfilled
 fulfiill->fulfill
 fulfiled->fulfilled
+fulfil->fulfill
 fulfillaed->fulfilled
 fulfilledd->fulfilled
 fulfilleed->fulfilled
@@ -23288,6 +23293,7 @@ independantly->independently
 independece->independence
 independencce->independence
 independendet->independent
+independend->independent
 independenke->independence
 independenl->independent
 independenlly->independently
@@ -28485,6 +28491,7 @@ Mirannda->Miranda
 mircocontroller->microcontroller
 mirco->micro
 Mircosoft->Microsoft
+mircrocontroller->microcontroller
 Mircrosoft->Microsoft
 mirgate->migrate
 mirgration->migration
@@ -35063,6 +35070,7 @@ prolegomenaa->prolegomena
 prolegomenae->prolegomena
 prolegomenna->prolegomena
 prolegommena->prolegomena
+prolems->problems
 prolifaeration->proliferation
 prolifeeration->proliferation
 proliferaation->proliferation
@@ -38020,6 +38028,7 @@ resourcces->resources
 resourkes->resources
 resouurces->resources
 respecctively->respectively
+respecive->respective
 respeclively->respectively
 respecthively->respectively
 respectiively->respectively
@@ -40951,6 +40960,7 @@ specifiaclly->specifically
 specificaiton->specification
 specificall->specifically
 specificied->specified
+specifiction->specification
 specificy->specify
 specifiedd->specified
 specifiying->specifying
@@ -45682,6 +45692,7 @@ undaerground->underground
 undaerstood->understood
 undaesirablae->undesirable
 undaetaectablae->undetectable
+und->and
 undconditional->unconditional
 unddeciddable->undecidable
 unddefinable->undefinable
