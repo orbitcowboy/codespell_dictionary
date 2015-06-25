@@ -1345,6 +1345,7 @@ addddress->address
 addddressedd->addressed
 addddresses->addresses
 addddressing->addressing
+addded->added
 adddress->address
 added added->added
 addequate->adequate
@@ -3446,6 +3447,7 @@ and theen->and then
 and then and then->and then
 and thhen->and then
 and tthen->and then
+and und->and
 angeled->angled
 anggina->angina
 angiina->angina
@@ -4630,6 +4632,7 @@ as checkled->as checked
 as cheeckeed->as checked
 as cheked->as checked
 as chhecked->as checked
+ASCI->ASCII
 ascpect->aspect
 ascpects->aspects
 aseembly->assembly
@@ -45693,6 +45696,7 @@ undaerstood->understood
 undaesirablae->undesirable
 undaetaectablae->undetectable
 und->and
+und and->and
 undconditional->unconditional
 unddeciddable->undecidable
 unddefinable->undefinable
