@@ -4354,6 +4354,7 @@ archivied->archived
 archivved->archived
 archtype->archetype
 archtypes->archetypes
+arctile->article
 aready->already
 areodynamics->aerodynamics
 arested->arrested
@@ -10212,6 +10213,7 @@ configuree->configure
 configurrable->configurable
 configurration->configuration
 configurre->configure
+configurses->configures
 configurting->configuring
 configuurable->configurable
 configuuration->configuration
@@ -11132,6 +11134,7 @@ contorversial->controversial
 contorversies->controversies
 contorversy->controversy
 contrain->constraint
+contrains->constrains
 contraint->constraint
 contraints->constraints
 contravercial->controversial
@@ -18383,6 +18386,7 @@ exttremophile->extremophile
 exxacerbated->exacerbated
 exxacerbate->exacerbate
 exxact->exact
+exxactly->exactly
 exxaggerated->exaggerated
 exxaggerate->exaggerate
 exxaggerates->exaggerates
@@ -23782,6 +23786,7 @@ inhhabitants->inhabitants
 inhherently->inherently
 inhheritance->inheritance
 inifity->infinity
+iniitialize->initialize
 inilialed->initiated
 inilial->initial
 inilialion->initiation
@@ -24795,7 +24800,9 @@ intialized->initialized
 intialize->initialize
 intializers->initializers
 intially->initially
+intiialize->initialize
 intitial->initial
+intitialization->initialization
 intoduced->introduced
 in to->into
 intoo->into
@@ -25112,6 +25119,7 @@ is able to able to->is able to
 isalha->isalpha
 is check for->is checked for
 is check that->is checked that
+is configures->is configured
 isince->since
 is is->is
 is is->it is
@@ -28253,6 +28261,7 @@ micricontroller->microcontroller
 microconlroller->microcontroller
 microconntroller->microcontroller
 microconthroller->microcontroller
+microcontoller->microcontroller
 microcontoller->mircrocontroller
 microcontroler->microcontroller
 microcontrollaer->microcontroller
@@ -36612,6 +36621,7 @@ recipientts->recipients
 recippient->recipient
 recippients->recipients
 recived->received
+reciver->receiver
 recivership->receivership
 recoggnise->recognise
 recoggnized->recognized
@@ -36628,6 +36638,7 @@ recognizze->recognize
 recognnise->recognise
 recognnized->recognized
 recognnize->recognize
+recomendation->recommendation
 recomendations->recommendations
 recomended->recommended
 recomending->recommending
@@ -39653,6 +39664,7 @@ seriall->serial
 seriat->serial
 seriell->serial
 seriial->serial
+serivce->service
 serperated->separated
 serrgeant->sergeant
 serrial->serial
