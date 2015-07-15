@@ -8,6 +8,9 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
+Heruasforderung->Herausforderung
+Einschagskrater->Einschlagskrater
+Einschag->Einschlag
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse

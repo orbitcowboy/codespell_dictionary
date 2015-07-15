@@ -3710,15 +3710,18 @@ anually->annually
 anulled->annulled
 an unique->a unique
 anwer->answer
+anwers->answers
 anwsered->answered
 anwyays->anyways
 any body->anybody
+anychance->any chance
 anyhting->anything
 anyhwere->anywhere
 anylhing->anything
 any ohter->any other
 any olher->any other
 any one->anyone
+anyoned->annoyed
 any oother->any other
 any oter->any other
 any othaer->any other
@@ -8613,6 +8616,7 @@ checksunming->checksumming
 checksunning->checksumming
 checksuumming->checksumming
 checkung->checking
+checout->checkout
 cheeat->cheat
 cheeck->check
 cheecksumming->checksumming
@@ -13717,6 +13721,7 @@ descripters->descriptors
 descripthion->description
 descripthor->descriptor
 descripthors->descriptors
+descriptionm->description
 descriptionn->description
 descriptioon->description
 descripton->description
@@ -13915,6 +13920,8 @@ destinatioons->destinations
 destinnationn->destination
 destinnationns->destinations
 destinned->destined
+destintaion->destintaion
+destionation->destination
 destionations->destinations
 destory->destroy
 destrcuted->destructed
@@ -21951,6 +21958,7 @@ identifer->identifier
 identifers->identifiers
 identiffier->identifier
 identiffiers->identifiers
+identifiction->identification
 identifierr->identifier
 identifierrs->identifiers
 identifierss->identifiers
@@ -23277,6 +23285,7 @@ indempothenth->indempotent
 indempottentt->indempotent
 indemppotent->indempotent
 indendation->indentation
+indendentification->identification
 indenlalion->indentation
 indenled->indented
 indentaation->indentation
@@ -24643,6 +24652,7 @@ interger->integer
 intergrated->integrated
 intergration->integration
 interimm->interim
+interion->interior
 interkhangeable->interchangeable
 interkhangeably->interchangeably
 interkontinental->intercontinental
@@ -27667,6 +27677,8 @@ martyreed->martyred
 martyyred->martyred
 Masachusetts->Massachusetts
 masaer->maser
+maschine->machine
+maschines->machines
 maseer->maser
 maserr->maser
 masiturbation->masturbation
@@ -31910,6 +31922,7 @@ palleollithic->paleolithic
 Pallestinian->Palestinian
 Pallestinians->Palestinians
 pallete->palette
+pallete->pallet
 pallette->palette
 pamflet->pamphlet
 pammphlet->pamphlet
@@ -33381,6 +33394,7 @@ pomegrranate->pomegranate
 pommegranate->pomegranate
 pomotion->promotion
 ponint->point
+ponter->pointer
 pooem->poem
 pooems->poems
 pooetry->poetry
@@ -44895,6 +44909,7 @@ transmittion->transmission
 transmmissible->transmissible
 transmmitting->transmitting
 transparancy->transparency
+transpararency->transparency
 transpoortatioon->transportation
 transporation->transportation
 transportatiion->transportation
