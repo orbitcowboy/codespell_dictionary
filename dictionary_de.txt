@@ -8,9 +8,6 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-Heruasforderung->Herausforderung
-Einschagskrater->Einschlagskrater
-Einschag->Einschlag
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -89,6 +86,8 @@ eigendlich->eigentlich
 einaml->einmal
 Einflußgrößen->Einflussgrößen
 eingschaltet->eingeschaltet
+Einschag->Einschlag
+Einschagskrater->Einschlagskrater
 Einstellingen->Einstellungen
 einzelnd->einzeln
 einzigste->einzige
@@ -155,6 +154,7 @@ hälst->hältst
 Haurat->Hausrat
 herraus->heraus
 herrum->herum
+Heruasforderung->Herausforderung
 hiefür->hierfür
 Hinderniss->Hindernis
 Hinweiss->Hinweis

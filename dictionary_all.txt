@@ -17364,7 +17364,6 @@ esttablishing->establishing
 esttimatted->estimated
 etapsed->elapsed
 etcc->etc
-etc->etc.
 etct->etc
 etected->elected
 etection->election
