@@ -15448,6 +15448,7 @@ doubele->double
 doublae->double
 doublce->double
 doubl->doubt
+doubleclicking->double clicking
 doublee->double
 doublle->double
 doubte->double
@@ -18878,6 +18879,7 @@ fiel->field
 fiel->file
 fielld->field
 fiellds->fields
+fielling->filling
 fiel->phial
 fiels->feels
 fiels->feels, fields, files, phials
@@ -33749,6 +33751,7 @@ posthummous->posthumous
 posthuumouus->posthumous
 postion->position
 postive->positive
+postives->positives
 postprocessing->post processing
 postprocessor->post processor
 postprocessors->post processors
@@ -36123,6 +36126,7 @@ rabinical->rabbinical
 rabinnical->rabbinical
 racaus->raucous
 raddioactive->radioactive
+radiactive->radiative
 radiactive->radioactive
 radify->ratify
 radiioactiive->radioactive
