@@ -35042,7 +35042,6 @@ programm's->program's
 programms->programs
 programnable->programmable
 programning->programming
-programs->program
 programss->programs
 progranmable->programmable
 progranming->programming
