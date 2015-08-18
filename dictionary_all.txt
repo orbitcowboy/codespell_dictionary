@@ -12080,6 +12080,7 @@ coverted->converted, covered, coveted
 coverted->converted, covered, coveted,
 coverted->covered
 coverted->coveted
+Coverty->Coverity
 covetedd->coveted
 covethed->coveted
 covetted->coveted
@@ -25208,6 +25209,7 @@ it kan still->it can still
 itnroduced->introduced
 itreration->iteration
 i tries->i tried
+it sports->it supports
 it still can->it can still
 itt can sttill->it can still
 ittegal->illegal
@@ -34533,6 +34535,7 @@ preperation->preparation
 preperations->preparations
 prepocessor->preprocessor
 prepresent->represent
+preprocesser->preprocessor
 preriod->period
 prerogaative->prerogative
 prerogaetive->prerogative
@@ -40098,6 +40101,7 @@ signatroy->signatory
 signats->signals
 signattories->signatories
 signattory->signatory
+signdedness->signedness
 signes->signs
 signficant->significant
 signficiant->significant
@@ -43935,6 +43939,7 @@ theorry->theory
 theoryy->theory
 theraefter->thereafter
 therafter->thereafter
+the rational->the rationale
 therby->thereby
 thereaafter->thereafter
 thereaefter->thereafter
@@ -47225,6 +47230,7 @@ visitorrs->visitors
 visitros->visitors
 visitting->visiting
 visittors->visitors
+visity->visit
 vissible->visible
 vissibly->visibly
 vissiting->visiting
