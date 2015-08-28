@@ -13774,6 +13774,7 @@ desination->destination
 desinations->destinations
 desin->design
 desing->design
+desinger->designer
 desintegrated->disintegrated
 desintegration->disintegration
 desiraable->desirable
@@ -23298,6 +23299,7 @@ indentatioon->indentation
 indenthathion->indentation
 indenthed->indented
 indentical->identical
+indentifers->identifiers
 indentified->identified
 indentifier->identifier
 indentify->identify
@@ -31401,6 +31403,7 @@ optiimiizatiions->optimizations
 optimissm->optimism
 optimizaations->optimizations
 optimizaetions->optimizations
+optimizating->optimization
 optimizationns->optimizations
 optimizationss->optimizations
 optimizzations->optimizations
