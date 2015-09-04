@@ -2905,6 +2905,7 @@ allained->attained
 allbeit->albeit
 allcoholl->alcohol
 allcohollic->alcoholic
+alle->all
 alledge->allege
 alledged->alleged
 alledgedly->allegedly
@@ -3409,6 +3410,8 @@ ancesttry->ancestry
 ancetsors->ancestors
 ancetsral->ancestral
 ancetsry->ancestry
+anchestor->ancestor
+anchestors->ancestors
 anciillary->ancillary
 ancilary->ancillary
 ancillarry->ancillary
@@ -3708,6 +3711,7 @@ antthropomorphizattion->anthropomorphization
 anual->annual
 anually->annually
 anulled->annulled
+an uniform level->a uniform level
 an unique->a unique
 anwer->answer
 anwers->answers
@@ -17145,6 +17149,7 @@ equillibrium->equilibrium
 equimpemnet->equipment
 equiped->equipped
 equipement->equipment
+equipemnt->equipment
 equipmenl->equipment
 equipmennt->equipment
 equipmenth->equipment
@@ -21969,6 +21974,7 @@ identifierrs->identifiers
 identifierss->identifiers
 identifing->identifying
 identifiy->identify
+identifyable->identifiable
 identikal->identical
 identtical->identical
 identtifier->identifier
@@ -38151,6 +38157,7 @@ ressignment->resignment
 ressisstance->resistance
 ressisstant->resistant
 ressisstible->resistible
+ressource->resource
 ressources->resources
 ressourcess->resources
 resspectively->respectively
@@ -42218,6 +42225,7 @@ subctass->subclass
 subdiretories->subdirectories
 sub-folder->subfolder
 subfolder->sub folder
+subivided->subdivided
 subjjugation->subjugation
 subjudgation->subjugation
 subjugaation->subjugation
