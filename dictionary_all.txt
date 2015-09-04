@@ -10578,6 +10578,7 @@ conqured->conquered
 conquuered->conquered
 conquueror->conqueror
 conquuerors->conquerors
+conrolled->controlled
 consaecutivae->consecutive
 consaensus->consensus
 consaent->consent
@@ -13299,6 +13300,7 @@ defined ass globalss->defined as globals
 defineded->defined
 definetely->definitely
 definetly->definitely
+definied->defined
 definile->definite
 definilely->definitely
 definilion->definition
@@ -31001,6 +31003,7 @@ ofter->often
 of thae->of the
 of thee->of the
 ofthen->often
+oft he->of the
 ofthe->of the
 of thhe->of the
 oftten->often
