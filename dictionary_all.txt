@@ -776,6 +776,7 @@ accomadates->accommodates
 accomadating->accommodating
 accomadation->accommodation
 accomadations->accommodations
+accomanying->accompanying
 accomdate->accommodate
 accommmmodate->accommodate
 accommmmodated->accommodated
@@ -4363,6 +4364,7 @@ archtype->archetype
 archtypes->archetypes
 arctile->article
 aready->already
+are are->are
 areodynamics->aerodynamics
 arested->arrested
 arfrican->african
@@ -10153,6 +10155,7 @@ Conecticut->Connecticut
 conectional->conceptual
 conection->connection
 conectix->connectix
+conecutively->consecutively
 conencted->connected
 conent->content
 conesencus->consensus
@@ -12676,6 +12679,7 @@ dauub->daub
 dauughter->daughter
 days latter->days later
 dcoument->document
+dcument->document
 ddahl->dahl
 ddaiquiri->daiquiri
 ddalmatian->dalmatian
@@ -15208,6 +15212,7 @@ disttributtion->distribution
 disttrictts->districts
 ditapidated->dilapidated
 ditemma->dilemma
+ditig->digit
 ditributed->distributed
 ditsinction->distinction
 ditsinctive->distinctive
@@ -30573,6 +30578,7 @@ numaerous->numerous
 numbaers->numbers
 numbbers->numbers
 numbeers->numbers
+numberin->numbering
 numberous->numerous
 numberrs->numbers
 numberss->numbers
@@ -34567,6 +34573,7 @@ presencce->presence
 presenke->presence
 presennce->presence
 presense->presence
+preserial->pre-serial
 preservee->preserve
 preserv->preserve
 preservve->preserve
@@ -39681,6 +39688,7 @@ sepuulcher->sepulcher
 sepuulchre->sepulchre
 seqence->sequence
 seqeunce->sequence
+sequencies->sequences
 sequnce->sequence
 sequnece->sequence
 sergaent->sergeant
@@ -39847,6 +39855,7 @@ shamen->shaman, shamans
 shamen->shaman, shamans,
 shamman->shaman
 shammans->shamans
+shange->change
 shareing->sharing
 shariing->sharing
 sharingg->sharing
@@ -45247,6 +45256,7 @@ tterrittory->territory
 tterroristt->terrorist
 ttestticular->testicular
 tthan->than
+tthat->that
 tthatt's->that's
 tthatt->that
 ttheatter->theater
