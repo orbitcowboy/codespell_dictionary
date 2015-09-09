@@ -3621,6 +3621,7 @@ anonymily->anonymity
 anonymithy->anonymity
 anonymitty->anonymity
 anonymmity->anonymity
+anonyous->anonymous
 anonyymityy->anonymity
 anooint->anoint
 anoointed->anointed
@@ -11875,6 +11876,7 @@ corwn->crown
 cosinus->cosine
 costitution->constitution
 costom->custom
+costum->custom
 costumer->customer
 cotander->colander
 cotent->content
@@ -16591,6 +16593,7 @@ enameledd->enameled
 enameted->enameled
 enammeled->enameled
 enble->enable
+encancements->enhancements
 enccodding->encoding
 enccoddings->encodings
 enccouraging->encouraging
