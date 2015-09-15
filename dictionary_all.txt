@@ -770,6 +770,7 @@ acclimmatization->acclimatization
 accllimatization->acclimatization
 accnowledged->acknowledged
 accnowledging->acknowledging
+accocate->allocate
 accomadate->accommodate
 accomadated->accommodated
 accomadates->accommodates
@@ -2723,6 +2724,7 @@ airrcraft->aircraft
 airrcrraft->aircraft
 airrporrt->airport
 airrporrts->airports
+airworhiness->airworthiness
 aisian->asian
 ajust->adjust
 ajustments->adjustments
@@ -3927,6 +3929,7 @@ applicationss->applications
 applicatioon->application
 applicatioons->applications
 applicatiosn->applications
+applicaton->application
 applicatons->applications
 applicattion->application
 applicattions->applications
@@ -8134,6 +8137,7 @@ ccontender->contender
 ccontent->content
 ccontiguous->contiguous
 ccontingent->contingent
+ccontinious->continious
 ccontinually->continually
 ccontinue->continue
 ccontinued->continued
@@ -9802,6 +9806,7 @@ compelilions->competitions
 compelilive->competitive
 compeliliveness->competitiveness
 compelilors->competitors
+compenent->competent
 compennsationn->compensation
 compensaation->compensation
 compensaetion->compensation
@@ -9811,6 +9816,7 @@ compensathion->compensation
 compensatiion->compensation
 compensattion->compensation
 compenssation->compensation
+compentent->competent
 comperator->comparator
 competance->competence
 competant->competent
@@ -17165,6 +17171,7 @@ equipmennt->equipment
 equipmenth->equipment
 equipmentt->equipment
 equipmment->equipment
+equipmpent->equipment
 equippedd->equipped
 equippment->equipment
 equipppped->equipped
@@ -25164,6 +25171,8 @@ isnt->is not
 isnt->isn't
 isnt->isn\"t
 isnt'->isn't
+isntruction->instruction
+isntructions->instructions
 isn'tt->isn't
 Israaelis->Israelis
 Israeelis->Israelis
@@ -30117,6 +30126,7 @@ niccel->nickel
 nicce->nice
 nicckel->nickel
 nicee->nice
+niceity->nicety
 nickael->nickel
 nickeel->nickel
 nickell->nickel
@@ -42233,6 +42243,8 @@ subconsciouslly->subconsciously
 subconsciouslyy->subconsciously
 subconsciousty->subconsciously
 subconsiously->subconsciously
+subcontracotrs->subcontractors
+subcontracotr->subcontractor
 subcoonscioously->subconsciously
 subcribe->subscribe
 subctassed->subclassed
