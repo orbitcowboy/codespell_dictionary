@@ -2724,7 +2724,11 @@ airrcraft->aircraft
 airrcrraft->aircraft
 airrporrt->airport
 airrporrts->airports
+airworhines->airworthiness
 airworhiness->airworthiness
+airworhtines->airworthiness
+airworhtiness->airworthiness
+airworthines->airworthiness
 aisian->asian
 ajust->adjust
 ajustments->adjustments
@@ -4407,6 +4411,7 @@ arguuably->arguably
 arguument->argument
 arguuments->arguments
 arials->aerials
+aricle->article
 arised->arose
 arithemtic->arithmetic
 arithmatic->arithmetic
@@ -8820,6 +8825,7 @@ cirrcuit->circuit
 cirrculation->circulation
 cirrcumcision->circumcision
 cirtial->critical
+ciruitry->circuitry
 civeilian->civilian
 civiliaan->civilian
 civiliaen->civilian
@@ -10248,6 +10254,8 @@ confirmes by->confirmed by
 confitions->conditions
 confiugre->configure
 conflusion->conclusion
+confomities->conformities
+confomity->conformity
 conformane->conformance
 conform->confirm
 conformm->conform
@@ -18715,6 +18723,7 @@ feaesible->feasible
 feal->feel
 feasable->feasible
 feasibble->feasible
+feasibile->feasible
 feasiblle->feasible
 feasibte->feasible
 feasiible->feasible
@@ -19650,6 +19659,7 @@ fulfil->fulfill
 fulfillaed->fulfilled
 fulfilledd->fulfilled
 fulfilleed->fulfilled
+fulfills->fulfils
 fulfitted->fulfilled
 fulfitt->fulfill
 fulhark->futhark
@@ -35496,6 +35506,8 @@ protoganist->protagonist
 protokoll->protocol
 protokol->protocol
 prototpye->prototype
+protoype->prototype
+protoypes->prototypes
 protrait->portrait
 protrayed->portrayed
 protraying->portraying
@@ -36012,6 +36024,7 @@ quaentity->quantity
 quaeraentine->quarantine
 quaestionablae->questionable
 quaestion->question
+qualfication->qualification
 qualifiaction->qualification
 quanlily->quantity
 quanntity->quantity
