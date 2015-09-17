@@ -1122,6 +1122,7 @@ acknowldeged->acknowledged
 acknowleddgedd->acknowledged
 acknowleddging->acknowledging
 acknowledgeing->acknowledging
+acknowledgesthat->acknowledges that
 acknowledgged->acknowledged
 acknowledggingg->acknowledging
 acknowledgiing->acknowledging
@@ -3915,6 +3916,8 @@ apperances->appearances
 apper->appear
 appereance->appearance
 appereances->appearances
+appiance->appliance
+appiances->appliances
 applaiction->application
 appliaction->application
 appliaed->applied
@@ -5396,7 +5399,6 @@ authorative->authoritative
 authoriitatiive->authoritative
 authoriitiies->authorities
 authoriity->authority
-authorised->authorized
 authoritativae->authoritative
 authoritativ->authoritative
 authoritativee->authoritative
@@ -5489,9 +5491,11 @@ autoomatically->automatically
 autoomoobile->automobile
 autoonoomoous->autonomous
 autor->author
+autorised->authorized
 autoritative->authoritative
 autorities->authorities
 autority->authority
+autorized->authorized
 autorship->authorship
 Autsralia->Australia
 Autsralian->Australian
@@ -13293,6 +13297,8 @@ defiaence->defiance
 defiancce->defiance
 defianke->defiance
 defiannce->defiance
+deficencies->deficiencies
+deficency->deficiency
 deficinies->deficiencies
 defiiance->defiance
 defiined as globals->defined as globals
@@ -19188,7 +19194,6 @@ focusses->focuses
 focuss->focus
 focuus->focus
 foe->for
-fo->for
 fokus->focus
 follllowing->following
 folllowing->following
@@ -30078,6 +30083,8 @@ networkk->network
 networrk->network
 netwrok->network
 netwwork->network
+neue->new
+neu->new
 neveertheless->nevertheless
 neverhteless->nevertheless
 neverlheless->nevertheless
@@ -31495,8 +31502,6 @@ organim->organism
 organisae->organise
 organisalion->organisation
 organisathion->organisation
-organisational->organizational
-organisation->organization
 organisattion->organisation
 organisee->organise
 organismm->organism
@@ -31521,12 +31526,14 @@ orgganization->organization
 orggan->organ
 orginally->originally
 orginal->original
+orginisational->organizational
 orginisation->organization
 orginize->organise
 orgin->organ
 orgin->origin
 orgin->origin, organ
 orgin->origin, organ,
+orgonisation->organization
 oridinarily->ordinarily
 origanaly->originally
 origginally->originally
