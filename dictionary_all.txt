@@ -17311,6 +17311,7 @@ eruptedd->erupted
 erupthed->erupted
 eruptted->erupted
 eruupted->erupted
+esablished->established
 esence->essence
 esential->essential
 esentially->essentially
@@ -20095,6 +20096,8 @@ geopraphical->geographical
 gerater->greater
 gerat->great
 gererates->generates
+gernerated->generated
+gernerates->generates
 gerrilla->guerrilla
 gerrillas->guerrillas
 gesswork->guesswork
@@ -34360,6 +34363,7 @@ preceed->precede
 preceeds->precedes
 precendence->precedence
 precentage->percentage
+precesion->precision
 precice->precise
 preciisely->precisely
 preciise->precise
