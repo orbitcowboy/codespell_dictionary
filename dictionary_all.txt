@@ -599,6 +599,7 @@ abssence->absence
 abssolutely->absolutely
 abssorbed->absorbed
 abssorption->absorption
+absymal->abysmal
 abudance->abundance
 abuls->abuts
 abundacies->abundances
@@ -2812,6 +2813,7 @@ alcoholical->alcoholic
 alcoholiic->alcoholic
 alcoohool->alcohol
 alcoohoolic->alcoholic
+aleady->already
 aledge->allege
 aledged->alleged
 aledges->alleges
@@ -3906,6 +3908,7 @@ appeealing->appealing
 appeearancee->appearance
 appeearancees->appearances
 appendice->appendix
+appeneded->appended
 appenines->apennines
 appenines->Apennines
 appenines->apennines, Apennines
@@ -4895,6 +4898,7 @@ asspectss->aspects
 assphyxiation->asphyxiation
 asssassans->assassins
 asssembled->assembled
+asssertion->assertion
 asssessment->assessment
 asssignment->assignment
 assssassssin->assassin
@@ -6007,6 +6011,7 @@ becasue->because
 becaue->because
 becaus->because
 because auf->because of
+becausee->because
 becausse->because
 becauuse->because
 beccame->became
@@ -8526,6 +8531,7 @@ changue->change
 channgeable->changeable
 channge->change
 channginng->changing
+characer->character
 charachter->character
 charachters->characters
 characler->character
@@ -9686,6 +9692,7 @@ comnunication->communication
 comnunications->communications
 comnunities->communities
 comon->common
+comonent->component
 comonly->commonly
 comonwealth->commonwealth
 compaany->company
@@ -9715,6 +9722,8 @@ compaetitions->competitions
 compaetitivae->competitive
 compaetitivaenaess->competitiveness
 compaetitors->competitors
+compair->compare
+compairs->compares
 compalibililies->compatibilities
 compalibilily->compatibility
 compalible->compatible
@@ -10946,6 +10955,7 @@ construcst->constructs
 constructes->constructs
 constructiion->construction
 construcutor->constructor
+construtor->constructor
 construuction->construction
 construucts->constructs
 constsant->constant
@@ -12404,6 +12414,8 @@ cumullative->cumulative
 cumutative->cumulative
 curch->church
 curcuit->circuit
+curcumstance->circumstance
+curcumstances->circumstances
 curent->current
 curently->currently
 curiculum->curriculum
@@ -13692,6 +13704,7 @@ derogattory->derogatory
 deroggatory->derogatory
 derogitory->derogatory
 deroogatoory->derogatory
+derprecated->deprecated
 derreferrencing->dereferencing
 derrivative->derivative
 derrived->derived
@@ -13993,6 +14006,7 @@ desttroy->destroy
 desttructtion->destruction
 desttructtive->destructive
 desttructtor->destructor
+destuction->destruction
 destuctor->destructor
 detaached->detached
 detaailed->detailed
@@ -16234,6 +16248,8 @@ elelctronics->electronics
 elelments->elements
 elemement->element
 elemements->elements
+elemenet->element
+elemenets->elements
 elemenlary->elementary
 elemenls->elements
 elemenntary->elementary
@@ -19102,6 +19118,7 @@ flaggeed->flagged
 flagggged->flagged
 flaggued->flagged
 flahboot->flashboot
+flakyness->flakiness
 flamable->flammable
 flammabble->flammable
 flammablae->flammable
@@ -19526,6 +19543,7 @@ Fraenciscaens->Franciscans
 fraequaency->frequency
 fraequaently->frequently
 fragementation->fragmentation
+fragement->fragment
 framaebuffaer->framebuffer
 frambuffer->framebuffer
 framebbuffer->framebuffer
@@ -22443,6 +22461,7 @@ imbatanced->imbalanced
 imbatance->imbalance
 imbbalanced->imbalanced
 imbbalance->imbalance
+imcoming->incoming
 imcomplete->incomplete
 im doin->i am doing
 imediate->immediate
@@ -23860,6 +23879,7 @@ initalise->initialise
 initalization->initialization
 initalized->initialized
 initalize->initialize
+initalizer->initializer
 initally->initially
 initated->initiated
 initation->initiation
@@ -24268,6 +24288,7 @@ inseensitivee->insensitive
 inseeparablee->inseparable
 insektivorous->insectivorous
 insensative->insensitive
+insensetive->insensitive
 insensilive->insensitive
 insensithive->insensitive
 insensitivee->insensitive
@@ -25252,6 +25273,7 @@ I thing->I think
 ith->it
 it it->it
 it kan still->it can still
+itnernal->internal
 itnroduced->introduced
 itreration->iteration
 i tries->i tried
@@ -29927,6 +29949,7 @@ neggotiations->negotiations
 negitive->negative
 neglible->negligible
 negligable->negligible
+negligble->negligible
 negligibble->negligible
 negliigiible->negligible
 neglligiblle->negligible
@@ -30328,6 +30351,7 @@ nonethelless->nonetheless
 nonethetess->nonetheless
 nonethheless->nonetheless
 nonettheless->nonetheless
+nonexistant->nonexistent
 non-iinteractiive->non-interactive
 non-inleraclive->non-interactive
 non-intaeractivae->non-interactive
@@ -31696,9 +31720,11 @@ overidden->overridden
 overides->overrides
 overiding->overriding
 overlapps->overlaps
+overlayed->overlaid
 over lhere->over there
 overlow->overflow
 overridddden->overridden
+overriddden->overridden
 overriddenn->overridden
 overrided->overridden
 overrided->overrides
@@ -37844,6 +37870,7 @@ representhathive->representative
 representhathives->representatives
 representhed->represented
 representh->represent
+representiative->representative
 representive->representative
 representives->representatives
 representtattive->representative
@@ -37857,6 +37884,7 @@ repressentativess->representatives
 repressented->represented
 repressent->represent
 reprodducible->reproducible
+reproducabely->reproducibly
 reproducable->reproducible
 reproduccible->reproducible
 reproducibble->reproducible
@@ -38456,6 +38484,8 @@ reverssal->reversal
 reverssible->reversible
 revieww->review
 reviiew->review
+revison->revision
+revisons->revisions
 reviwe->review
 revollutionary->revolutionary
 revolulionary->revolutionary
@@ -39899,6 +39929,7 @@ shariing->sharing
 sharingg->sharing
 sharinng->sharing
 sharring->sharing
+shashes->slashes
 shatt be defined global->shall be defined global
 shatt be defined gtobat->shall be defined global
 shatt->shall
@@ -40748,6 +40779,7 @@ somone->someone
 somthing->something
 somtimes->sometimes
 somwhere->somewhere
+sonething->something
 soocialism->socialism
 soocieties->societies
 sooftware->software
@@ -41287,6 +41319,7 @@ spriritual->spiritual
 spritual->spiritual
 sprread->spread
 sptendour->splendour
+spurrious->spurious
 sqale->squale
 sqaure->square
 sqquare->square
@@ -42440,6 +42473,8 @@ substtanttial->substantial
 substtittutted->substituted
 substtittutte->substitute
 substtittutting->substituting
+subsytems->subsystems
+subsytem->subsystem
 subtaerranaean->subterranean
 subtances->substances
 subteerraneean->subterranean
@@ -43425,6 +43460,7 @@ systhem->system
 systtemattically->systematically
 systtem->system
 sytax->syntax
+sytems->systems
 sytem->system
 sytle->style
 sytsematically->systematically
