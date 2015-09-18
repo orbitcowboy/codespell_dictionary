@@ -5536,6 +5536,7 @@ auxiiliiariies->auxiliaries
 auxiiliiary->auxiliary
 auxilary->auxiliary
 auxilaty->auxiliary
+auxiliar->auxiliary
 auxiliariaes->auxiliaries
 auxiliariees->auxiliaries
 auxiliariess->auxiliaries
