@@ -12124,6 +12124,7 @@ cpoy->coy
 cpoy->coy, copy
 cpoy->coy, copy,
 cppchck->cppcheck
+cpp-check->cppcheck
 craeataed->created
 craedaencae->credence
 craeted->created
@@ -22007,6 +22008,7 @@ identifierss->identifiers
 identifing->identifying
 identifiy->identify
 identifyable->identifiable
+identifyer->identifier
 identikal->identical
 identtical->identical
 identtifier->identifier
@@ -22052,6 +22054,7 @@ idiosynncratic->idiosyncratic
 idiosyyncrasyy->idiosyncrasy
 idiosyyncratic->idiosyncratic
 idnentifier->identifier
+i dnt->i did not
 ie.->i.e.
 iff->if
 iff one sets->if one sets
@@ -27114,6 +27117,7 @@ macklerel->mackerel
 maco->macro
 maco-->macro
 macos->macros
+macroses->macros
 madae->made
 madde->made
 madee->made
@@ -36569,6 +36573,7 @@ reccipients->recipients
 reccognise->recognise
 reccognized->recognized
 reccognize->recognize
+reccomendation->recommendation
 reccomendations->recommendations
 reccomended->recommended
 reccomending->recommending
@@ -42887,9 +42892,11 @@ supressed->suppressed
 supresses->suppresses
 supressing->suppressing
 supressions->suppressions
+supresss->suppress
 supresss->suppresss
 supress->suppress
 supress->suppresss
+supres->suppress
 suprised->surprised
 suprises->surprises
 suprise->surprise
