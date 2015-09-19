@@ -5333,6 +5333,7 @@ audiencce->audience
 audienke->audience
 audiennce->audience
 audiience->audience
+auditas->audits
 augument->argument
 auhtor->author
 auhtoritative->authoritative
@@ -14257,6 +14258,7 @@ dictionarys->dictionaries
 dictionay->dictionary
 dictionnary->dictionary
 dictiory->dictionary
+dicuss->discuss
 dicussed->discussed
 didn'l->didn't
 did nnot->did not
@@ -31526,6 +31528,7 @@ orgaenise->organise
 orgaenism->organism
 orgaenizaetion->organization
 orgaen->organ
+orgainisation->organisation
 organiisatiion->organisation
 organiise->organise
 organiism->organism
@@ -32577,6 +32580,7 @@ perfformed->performed
 perfformers->performers
 perfforms->performs
 perfomance->performance
+perfomances->performances
 perfomed->performed
 perfomers->performers
 perfoormance->performance
@@ -36514,6 +36518,7 @@ realiised->realised
 realiistiic->realistic
 realiized->realized
 realisedd->realised
+realisiation->realisation
 realisitic->realistic
 realislic->realistic
 realissed->realised
