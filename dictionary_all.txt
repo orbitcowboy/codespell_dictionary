@@ -10279,6 +10279,8 @@ conform->confirm
 conformm->conform
 conforrm->conform
 confortable->comfortable
+confrence->conference
+confrences->conferences
 confrom->conform
 conggratulations->congratulations
 conggressional->congressional
@@ -16364,6 +16366,7 @@ embaerraessed->embarrassed
 embaerraess->embarrass
 embaerraessing->embarrassing
 embaerraessment->embarrassment
+embaras->embarrass
 embarassed->embarrassed
 embarass->embarrass
 embarassing->embarrassing
@@ -40355,6 +40358,7 @@ simptest->simplest
 simptified->simplified
 simptify->simplify
 simpty->simply
+simpy->simply
 simualtaniously->simultaneously
 simuavr->simulavr
 simular->similar
