@@ -24,6 +24,7 @@ Athmosphäre->Atmosphäre
 Atrappe->Attrappe
 Aufage->Aufgabe
 Aufagen->Aufgaben
+Aufzeichnugnen->Aufzeichnungen
 auschalten->ausschalten
 Ausdrcuk->Ausdruck
 Ausführungsgeschwindigkeit->Ausführungszeit

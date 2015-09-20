@@ -678,6 +678,7 @@ accccused->accused
 accccustom->accustom
 accccustomed->accustomed
 acccount->account
+acccounts->accounts
 acccused->accused
 acceeleeration->acceleration
 acceeptablee->acceptable
@@ -8412,6 +8413,8 @@ certanly->certainly
 certhain->certain
 certhainthy->certainty
 certian->certain
+certifcate->certificate
+certifcates->certificates
 certifcation->certification
 certificaiton->certification
 certificatin->certification
@@ -30883,6 +30886,7 @@ occurances->occurrences
 occured->occurred
 occurence->occurrance
 occurence->occurrence
+occurences->occurrances
 occurences->occurrences
 occure->occur
 occures->occurs
