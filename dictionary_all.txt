@@ -757,6 +757,7 @@ accidentially->accidentally
 accidently->accidentally
 accidenttally->accidentally
 acciidentally->accidentally
+accindentally->accidentally
 accitently->accidentally
 accknowledged->acknowledged
 accknowledging->acknowledging
@@ -5264,6 +5265,7 @@ attitide->attitude
 attitudae->attitude
 attitudde->attitude
 attitudee->attitude
+attitute->attitude
 attituude->attitude
 Attmel->Atmel
 attogether->altogether
@@ -10065,6 +10067,7 @@ concatinate->concatenate
 concatinated->concatenated
 concatination->concatenation
 concating->concatenate
+concearned->concerned
 concecptional->conceptual
 conceeiteed->conceited
 conceeiveed->conceived
@@ -23349,6 +23352,7 @@ inddulge->indulge
 inddustrial->industrial
 inddustry->industry
 indecation->indication
+indeces->indexes
 in deed->indeed
 indeefiniteely->indefinitely
 indeempoteent->indempotent
@@ -26663,6 +26667,7 @@ limt->limit
 limts->limits
 linaean->linnaean
 linar->linear
+lincence->license
 lingguistic->linguistic
 lingguistics->linguistics
 linguisitic->linguistic
@@ -31336,6 +31341,7 @@ openig->opening
 openiing->opening
 openingg->opening
 openin->opening
+openion->opinion
 openlly->openly
 openlyy->openly
 openmess->openness
@@ -38181,6 +38187,7 @@ resloralion->restoration
 reslore->restore
 reslrainl->restraint
 reslricled->restricted
+resonable->reasonable
 reson->reason
 resonsible->responsible
 resoources->resources
@@ -40141,6 +40148,7 @@ shoulld not have happened->should not have happened
 shoulld not have->should not have
 shoulldn't->shouldn't
 shoulld->should
+shoul->should
 shoult->should
 shoutd have->should have
 shoutd not have happened->should not have happened
