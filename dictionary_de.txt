@@ -149,6 +149,7 @@ gestallten->gestalten
 git->gibt
 gothisch->gotisch
 Gradwanderung->Gratwanderung
+Grenkontrollen->Grenzkontrollen
 Gries->Grieß
 gröhlen->grölen
 hälst->hältst

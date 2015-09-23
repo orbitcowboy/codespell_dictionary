@@ -3354,7 +3354,9 @@ analisis->analysis
 analisys->analysis
 analitic->analytic
 analiysis->analysis
+analize->analyze
 analizer->analyzer
+analizes->analyzes
 anallogous->analogous
 anallytic->analytic
 analogeous->analogous
@@ -7507,6 +7509,7 @@ capured->captured
 Caracass->Caracas
 Caraccas->Caracas
 carachter->character
+caracter->character
 caracterized->characterized
 caracters->characters
 caraeaer->career
@@ -19630,6 +19633,7 @@ friendlly->friendly
 friendlyy->friendly
 friendss->friends
 friendty->friendly
+friendy->friendly
 friennd->friend
 frienndly->friendly
 friennds->friends
@@ -26107,6 +26111,7 @@ laevitatae->levitate
 laevitataes->levitates
 laevitating->levitating
 laeziness->laziness
+lagacy->legacy
 laguage->language
 laguages->languages
 laidd->laid
@@ -34408,6 +34413,7 @@ preciselyy->precisely
 precisety->precisely
 precisise->precise
 precisly->precisely
+precison->precision
 precissely->precisely
 precisse->precise
 precission->precision
