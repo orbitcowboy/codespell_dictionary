@@ -17952,6 +17952,7 @@ exeperiment->experiment
 exept->except
 exeptional->exceptional
 exeption->exception
+exeptions->exceptions
 exerbated->exacerbated
 exerbate->exacerbate
 exerccise->exercise
@@ -18333,6 +18334,7 @@ extaent->extant
 extannt->extant
 extemely->extremely
 extendability->expandability
+extende->extended
 exteneded->extended
 extened->extended
 extennsionn->extension
@@ -33874,6 +33876,7 @@ possssible->possible
 possssibly->possibly
 possthumouss->posthumous
 Postdam->Potsdam
+Postgres->PostgreSQL
 posthhumous->posthumous
 posthomous->posthumous
 posthummous->posthumous
@@ -48359,6 +48362,7 @@ wwrite->write
 wwriting->writing
 wwritten->written
 wwrote->wrote
+wxMasima->wxMaxima
 wxWidges->wxWidgets
 wx wingets->wxWidgets
 wysiwig->wysiwyg
