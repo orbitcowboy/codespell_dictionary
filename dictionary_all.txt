@@ -19851,6 +19851,8 @@ fuurthermore->furthermore
 fuuthark->futhark
 fuuthorc->futhorc
 fuxed->fixed
+fxed->fixed
+fxes->fixes
 Gaael->Gael
 gaalaactic->galactic
 Gaalaatiaans->Galatians
