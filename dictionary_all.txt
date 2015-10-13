@@ -4403,6 +4403,7 @@ archtypes->archetypes
 arctile->article
 aready->already
 are are->are
+are create->are created
 areodynamics->aerodynamics
 arested->arrested
 arfrican->african
@@ -6189,6 +6190,7 @@ behavvior->behavior
 behavviour->behaviour
 behhavior->behavior
 behhaviour->behaviour
+behid->behind
 beiing->being
 beingg->being
 being send->being sent
@@ -27407,6 +27409,7 @@ mainttained->maintained
 mainttaining->maintaining
 mainttenance->maintenance
 mainty->mainly
+maiority->majority
 maitainability->maintainability
 maitaing->maintaining
 majjority->majority
@@ -28755,6 +28758,7 @@ misdemenors->misdemeanors
 misffortunes->misfortunes
 misfoortunes->misfortunes
 misforlunes->misfortunes
+misformed->malformed
 misforrtunes->misfortunes
 misforthunes->misfortunes
 misforttunes->misfortunes
@@ -42581,6 +42585,7 @@ substitutingg->substituting
 substitutinng->substituting
 substracted->subtracted
 substracting->subtracting
+substractions->subtractions
 substraction->subtraction
 substracts->subtracts
 substract->subtract
@@ -45193,6 +45198,7 @@ trasfered->transferred
 trasnaction->transaction
 trasverse->traverse
 travelsal->traversal
+traveral->traversal
 travesal->traversal
 tray->try
 treatement->treatment
