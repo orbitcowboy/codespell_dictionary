@@ -10775,6 +10775,7 @@ consislenl->consistent
 consislenlly->consistently
 consistaent->consistent
 consistaently->consistently
+consistancy->consistency
 consistant->consistent
 consistantly->consistently
 consisteent->consistent
@@ -18372,6 +18373,7 @@ extaent->extant
 extannt->extant
 extemely->extremely
 extendability->expandability
+extendable->expendable
 extende->extended
 exteneded->extended
 extened->extended
@@ -24480,6 +24482,7 @@ instanciations->instantiations
 instanke->instance
 instantiatioon->instantiation
 instatance->instance
+instatiation->instantiation
 instatt->install
 insteaad->instead
 insteadd->instead
@@ -25364,6 +25367,8 @@ ittegat->illegal
 ittegitimacy->illegitimacy
 ittegitimate->illegitimate
 ittem->item
+itterator->iterator
+itterators->iterators
 Itthaca->Ithaca
 it than came->it then came
 itt->it
@@ -38577,6 +38582,7 @@ retuurned->returned
 retuurning->returning
 retuurn->return
 retuurn valuue->return value
+reuseability->reusability
 re-use->reuse
 revaluated->reevaluated
 reveersal->reversal
@@ -39678,6 +39684,7 @@ segmentatioon->segmentation
 segmenthathion->segmentation
 segmenttattion->segmentation
 segmmentation->segmentation
+segragation->segregation
 seguoys->segues
 seguues->segues
 seige->siege
@@ -48122,6 +48129,7 @@ withdrawl->withdrawal, withdraw,
 withdrrawal->withdrawal
 withdrraw->withdraw
 witheld->withheld
+wither->either
 withespace->whitespace
 withhaeld->withheld
 withhdrawal->withdrawal
