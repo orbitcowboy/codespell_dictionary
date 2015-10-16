@@ -13812,6 +13812,7 @@ describbes->describes
 describbing->describing
 describingg->describing
 describinng->describing
+describs->describes
 descriibed->described
 descriibe->describe
 descriibes->describes
@@ -18717,6 +18718,7 @@ Fahrenheitt->Fahrenheit
 Fahrennheit->Fahrenheit
 Fahrrenheit->Fahrenheit
 faiilure->failure
+failes->fails
 failiure->failure
 faillure->failure
 failurae->failure
@@ -19767,6 +19769,7 @@ fullfill->fulfill
 fullfilllled->fulfilled
 fullfillll->fulfill
 full-proof->foolproof
+fullz->fully
 funcation->function
 funcction->function
 funcctioning->functioning
@@ -28208,6 +28211,7 @@ mentiooned->mentioned
 menttally->mentally
 menttioned->mentioned
 menubar->menu bar
+menue->menu
 meny->many
 meory->memory
 meranda->Miranda
@@ -28873,6 +28877,7 @@ missuse->misuse
 misterious->mysterious
 mistery->mystery
 misteryous->mysterious
+misued->misused
 Mithhraic->Mithraic
 Mithraaic->Mithraic
 Mithraeic->Mithraic
@@ -29098,6 +29103,7 @@ modael->model
 modaem->modem
 modae->mode
 modaes->modes
+moddeled->modeled
 moddelledd->modelled
 moddel->model
 moddem->modem
@@ -29111,6 +29117,7 @@ modeel->model
 modeem->modem
 modee->mode
 modees->modes
+modelet->modeled
 modeling->modelling
 modelllled->modelled
 modell->model
@@ -40804,6 +40811,8 @@ softwaare->software
 softwaere->software
 softwarae->software
 softwaree->software
+softwareproject->software project
+softwaretools->software tools
 softwarre->software
 softwate->software
 softwear->software
@@ -44090,6 +44099,7 @@ thalked->talked
 thalking->talking
 than i->then i
 thanku->thank
+thanns->thanks
 thann->than
 thansk->thanks
 thans->thanks
