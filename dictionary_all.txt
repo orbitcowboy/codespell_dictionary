@@ -32220,6 +32220,7 @@ paraphernatia->paraphernalia
 paraphernnalia->paraphernalia
 paraphhernalia->paraphernalia
 parathenses->parentheses
+paratheses->parentheses
 parattel->parallel
 parattels->parallels
 parattet->parallel
