@@ -17113,6 +17113,7 @@ enumeraeble->enumerable
 enumerrable->enumerable
 enummerable->enumerable
 enumrating->enumerating
+enusre->ensure
 enuumerable->enumerable
 enveironmental->environmental
 enveironmentalist->environmentalist
@@ -22080,6 +22081,7 @@ ideeologiees->ideologies
 ideeology->ideology
 idees->ides
 idempotant->indempotent
+idendified->identified
 idenlical->identical
 idenlifier->identifier
 idenlifiers->identifiers
@@ -35209,6 +35211,8 @@ profusionn->profusion
 profussion->profusion
 profuusion->profusion
 progammable->programmable
+progamm->program
+progam->program
 progarm->program
 progessed->progressed
 progess->progress
@@ -39534,6 +39538,7 @@ screenwrither->screenwriter
 screenwritter->screenwriter
 screenwwriter->screenwriter
 screnwriter->screenwriter
+scretsch->scratch
 screwability->screw ability
 scriipt->script
 scriping->scripting
