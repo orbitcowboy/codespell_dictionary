@@ -13123,6 +13123,7 @@ declarationn->declaration
 declaratioon->declaration
 declarattion->declaration
 declaread->declared
+declaretion->declaration
 declarration->declaration
 declarre->declare
 declartion->declaration
@@ -48051,6 +48052,7 @@ widesprread->widespread
 widesread->widespread
 widesspread->widespread
 widlcarded->wildcarded
+Widnows->Windows
 Widows 7->Windows 7
 widows xp->windows xp
 wieeldeed->wielded
