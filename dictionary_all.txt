@@ -14704,6 +14704,7 @@ direectly->directly
 direectory->directory
 direktly->directly
 direktory->directory
+direoctry->directory
 dirived->derived
 dirrectly->directly
 dirrectorry->directory
