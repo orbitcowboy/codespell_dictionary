@@ -4703,6 +4703,8 @@ asidde->aside
 asidee->aside
 asign->assign
 asigned->assigned
+asignment->assignment
+asignments->assignments
 asigns->assigns
 asiian->asian
 asiide->aside
@@ -41352,6 +41354,7 @@ spermatozzoon->spermatozoon
 spermattozoon->spermatozoon
 spermmatozoon->spermatozoon
 sperrmatozoon->spermatozoon
+spezialization->specialization
 sphaerically->spherically
 spheerically->spherically
 sphereically->spherically
@@ -44632,6 +44635,7 @@ to allocatee->to allocate
 to alloccate->to allocate
 to allokate->to allocate
 to alocate->to allocate
+toatal->total
 to attocate->to allocate
 tobaacco->tobacco
 tobacccco->tobacco
