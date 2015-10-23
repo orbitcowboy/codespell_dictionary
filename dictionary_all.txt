@@ -29928,6 +29928,7 @@ naturually->naturally
 naturual->natural
 natuurally->naturally
 natuural->natural
+Nautic->Nautical
 Nazaraeth->Nazareth
 Nazareeth->Nazareth
 Nazareht->Nazareth
@@ -38470,6 +38471,7 @@ resturant->restaurant
 resturants->restaurants
 resturaunt->restaurant
 resturaunts->restaurants
+resultion->resolution
 resurected->resurrected
 resurecting->resurrecting
 resurection->resurrection
