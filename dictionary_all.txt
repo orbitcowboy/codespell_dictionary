@@ -6684,6 +6684,8 @@ brainn-damaged->brain-damaged
 brak->break
 braket->bracket
 brakets->brackets
+branc->branch
+brances->branches
 branche->branch
 Brasillian->Brazilian
 Braziiliian->Brazilian
@@ -9364,6 +9366,7 @@ commaandos->commandos
 commaands->commands
 commaas->commas
 commad->command
+commads->commands
 commaemoratae->commemorate
 commaemorataed->commemorated
 commaemorataes->commemorates
@@ -14082,6 +14085,7 @@ detaeched->detached
 detaeiled->detailed
 detaiiled->detailed
 detailled->detailed
+detailness->detailedness
 detaited->detailed
 detakhed->detached
 detatched->detached
@@ -23651,6 +23655,7 @@ inequallities->inequalities
 inequatities->inequalities
 inequualities->inequalities
 inerlial->inertial
+inernal->internal
 inerrtial->inertial
 inerthial->inertial
 inertiaal->inertial
@@ -28037,6 +28042,7 @@ mear->wear
 mear->wear, mere, mare
 mear->wear, mere, mare,
 measureable->measurable
+measurmenet->measurement
 measurment->measurement
 mecchaniccs->mechanics
 mechaanics->mechanics
@@ -32207,6 +32213,8 @@ parametes->parameters
 paramether->parameter
 paramethers->parameters
 paramet->parameter
+parametre->parameter
+parametres->parameters
 parametrs->parameters
 parametter->parameter
 parametters->parameters
@@ -32704,6 +32712,7 @@ performaence->performance
 performancce->performance
 performanke->performance
 performannce->performance
+performd->performed
 performedd->performed
 performence->performance
 performerss->performers
@@ -33459,6 +33468,7 @@ poiting->pointing
 polaloes->potatoes
 Polian->Polish
 polical->political
+policity->policy
 poliitiical->political
 poliitiiciian->politician
 poliitiiciians->politicians
@@ -42944,6 +42954,7 @@ suplimented->supplemented
 suply->supply
 supoose->suppose
 suported->supported
+suporting->supporting
 suports->supports
 suport->support
 suposedly->supposedly
@@ -44494,6 +44505,7 @@ throops->troops
 throoughly->thoroughly
 throoughoout->throughout
 throough->thorough
+throroughly->thoroughly
 throrough->thorough
 throubles->troubles
 througghout->throughout
