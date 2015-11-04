@@ -20300,6 +20300,7 @@ gloabl->global
 gloabls->globals
 gloassar->glossary
 gloassary->glossary
+globale->global
 glocal->global
 glosary->glossary
 glossar->glossary
@@ -26943,6 +26944,7 @@ llothringen->lothringen
 llove->love
 llying->lying
 lmits->limits
+loacted->located
 loadly->loudly
 lo allocale->to allocate
 lobacco->tobacco
@@ -37312,6 +37314,7 @@ referennced->referenced
 referennce->reference
 referennces->references
 referenndum->referendum
+referes->refers 
 refere to->refer to
 referfence->reference
 referiang->referring
