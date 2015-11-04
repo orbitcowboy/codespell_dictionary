@@ -16705,6 +16705,7 @@ enameledd->enameled
 enameted->enameled
 enammeled->enameled
 enble->enable
+enbles->enables
 encancements->enhancements
 enccodding->encoding
 enccoddings->encodings
@@ -18344,6 +18345,7 @@ expploitative->exploitative
 exppressed->expressed
 expproppriated->expropriated
 expproppriation->expropriation
+expreriments->experiments
 expresed->expressed
 expresion->expression
 expressedd->expressed
@@ -18745,6 +18747,7 @@ fallse->false
 falsae->false
 falsee->false
 fals->false
+falshing->flashing
 falso->false
 falsse->false
 famiiliiar->familiar
@@ -28280,6 +28283,7 @@ messsage->message
 messsing->messing
 messssaging->messaging
 messssenger->messenger
+messured->measured
 metaallic->metallic
 metaallurgicaal->metallurgical
 metaallurgic->metallurgic
@@ -32143,6 +32147,7 @@ pamphtet->pamphlet
 pamplet->pamphlet
 panding->pending
 panlomime->pantomime
+pannels->panels
 panntomime->pantomime
 panthomime->pantomime
 pantomiime->pantomime
@@ -32424,6 +32429,7 @@ pastural->pastoral
 pasword->password
 patace->palace
 pataentaed->patented
+patameters->parameters
 patcch->patch
 patchh->patch
 patchlet->patch
@@ -32715,6 +32721,7 @@ performannce->performance
 performd->performed
 performedd->performed
 performence->performance
+performe->perform
 performerss->performers
 performes->performed
 performes->performed, performs
