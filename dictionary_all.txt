@@ -4102,6 +4102,7 @@ approximatety->approximately
 approximathe->approximate
 approximathed->approximated
 approximathely->approximately
+approximatively->approximately
 approximatte->approximate
 approximatted->approximated
 approximattely->approximately
@@ -23266,6 +23267,7 @@ incompplete->incomplete
 incomptable->incompatible
 incomptete->incomplete
 incomptetent->incompetent
+inconconclusive->inconclusive
 inconsisitent->inconsistent
 inconsislenl->inconsistent
 inconsistaent->inconsistent
@@ -26743,6 +26745,7 @@ limts->limits
 linaean->linnaean
 linar->linear
 lincence->license
+liner->linear
 lingguistic->linguistic
 lingguistics->linguistics
 linguisitic->linguistic
@@ -37314,7 +37317,7 @@ referennced->referenced
 referennce->reference
 referennces->references
 referenndum->referendum
-referes->refers 
+referes->refers
 refere to->refer to
 referfence->reference
 referiang->referring
