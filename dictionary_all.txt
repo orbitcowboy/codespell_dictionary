@@ -8703,7 +8703,9 @@ cheif->chief
 cheifs->chiefs
 chek->check
 cheking->checking
+cheksum->checksum
 cheksumming->checksumming
+cheksums->checksums
 chemcial->chemical
 chemcially->chemically
 chemestry->chemistry
@@ -21790,6 +21792,7 @@ housr->house
 housse->house
 houurs->hours
 houuse->house
+hovever->however
 howaevaer->however
 howeeveer->however
 howerver->however
@@ -24493,6 +24496,7 @@ installa->install a
 installaion->installation
 installatin->installation
 installll->install
+installtion->installation
 instancae->instance
 instancce->instance
 instancee->instance
@@ -26606,6 +26610,8 @@ licennse->license
 licensedd->licensed
 licenssed->licensed
 licensse->license
+licesence->license
+licesences->licenses
 lickelihood->likelihood
 licke->like
 lickud->likud
@@ -31316,6 +31322,7 @@ onne nnice->one nice
 onnivorously->omnivorously
 onnivorous->omnivorous
 onnly->only
+on or more->one or more
 onot->not
 onot->note
 onot->note, not
