@@ -3249,6 +3249,7 @@ amature->armature
 amature->armature, amateur
 amature->armature, amateur,
 ambiet->ambient
+ambigious->ambiguous
 ambigous->ambiguous
 amd->and
 ameelioratee->ameliorate
@@ -24928,6 +24929,7 @@ intervnes->intervenes
 intervvals->intervals
 intervvene->intervene
 intervvenes->intervenes
+intetoperate->interoperate
 intettectual->intellectual
 intettectuat->intellectual
 intettigence->intelligence
@@ -40177,6 +40179,7 @@ shippingg->shipping
 shippinng->shipping
 shipppped->shipped
 shipppping->shipping
+shld->should
 shoftware->software
 shold->should
 shoopkeepers->shopkeepers
@@ -47358,6 +47361,7 @@ vhicle->vehicle
 viaew->view
 viccinity->vicinity
 vicctories->victories
+viceversa->vice versa
 vicinily->vicinity
 vicinithy->vicinity
 vicinitty->vicinity
