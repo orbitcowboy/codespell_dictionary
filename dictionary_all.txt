@@ -1737,6 +1737,7 @@ adverttisementt->advertisement
 adverttisementts->advertisements
 advesary->adversary
 adviced->advised
+advicing->advising
 adviised->advised
 advisaed->advised
 adviseed->advised
@@ -33447,6 +33448,7 @@ pllebiscite->plebiscite
 pllugins->plugins
 ploynomials->polynomials
 pluggins->plugins
+plugiin->plugin
 plugiin->plug-in
 plugiins->plugins
 pluginns->plugins
@@ -36915,6 +36917,7 @@ recomend->recommend
 recomends->recommends
 recommaissance->reconnaissance
 recommandation->recommendation
+recommand->recommend
 recommedations->recommendations
 recommeded->recommended
 recommendaations->recommendations
