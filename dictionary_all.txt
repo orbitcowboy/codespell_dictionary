@@ -38311,6 +38311,7 @@ resloralion->restoration
 reslore->restore
 reslrainl->restraint
 reslricled->restricted
+resoltion->resolution
 resonable->reasonable
 reson->reason
 resonsible->responsible
@@ -44823,9 +44824,11 @@ toogether->together
 tooggling->toggling
 tookenizatioon->tokenization
 tookenized->tokenized
+tookit->toolkit
 tookk->took
 toolerance->tolerance
 Toolkien->Tolkien
+toolki->toolkit
 toomatooes->tomatoes
 toome->tome
 too mich->too much
