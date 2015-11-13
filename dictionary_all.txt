@@ -4014,6 +4014,7 @@ appraehaensivae->apprehensive
 apprearance->appearance
 apprecaited->appreciated
 apprecciate->appreciate
+apprechiate->appreciate
 appreciale->appreciate
 appreciathe->appreciate
 appreciatte->appreciate
@@ -9324,6 +9325,7 @@ comemorating->commemorating
 comemoration->commemoration
 comemorative->commemorative
 comemoretion->commemoration
+comend->comment
 coment->comment
 comercial->commercial
 comercially->commercially
@@ -11816,6 +11818,7 @@ cordiat->cordial
 cordiial->cordial
 cordinate->coordinate
 cordination->coordination
+corection->correction
 corectness->correctness
 corectors->correctors
 coreesponding->corresponding
@@ -15101,6 +15104,7 @@ displeeasee->displease
 displlay->display
 displlayed->displayed
 displlease->displease
+displying->displaying
 dispoositioon->disposition
 disporportionate->disproportionate
 disposilion->disposition
@@ -17832,6 +17836,7 @@ excchanging->exchanging
 excciting->exciting
 exccludes->excludes
 excclusively->exclusively
+excecutable->executable
 excecuted->executed
 excecute->execute
 excecutes->executes
@@ -31620,6 +31625,7 @@ optimizationss->optimizations
 optimizzations->optimizations
 optimmismm->optimism
 optimmizations->optimizations
+optimzed->optimized
 optionnal->optional
 optization->optimization
 optmizations->optimizations
@@ -36787,6 +36793,7 @@ reccuring->recurring
 reccurrencce->recurrence
 reccurring->recurring
 reccursively->recursively
+reccursive->recursive
 receddedd->receded
 recedding->receding
 recediing->receding
@@ -45066,6 +45073,7 @@ traffik->traffic
 traficked->trafficked
 traficking->trafficking
 trafic->traffic
+trailins->trailings
 trakeability->traceability
 tranceiver->transceiver
 trancendent->transcendent
