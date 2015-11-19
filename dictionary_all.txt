@@ -4422,6 +4422,8 @@ arguabty->arguably
 argubly->arguably
 arguement->argument
 arguements->arguments
+arguemnt->argument
+arguemnts->arguments
 argumaent->argument
 argumaents->arguments
 argumeent->argument
@@ -10255,6 +10257,7 @@ conffiguration->configuration
 conffigure->configure
 confform->conform
 confguration->configuration
+confgured->configured
 confidaential->confidential
 confidaentially->confidentially
 confidaes->confides
@@ -19858,6 +19861,7 @@ funndamenntal->fundamental
 funndamenntals->fundamentals
 funngi->fungi
 funsction->function
+funstion->function
 funtion->function
 funtions->functions
 furhter->further
@@ -34769,6 +34773,7 @@ preparattions->preparations
 preparattory->preparatory
 prepartion->preparation
 prepatory->preparatory
+prepedning->prepending
 prependdedd->prepended
 pre-pended->prepended
 prepennded->prepended
@@ -41991,6 +41996,8 @@ statesments->statements
 statesmman->statesman
 staticaly->statically
 staticly->statically
+statics->statistics
+static->statistic
 statiion->station
 stationn->station
 statioon->station
