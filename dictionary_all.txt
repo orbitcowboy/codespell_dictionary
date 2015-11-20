@@ -42006,7 +42006,6 @@ statesmman->statesman
 staticaly->statically
 staticly->statically
 statics->statistics
-static->statistic
 statiion->station
 stationn->station
 statioon->station
