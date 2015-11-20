@@ -915,6 +915,8 @@ acconnodating->accommodating
 acconnodation->accommodation
 acconnodations->accommodations
 acconrdingly->accordingly
+accont->account
+acconts->accounts
 accoommoodate->accommodate
 accoommoodated->accommodated
 accoommoodates->accommodates
@@ -3659,6 +3661,8 @@ anoomaloous->anomalous
 anoomaly->anomaly
 anoonymity->anonymity
 anoother->another
+anotation->annotation
+anotations->annotations
 anoter->another
 anothaer->another
 anotheer->another
@@ -14102,6 +14106,8 @@ detakhed->detached
 detatched->detached
 detecct->detect
 deteced->detected
+detecte->detect
+detectes->detects
 detegates->delegates
 detekt->detect
 detemine->determine
@@ -37085,6 +37091,7 @@ redeemingg->redeeming
 redeeminng->redeeming
 redeemming->redeeming
 redeming->redeeming
+reder->render
 redetermine->re-determine
 rediculous->ridiculous
 redristibutable->redistributable
@@ -41376,6 +41383,7 @@ speeeed valuee->speed value
 speekhes->speeches
 speekh->speech
 speermatozoon->spermatozoon
+speficic->specific
 speficied->specified
 speices->species
 spekialised->specialised
@@ -44838,10 +44846,12 @@ toogether->together
 tooggling->toggling
 tookenizatioon->tokenization
 tookenized->tokenized
+tookits->toolkits
 tookit->toolkit
 tookk->took
 toolerance->tolerance
 Toolkien->Tolkien
+toolkis->toolkits
 toolki->toolkit
 toomatooes->tomatoes
 toome->tome
