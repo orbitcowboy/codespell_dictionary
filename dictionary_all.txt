@@ -14716,6 +14716,7 @@ directhory->directory
 directlly->directly
 directlyy->directly
 directoory->directory
+directory exits->directory exists
 directoryy->directory
 directoty->directory
 directoy->directory
@@ -48013,6 +48014,7 @@ whar->what
 whath->what
 whats->what's
 whatt->what
+whay->way
 whcih->which
 wheeneeveer->whenever
 wheereeabouts->whereabouts
