@@ -4617,6 +4617,7 @@ arthicle->article
 arthificial->artificial
 arthificially->artificially
 arthillery->artillery
+arthmetic->arithmetic
 artical->article
 articcle->article
 artice->article
@@ -4694,6 +4695,7 @@ as cheeckeed->as checked
 as cheked->as checked
 as chhecked->as checked
 ASCI->ASCII
+asciii->ascii
 ascpect->aspect
 ascpects->aspects
 aseembly->assembly
@@ -8643,6 +8645,7 @@ charater->character
 charaterized->characterized
 charaters->characters
 charcter->character
+charecter->character
 chariismatiic->charismatic
 chariman->chairman
 charismalic->charismatic
@@ -11021,6 +11024,7 @@ constraeints->constraints
 constraiints->constraints
 constrain->constraint
 constrainst->constraints
+constrcutor->constructor
 constrraints->constraints
 constrruction->construction
 constrructs->constructs
@@ -11787,6 +11791,7 @@ cooveted->coveted
 cooy->coy
 coperation->cooperation
 copiable->copyable
+copiing->copying
 copiler->compiler
 copmetitors->competitors
 copmpiler->compiler
@@ -12211,6 +12216,7 @@ cpoy->copy
 cpoy->coy
 cpoy->coy, copy
 cpoy->coy, copy,
+cppchcek->cppcheck
 cppchck->cppcheck
 cpp-check->cppcheck
 craeataed->created
@@ -14135,10 +14141,12 @@ deteriroating->deteriorating
 determeined->determined
 determiine->determine
 determiiniing->determining
+determimistic->deterministic
 determinded->determined
 determin->determine
 determiningg->determining
 determinining->determining
+deterministicaly->deterministically
 determinne->determine
 determinninng->determining
 determinted->determined
@@ -14687,6 +14695,7 @@ diphtongs->diphthongs
 diphtthong->diphthong
 diphtthongs->diphthongs
 diplay->display
+diplaying->displaying
 dipllomacy->diplomacy
 diplomaacy->diplomacy
 diplomaccy->diplomacy
@@ -17407,6 +17416,7 @@ erupthed->erupted
 eruptted->erupted
 eruupted->erupted
 esablished->established
+escap->escape
 esence->essence
 esential->essential
 esentially->essentially
@@ -19030,6 +19040,7 @@ fidn->find
 fieeld->field
 fieelds->fields
 fieerceely->fiercely
+fie->file
 fieldd->field
 fieldds->fields
 fieldss->fields
@@ -20866,6 +20877,7 @@ Habbsbburg->Habsburg
 habeass->habeas
 habeeas->habeas
 habeus->habeas
+hability->ability
 Habsbourg->Habsburg
 Habsburgg->Habsburg
 Habsburrg->Habsburg
@@ -23750,6 +23762,8 @@ infantrryman->infantryman
 infantrymman->infantryman
 infantryyman->infantryman
 infanttryman->infantryman
+infastructure->infrastructure
+infastructures->infrastructures
 infattibility->infallibility
 infattibitity->infallibility
 infattible->infallible
@@ -24606,6 +24620,8 @@ insttrumentt->instrument
 insttrumentts->instruments
 instuction->instruction
 instuments->instruments
+insturment->instrument
+insturments->instruments
 instutionalized->institutionalized
 instutions->intuitions
 insuraance->insurance
@@ -28690,6 +28706,7 @@ minimizedd->minimized
 minimizeed->minimized
 minimizzed->minimized
 minimuum->minimum
+mininize->minimize
 miniscule->minuscule
 minisitries->ministries
 minisitry->ministry
@@ -35758,6 +35775,7 @@ protuuberance->protuberance
 protuuberances->protuberances
 protytpe->prototype
 prouncements->pronouncements
+provabl->provable
 provacative->provocative
 provaed->proved
 provae->prove
@@ -39787,6 +39805,7 @@ seizzures->seizures
 sekeded->seceded
 sekede->secede
 sekretary->secretary
+selcet->select
 selddom->seldom
 seldomly->seldom
 seldomm->seldom
@@ -44253,6 +44272,7 @@ thenthacle->tentacle
 theoory->theory
 theorie->theory
 theori->theory
+theorm->theorem
 theorry->theory
 theoryy->theory
 theraefter->thereafter
@@ -45295,6 +45315,7 @@ trasaction->transaction
 trascation->transaction
 trasfered->transferred
 trasnaction->transaction
+trasversal->traversal
 trasverse->traverse
 travelsal->traversal
 traveral->traversal
