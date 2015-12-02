@@ -3137,6 +3137,7 @@ alpphabetically->alphabetically
 alrady->already
 alraeady->already
 alraedy->already
+alread->already
 alreaddy->already
 alreadyy->already
 alreay->already
@@ -3381,6 +3382,7 @@ analogouss->analogous
 analogouus->analogous
 analoogoous->analogous
 analsis->analysis
+analsyis->analysis
 analyis->analysis
 analylic->analytic
 analysys->analysis
@@ -5738,6 +5740,7 @@ bacckgrounds->backgrounds
 bacckward->backward
 baccward->backward
 baceause->because
+backgbound->background
 backgground->background
 backggrounds->backgrounds
 backgorund->background
@@ -9962,6 +9965,7 @@ compilaetion->compilation
 compilalion->compilation
 compilated->compiled
 compilathion->compilation
+compilatin->compilation
 compilationn->compilation
 compilattion->compilation
 compileer->compiler
@@ -12219,6 +12223,7 @@ cpoy->coy, copy,
 cppchcek->cppcheck
 cppchck->cppcheck
 cpp-check->cppcheck
+cppecheck->cppcheck
 craeataed->created
 craedaencae->credence
 craeted->created
@@ -16500,6 +16505,7 @@ embbezzled->embezzled
 embblazon->emblazon
 embblematic->emblematic
 embeddddedd->embedded
+embeddeding->embedding
 embeded->embedded
 embezelled->embezzled
 embezled->embezzled
@@ -27523,6 +27529,8 @@ makle->make
 makles->makes
 makng->making
 makr->make
+makro->macro
+makros->macros
 makse->makes
 Malccolm->Malcolm
 malching->matching
@@ -29602,6 +29610,7 @@ multiithreaded->multithreaded
 multiithread->multithread
 multikulturalism->multiculturalism
 multile->multiple
+multilpe->multiple
 multiplae inclusions->multiple inclusions
 multiplaexaer->multiplexer
 multipled->multiplied
@@ -40509,6 +40518,7 @@ simillar->similar
 simitarity->similarity
 simitarty->similarly
 simlify->simplify
+simluar->similar
 simluator->simulator
 simmilarity->similarity
 simmilarly->similarly
@@ -45113,6 +45123,7 @@ traficked->trafficked
 traficking->trafficking
 trafic->traffic
 trailins->trailings
+trainning->training
 trakeability->traceability
 tranceiver->transceiver
 trancendent->transcendent
@@ -48217,6 +48228,7 @@ willinngnness->willingness
 willk->will
 willllingness->willingness
 willll->will
+will no work->will not work
 will observer->will observe
 will shall->shall
 will will->will
