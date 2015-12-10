@@ -4166,6 +4166,7 @@ aqueeduct->aqueduct
 aquiantance->acquaintance
 aquire->acquire
 aquired->acquired
+aquirer->acquirer
 aquiring->acquiring
 aquisition->acquisition
 aquitted->acquitted
@@ -10165,6 +10166,7 @@ concentraeted->concentrated
 concentraetes->concentrates
 concentratedd->concentrated
 concentratess->concentrates
+concentraton->concentration
 concentrrate->concentrate
 concentrrated->concentrated
 concentrrates->concentrates
@@ -11732,6 +11734,7 @@ coorddinate->coordinate
 coorddination->coordination
 coordial->cordial
 coordiante->coordinate
+coordiantes->coordinates
 coordiantion->coordination
 coordiinate->coordinate
 coordiinatiion->coordination
@@ -13459,6 +13462,7 @@ definitte->definite
 definittely->definitely
 definittion->definition
 definittions->definitions
+definituon->definition
 definitvely->definitely
 definned as globals->defined as globals
 definned->defined
@@ -33027,6 +33031,7 @@ persue->pursue
 persuing->pursuing
 persuit->pursuit
 persuits->pursuits
+persumably->presumably
 persuuaded->persuaded
 persuuade->persuade
 persuuades->persuades
@@ -35117,6 +35122,7 @@ problaem->problem
 problams->problems
 probleem->problem
 problemm->problem
+p roblem->problem
 probllem->problem
 probtem->problem
 procaeaedaed->proceeded
@@ -38588,6 +38594,7 @@ resurrekted->resurrected
 resurrekting->resurrecting
 resurrektion->resurrection
 resurrekt->resurrect
+resutls->resutls
 resuurrected->resurrected
 resuurrecting->resurrecting
 resuurrection->resurrection
@@ -41999,6 +42006,7 @@ stainnless->stainless
 staintess->stainless
 staion->station
 stak->stack
+stament->statement
 standarrds->standards
 standars->standards
 standart->standard
@@ -43702,6 +43710,7 @@ systemm->system
 system system->system
 systhemathically->systematically
 systhem->system
+systme->system
 systtemattically->systematically
 systtem->system
 sytax->syntax
