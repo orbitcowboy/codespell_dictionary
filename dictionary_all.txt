@@ -29533,6 +29533,7 @@ moviie->movie
 movment->movement
 movvement->movement
 movvie->movie
+mozzilla->Mozilla
 mqde->mode
 mqdes->modes
 mroe->more
