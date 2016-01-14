@@ -4840,6 +4840,7 @@ assember->assembler
 assemble->assembly
 assemblle->assemble
 assembte->assemble
+assemlber->assembler
 assemmble->assemble
 assemple->assemble
 asserion->assertion
@@ -8696,6 +8697,7 @@ checc->check
 checck->check
 checcksumming->checksumming
 checcsumming->checksumming
+checkes->checks
 checkk->check
 checkksumming->checksumming
 checkssumming->checksumming
@@ -17719,6 +17721,7 @@ eviil->evil
 evill->evil
 evironment->environment
 evit->evil
+evnets->events
 evn though->even though
 evntually->eventually
 evollutionary->evolutionary
@@ -29332,6 +29335,7 @@ monitary->monetary
 Monlana->Montana
 monlh->month
 monlhs->months
+monlithic->monolithic
 Monlserral->Montserrat
 monnasteries->monasteries
 monnastery->monastery
@@ -31661,6 +31665,8 @@ opthimism->optimism
 opthimizathions->optimizations
 optiimiism->optimism
 optiimiizatiions->optimizations
+optimazation->optimization
+optimazations->optimizations
 optimissm->optimism
 optimizaations->optimizations
 optimizaetions->optimizations
@@ -44965,6 +44971,7 @@ torubles->troubles
 torupes->troupes
 torupe->troupe
 to so with->to do with
+to straight->to straighten
 toterance->tolerance
 to te->to the
 to thae->to the
@@ -46126,6 +46133,7 @@ undecidaeble->undecidable
 undecideable->undecidable
 undeciidable->undecidable
 undectable->undetectable
+undedined->undefined
 undeecidablee->undecidable
 undeefinablee->undefinable
 undeerground->underground
