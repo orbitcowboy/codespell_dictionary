@@ -17721,6 +17721,7 @@ eviil->evil
 evill->evil
 evironment->environment
 evit->evil
+evnet->event
 evnets->events
 evn though->even though
 evntually->eventually
@@ -45301,6 +45302,7 @@ transmmissible->transmissible
 transmmitting->transmitting
 transparancy->transparency
 transpararency->transparency
+transpared->transparent
 transpoortatioon->transportation
 transporation->transportation
 transportatiion->transportation
