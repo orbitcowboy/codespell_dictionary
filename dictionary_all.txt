@@ -27495,6 +27495,7 @@ mainttained->maintained
 mainttaining->maintaining
 mainttenance->maintenance
 mainty->mainly
+maioriti->majority
 maiority->majority
 maitainability->maintainability
 maitaing->maintaining
