@@ -28001,6 +28001,7 @@ matheematically->mathematically
 matheematician->mathematician
 matheematicians->mathematicians
 matheematics->mathematics
+mathemalicaly->mathematically
 mathematicalllly->mathematically
 mathematicallyy->mathematically
 mathematicaly->mathematically
