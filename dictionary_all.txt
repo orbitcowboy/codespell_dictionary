@@ -24417,6 +24417,7 @@ inrement->increment
 insaectivorous->insectivorous
 insaensitivae->insensitive
 insaeparablae->inseparable
+insalled->installed
 insall->install
 insance->instance
 insecctivorous->insectivorous
@@ -24620,6 +24621,7 @@ instruuction->instruction
 instruumental->instrumental
 instruument->instrument
 instruuments->instruments
+instsalled->installed
 insttall->install
 insttance->instance
 insttanttiattion->instantiation
