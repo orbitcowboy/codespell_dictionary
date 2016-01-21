@@ -28114,6 +28114,7 @@ mear->wear
 mear->wear, mere, mare
 mear->wear, mere, mare,
 measureable->measurable
+measuremnt->measurement
 measurmenet->measurement
 measurment->measurement
 mecchaniccs->mechanics
@@ -46140,6 +46141,7 @@ undecidaeble->undecidable
 undecideable->undecidable
 undeciidable->undecidable
 undectable->undetectable
+undected->undetected
 undedined->undefined
 undeecidablee->undecidable
 undeefinablee->undefinable

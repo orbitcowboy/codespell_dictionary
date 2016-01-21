@@ -235,6 +235,7 @@ mieserabel->miserabel
 Milimeter->Millimeter
 min nicht->mit nicht
 Modusse->Modi
+Möglihckeit->Möglichkeit
 montalichen->monatlichen
 nach dem->nachdem
 Nachname->Nachnahme
