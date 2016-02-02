@@ -6947,6 +6947,7 @@ Budha->Buddha
 Budhist->Buddhist
 bugg->bug
 buiild->build
+build by->built by
 buildd->build
 buildign->building
 builing->building
@@ -21129,6 +21130,7 @@ haveing->having
 have meen->have been
 havent->haven't
 have they been->they have been
+have wroten->have written
 hav->have
 haviest->heaviest
 haviing->having
@@ -24954,6 +24956,7 @@ interrups->interrupts
 interrupst->interrupts
 interruptss->interrupts
 Interruptvektoren->interrupt vectors
+Interruptvektor->interrupt vector
 interruupt->interrupt
 Interruupt->Interrupt
 interruupts->interrupts
@@ -31882,6 +31885,7 @@ outpput->output
 outpputting->outputting
 outpulling->outputting
 outpulting->outputting
+outpun->output
 outputing->outputting
 outputling->outputting
 out put->output
@@ -38731,6 +38735,7 @@ reversibte->reversible
 reversiible->reversible
 reverssal->reversal
 reverssible->reversible
+reviewd->reviewed
 revieww->review
 reviiew->review
 revison->revision
@@ -44496,6 +44501,7 @@ thoese->those
 thoes->those
 thogethher->together
 thoggling->toggling
+thoght->thought
 thokenizathion->tokenization
 thokenized->tokenized
 tholerance->tolerance
@@ -44723,6 +44729,7 @@ timmestammp->timestamp
 timme->time
 timming->timing
 timne->time
+timout->timeout
 timsort->timesort
 tinguistic->linguistic
 tinguistics->linguistics
@@ -48530,6 +48537,7 @@ wroote->wrote
 wrosened->worsened
 wrotae->wrote
 wrotee->wrote
+wroten->wrote
 wrothe->wrote
 wrotte->wrote
 wrrestlerrs->wrestlers
