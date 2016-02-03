@@ -23719,6 +23719,7 @@ inequualities->inequalities
 inerlial->inertial
 inernal->internal
 inerrtial->inertial
+inerrupt->interrupt
 inerthial->inertial
 inertiaal->inertial
 inertiael->inertial
@@ -30545,6 +30546,7 @@ noncombathanths->noncombatants
 noncombattantts->noncombatants
 noncombbatants->noncombatants
 noncommbatants->noncombatants
+no necessarily->not necessarily
 noneetheeleess->nonetheless
 nonehteless->nonetheless
 nonelheless->nonetheless
@@ -37437,6 +37439,7 @@ refer too->refer to
 refert->refer
 referts->refers
 refer tto->refer to
+refert to->refer to
 refesh->refresh
 reffered->referred
 refferenced->referenced
