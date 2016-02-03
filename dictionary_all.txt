@@ -10836,12 +10836,14 @@ consitituents->constituents
 consitituted->constituted
 consititutional->constitutional
 consititution->constitution
+consit of->consist of
 consitraints->constraints
 consitruction->construction
 consitructs->constructs
 consits->consists
 consitsent->consistent
 consitsently->consistently
+consits of->consists of
 consituencies->constituencies
 consituency->constituency
 consituted->constituted
@@ -20345,6 +20347,7 @@ glidesplope->glide slope
 glid slope->glide slope
 glidslope->glide slope
 glight->flight
+glitsch->glitch
 gllamorous->glamorous
 gllowed->allowed
 gloabl->global
@@ -27019,6 +27022,7 @@ lobacco->tobacco
 locaal->local
 locael->local
 loca->local
+localtion->location
 localy->locally
 loccal->local
 locgial->logical
