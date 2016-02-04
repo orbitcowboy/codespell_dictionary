@@ -7562,6 +7562,7 @@ captureed->captured
 capturred->captured
 captuured->captured
 capured->captured
+Caputure->Capture
 Caracass->Caracas
 Caraccas->Caracas
 carachter->character
@@ -20238,6 +20239,7 @@ geopraphical->geographical
 gerater->greater
 gerat->great
 gererates->generates
+germal->German
 gernerated->generated
 gernerates->generates
 gerrilla->guerrilla
