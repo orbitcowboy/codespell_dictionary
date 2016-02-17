@@ -20900,6 +20900,7 @@ habbeas->habeas
 Habbsbburg->Habsburg
 habeass->habeas
 habeeas->habeas
+habenero->habanero
 habeus->habeas
 hability->ability
 Habsbourg->Habsburg
@@ -24260,6 +24261,7 @@ innduce->induce
 inndulge->indulge
 inndustrial->industrial
 inndustry->industry
+innecessary->unnecessary
 innediately->immediately
 innefficiennt->inefficient
 innefficienntly->inefficiently
@@ -38869,6 +38871,7 @@ rised->raised, rose,
 rised->rose
 roally->orally
 robitic->robotic
+robusteness->robustness
 Roccefeller->Rockefeller
 Rocckefeller->Rockefeller
 roccocco->rococo
