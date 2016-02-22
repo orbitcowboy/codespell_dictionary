@@ -13817,6 +13817,7 @@ derreferrencing->dereferencing
 derrivative->derivative
 derrived->derived
 derrogatorry->derogatory
+derviative->derivative
 desccendant->descendant
 desccendants->descendants
 desccribed->described
@@ -22898,6 +22899,7 @@ implemntaion->implementation
 implemnted->implemented
 implentation->implantation
 implentation->implementation
+Implentation->Implementation
 impliccitly->implicitly
 implicilly->implicitly
 implicite->implicit
@@ -41215,6 +41217,7 @@ southerrn->southern
 southhbridge->southbridge
 southhern->southern
 southh->south
+soutions->solutions
 sout->south
 soutthbridge->southbridge
 soutthern->southern
