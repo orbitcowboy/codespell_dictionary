@@ -9270,6 +9270,7 @@ colosal->colossal
 colossaal->colossal
 colossael->colossal
 colossssal->colossal
+colourize->colorize
 colum->column
 columm->column
 colummn->column
@@ -11040,6 +11041,7 @@ constraeints->constraints
 constraiints->constraints
 constrain->constraint
 constrainst->constraints
+constrait->constraint
 constrcutor->constructor
 constrraints->constraints
 constrruction->construction
@@ -11249,6 +11251,7 @@ continuee->continue
 continueed->continued
 continueing->continuing
 continuingg->continuing
+continuosly->continuously
 continuouslly->continuously
 continuouslyy->continuously
 continuouss->continuous
@@ -14389,6 +14392,7 @@ didnt->didn't, did not
 didn'th->didn't
 didn'tt->didn't
 didplayed->displayed
+dieabling->disabling
 diea->die
 diea->idea
 diea->idea, die
@@ -14694,6 +14698,7 @@ diocesse->diocese
 diokese->diocese
 dioocese->diocese
 diosese->diocese
+dipendent->dependent
 dipgraphs->digraphs
 diphhthhong->diphthong
 diphhthhongs->diphthongs
@@ -28978,6 +28983,7 @@ misssspelled->misspelled
 misssspelling->misspelling
 misssspell->misspell
 missuse->misuse
+mistakingly->mistakenly
 misterious->mysterious
 mistery->mystery
 misteryous->mysterious
@@ -37879,6 +37885,7 @@ reminscent->reminiscent
 reminsicent->reminiscent
 remmaining->remaining
 remmant->remnant
+remmeber->remember
 remmebers->remembers
 remmemmber->remember
 remmemmbrance->remembrance
@@ -38597,6 +38604,7 @@ resturant->restaurant
 resturants->restaurants
 resturaunt->restaurant
 resturaunts->restaurants
+resulst->results
 resultion->resolution
 resurected->resurrected
 resurecting->resurrecting
@@ -39717,6 +39725,7 @@ seachable->searchable
 seached->searched
 seaches->searches
 seach->search
+sead->seat
 seaerched->searched
 seaerches->searches
 seaerch->search
@@ -44760,6 +44769,7 @@ tird->third
 tisteners->listeners
 titeratty->literally
 titerature->literature
+titlemar->titlebar
 titlt->tilt
 tittte->little
 tived->lived
