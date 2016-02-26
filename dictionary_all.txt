@@ -33705,6 +33705,7 @@ polute->pollute
 polutes->pollutes
 poluting->polluting
 polution->pollution
+polynomical->polynomial
 polynom->polynomial
 polyphhonic->polyphonic
 polyphonicc->polyphonic
@@ -36712,6 +36713,7 @@ raisees->raises
 raissed->raised
 raissess->raises
 ralify->ratify
+ramdom->random
 randome->random
 rapidd->rapid
 rapiid->rapid
@@ -42974,6 +42976,7 @@ sufered->suffered
 sufering->suffering
 suffaeraed->suffered
 suffaering->suffering
+suffcient->sufficient
 suffeereed->suffered
 suffeering->suffering
 sufferage->suffrage
@@ -46228,6 +46231,7 @@ undersitood->understood
 underslood->understood
 undersquare->underscore
 undersstood->understood
+understading->understanding
 understanability->understandability
 understant->understand
 understhood->understood
