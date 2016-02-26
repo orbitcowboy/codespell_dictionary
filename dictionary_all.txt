@@ -2441,6 +2441,7 @@ aextrataerraestrials->extraterrestrials
 aextravagant->extravagant
 aeyas->eyas
 afair->affair
+afer->after
 affaiir->affair
 affairr->affair
 affect on->effect on
@@ -3647,6 +3648,7 @@ anomolies->anomalies
 anomolous->anomalous
 anomoly->anomaly
 anonimity->anonymity
+anonoymous->anonymous
 anonymiity->anonymity
 anonymily->anonymity
 anonymithy->anonymity
@@ -9279,6 +9281,7 @@ columms->columns
 columnn->column
 columnns->columns
 columnss->columns
+columnt->column
 colums->columns
 colunn->column
 colunns->columns
@@ -10732,6 +10735,7 @@ consecutiv->consecutive
 consecutivee->consecutive
 consecutivve->consecutive
 consecuttive->consecutive
+consecutuve->consecutive
 consecuutive->consecutive
 conseecutivee->consecutive
 conseensus->consensus
@@ -11904,6 +11908,7 @@ corraespond->correspond
 corraesponding->corresponding
 corraesponds->corresponds
 corrdial->cordial
+correceted->corrected
 correclness->correctness
 correclors->correctors
 correcrtly->correctly
@@ -13175,6 +13180,7 @@ declarration->declaration
 declarre->declare
 declartion->declaration
 declartions->declarations
+declation->declaration
 decllaration->declaration
 decllare->declare
 decmial->decimal
@@ -14755,6 +14761,7 @@ directoryy->directory
 directoty->directory
 directoy->directory
 directroy->directory
+directry->directory
 directtly->directly
 directtory->directory
 directty->directly
@@ -18936,6 +18943,7 @@ fel->feel
 fell free->feel free
 fels->feels
 femminist->feminist
+fenched->fenced
 feom->from
 fequent->frequent
 ferlilily->fertility
@@ -19616,6 +19624,7 @@ forrty->forty
 forrwarrd->forward
 forsaw->foresaw
 forseeable->foreseeable
+Fortan->Fortran
 fortelling->foretelling
 forth->fourth
 forthies->forties
@@ -21600,6 +21609,7 @@ highllight->highlight
 highllighting->highlighting
 hightight->highlight
 hightighting->highlighting
+highting->highlighting
 hightlighted->highlighted
 hightlighting->highlighting
 highwaay->highway
@@ -21611,6 +21621,7 @@ higlight->highlight
 higligting->highlighting
 higliting->highlighting
 higway->highway
+hihglighted->highlighted
 hiierarchiical->hierarchical
 hiierarchiies->hierarchies
 hiierarchy->hierarchy
@@ -22045,6 +22056,7 @@ hygienne->hygiene
 hygiiene->hygiene
 Hypaer Thraeading->Hyper Threading
 Hypeer Threeading->Hyper Threading
+hypenation->hyphenation
 hyper link->hyperlink
 Hyperr Thrreading->Hyper Threading
 Hyper Thhreading->Hyper Threading
@@ -22189,6 +22201,7 @@ identifiy->identify
 identifyable->identifiable
 identifyer->identifier
 identikal->identical
+identitied->identified
 identtical->identical
 identtifier->identifier
 identtifiers->identifiers
@@ -23390,6 +23403,7 @@ incorpporated->incorporated
 incorpporates->incorporates
 incorpporation->incorporation
 incorprates->incorporates
+incorrected->incorrectly
 incorrporrated->incorporated
 incorrporrates->incorporates
 incorrporration->incorporation
@@ -24160,6 +24174,7 @@ inkreased->increased
 inkredible->incredible
 inkrementally->incrementally
 inkunabula->incunabula
+inlcuded->included
 inlcude->include
 inlcuding->including
 inleger->integer
@@ -24811,6 +24826,7 @@ intepretator->interpretor
 intepreting->interpreting
 interaactive->interactive
 interacctive->interactive
+interace->interface
 interactivee->interactive
 interactiv->interactive
 interactivve->interactive
@@ -26274,6 +26290,7 @@ langages->languages
 langauge->language
 langguagge->language
 langguagges->languages
+langluage->language
 languagae->language
 languagaes->languages
 languagee->language
@@ -26516,6 +26533,7 @@ leveitated->levitated
 leveitate->levitate
 leveitates->levitates
 leveitating->levitating
+levele->level
 levetated->levitated
 levetate->levitate
 levetates->levitates
@@ -30310,6 +30328,7 @@ nesling->nesting
 nessasarily->necessarily
 nessecary->necessary
 nessting->nesting
+nestes->nested
 nesthing->nesting
 nestiing->nesting
 nestingg->nesting
@@ -31535,6 +31554,7 @@ openmess->openness
 openned->opened
 opennes->openness
 opennessss->openness
+openning->opening
 openninng->opening
 opennly->openly
 opennnness->openness
@@ -32698,6 +32718,7 @@ Pemmsylvania->Pennsylvania
 Pemnsylvania->Pennsylvania
 penaalty->penalty
 penaelty->penalty
+penality->penalty
 penallty->penalty
 penalthy->penalty
 penaltty->penalty
@@ -35248,6 +35269,7 @@ processer->processor
 processiing->processing
 processingg->processing
 processinng->processing
+processin->processing
 processro->processor
 processssing->processing
 processssor->processor
@@ -38591,6 +38613,7 @@ restriicted->restricted
 restrikted->restricted
 restroation->restoration
 restroe->restore
+restructered->restructured
 resttartted->restarted
 resttaurantt->restaurant
 resttaurantts->restaurants
@@ -39914,6 +39937,7 @@ sensitivve->sensitive
 sensittive->sensitive
 senstive->sensitive
 sensure->censure
+sentenc->sentence
 sepaaraated->separated
 sepaaraately->separately
 sepaaraate->separate
@@ -41336,6 +41360,7 @@ Spaniish->Spanish
 Spanishh->Spanish
 Spanissh->Spanish
 Spannish->Spanish
+spatious->spacious
 spcified->specified
 speach->speech
 speccialised->specialised
@@ -46235,6 +46260,7 @@ undettecttable->undetectable
 unde->under
 undicidable->undecidable
 undifined->undefined
+undocument->undocumented
 undooubtedly->undoubtedly
 undoubbtedly->undoubtedly
 undoubledly->undoubtedly
@@ -47184,6 +47210,7 @@ valud->valid,value
 valueable->valuable
 valuess->values
 valuuable->valuable
+valuue->value
 varables->variables
 varaible->variable
 varations->variations
