@@ -10128,6 +10128,7 @@ comunication->communication
 comunications->communications
 comunities->communities
 comunity->community
+conact->contact
 concaeitaed->conceited
 concaeivaed->conceived
 concaentratae->concentrate
@@ -41159,6 +41160,7 @@ sorceror->sorcerer
 sorce->source
 sorces->sources
 sorkerer->sorcerer
+sor of->sort of
 sorrcerrerr->sorcerer
 sorrounding->surrounding
 sorrt->sorry
