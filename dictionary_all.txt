@@ -4464,6 +4464,7 @@ arithmatic->arithmetic
 arithmentic->arithmetic
 arithmethic->arithmetic
 arithmetik->arithmetic
+arithmitic->arithmetic
 arival->arrival
 arkhaeologist->archaeologist
 arkhaeologists->archaeologists
@@ -7297,6 +7298,7 @@ calculattor->calculator
 calculs->calculus
 calcultae->calculate
 calculuss->calculus
+calcutating->calculating
 calcuulate->calculate
 calcuulated->calculated
 calcuulation->calculation
@@ -9093,6 +9095,7 @@ coefficiet->coefficient
 coeffiiciients->coefficients
 coeficients->coefficients
 cofee->coffee
+cofficients->coefficients
 cofigured->configured
 coform->conform
 coggnizant->cognizant
@@ -15395,6 +15398,7 @@ ditsribution->distribution
 ditsricts->districts
 divaergaed->diverged
 divaersae->diverse
+divdable->dividable
 diveerged->diverged
 diveergeed->diverged
 diveerse->diverse
@@ -32086,6 +32090,7 @@ paatience->patience
 paavilion->pavilion
 pacakge->package
 padddding->padding
+paddded->padded
 paddiing->padding
 paddingg->padding
 paddinng->padding
