@@ -9272,7 +9272,6 @@ colosal->colossal
 colossaal->colossal
 colossael->colossal
 colossssal->colossal
-colourize->colorize
 colum->column
 columm->column
 colummn->column
@@ -24058,7 +24057,9 @@ inilializing->initializing
 inilially->initially
 inital->initial
 initalisation->initialization
+initalised->initialized
 initalise->initialise
+initalise->initialize
 initalization->initialization
 initalized->initialized
 initalize->initialize
