@@ -7507,6 +7507,7 @@ cant->can't
 cant'->can't
 can'th->can't
 can'tt->can't
+cant't->can't
 caost->coast
 capabbilities->capabilities
 capabbility->capability
@@ -29387,6 +29388,7 @@ monikerss->monikers
 monikkers->monikers
 moniklers->monikers
 monitary->monetary
+monitonic->monotonic
 Monlana->Montana
 monlh->month
 monlhs->months
@@ -34849,6 +34851,8 @@ preoccupationn->preoccupation
 preoccupattion->preoccupation
 preoccuupation->preoccupation
 preocupation->preoccupation
+preoject coals->project goals
+preoject->project
 preokkupation->preoccupation
 preooccupatioon->preoccupation
 preorgative->prerogative
@@ -44194,6 +44198,7 @@ tentakles->tentacles
 tentakle->tentacle
 teory->theory
 tepmorarily->temporarily
+Tera->Terra
 tereafter->thereafter
 tereby->thereby
 terefore->therefore
@@ -48540,6 +48545,7 @@ wouldnt->wouldn't
 would of->would have
 woulld have->would have
 woulld->would
+wouold->would
 woutd have->would have
 woutd->would
 wouuld have->would have
