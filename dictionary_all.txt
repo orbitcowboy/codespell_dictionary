@@ -6841,6 +6841,7 @@ Brittain->Britain
 brittiant->brilliant
 Brittish->British
 brnaches->branches
+brning->brining
 broaadcaast->broadcast
 broaadcaasting->broadcasting
 broaadly->broadly
@@ -15627,6 +15628,7 @@ dooxygen->doxygen
 dosen't->doesn't
 dosen\"t->doesn\"t
 dosent'->doesn't
+dosnt->does not
 doubble->double
 doubbles->doubles
 doubbt->doubt
@@ -20154,6 +20156,7 @@ genaelogical->genealogical
 genaelogies->genealogies
 genaelogy->genealogy
 genarate->generate
+genarating->generating
 geneaalogicaal->genealogical
 geneaalogies->genealogies
 geneaalogy->genealogy
@@ -41681,6 +41684,7 @@ squuare->square
 squuares->squares
 squuirrelled->squirrelled
 srings->strings
+sripts->scripts
 srocerer->sorcerer
 srtucture->structure
 ssacrifice->sacrifice
