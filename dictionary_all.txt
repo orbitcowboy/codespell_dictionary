@@ -45905,6 +45905,7 @@ typiically->typically
 typiical->typical
 typikally->typically
 typikal->typical
+typoe->typo
 typographicial->typographical
 typpeahead->typeahead
 typpe has a->type has a
