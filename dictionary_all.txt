@@ -6569,6 +6569,7 @@ bllessing->blessing
 Bllitzkrieg->Blitzkrieg
 bloathed->bloated
 blockout->blackout
+bloog->blog
 boaat->boat
 boaet->boat
 boal->boat
@@ -11439,6 +11440,8 @@ conttrols->controls
 conttroversial->controversial
 conttroversies->controversies
 conttroversy->controversy
+conumicate->communicate
+conunicate->communicate
 convaeniaent->convenient
 convaentional->conventional
 convaersion->conversion
@@ -19904,12 +19907,14 @@ fundamentat->fundamental
 fundamentats->fundamentals
 fundamenthal->fundamental
 fundamenthals->fundamentals
+fundaments->fundamentals
 fundamenttal->fundamental
 fundamenttals->fundamentals
 fundametal->fundamental
 fundametals->fundamentals
 fundammental->fundamental
 fundammentals->fundamentals
+fundanents->fundamentals
 funddamental->fundamental
 funddamentals->fundamentals
 fundementals->fundamentals
@@ -22914,6 +22919,8 @@ implementingg->implementing
 implemention->implementation
 implementor->implementer
 implementors->implementers
+implementstion->implementation
+implementstions->implementations
 implementtattion->implementation
 implementted->implemented
 implementt->implement
@@ -37685,6 +37692,8 @@ reinforcced->reinforced
 reinforcedd->reinforced
 reinforked->reinforced
 reinfroced->reinforced
+reinitalization->reinitialization
+reinitalize->reinitialize
 reinkarnation->reincarnation
 reinncarnnationn->reincarnation
 reinnforced->reinforced
@@ -48139,6 +48148,7 @@ wensday->Wednesday
 wereabouts->whereabouts
 were're->we're
 werid->weird
+wesite->website
 we speck->we speak
 wether->whether
 wett->well
