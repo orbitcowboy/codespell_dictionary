@@ -25718,6 +25718,7 @@ kalkulator->calculator
 kalkulus->calculus
 kalligraphy->calligraphy
 kalling->calling
+Kamera->Camera
 kamouflage->camouflage
 kampaign->campaign
 kampaigns->campaigns
@@ -34591,6 +34592,7 @@ praestigious->prestigious
 praesumably->presumably
 praevalaent->prevalent
 praevious->previous
+präfix->prefix
 praiiriie->prairie
 praiiriies->prairies
 prairiae->prairie
