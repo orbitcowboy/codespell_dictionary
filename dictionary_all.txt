@@ -2841,6 +2841,7 @@ alegience->allegiance
 aleviate->alleviate
 alfa->alpha
 algaebraic->algebraic
+algbras->algebras
 algebbraic->algebraic
 algebraical->algebraic
 algebraicc->algebraic
@@ -4619,6 +4620,7 @@ arrtificial->artificial
 arrtificially->artificially
 arrtillerry->artillery
 artcile->article
+arthemtic->arthritic
 arthicle->article
 arthificial->artificial
 arthificially->artificially
@@ -33579,6 +33581,7 @@ plleasant->pleasant
 pllebiscite->plebiscite
 pllugins->plugins
 ploynomials->polynomials
+plugable->pluggable
 pluggins->plugins
 plugiin->plugin
 plugiin->plug-in
@@ -38962,6 +38965,7 @@ roigin->origin
 Rokefeller->Rockefeller
 Rokkefeller->Rockefeller
 rokoko->rococo
+roled->rolled
 rommate->roommate
 Roockefeller->Rockefeller
 roocoocoo->rococo
