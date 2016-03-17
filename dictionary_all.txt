@@ -763,6 +763,7 @@ accindentally->accidentally
 accitently->accidentally
 accknowledged->acknowledged
 accknowledging->acknowledging
+acclerated->accelerated
 accliimatiizatiion->acclimatization
 acclimalizalion->acclimatization
 acclimathizathion->acclimatization
@@ -1372,6 +1373,7 @@ addiitiionally->additionally
 addilion->addition
 addilional->additional
 addilionally->additionally
+addilionaly->additionally
 addional->additional
 addionally->additionally
 addithion->addition
@@ -1483,10 +1485,13 @@ adherrence->adherence
 adherring->adhering
 adhherence->adherence
 adhhering->adhering
+adilionally->additionally
+adilionaly->additionally
 adisory->advisory
 adition->addition
 aditional->additional
 aditionally->additionally
+aditionaly->additionally
 adivisory->advisory
 adjacient->adjacent
 adjjustable->adjustable
@@ -3737,6 +3742,8 @@ anthroppomorpphization->anthropomorphization
 anthrropologist->anthropologist
 anthrropology->anthropology
 anthrropomorrphization->anthropomorphization
+antialising->antialiasing
+antiliases->antialiased
 antoher->another
 antropologist->anthropologist
 antropology->anthropology
@@ -20624,7 +20631,9 @@ gratuitious->gratuitous
 gratuitoous->gratuitous
 gratuitouss->gratuitous
 gratuuitouus->gratuitous
+grawing->drawing
 gray-scale->grayscale
+grdient->gradient
 greaater->greater
 greaater thaan->greater than
 greaat->great
@@ -33580,6 +33589,7 @@ pllaywrights->playwrights
 plleasant->pleasant
 pllebiscite->plebiscite
 pllugins->plugins
+ploygon->polygon
 ploynomials->polynomials
 plugable->pluggable
 pluggins->plugins
@@ -34045,6 +34055,7 @@ possaessing->possessing
 possaession->possession
 possaessions->possessions
 possaess->possess
+possbly->possibly
 posseesseed->possessed
 posseessees->possesses
 posseessing->possessing
