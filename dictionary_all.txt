@@ -5159,6 +5159,7 @@ athrocithies->atrocities
 aththain->attain
 aththainder->attainder
 aththained->attained
+ath the->at the
 aththempth->attempt
 aththempthed->attempted
 aththempthing->attempting
@@ -19393,6 +19394,7 @@ followingg->following
 followingin->following in
 followinhg->following
 followinng->following
+followng->following
 followwing->following
 follwing->following
 follwoing->following
@@ -34826,6 +34828,7 @@ preliferation->proliferation
 preliimiinary->preliminary
 preliminaary->preliminary
 preliminaery->preliminary
+preliminar->preliminary
 preliminaryy->preliminary
 preliminnary->preliminary
 prelimminary->preliminary
@@ -42356,6 +42359,7 @@ streamlinninng->streamlining
 streamllining->streamlining
 streammlining->streamlining
 streamtining->streamlining
+streched->stretched
 streeamlining->streamlining
 streemlining->streamlining
 streengtheeneed->strengthened
@@ -47359,6 +47363,7 @@ vearying->varying
 veassals->vassals
 veassal->vassal
 vecotr->vector
+vectora->vectors
 vectorizarion->vectorization
 veegeetablees->vegetables
 veegeetablee->vegetable
