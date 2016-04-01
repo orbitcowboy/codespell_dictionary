@@ -11076,6 +11076,7 @@ construuction->construction
 construucts->constructs
 constsant->constant
 consts->constants
+Conststructor->constructor
 consttantt->constant
 consttanttly->constantly
 constternattion->consternation
@@ -13193,6 +13194,7 @@ declaratiion->declaration
 declarationn->declaration
 declaratioon->declaration
 declarattion->declaration
+declar->declare
 declaread->declared
 declaretion->declaration
 declarration->declaration
@@ -14136,6 +14138,7 @@ destruktor->destructor
 destruuction->destruction
 destruuctive->destructive
 destruuctor->destructor
+deststructor->destructor
 desttabilized->destabilized
 desttinattion->destination
 desttinattions->destinations
@@ -15456,6 +15459,7 @@ divvided->divided
 divvide->divide
 divvision->division
 divvisions->divisions
+diyplay->display
 dize of->size of
 dize->size
 doaes->does
@@ -18436,6 +18440,7 @@ expresed->expressed
 expresion->expression
 expressedd->expressed
 expresseion->expression
+expresson->expression
 expressssed->expressed
 exproopriated->expropriated
 exproopriatioon->expropriation
@@ -19418,6 +19423,7 @@ fomr->from
 fomr->from, form
 fomr->from, form,
 fomula->formula
+fonction->function
 fonetic->phonetic
 fonlier->fontier
 fonntier->fontier
@@ -19490,6 +19496,7 @@ forbiddaen->forbidden
 forbidddden->forbidden
 forbiddeen->forbidden
 forbiddenn->forbidden
+forbidd->forbid
 forbiden->forbidden
 forbiidden->forbidden
 foreeground->foreground
@@ -22223,6 +22230,7 @@ identifiction->identification
 identifierr->identifier
 identifierrs->identifiers
 identifierss->identifiers
+identifiing->identifying
 identifing->identifying
 identifiy->identify
 identifyable->identifiable
@@ -30330,6 +30338,7 @@ neighhbourhhood->neighbourhood
 neighhbouring->neighbouring
 neighhbour->neighbour
 neighhbours->neighbours
+neighter->weighter
 neiighborhood->neighborhood
 neiighboriing->neighboring
 neiighbor->neighbor
@@ -36765,6 +36774,7 @@ rareffied->rarefied
 rarefiedd->rarefied
 rarefiied->rarefied
 rarified->rarefied
+Rasbian->Raspbian
 rases->raises
 rathify->ratify
 ratiffy->ratify
@@ -40617,6 +40627,7 @@ siized->sized
 siize of->size of
 siize->size
 siiziing->sizing
+silghtly->slightly
 simbol->symbol
 similaarity->similarity
 similaarly->similarly
@@ -41559,6 +41570,7 @@ speling->spelling
 spel->spell
 spendour->splendour
 speparate->separate
+speparation->separation
 spermaatozoon->spermatozoon
 spermaetozoon->spermatozoon
 spermalozoon->spermatozoon
@@ -43797,8 +43809,11 @@ synoonymoous->synonymous
 synoonyms->synonyms
 synphony->symphony
 synronous->synchronous
+syntacticaly->syntactically
 syntactica->syntactical
 syntatically->syntactically
+syntaxically->syntactically
+syntaxicaly->syntactically
 syphhilis->syphilis
 syphiiliis->syphilis
 syphillis->syphilis
@@ -48719,6 +48734,7 @@ wwriting->writing
 wwritten->written
 wwrote->wrote
 wxMasima->wxMaxima
+wxWidets->wxWidgets
 wxWidges->wxWidgets
 wx wingets->wxWidgets
 wysiwig->wysiwyg
