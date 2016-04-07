@@ -9775,6 +9775,7 @@ comnemoration->commemoration
 comnemorative->commemorative
 comnercial->commercial
 comnercially->commercially
+comnerical->commercial
 comnission->commission
 comnissioned->commissioned
 comnissioner->commissioner
@@ -10479,6 +10480,7 @@ conmemoration->commemoration
 conmemorative->commemorative
 conmercial->commercial
 conmercially->commercially
+conmerical->commercial
 conmission->commission
 conmissioned->commissioned
 conmissioner->commissioner
@@ -10557,6 +10559,7 @@ connemoration->commemoration
 connemorative->commemorative
 connercial->commercial
 connercially->commercially
+connerical->commercial
 Conneticut->Connecticut
 connetion->connection
 connfidenntial->confidential
@@ -31025,6 +31028,7 @@ obsesion->obsession
 obsessedd->obsessed
 obsessiion->obsession
 obsessionn->obsession
+obsfucator->obsfucator
 obsitacle->obstacle
 obsitacles->obstacles
 obsitructed->obstructed
