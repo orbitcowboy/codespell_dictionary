@@ -3021,6 +3021,7 @@ allllusion->allusion
 alllow->allow
 allmost->almost
 alloction->allocation
+alloes->allows
 allogelher->altogether
 allolled->allotted
 allolted->allotted
