@@ -24557,6 +24557,7 @@ insitrumental->instrumental
 insitrument->instrument
 insitruments->instruments
 insitsence->insistence
+Insitute->Institute
 insitution->institution
 insitutions->institutions
 inslall->install
