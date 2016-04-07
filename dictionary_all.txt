@@ -31570,6 +31570,8 @@ opaening->opening
 opaenly->openly
 opaennaess->openness
 opaerator->operator
+opearator->operator
+opearators->operators
 opeator->operator
 opeeneed->opened
 opeening->opening
