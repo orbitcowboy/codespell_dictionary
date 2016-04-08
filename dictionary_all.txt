@@ -626,6 +626,7 @@ abutts->abuts
 abuundances->abundances
 abuundant->abundant
 abuuts->abuts
+abvious->obvious
 acadaemic->academic
 acadaemy->academy
 acadamy->academy
@@ -7827,6 +7828,7 @@ catapillar->caterpillar
 catapillars->caterpillars
 catapiller->caterpillar
 catapillers->caterpillars
+catastropic->catastrophic
 Catatina->Catalina
 catched->cached
 catcutate->calculate
@@ -12585,6 +12587,7 @@ curriiculum->curriculum
 curriosity->curiosity
 currrrently->currently
 currrriculum->curriculum
+currupted->corrupted
 cursur->cursor
 cusitomize->customize
 cuslomize->customize
@@ -35032,6 +35035,7 @@ previsous->previous
 previvous->previous
 prevvalent->prevalent
 prevvious->previous
+prhaps->perhaps
 priaesthood->priesthood
 pricipal->principal
 priciple->principle
@@ -44362,6 +44366,7 @@ thanns->thanks
 thann->than
 thansk->thanks
 thans->thanks
+thanx->thank
 thargethed->targeted
 thargething->targeting
 thask->task
