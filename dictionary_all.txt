@@ -3961,6 +3961,7 @@ appereance->appearance
 appereances->appearances
 appiance->appliance
 appiances->appliances
+appies->applies
 applaiction->application
 appliaction->application
 appliaed->applied
@@ -5567,6 +5568,7 @@ autoritative->authoritative
 autorities->authorities
 autority->authority
 autorized->authorized
+autors->authors
 autorship->authorship
 Autsralia->Australia
 Autsralian->Australian
@@ -16817,6 +16819,7 @@ encoddinggs->encodings
 encoddings->encodings
 encoddingss->encodings
 enconding->encoding
+encontered->encountered
 encoodding->encoding
 encooddings->encodings
 encoouraging->encouraging
@@ -20853,6 +20856,7 @@ guerritta->guerrilla
 guerrittas->guerrillas
 guerrrrilla->guerrilla
 guerrrrillas->guerrillas
+guesss->guess
 guesssswork->guesswork
 guesswoork->guesswork
 guessworc->guesswork
@@ -21830,6 +21834,7 @@ homoggenized->homogenized
 homoggenize->homogenize
 homoguenized->homogenized
 homoguenize->homogenize
+hompage->homepage
 honnorary->honorary
 honnour->honour
 honoraary->honorary
@@ -42158,6 +42163,7 @@ standart->standard
 standdardds->standards
 stange->strange
 stanndards->standards
+stantely->stately
 staring point->starting point
 starrting->starting
 starrt->start
@@ -42699,6 +42705,7 @@ subcontracotrs->subcontractors
 subcontracotr->subcontractor
 subcoonscioously->subconsciously
 subcribe->subscribe
+subcription->subscription
 subctassed->subclassed
 subctass->subclass
 subdiretories->subdirectories
@@ -46620,6 +46627,7 @@ unmaneuverabte->unmaneuverable
 unmaneuverrable->unmaneuverable
 unmaneuvrable->unmaneuverable
 unmaneuvverable->unmaneuverable
+unmanged->unmanaged
 unmanoaeuvrablae->unmanoeuvrable
 unmanoeeuvrablee->unmanoeuvrable
 unmanoeuverable->unmanoeuvrable
