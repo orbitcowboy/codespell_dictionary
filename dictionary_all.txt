@@ -34339,7 +34339,6 @@ is sel->is set
 is seth->is set
 is setted->is set
 is sett->is set
-iss->is
 iss not->is not
 issn't->isn't
 Issraeliss->Israelis
