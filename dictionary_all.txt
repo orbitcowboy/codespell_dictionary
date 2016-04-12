@@ -30093,7 +30093,6 @@ iif you want->if you want
 iignored->ignored
 ii have->i have
 i i->i
-ii->i
 iillegal->illegal
 iillegiitiimacy->illegitimacy
 iillegiitiimate->illegitimate
@@ -36588,7 +36587,6 @@ llonelly->lonely
 llonger->longer
 llongest->longest
 llongitudinall->longitudinal
-llong->long
 lloopback->loopback
 llose->lose
 llosing->losing
