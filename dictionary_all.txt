@@ -10539,7 +10539,6 @@ cclearancce->clearance
 cclear->clear
 cclearer->clearer
 cclearly->clearly
-cclient->client
 ccliniccal->clinical
 ccliniccally->clinically
 cclipboard->clipboard
@@ -19793,6 +19792,7 @@ directhory->directory
 directhory exisths->directory exists
 directlly->directly
 directlyy->directly
+directoiry->directory
 directoory->directory
 directoory exists->directory exists
 directory exisits->directory exists
