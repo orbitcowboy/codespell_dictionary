@@ -1671,7 +1671,6 @@ adapthed->adapted
 adapther->adapter
 adaption->adaptation
 adaptions->adaptations
-adaptor->adapter
 adaptt->adapt
 adapttattion->adaptation
 adapttattions->adaptations
@@ -3922,6 +3921,7 @@ alraedy->already
 alread->already
 alreaddy->already
 alreadyy->already
+alreasy->already
 alreay->already
 alreayd->already
 alredy->already
@@ -11056,7 +11056,6 @@ centhennial->centennial
 centhered->centered
 centhuries->centuries
 centhury->century
-centred->centered
 centruies->centuries
 centruy->century
 centtennial->centennial
@@ -11072,8 +11071,6 @@ centuties->centuries
 centuty->century
 centuuries->centuries
 centuury->century
-ceratin->certain
-ceratin->certain, keratin
 ceratin->certain, keratin,
 ceremmonial->ceremonial
 ceremmonies->ceremonies
@@ -12266,6 +12263,7 @@ collony->colony
 collorings->colorings
 collosal->colossal
 collossall->colossal
+collpased->collapsed
 collumn->column
 collumns->columns
 colommade->colonnade
@@ -14663,6 +14661,7 @@ constiitutiional->constitutional
 constiitutiion->constitution
 constinually->continually
 constinue->continue
+constists->consists
 constituaenciaes->constituencies
 constituaency->constituency
 constituaent->constituent
@@ -19322,6 +19321,7 @@ diamondss->diamonds
 diamonnds->diamonds
 diamons->diamonds
 diamoonds->diamonds
+diaplay->display
 diaram->diagram
 diaster->disaster
 diat->dial
@@ -30016,7 +30016,6 @@ i dnt->i did not
 idte->idle
 i.ee.->i.e.
 ie.->i.e.
-iff->if
 iff one sets->if one sets
 iff you want->if you want
 if onae saets->if one sets
@@ -35467,6 +35466,7 @@ labeel->label
 labeelleed->labelled
 labeels->labels
 labeledd->labeled
+labeling->labelling
 labelledd->labelled
 labelss->labels
 labes->labels
@@ -57337,7 +57337,6 @@ staticaly->statically
 staticatty->statically
 staticcally->statically
 staticly->statically
-statics->statistics
 statiically->statically
 statiion->station
 statiistiics->statistics
@@ -67198,7 +67197,6 @@ zebrra->zebra
 zeebra->zebra
 zeeros->zeros
 zeors->zeros
-zeroes->zeros
 zeroos->zeros
 zeross->zeros
 zerros->zeros
