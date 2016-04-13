@@ -1582,6 +1582,7 @@ actiiviity->activity
 actitivies->activities
 actitivities->activities
 actiual->actual
+activ->active
 activaded->activated
 activaely->actively
 activatae->activate
@@ -26858,6 +26859,7 @@ furtheermoree->furthermore
 furthermmore->furthermore
 furthermoore->furthermore
 furthermroe->furthermore
+furtheron->furthermore
 furthher->further
 furthhermore->furthermore
 furthmore->furthermore
@@ -29956,6 +29958,7 @@ identifyying->identifying
 identikal->identical
 identitied->identified
 identitiess->identities
+identiy->identity
 identtical->identical
 identtifiable->identifiable
 identtificattion->identification
@@ -54896,6 +54899,7 @@ signaednaess->signedness
 signaels->signals
 signaetories->signatories
 signaetory->signatory
+signalling->signaling
 signalls->signals
 signalories->signatories
 signalory->signatory
