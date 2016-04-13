@@ -8930,6 +8930,7 @@ brimsttone->brimstone
 brimtsone->brimstone
 briningg->brining
 brinninng->brining
+Bristish->British
 Britaain->Britain
 Britaein->Britain
 Britainn->Britain
@@ -47377,6 +47378,7 @@ previoously->previously
 previoous->previous
 previosly->previously
 previousely->previously
+previouse->previous
 previouslly->previously
 previouslyy->previously
 previoussly->previously
