@@ -27626,6 +27626,7 @@ gracefful->graceful
 gracefull->graceful
 gracefut->graceful
 gracefuul->graceful
+gradal->gradual
 graddient->gradient
 gradent->gradient
 gradiaent->gradient
