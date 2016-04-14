@@ -3504,7 +3504,6 @@ aktivity->activity
 akts->acts
 aktual->actual
 aktually->actually
-al->all
 albaeit->albeit
 albbeit->albeit
 albeeit->albeit
@@ -22646,7 +22645,9 @@ enhhancement->enhancement
 enhhancements->enhancements
 enhtusiasm->enthusiasm
 enhtusiastic->enthusiastic
+enities->entities
 enitities->entities
+enity->entity
 enkapsulation->encapsulation
 enkodding->encoding
 enkoddings->encoSdings
@@ -30429,7 +30430,6 @@ ileralors->iterators
 Ilhaca->Ithaca
 I lhink->I think
 il is->it is
-il->it
 illaegal->illegal
 illaegitimacy->illegitimacy
 illaegitimatae->illegitimate
@@ -35841,6 +35841,7 @@ lendency->tendency
 lenggth->length
 lenggthy->lengthy
 lenght->length
+lenghts->lengths
 lenghty->lengthy
 lenglh->length
 lenglhy->lengthy
@@ -54974,6 +54975,7 @@ signnificannt->significant
 signnifies->signifies
 signns->signs
 sigthed->sighted
+sigular->singular
 siidereal->sidereal
 siiege->siege
 siighted->sighted
@@ -58865,6 +58867,7 @@ supporst->supports
 supportaed->supported
 supportedd->supported
 supporteed->supported
+supporte->support
 supporthed->supported
 supporthing->supporting
 supporths->supports
@@ -64720,6 +64723,7 @@ valuue->value
 varables->variables
 varaible->variable
 varations->variations
+vareous->various
 variabbles->variables
 variabble->variable
 variabes->variables
@@ -65409,6 +65413,7 @@ vitories->victories
 vittain->villain
 vittein->villein
 vitti->villi
+vizualize->visualize
 vmmware->vmware
 vmwaare->vmware
 vmwaere->vmware
