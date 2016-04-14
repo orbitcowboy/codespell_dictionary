@@ -34387,6 +34387,7 @@ iteerators->iterators
 iteger->integer
 itegers->integers
 itemm->item
+itemn->item
 itentifier->identifier
 itentifiers->identifiers
 iteraate->iterate
@@ -50775,6 +50776,7 @@ referencce->reference
 referencces->references
 referencedd->referenced
 referenc e->reference
+referencers->references
 referencess->references
 referencies->references
 referencs->references
@@ -59541,6 +59543,7 @@ synchhronize->synchronize
 synchhronously->synchronously
 synchhronous->synchronous
 synching->syncing
+synchonized->synchronized
 synchonous->synchronous
 synchornization->synchronization
 synchornize->synchronize
