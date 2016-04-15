@@ -8712,6 +8712,7 @@ botttom->bottom
 bottttleneck->bottleneck
 bottttom->bottom
 bouce->bounce
+bouding->bounding
 boul->bout
 bouncae->bounce
 bouncce->bounce
@@ -52845,7 +52846,6 @@ roomnate->roommate
 roonmate->roommate
 roonnate->roommate
 roooommate->roommate
-ro->or
 rooter->router
 rooughly->roughly
 roouter->router
