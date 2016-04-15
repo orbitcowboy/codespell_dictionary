@@ -5776,6 +5776,7 @@ aross->across
 arosse->arose
 aroud->around
 aroundd->around
+aroung->around
 arounnd->around
 arouund->around
 arraestaed->arrested
@@ -32575,6 +32576,7 @@ inlroduce->introduce
 inlroduclory->introductory
 inlrusive->intrusive
 inlude->include
+inluding->including
 inluilions->intuitions
 inluilive->intuitive
 inluilively->intuitively
@@ -33097,6 +33099,7 @@ instantiatedd->instantiated
 instantiateed->instantiated
 instantiatioon->instantiation
 instantiatioons->instantiations
+instantion->instantiation
 instatance->instance
 instatiation->instantiation
 instatt a->install a
@@ -34442,6 +34445,7 @@ i thried->i tried
 ith supporths->it supports
 it hten came->it then came
 ith thhen came->it then came
+it huge->is huge
 ith will->it will
 I tink->I think
 it iss->it is
@@ -39951,6 +39955,7 @@ mortgague->mortgage
 mortggagge->mortgage
 morthgage->mortgage
 morttgage->mortgage
+mose->mouse
 mosture->moisture
 mot active->not active
 motecutes->molecules
@@ -41416,6 +41421,7 @@ noo value->no value
 Noovember->November
 noowadays->nowadays
 noow->now
+norecursive->nonrecursive
 norhern->northern
 norhteastern->northeastern
 norhtern->northern
@@ -42965,6 +42971,7 @@ oprations->operations
 opreation->operation
 opression->oppression
 opressive->oppressive
+oprimization->optimization
 opthalmic->ophthalmic
 opthalmologist->ophthalmologist
 opthalmology->ophthalmology
@@ -63604,6 +63611,7 @@ unkhekk->uncheck
 unkknown->unknown
 unknonw->unknown
 unknoown->unknown
+unknow->unknown
 unknowwn->unknown
 unknwon->unknown
 unkommitted->uncommitted
