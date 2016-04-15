@@ -5180,6 +5180,7 @@ apprecciate->appreciate
 apprecciated->appreciated
 apprecciates->appreciates
 apprechiate->appreciate
+apprechiated->appreciated
 appreciale->appreciate
 apprecialed->appreciated
 appreciales->appreciates
