@@ -38655,7 +38655,15 @@ Michigaan->Michigan
 Michigaen->Michigan
 Michigann->Michigan
 Michiggan->Michigan
+micocontroler->microcontroller
+micocontrolers->microcontrollers
+micocontroller->microcontroller
+micocontrollers->microcontrollers
 micorcontorller->microcontroller
+micorcontroler->microcontroller
+micorcontrolers->microcontrollers
+micorcontroller->microcontroller
+micorcontrollers->microcontrollers
 micor->micro
 micorscopy->microscopy
 Micorsoft->Microsoft
@@ -38667,6 +38675,7 @@ microconthroller->microcontroller
 microcontoller->microcontroller
 microcontoller->mircrocontroller
 microcontroler->microcontroller
+microcontrolers->microcontrollers
 microcontrollaer->microcontroller
 microcontrolleer->microcontroller
 microcontrollller->microcontroller
