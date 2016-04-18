@@ -5174,6 +5174,8 @@ appraeciatae->appreciate
 appraeciataed->appreciated
 appraeciataes->appreciates
 appraehaensivae->apprehensive
+appraoch->approach
+appraoches->approaches
 apprearance->appearance
 apprecaited->appreciated
 apprecciate->appreciate
