@@ -41890,6 +41890,7 @@ obfuscaled->obfuscated
 obfuscale->obfuscate
 obfuscalion->obfuscation
 obfuscalor->obfuscator
+obfuscase->obfuscate
 obfuscataed->obfuscated
 obfuscatae->obfuscate
 obfuscatedd->obfuscated
@@ -65431,6 +65432,7 @@ vitories->victories
 vittain->villain
 vittein->villein
 vitti->villi
+vizualization->visualization
 vizualize->visualize
 vmmware->vmware
 vmwaare->vmware
