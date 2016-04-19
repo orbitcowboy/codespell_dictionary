@@ -7616,6 +7616,8 @@ baetwaeaen->between
 baeud raete->baud rate
 baeutifier->beautifier
 baeutiful->beautiful
+baeutifull->beautiful
+baeutifuly->beautifully
 baeyond->beyond
 bahviour->behaviour
 baically->basically
@@ -7914,6 +7916,7 @@ beautiffier->beautifier
 beautifful->beautiful
 beautifierr->beautifier
 beautifull->beautiful
+beautifuly->beautifully
 beautifut->beautiful
 beautiifiier->beautifier
 beautiiful->beautiful
