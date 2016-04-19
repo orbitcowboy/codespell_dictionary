@@ -2150,6 +2150,7 @@ advisroy->advisory
 advissed->advised
 advissing->advising
 advissory->advisory
+advize->advise
 advnturous->adventurous
 advrsary->adversary
 advrtisement->advertisement
@@ -36791,6 +36792,7 @@ Loongitude->Longitude
 loongitudinal->longitudinal
 loong->long
 loooopback->loopback
+looose->lose
 loopbaack->loopback
 loopbacck->loopback
 loopbacc->loopback
@@ -54111,6 +54113,7 @@ seggment->segment
 seggments->segments
 seggreggation->segregation
 seggues->segues
+segmenation->segmentation
 segmenlalion->segmentation
 segmenl->segment
 segmenls->segments
@@ -63023,6 +63026,10 @@ uncertainity->uncertainty
 uncertaintyy->uncertainty
 uncerthainthy->uncertainty
 uncerttaintty->uncertainty
+uncesarilly->unnecessarily
+uncesarily->unnecessarily
+uncessarilly->unnecessarily
+uncessarily->unnecessarily
 unchaallengeaable->unchallengeable
 unchaangeaable->unchangeable
 unchaeckaed->unchecked
@@ -63742,6 +63749,8 @@ unnbalannce->unbalance
 unnbeknnownnst->unbeknownst
 unnbelievable->unbelievable
 unncertainnty->uncertainty
+unncesarilly->unnecessarily
+unncesarily->unnecessarily
 unnchallenngeable->unchallengeable
 unnchanngeable->unchangeable
 unnchecked->unchecked
