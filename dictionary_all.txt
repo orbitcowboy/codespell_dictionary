@@ -40950,6 +40950,7 @@ neighbourrhood->neighbourhood
 neighbourring->neighbouring
 neighbourr->neighbour
 neighbourrs->neighbours
+neighbours->neighbors
 neighbourss->neighbours
 neighbouurhood->neighbourhood
 neighbouuring->neighbouring
