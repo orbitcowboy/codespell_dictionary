@@ -7194,11 +7194,13 @@ automagikally->automagically
 automataed->automated
 automatedd->automated
 automateed->automated
+automatical->automatically
 automaticalllly->automatically
 automaticallyy->automatically
 automaticaly->automatically
 automaticatty->automatically
 automaticcally->automatically
+automaticl->automatically
 automaticly->automatically
 automatiically->automatically
 automatiion->automation
@@ -11403,6 +11405,8 @@ charaterized->characterized
 charaters->characters
 charcter->character
 charecter->character
+chareter->character
+chareters->characters
 chariismatiic->charismatic
 chariman->chairman
 charismalic->charismatic
@@ -13297,6 +13301,7 @@ complicance->compliance
 complie->compile
 complied->compiled
 complier->compiler
+compliers->compilers
 compliiance->compliance
 compliiant->compliant
 complilation->compilation
@@ -25679,6 +25684,8 @@ file thime->file time
 filetime->file time
 file timme->file time
 file ttime->file time
+fileystem->filesystem
+fileystems->filesystems
 filiament->filament
 fillament->filament
 fillename->filename
@@ -51637,6 +51644,8 @@ repettittion->repetition
 repettittions->repetitions
 repettittive->repetitive
 repid->rapid
+repitition->repetition
+repititions->repetitions
 replaacement->replacement
 replaace->replace
 replaccement->replacement
@@ -60268,6 +60277,8 @@ terminalss->terminals
 terminats->terminals
 terminnals->terminals
 termminals->terminals
+termnials->terminals
+termnial->terminal
 termostat->thermostat
 ternaary->ternary
 ternaery->ternary
