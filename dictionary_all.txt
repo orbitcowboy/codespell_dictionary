@@ -9092,6 +9092,7 @@ buiilt by->built by
 build by->built by
 buildd->build
 buildding->building
+builded->built
 buildign->building
 buildingg->building
 buildinng->building
@@ -11359,6 +11360,7 @@ charactaeristic->characteristic
 charactaeristics->characteristics
 charactaerizaed->characterized
 charactaers->characters
+characte->character
 characted->character
 characteer->character
 characteeristic->characteristic
@@ -11380,6 +11382,7 @@ characterizzed->characterized
 charactersistic->characteristic
 characterss->characters
 characterstics->characteristics
+charactes->characters
 characther->character
 charactheristhic->characteristic
 charactheristhics->characteristics
@@ -13198,6 +13201,7 @@ compilathion->compilation
 compilatin->compilation
 compilationn->compilation
 compilattion->compilation
+compileable->compilable
 compiledd->compiled
 compilee->compile
 compileed->compiled
@@ -19790,6 +19794,7 @@ diptomacy->diplomacy
 diraectly->directly
 diraectory aexists->directory exists
 diraectory->directory
+dirctory->directory
 direcctly->directly
 direcctory->directory
 direcctory exists->directory exists
@@ -20386,6 +20391,9 @@ dissappointed->disappointed
 dissappointing->disappointing
 dissapproval->disapproval
 dissarray->disarray
+dissassembled->disassembled
+dissassemble->disassemble
+dissassembling->disassembling
 dissasster->disaster
 dissasstrouss->disastrous
 dissathisfacthion->dissatisfaction
@@ -24067,6 +24075,7 @@ execcute->execute
 execcutes->executes
 execcuting->executing
 execcution->execution
+execellent->excellent
 exeception->exception
 execeptions->exceptions
 execising->exercising
@@ -25990,6 +25999,7 @@ foldder->folder
 foldeer->folder
 folderr->folder
 follder->folder
+folling->following
 follllowing->following
 follllowing in->following in
 follllows->follows
@@ -26277,6 +26287,7 @@ formatteed->formatted
 formatt->format
 formattiing->formatting
 formattingg->formatting
+formattings->formatting
 formattinng->formatting
 formatttted->formatted
 formatttting->formatting
@@ -31798,6 +31809,7 @@ indeppendent->independent
 indeppendently->independently
 indespensable->indispensable
 indespensible->indispensable
+indetifier->identifier
 indexess->indexes
 indexxes->indexes
 indexx->index
@@ -33086,6 +33098,7 @@ instaled->installed
 installaed->installed
 installa->install a
 installaion->installation
+installatation->installation
 installatin->installation
 installatioon->installation
 installedd->installed
@@ -35788,6 +35801,7 @@ leean->lean
 leearn->learn
 leearns->learns
 leeast->least
+leeds->leads
 leeft->left
 leegacy->legacy
 leegitimatee->legitimate
@@ -38082,6 +38096,8 @@ mccartthyistt->mccarthyist
 mccartyist->mccarthyist
 mccccarthyist->mccarthyist
 mchanics->mechanics
+mcro->macro
+mcros->macros
 meaaning->meaning
 meaans->means
 meaantime->meantime
@@ -46186,6 +46202,7 @@ possitionss->positions
 possitive->positive
 possitivess->positives
 possoble->possible
+posssible->possible
 possssessssed->possessed
 possssessssess->possesses
 possssessssing->possessing
@@ -48427,6 +48444,7 @@ proprietty->propriety
 proprietyy->propriety
 propriietary->proprietary
 propriiety->propriety
+proprocessed->preprocessed
 proprocessor->preprocessor
 proprose->propose
 proprotional->proportional
@@ -51433,6 +51451,7 @@ remoove->remove
 removee->remove
 remov->remove
 removve->remove
+renamend->renamed
 rendde->rende
 renddering->rendering
 rendder->render
@@ -53881,6 +53900,7 @@ scripl->script
 scripls->scripts
 scrippt->script
 scrippts->scripts
+scrips->scripts
 scripst->scripts
 scripth->script
 scripths->scripts
@@ -57676,6 +57696,7 @@ strenuuouus->strenuous
 stretcched->stretched
 stretchedd->stretched
 stretchhed->stretched
+stretegy->strategy
 stretkhed->stretched
 stricctest->strictest
 stricctly->strictly
@@ -59703,8 +59724,11 @@ systematicalllly->systematically
 systematicaly->systematically
 systematicatty->systematically
 systematiccally->systematically
+systematicly->systematically
 systematiically->systematically
 systematikally->systematically
+system marcos->system macros
+system marco->system macro
 systemmatically->systematically
 systemms->systems
 systemm->system
@@ -64452,6 +64476,7 @@ usuallyy->usually
 usualy->usually
 usuatty->usually
 ususally->usually
+ususal->usual
 uthilithies->utilities
 uthilithy->utility
 uthilized->utilized
