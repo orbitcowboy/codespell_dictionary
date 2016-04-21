@@ -17803,10 +17803,12 @@ decrrement->decrement
 decrrementorr->decrementor
 decrrypt->decrypt
 decrrypted->decrypted
+decryped->decrypted
 decrypl->decrypt
 decrypled->decrypted
 decryppt->decrypt
 decryppted->decrypted
+decryps->decrypts
 decrypth->decrypt
 decrypthed->decrypted
 decryptt->decrypt
@@ -19974,6 +19976,7 @@ disasiter->disaster
 disasitrous->disastrous
 disasler->disaster
 disaslrous->disastrous
+disassembley->disassembly
 disastaer->disaster
 disasteer->disaster
 disasterous->disastrous
@@ -24115,6 +24118,8 @@ executhe->execute
 executhes->executes
 executhing->executing
 executhion->execution
+executible->executable
+executibles->executables
 executiing->executing
 executiion->execution
 executingg->executing
