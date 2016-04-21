@@ -63464,6 +63464,7 @@ unfortunatelyy->unfortunately
 unfortunatety->unfortunately
 unfortunatley->unfortunately
 unfortunatly->unfortunately
+unforunately->unfortunately
 unfotunately->unfortunately
 unfourtunately->unfortunately
 unfroeseen->unforeseen
