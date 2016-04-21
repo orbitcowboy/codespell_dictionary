@@ -5059,6 +5059,8 @@ appereance->appearance
 appereances->appearances
 appiance->appliance
 appiances->appliances
+appication->application
+appications->applications
 appies->applies
 applaiction->application
 appliaction->application
@@ -5124,6 +5126,8 @@ appllications->applications
 appllied->applied
 appllies->applies
 applly->apply
+applocation->application
+applocations->applications
 applyy->apply
 appologetics->apologetics
 appologies->apologies
@@ -21356,6 +21360,7 @@ econommy->economy
 economyy->economy
 ecoonoomic->economic
 ecoonoomy->economy
+ecryption->encryption
 ecsitasy->ecstasy
 ecslasy->ecstasy
 ecsstassy->ecstasy
@@ -22506,6 +22511,7 @@ encrpyt->encrypt
 encrrypted->encrypted
 encrrypt->encrypt
 encrryption->encryption
+encryped->encrypted
 encrypled->encrypted
 encrypl->encrypt
 encryplion->encryption
@@ -24501,6 +24507,7 @@ explanatiion->explanation
 explanatioon->explanation
 explanattion->explanation
 explaned->explained
+explane->explain
 explaning->explaining
 explannationn->explanation
 explicate->explicit
