@@ -12878,6 +12878,7 @@ communiicatiion->communication
 communiicatiions->communications
 communiitiies->communities
 communiity->community
+communikation->communication
 communilies->communities
 communily->community
 communitcates->communicates
@@ -24515,6 +24516,7 @@ explaned->explained
 explane->explain
 explaning->explaining
 explannationn->explanation
+explcit->explicit
 explicate->explicit
 expliccit->explicit
 expliccitly->explicitly
@@ -26725,6 +26727,7 @@ ftuorine->fluorine
 fucntion->function
 fucntioning->functioning
 fuction->function
+fuctions->functions
 fufilled->fulfilled
 fufill->fulfill
 fuhtark->futhark
@@ -40104,6 +40107,7 @@ mulitline->multiline
 mulitple->multiple
 mulitplexer->multiplexer
 mulitplicator->multiplicator
+mulitplot->multiplot
 mulitthread->multithread
 mullichar->multichar
 mulliculluralism->multiculturalism
@@ -47576,6 +47580,7 @@ prioority->priority
 priorilies->priorities
 priorilizalion->prioritization
 priorily->priority
+priorily->priorly
 priorites->priorities
 priorithies->priorities
 priorithizathion->prioritization
@@ -53500,6 +53505,7 @@ samaba->samba
 samae->same
 sambba->samba
 samee->same
+samething->something
 samle->sample
 sammba->samba
 sammery->summery
@@ -65991,6 +65997,7 @@ web paege->web page
 web pagge->web page
 web pague->web page
 web ppage->web page
+websiet->website
 websiite->website
 websile->website
 websithe->website
