@@ -33151,6 +33151,7 @@ insteadd->instead
 insteaed->instead
 insteaf->instead
 insteead->instead
+instesd->instead
 insthall a->install a
 insthallathion->installation
 insthalled->installed
@@ -33197,6 +33198,7 @@ instituution->institution
 instituutions->institutions
 instnace->instance
 instread->instead
+instrinsic->intrinsic
 instrruction->instruction
 instrructions->instructions
 instrrumental->instrumental
