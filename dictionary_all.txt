@@ -38364,6 +38364,7 @@ mementoo->memento
 mementto->memento
 memeory->memory
 memmory->memory
+memomry->memory
 memoorable->memorable
 memoory->memory
 memoraable->memorable
@@ -63327,6 +63328,7 @@ understaendaebility->understandability
 understaending->understanding
 understaend->understand
 understanability->understandability
+understanable->understandable
 understandabbility->understandability
 understandabiiliity->understandability
 understandabilityy->understandability
