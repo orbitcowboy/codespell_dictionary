@@ -8783,6 +8783,7 @@ brackket->bracket
 brackkets->brackets
 bracklet->bracket
 bracklets->brackets
+bradcast->broadcast
 braeak->break
 braeakthrough->breakthrough
 braeakthroughs->breakthroughs
@@ -11645,6 +11646,7 @@ chnaged->changed
 chnaging->changing
 choaking->choking
 chocing->choking
+choclate->chocolate
 choeses->choses
 choicae->choice
 choicee->choice
@@ -29738,6 +29740,8 @@ hygiaenae->hygiene
 hygieenee->hygiene
 hygienne->hygiene
 hygiiene->hygiene
+hyjack->hijack
+hyjacking->hijacking
 hypaerlink->hyperlink
 Hypaer Thraeading->Hyper Threading
 Hypaer-V->Hyper-V
@@ -32909,6 +32913,8 @@ inooculated->inoculated
 inor->minor
 inot->into
 inpeach->impeach
+inpending->impending
+inpenetrable->impenetrable
 inplement->implement
 inplicit->implicit
 inpolite->impolite
@@ -38951,6 +38957,7 @@ millisekond->millisecond
 millisekonds->milliseconds
 millissecond->millisecond
 millissecondss->milliseconds
+millitant->militant
 millitary->military
 millllenniallism->millennialism
 millllenniall->millennial
@@ -44392,6 +44399,8 @@ peacefuul and->peaceful and
 peaeceful aend->peaceful and
 peageant->pageant
 peakeful and->peaceful and
+peaple->people
+peaples->peoples
 pecculiar->peculiar
 peculiaar->peculiar
 peculiaer->peculiar
@@ -44584,6 +44593,7 @@ peoms->poems
 peoople->people
 peooples->peoples
 peopel->people
+peopels->peoples
 peopless->peoples
 peoplle->people
 peoplles->peoples
@@ -44856,6 +44866,7 @@ perrsuading->persuading
 perrturrbation->perturbation
 perrturrbations->perturbations
 perrverrse->perverse
+persan->person
 perservering->persevering
 perserving->preserving
 perseveerance->perseverance
@@ -58658,6 +58669,8 @@ suddennly->suddenly
 suddently->suddenly
 suddoku->sudoku
 sudenly->suddenly
+sudents->students
+sudent->student
 sudocku->sudoku
 sudocu->sudoku
 sudokku->sudoku
@@ -59055,6 +59068,7 @@ supptemented->supplemented
 supptementing->supplementing
 suppty->supply
 suppy->supply
+suprassing->surpassing
 supressed->suppressed
 supresses->suppresses
 supressible->suppressible
@@ -61549,6 +61563,7 @@ torrmentorrs->tormentors
 torrnado->tornado
 torroidal->toroidal
 torrpedoes->torpedoes
+tortise ->tortoise
 torubles->troubles
 torugh->trough
 torupes->troupes
