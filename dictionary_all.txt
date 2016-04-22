@@ -14966,6 +14966,7 @@ contiinuiing->continuing
 contiinuous->continuous
 contiinuously->continuously
 contined->continued
+continential->continental
 contingaent->contingent
 contingeent->contingent
 continggent->contingent
@@ -52837,6 +52838,7 @@ ringgingg->ringing
 rininging->ringing
 rinnginng->ringing
 rised->raised
+rised->raised, rose
 rised->raised, rose,
 rised->rose
 roaadmaap->roadmap
@@ -54878,6 +54880,7 @@ should nott have happened->should not have happened
 should nott have->should not have
 should nott->should not
 shouldn'th->shouldn't
+shouldnt->should not
 should'nt->shouldn't
 shouldnt->shouldn't
 shouldnt->shouldn\"t
