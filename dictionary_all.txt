@@ -970,6 +970,7 @@ accidenntal->accidental
 accidenntally->accidentally
 accidentall->accidental
 accidentalllly->accidentally
+accidentally->accidentally
 accidentallyy->accidentally
 accidentaly->accidentally
 accidentat->accidental
@@ -1368,6 +1369,7 @@ achivements->achievements
 acident->accident
 acidental->accidental
 acidentally->accidentally
+acidentaly->accidentally
 acitivities->activities
 acitivity->activity
 ackknowledged->acknowledged
@@ -45611,6 +45613,8 @@ poiting->pointing
 polaloes->potatoes
 polenlially->potentially
 polenlial->potential
+polgon->polygon
+polgons->polygons
 Polian->Polish
 polical->political
 policcy->policy
