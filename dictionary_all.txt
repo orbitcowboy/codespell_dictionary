@@ -18121,6 +18121,7 @@ definitioon->definition
 definitioons->definitions
 definitition->definition
 definitively->definitely
+definitley->definitely
 definitly->definitely
 definiton->definition
 definitons->definitions
@@ -41821,6 +41822,7 @@ numeeric->numeric
 numeerous->numerous
 numeorus->numerous
 numerated->enumerated
+numerial->numerical
 numericc->numeric
 numeriic->numeric
 numerik->numeric
@@ -46279,6 +46281,7 @@ postioned->positioned
 postioning->positioning
 postion->position
 postions->positions
+postition->position
 postive->positive
 postives->positives
 post porcessing->post processing
@@ -54486,6 +54489,7 @@ sequnce->sequence
 sequnece->sequence
 sequuence->sequence
 sequuences->sequences
+serarch->search
 sergaent->sergeant
 sergeaant->sergeant
 sergeaent->sergeant
@@ -56289,6 +56293,8 @@ specctrum->spectrum
 specffiffic->specfific
 specfic->specific
 specfific->specfific
+specfifier->specifier
+specfifiers->specifiers
 specfiifiic->specfific
 speches->speeches
 spech->speech
@@ -61287,6 +61293,7 @@ to be devloped->to be developed
 to be devveloped->to be developed
 to bee deeveelopeed->to be developed
 to bee->to be
+to be send->to be sent
 tocated->located
 tocation->location
 tocat->local
@@ -65152,6 +65159,7 @@ verfy->verify
 verication->verification
 verifable->verifiable
 verifcation->verification
+verifciation->verification
 veriffiability->verifiability
 veriffiable->verifiable
 veriffication->verification
