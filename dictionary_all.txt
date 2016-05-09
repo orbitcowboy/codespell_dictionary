@@ -16312,6 +16312,7 @@ cppchcek->cppcheck
 cppchck->cppcheck
 cppchecc->cppcheck
 cppchecck->cppcheck
+cpp check->cppcheck
 cpp-check->cppcheck
 cppcheckk->cppcheck
 cppcheeck->cppcheck
@@ -41344,6 +41345,8 @@ nobbody->nobody
 noboddy->nobody
 no body->nobody
 nobodyy->nobody
+nodel->model
+nodels->models
 nodifiable->modifiable
 nolable->notable
 nolably->notably
@@ -43200,7 +43203,6 @@ orgganization->organization
 orggan->organ
 orginally->originally
 orginal->original
-orginal->orignal
 orginisational->organizational
 orginisation->organization
 orginize->organise
@@ -44009,7 +44011,9 @@ parakeetts->parakeets
 parakets->parakeets
 parakkeets->parakeets
 parakleets->parakeets
+paralelism->parallelism
 paralelle->parallel
+paralellism->parallelism
 paralell->parallel
 paralelly->parallelly
 paralel->parallel
@@ -44021,6 +44025,7 @@ parallaels->parallels
 paralleelly->parallelly
 paralleel->parallel
 paralleels->parallels
+parallellism->parallelism
 parallell->parallel
 parallellyy->parallelly
 parallelss->parallels
