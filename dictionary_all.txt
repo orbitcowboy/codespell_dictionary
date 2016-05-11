@@ -26809,6 +26809,7 @@ functiions->functions
 functinal->functional
 functin->function
 functino->function
+functins->functions
 functio->function
 functionaal->functional
 functionaalities->functionalities
