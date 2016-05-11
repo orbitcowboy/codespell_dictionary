@@ -35627,6 +35627,7 @@ lalloo->tattoo
 langage->language
 langages->languages
 langauge->language
+langauges->languages
 langguagge->language
 langguagges->languages
 langluage->language
