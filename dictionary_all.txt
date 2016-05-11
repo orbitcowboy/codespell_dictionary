@@ -31042,6 +31042,8 @@ impolitte->impolite
 impollite->impolite
 impoolite->impolite
 impoortant->important
+impoorved->improved
+impoorves->improves
 imporlanl->important
 imporrtant->important
 importaant->important
@@ -31051,9 +31053,11 @@ importannt->important
 importhanth->important
 importnat->important
 importtantt->important
+imporved->improved
 imporve->improve
 imporvement->improvement
 imporvements->improvements
+imporves->improves
 imporving->improving
 imporvisation->improvisation
 impotite->impolite
