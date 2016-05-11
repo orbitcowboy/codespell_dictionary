@@ -13047,6 +13047,7 @@ comparattively->comparatively
 comparattor->comparator
 comparattors->comparators
 compar->compare
+compareable->comparable
 comparedd->compared
 comparee->compare
 compareed->compared
@@ -22610,6 +22611,7 @@ endolliths->endoliths
 endooliths->endoliths
 endotiths->endoliths
 enduce->induce
+eneded->ended
 ened->need
 eneterd->entered
 enfforce->enforce
@@ -31966,6 +31968,8 @@ individuual->individual
 individuually->individually
 individuuals->individuals
 indiviual->individual
+indivual->individual
+indivuals->individuals
 indivvidual->individual
 indivvidually->individually
 indivviduals->individuals
@@ -38374,6 +38378,7 @@ membranophhone->membranophone
 membranopphone->membranophone
 membrranophone->membranophone
 memeber->member
+memebers->members
 memenlo->memento
 memennto->memento
 mementho->memento
@@ -41939,6 +41944,8 @@ obediient->obedient
 obeedieencee->obedience
 obeedieent->obedient
 obejective->objective
+obeject->object
+obejects->objects
 obession->obsession
 obffuscated->obfuscated
 obffuscate->obfuscate
