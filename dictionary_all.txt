@@ -4664,6 +4664,7 @@ anomolous->anomalous
 anomoly->anomaly
 anonimity->anonymity
 anonoymous->anonymous
+anonumous->anonymous
 anonymiity->anonymity
 anonymily->anonymity
 anonymithy->anonymity
@@ -9766,6 +9767,7 @@ can be perfromed->can be performed
 can be perrforrmed->can be performed
 can be pperformed->can be performed
 cancaellation->cancellation
+cancatenation->concatenation
 canceellation->cancellation
 cancelation->cancellation
 cancellalion->cancellation
@@ -9916,6 +9918,7 @@ capablee->capable
 capablle->capable
 capabte->capable
 Capae Town->Cape Town
+capbilites->capabilities
 Capee Town->Cape Town
 caperbility->capability
 Cape Toown->Cape Town
@@ -27906,6 +27909,7 @@ grouup->group
 Grouup ID->Group ID
 grouuping->grouping
 groww->grow
+grpahics->graphics
 grraceful->graceful
 grradient->gradient
 grraffiti->graffiti
@@ -32414,6 +32418,7 @@ initalised->initialized
 initalise->initialise
 initalise->initialize
 initalization->initialization
+initalizations->initializations
 initalized->initialized
 initalize->initialize
 initalizer->initializer
@@ -35552,6 +35557,8 @@ labled->labelled
 labled->labelled, labeled
 labled->labelled, labeled,
 lable->label
+lablel->label
+lablels->labels
 lables->labels
 labooratoory->laboratory
 laboralory->laboratory
