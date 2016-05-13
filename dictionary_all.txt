@@ -20141,6 +20141,7 @@ discribed->described
 discribe->describe
 discribes->describes
 discribing->describing
+discription->description
 discrrepancies->discrepancies
 discrrepancy->discrepancy
 discrrete->discrete
@@ -20513,6 +20514,7 @@ disstributed->distributed
 disstribution->distribution
 disstributionss->distributions
 disstrictss->districts
+distace->distance
 distgustingly->disgustingly
 disthincthion->distinction
 disthincthive->distinctive
@@ -38111,6 +38113,7 @@ maxamum->maximum
 maxiimum->maximum
 maximus->maximum
 maximuum->maximum
+maxium->maximum
 maxximum->maximum
 mayabe->maybe
 maybae->maybe
@@ -39045,6 +39048,7 @@ ministtries->ministries
 ministtry->ministry
 minitsries->ministries
 minitsry->ministry
+minium->minimum
 minized->minimized
 minmal->minimal
 minneral->mineral
@@ -40286,6 +40290,7 @@ multipliedd->multiplied
 multiplieed->multiplied
 multiplieers->multipliers
 multiplie->multiple
+multiplie->multiply
 multiplierrs->multipliers
 multiplierss->multipliers
 multiplikand->multiplicand
@@ -41366,6 +41371,7 @@ nobodyy->nobody
 nodel->model
 nodels->models
 nodifiable->modifiable
+noes->nodes
 nolable->notable
 nolably->notably
 nol aclive->not active
@@ -44355,6 +44361,7 @@ patennted->patented
 patentedd->patented
 pateotithic->paleolithic
 patern->pattern
+paterns->patterns
 Patestinian->Palestinian
 Patestinians->Palestinians
 patette->palette
@@ -46207,6 +46214,7 @@ possaessing->possessing
 possaession->possession
 possaessions->possessions
 possaess->possess
+possble->possible
 possbly->possibly
 posseesseed->possessed
 posseessees->possesses
