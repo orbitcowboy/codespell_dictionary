@@ -58265,6 +58265,7 @@ subdivideed->subdivided
 subdivvided->subdivided
 sub ffolder->sub folder
 subffolder->subfolder
+sub-floder->subfolder
 sub foldaer->sub folder
 subfoldaer->subfolder
 sub foldder->sub folder
@@ -58273,8 +58274,6 @@ sub foldeer->sub folder
 subfoldeer->subfolder
 sub folderr->sub folder
 subfolderr->subfolder
-sub-folder->subfolder
-subfolder->sub folder
 sub follder->sub folder
 subfollder->subfolder
 sub foolder->sub folder
@@ -58306,6 +58305,7 @@ sublasses->subclasses
 sublass->subclass
 sublerranean->subterranean
 sublle->subtle
+sublolder->subfolder
 sublracled->subtracted
 sublracling->subtracting
 sublraclions->subtractions
