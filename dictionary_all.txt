@@ -14869,6 +14869,9 @@ contant->constant
 contant->contact
 contant->contact,constant
 contants->constants
+contaoin->contain
+contaoined->contained
+contaoins->contains
 contast->contrast
 contatc->contact
 contatenate->concatenate
@@ -43380,6 +43383,7 @@ otherwisee->otherwise
 other wise->otherwise
 otherwisse->otherwise
 otherwwise->otherwise
+othewise->otherwise
 othher->other
 othher thhan->other than
 othherwise->otherwise
