@@ -8,7 +8,6 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-aufegeschlagen->aufgeschlagen
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -25,6 +24,7 @@ Athmosphäre->Atmosphäre
 Atrappe->Attrappe
 Aufage->Aufgabe
 Aufagen->Aufgaben
+aufegeschlagen->aufgeschlagen
 Aufzeichnugnen->Aufzeichnungen
 auschalten->ausschalten
 Ausdrcuk->Ausdruck

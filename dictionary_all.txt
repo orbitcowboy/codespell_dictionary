@@ -970,7 +970,6 @@ accidenntal->accidental
 accidenntally->accidentally
 accidentall->accidental
 accidentalllly->accidentally
-accidentally->accidentally
 accidentallyy->accidentally
 accidentaly->accidentally
 accidentat->accidental
