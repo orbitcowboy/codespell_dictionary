@@ -3886,6 +3886,7 @@ alot->a lot, allot,
 a loth->a lot
 a lott->a lot
 alotted->allotted
+alow->allow
 alowed->allowed
 alowing->allowing
 alows->allows
@@ -9796,6 +9797,7 @@ candidattes->candidates
 candidiate->candidate
 candiidate->candidate
 candiidates->candidates
+canditate->candidate
 canditates->candidates
 canges->changes
 can have only->can only have
@@ -17827,6 +17829,7 @@ decrypthed->decrypted
 decryptt->decrypt
 decryptted->decrypted
 decryt->decrypt
+decrytion->decryption
 decryypt->decrypt
 decryypted->decrypted
 dectaration->declaration
@@ -17834,6 +17837,7 @@ dectarations->declarations
 dectared->declared
 dectare->declare
 dectect->detect
+decypt->decrypt
 deeactivateed->deactivated
 deeal->deal
 deeallocateed->deallocated
@@ -22547,6 +22551,7 @@ encryptted->encrypted
 encryptt->encrypt
 encrypttion->encryption
 encryt->encrypt
+encrytion->encryption
 encryypted->encrypted
 encryypt->encrypt
 encryyption->encryption
@@ -22559,6 +22564,7 @@ encyclopediia->encyclopedia
 encycloppedia->encyclopedia
 encyctopedia->encyclopedia
 encylopedia->encyclopedia
+encypt->encrypt
 encyyclopedia->encyclopedia
 endaevors->endeavors
 endaevour->endeavour
@@ -27114,6 +27120,7 @@ garrisoon->garrison
 garrisson->garrison
 garrrrison->garrison
 garrsion->garrison
+garunteed->guaranteed
 gatactic->galactic
 Gatatians->Galatians
 gataxies->galaxies
@@ -38115,6 +38122,7 @@ maxamum->maximum
 maxiimum->maximum
 maximus->maximum
 maximuum->maximum
+maxinum->maximum
 maxium->maximum
 maxximum->maximum
 mayabe->maybe
@@ -39031,6 +39039,7 @@ minimizzed->minimized
 minimizze->minimize
 minimuum->minimum
 mininize->minimize
+mininum->minimum
 miniscule->minuscule
 minisitries->ministries
 minisitry->ministry
@@ -47697,6 +47706,8 @@ privilegges->privileges
 privilegued->privileged
 privilegue->privilege
 privilegues->privileges
+priviliege->privilege
+privilieges->privileges
 privilleged->privileged
 privillege->privilege
 privilleges->privileges
