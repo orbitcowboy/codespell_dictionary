@@ -22884,6 +22884,7 @@ enskonked->ensconced
 enssconced->ensconced
 enssure->ensure
 enssuress->ensures
+enstablished->established
 enstimation->estimation
 enstprechend->entsprechend
 ensurre->ensure
@@ -29142,6 +29143,7 @@ hierarcchies->hierarchies
 hierarcchy->hierarchy
 hierarchicall->hierarchical
 hierarchicat->hierarchical
+hierarchichal->hierarchical
 hierarchiess->hierarchies
 hierarchyy->hierarchy
 hierarcical->hierarchical
@@ -44583,6 +44585,7 @@ penaltyy->penalty
 penatly->penalty
 penatty->penalty
 pendantic->pedantic
+pendantry->pedantry
 pendding->pending
 pendiing->pending
 pendingg->pending
