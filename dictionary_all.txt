@@ -773,6 +773,7 @@ abssolute->absolute
 abssolutely->absolutely
 abssorbed->absorbed
 abssorption->absorption
+abstrcation->abstraction
 absymal->abysmal
 abudance->abundance
 abuls->abuts
@@ -6436,6 +6437,7 @@ assumptionn->assumption
 assumptioon->assumption
 assumpttion->assumption
 assumtion->assumption
+assune->assume
 assurancae->assurance
 assurancce->assurance
 assurancee->assurance
@@ -6537,6 +6539,8 @@ asynchhronously->asynchronously
 asynchornous->asynchronous
 asynchornously->asynchronously
 asynchrone->asynchronous
+asynchroneous->asynchronous
+asynchroneously->asynchronously
 asynchronouslly->asynchronously
 asynchronousty->asynchronously
 asynchronouus->asynchronous
@@ -8473,6 +8477,7 @@ binaery->binary
 binariaes->binaries
 binariees->binaries
 binariess->binaries
+binarily->ordinarily
 binariy->binary
 binarries->binaries
 binarry->binary
@@ -10220,6 +10225,7 @@ cataegory->category
 cataerpillar->caterpillar
 cataerpillars->caterpillars
 catagories->categories
+catagorization->categorization
 catagorized->categorized
 catagory->category
 Cataliina->Catalina
@@ -18421,6 +18427,7 @@ deorgatory->derogatory
 depaartmentaal->departmental
 depaartment->department
 depaartments->departments
+depaendency->dependency
 depaertmentael->departmental
 depaertment->department
 depaertments->departments
@@ -22380,6 +22387,7 @@ emphasiis->emphasis
 emphasisedd->emphasised
 emphassissed->emphasised
 emphassiss->emphasis
+emphemeral->ephemeral
 emphhasised->emphasised
 emphhasis->emphasis
 emphhysema->emphysema
@@ -24122,6 +24130,7 @@ exection->execution
 exectuable->executable
 exectued->executed
 exectuted->executed
+exectute->execute
 execuation->execution
 execulable->executable
 execuled->executed
@@ -24505,6 +24514,7 @@ experrience->experience
 experrimental->experimental
 experriment->experiment
 experriments->experiments
+expesive->expensive
 expession->expression
 expessions->expressions
 expet->expel
@@ -25889,6 +25899,7 @@ flaewless->flawless
 FlaexaeLint->FlexeLint
 flaexiblae->flexible
 flaged->flagged
+flage->flag
 flaggaed->flagged
 flaggedd->flagged
 flaggeed->flagged
@@ -36562,6 +36573,7 @@ litteral->literal
 litterally->literally
 litterals->literals
 litteratture->literature
+litterature->literature
 littlae->little
 littlee->little
 littte->little
@@ -42066,6 +42078,7 @@ objecttive->objective
 objecttives->objectives
 objectt->object
 objectts->objects
+objectys->objects
 objeectivee->objective
 objeectivees->objectives
 objeect->object
@@ -43441,6 +43454,7 @@ outhpuths->outputs
 outhpuththing->outputting
 outhside->outside
 outhsthanding->outstanding
+outlife->outline
 out off->out of
 out_off_range->out_of_range
 out_of_raange->out_of_range
@@ -48108,6 +48122,7 @@ progressivve->progressive
 progressssed->progressed
 progressssive->progressive
 progressss->progress
+progrmming->programming
 progrm->program
 progrms->programs
 progrom->pogrom
@@ -50042,6 +50057,7 @@ reassonable->reasonable
 reasson->reason
 reassssign->reassign
 reate->create
+reather->rather
 reatisation->realisation
 reatised->realised
 reatistic->realistic
@@ -51232,6 +51248,7 @@ reinncarnnationn->reincarnation
 reinnforced->reinforced
 reinnitializationn->reinitialization
 reinnitialize->reinitialize
+reinterpretcast->reinterpret cast
 reiviews->reviews
 reizing->resizing
 rekalkulate->recalculate
@@ -58903,6 +58920,7 @@ summmmery->summery
 summory->summary
 sumnary->summary
 sumnery->summery
+sunch->suns
 sungglasses->sunglasses
 sunglaasses->sunglasses
 sunglaesses->sunglasses
@@ -59386,6 +59404,7 @@ suseptable->susceptible
 suseptible->susceptible
 suskeptible->susceptible
 suspaension->suspension
+suspection->suspect ion
 suspeension->suspension
 suspennsionn->suspension
 suspensiion->suspension
@@ -59568,6 +59587,7 @@ swithch->switch
 swith->switch
 switkh->switch
 swittch->switch
+swtiches->switches
 swwears->swears
 swwear->swear
 swwept->swept
@@ -59698,6 +59718,7 @@ syncchronously->synchronously
 syncchronous->synchronous
 synccing->syncing
 syncc->sync
+synchanize->synchronize
 synchhronization->synchronization
 synchhronize->synchronize
 synchhronously->synchronously
@@ -59709,6 +59730,8 @@ synchornization->synchronization
 synchornize->synchronize
 synchornously->synchronously
 synchornous->synchronous
+synchrionization->synchronization
+synchrnization->synchronization
 synchroniizatiion->synchronization
 synchroniize->synchronize
 synchronizaation->synchronization
@@ -63499,6 +63522,7 @@ uneded->unneeded
 unedet->unneeded
 uneeded->unneeded
 uneedet->unneeded
+unenforcable->unenforceable
 unequalities->inequalities
 unfflagged->unflagged
 unfforeseen->unforeseen
@@ -66276,6 +66300,7 @@ whereabouths->whereabouts
 whereaboutss->whereabouts
 whereaboutts->whereabouts
 whereabouuts->whereabouts
+wheread->whereas
 whereaebouts->whereabouts
 whereaes->whereas
 wherease->whereas
