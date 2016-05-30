@@ -933,6 +933,7 @@ accesible->accessible
 accesing->accessing
 accesion->accession
 accesories->accessories
+accesors->accessors
 accessable->accessible
 accessibble->accessible
 accessiblle->accessible
@@ -1285,12 +1286,14 @@ aceptable->acceptable
 acept->accept
 aceptance->acceptance
 acepts->accepts
+acesors->accessors
 acessable->accessible
 acess->access
 acesses->accesses
 acessible->accessible
 acessing->accessing
 acession->accession
+acessors->accessors
 acheive->achieve
 acheived->achieved
 acheivement->achievement
@@ -6366,6 +6369,7 @@ asspectss->aspects
 assphyxiation->asphyxiation
 asssassans->assassins
 asssembled->assembled
+asssembly->assembly
 asssertion->assertion
 asssessment->assessment
 asssignment->assignment
@@ -8659,6 +8663,8 @@ Bonnano->Bonanno
 booat->boat
 boodybuilder->bodybuilder
 booinc->boinc
+bookeep->bookkeep
+bookeeping->bookkeeping
 boolaean->boolean
 boolaen->boolean
 booleaan->boolean
@@ -15825,6 +15831,7 @@ corectly formatted->correctly formatted
 corectness->correctness
 corectors->correctors
 coreesponding->corresponding
+corelating->correlating
 corespond->correspond
 coresponded->corresponded
 corespondent->correspondent
@@ -17745,6 +17752,7 @@ declarre->declare
 declartion->declaration
 declartions->declarations
 declation->declaration
+decleration->declaration
 decllaration->declaration
 decllarations->declarations
 decllared->declared
@@ -20351,6 +20359,7 @@ displlayed->displayed
 displlaying->displaying
 displlay llighting->display lighting
 displlease->displease
+disply->display
 displying->displaying
 dispoositioon->disposition
 disporportionate->disproportionate
@@ -24369,6 +24378,7 @@ exlremophile->extremophile
 exludes->excludes
 EXLUSIVE->EXCLUSIVE
 exmaple->example
+exmaples->examples
 exmplained->explained
 exmple->example
 exoneraate->exonerate
@@ -24536,6 +24546,8 @@ explaiin->explain
 explaiiniing->explaining
 explaination->explanation
 explainedd->explained
+explaine->explain
+explaines->explains
 explainingg->explaining
 explainned->explained
 explainn->explain
@@ -24547,6 +24559,7 @@ explanatioon->explanation
 explanattion->explanation
 explaned->explained
 explane->explain
+explanes->explains
 explaning->explaining
 explannationn->explanation
 explcit->explicit
@@ -38425,6 +38438,7 @@ mementoo->memento
 mementto->memento
 memeory->memory
 memmory->memory
+memoiziation->memorization
 memomry->memory
 memoorable->memorable
 memoory->memory
@@ -46403,6 +46417,7 @@ potentialllly->potentially
 potentiall->potentially
 potentiallyy->potentially
 potentialy->potentially
+potentia->potential
 potentiat->potential
 potentiatty->potentially
 potentiially->potentially
@@ -47725,6 +47740,7 @@ privilegue->privilege
 privilegues->privileges
 priviliege->privilege
 privilieges->privileges
+priviliges->privileges
 privilleged->privileged
 privillege->privilege
 privilleges->privileges
@@ -50938,6 +50954,7 @@ referencedd->referenced
 referenc e->reference
 referencers->references
 referencess->references
+referencially->referentially
 referencies->references
 referencs->references
 referenddum->referendum
@@ -51727,6 +51744,9 @@ repenthanth->repentant
 repenttance->repentance
 repenttantt->repentant
 reperloire->repertoire
+repersented->represented
+repersent->represent
+repersents->represents
 reperthoire->repertoire
 repertoiire->repertoire
 repertooire->repertoire
@@ -64921,6 +64941,7 @@ valuuable->valuable
 valuues->values
 valuue->value
 varables->variables
+varadic->variadic
 varaible->variable
 varations->variations
 vareous->various
