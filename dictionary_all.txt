@@ -5701,6 +5701,9 @@ argumsnt->argument
 arguuably->arguably
 arguument->argument
 arguuments->arguments
+arhive->archive
+arhived->archived
+arhives->archives
 arhtritic->arthritic
 arials->aerials
 aricle->article
@@ -6479,6 +6482,7 @@ asteeroid->asteroid
 asteorid->asteroid
 asteriisk->asterisk
 asterik->asterisk
+asteriks->asterisk
 asteriod->asteroid
 asterisc->asterisk
 asterisck->asterisk
@@ -9563,6 +9567,7 @@ calch->catch
 calcluations->calculations
 calclulation->calculation
 calcualate->calculate
+calcualating->calculating
 calcualtion->calculation
 calcualtions->calculations
 calcuation->calculation
@@ -27945,6 +27950,7 @@ grouup->group
 Grouup ID->Group ID
 grouuping->grouping
 groww->grow
+grpahic->graphic
 grpahics->graphics
 grraceful->graceful
 grradient->gradient
@@ -29475,6 +29481,7 @@ homoggenize->homogenize
 homoguenized->homogenized
 homoguenize->homogenize
 hompage->homepage
+hompages->homepages
 honnorary->honorary
 honnour->honour
 honoraary->honorary
@@ -38818,6 +38825,7 @@ Micrrosoft->Microsoft
 Micrsoft->Microsoft
 middline->midline
 middwives->midwives
+midification->modification
 midlie->midline
 midlinae->midline
 midlinee->midline
@@ -39122,6 +39130,7 @@ minutees->minutes
 minutess->minutes
 minuthe->minute
 minuthes->minutes
+minuts->minutes
 minutte->minute
 minuttes->minutes
 minuute->minute
@@ -43519,6 +43528,7 @@ outtsanding->outstanding
 outtside->outside
 outtsttanding->outstanding
 outuput->output
+outut->output
 ouur->our
 ouurselves->ourselves
 ouuter->outer
@@ -47791,6 +47801,7 @@ probabitistic->probabilistic
 probabitities->probabilities
 probabitity->probability
 probablistic->probabilistic
+probablity->probability
 probablly->probably
 probablyy->probably
 probabty->probably
