@@ -3541,6 +3541,7 @@ alegedly->allegedly
 aleges->alleges
 alegiance->allegiance
 alegience->allegiance
+alerady->already
 a lesl->a test
 aleviate->alleviate
 alfa->alpha
@@ -4811,9 +4812,13 @@ anually->annually
 anulled->annulled
 an uniform level->a uniform level
 an unique->a unique
+anvser->answer
+anvsers->answers
 anwer->answer
 anwers->answers
+anwser->answer
 anwsered->answered
+anwsers->answers
 anwyays->anyways
 anybbody->anybody
 anyboddy->anybody
@@ -15031,6 +15036,7 @@ continuued->continued
 continuuing->continuing
 continuuouus->continuous
 continuuouusly->continuously
+contiously->contentiously
 contiuguous->contiguous
 contorl->control
 contorlled->controlled
@@ -20846,6 +20852,7 @@ doesnt'->doesn't
 doesnt->doesn't, does not
 doesn'th->doesn't
 doesn'tt->doesn't
+doesnt't->doesn't
 doess->does
 doess not->does not
 doessn't->doesn't
@@ -37042,6 +37049,7 @@ lrying->trying
 lry->try
 lsat->last
 lsit->list
+lttle->little
 luesday->tuesday
 lukid->likud
 lulorial->tutorial
@@ -44090,6 +44098,7 @@ parakets->parakeets
 parakkeets->parakeets
 parakleets->parakeets
 paralelism->parallelism
+paralelize->parallelize
 paralelle->parallel
 paralellism->parallelism
 paralell->parallel
@@ -52689,6 +52698,7 @@ retriieviing->retrieving
 retrival->retrieval
 retrived->retrieved
 retrive->retrieve
+retriving->retrieving
 re-trow->re-throw
 retrow->re-throw
 retrun->return
