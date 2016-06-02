@@ -42607,9 +42607,11 @@ omlette->omelette
 ommelette->omelette
 ommision->omission
 ommission->omission
+ommited->omited
 ommited->omitted
 ommiting->omitting
 ommit->omit
+ommits->omits
 ommitted->omitted
 ommitting->omitting
 ommivorously->omnivorously
