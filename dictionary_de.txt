@@ -70,6 +70,7 @@ der der->der
 desshalb->deshalb
 detailiert->detailliert
 detailierte->detaillierte
+deutche->deutsche
 die die->die
 dilletantisch->dilettantisch
 Diphterie->Diphtherie

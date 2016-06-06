@@ -1568,6 +1568,7 @@ acrooss->across
 acros->across
 acrossss->across
 acrross->across
+acsii->ascii
 ACSII->ASCII
 acst->acts
 acthivathe->activate
@@ -4007,6 +4008,7 @@ Altiimeter->Altimeter
 Altimaetaer->Altimeter
 al-time->all-time
 Altimeeteer->Altimeter
+altimenter->altimeter
 Altimenter->Altimeter
 Altimeterr->Altimeter
 Altimmeter->Altimeter
@@ -4223,6 +4225,7 @@ ampllitude->amplitude
 amppersand->ampersand
 ampplitude->amplitude
 amptitude->amplitude
+amtel->atmel
 Amtel->Atmel
 amung->among
 amunition->ammunition
@@ -5965,6 +5968,7 @@ arttillery->artillery
 arugments ->arguments
 arugments->arguments
 arund->around
+arv Studio->avr Studio
 ARV Studio->AVR Studio
 as as->as
 asasin->assassin
@@ -6008,6 +6012,7 @@ as checkled->as checked
 as cheeckeed->as checked
 as cheked->as checked
 as chhecked->as checked
+asci->ascii
 ASCI->ASCII
 asciii->ascii
 asciiii->ascii
@@ -6592,10 +6597,15 @@ a teest->a test
 ateism->atheism
 ateist->atheist
 ateistic->atheistic
+atemel->atmel
 Atemel->Atmel
+atemga128a->atmega128a
 Atemga128a->Atmega128a
+atemga128->atmega128
 Atemga128->Atmega128
+atemga->atmega
 Atemga->Atmega
+ateml->atmel
 Ateml->Atmel
 atempt->attempt
 atempted->attempted
@@ -6720,6 +6730,7 @@ atlendant->attendant
 atlendants->attendants
 atlended->attended
 atlention->attention
+atlimeter->altimeter
 Atlimeter->Altimeter
 atlitude->attitude
 at lleast->at least
@@ -8720,6 +8731,7 @@ Bositon->Boston
 Boslon->Boston
 Bosston->Boston
 Bosthon->Boston
+bostom->boston
 Bostom->Boston
 Bostonn->Boston
 Bostton->Boston
@@ -8969,7 +8981,7 @@ brimsttone->brimstone
 brimtsone->brimstone
 briningg->brining
 brinninng->brining
-Bristish->British
+bristish->british
 Britaain->Britain
 Britaein->Britain
 Britainn->Britain
@@ -10113,6 +10125,7 @@ carriagee->carriage
 carriagge->carriage
 carriague->carriage
 Carribbean->Caribbean
+carribean->caribbean
 Carribean->Caribbean
 carrige->carriage
 carriiage->carriage
@@ -11715,6 +11728,7 @@ Chriistiian->Christian
 Chrisitian->Christian
 Chrislian->Christian
 Chrisstian->Christian
+christain->christian
 Christain->Christian
 Christhian->Christian
 Christiaan->Christian
@@ -11750,6 +11764,7 @@ Cinccinnati->Cincinnati
 Cincimmati->Cincinnati
 Cincimnati->Cincinnati
 Cincinati->Cincinnati
+cincinatti->cincinnati
 Cincinatti->Cincinnati
 Cincinmati->Cincinnati
 Cincinnaati->Cincinnati
@@ -14787,6 +14802,7 @@ construuctors->constructors
 construucts->constructs
 constsant->constant
 consts->constants
+conststructor->constructor
 Conststructor->constructor
 consttantt->constant
 consttanttly->constantly
@@ -16680,6 +16696,7 @@ ctock->clock
 ctock speed->clock speed
 ctock speeds->clock speeds
 ctoud->cloud
+ctr-F->ctrl-F
 Ctr-F->Ctrl-F
 ctrll->ctrl
 Ctrll-F->Ctrl-F
@@ -17193,6 +17210,7 @@ data filles->data files
 data fite->data file
 data fites->data files
 datas->data
+datase->database
 Datase->Database
 data sitream->data stream
 data sstream->data stream
@@ -17630,6 +17648,7 @@ deat->deal
 deattocated->deallocated
 debaataable->debatable
 debaetaeble->debatable
+debain->debian
 Debain->Debian
 debalable->debatable
 debatablle->debatable
@@ -21329,6 +21348,7 @@ eaerly->early
 eaerned->earned
 eaesier->easier
 eaesily->easily
+eagel->eagle
 Eagel->eagle
 eaggle->eagle
 eaglle->eagle
@@ -21376,6 +21396,7 @@ eassily->easily
 easthetic->aesthetic
 easthetical->aesthetical
 easthetically->aesthetically
+eaxample->example
 Eaxample->example
 eaxmple->example
 eccleccticc->eclectic
@@ -21400,6 +21421,7 @@ Eclipsae->Eclipse
 Eclipsee->Eclipse
 eclipsse->eclipse
 Eclipsse->Eclipse
+eclise->eclipse
 Eclise->Eclipse
 eclispe->eclipse
 ecllectic->eclectic
@@ -21635,6 +21657,7 @@ eequivaleencee->equivalence
 eequivaleent->equivalent
 eerasablee->erasable
 eereecteed->erected
+eerom->eeprom
 EEROM->EEPROM
 eerrata->errata
 eerratically->erratically
@@ -23213,6 +23236,7 @@ epissode->episode
 epissodess->episodes
 eppisode->episode
 eppisodes->episodes
+eprom->eeprom
 eprom->EEPROM
 epsiode->episode
 eqaul->equal
@@ -24391,6 +24415,7 @@ exlremely->extremely
 exlremisl->extremist
 exlremophile->extremophile
 exludes->excludes
+exlusive->exclusive
 EXLUSIVE->EXCLUSIVE
 exmaple->example
 exmaples->examples
@@ -25280,6 +25305,7 @@ fanthasy->fantasy
 fanttasttic->fantastic
 fanttasy->fantasy
 faour->favor
+farenheit->fahrenheit
 Farenheit->Fahrenheit
 fasccinated->fascinated
 fasccist->fascist
@@ -26451,6 +26477,7 @@ forrwarrded->forwarded
 forrwarrd->forward
 forsaw->foresaw
 forseeable->foreseeable
+fortan->fortran
 Fortan->Fortran
 for te->for the
 fortelling->foretelling
@@ -27841,12 +27868,14 @@ graphviiz->graphviz
 Graphviiz->Graphviz
 GraphViiz->GraphViz
 graphvis->graphviz
+graphvis->graphViz
 GraphVis->GraphViz
 graphvizz->graphviz
 Graphvizz->Graphviz
 GraphVizz->GraphViz
 graphvviz->graphviz
 Graphvviz->Graphviz
+graphwiz->graphviz
 Graphwiz->Graphviz
 grapph->graph
 grapphical->graphical
@@ -29606,6 +29635,7 @@ howver->however
 howwever->however
 howw->how
 howw to->how to
+hper-v->hyper-v
 Hper-V->Hyper-V
 hroizontal->horizontal
 hroizontally->horizontally
@@ -29831,6 +29861,7 @@ Hyper Threaading->Hyper Threading
 Hyper Threadding->Hyper Threading
 Hyper Threadiing->Hyper Threading
 Hyper Threadingg->Hyper Threading
+hyperthreading->hyper threading
 HyperThreading->Hyper Threading
 Hyper Threadinng->Hyper Threading
 Hyper Threaeding->Hyper Threading
@@ -30001,6 +30032,7 @@ ideentitiees->identities
 ideeologiees->ideologies
 ideeology->ideology
 idees->ides
+idempotant->idempotent
 idempotant->indempotent
 idendified->identified
 idenlical->identical
@@ -31850,6 +31882,7 @@ indefinittely->indefinitely
 indemmpotent->indempotent
 indempolenl->indempotent
 indempootent->indempotent
+indempotent->idempotent
 indempothenth->indempotent
 indempottentt->indempotent
 indemppotent->indempotent
@@ -31900,6 +31933,7 @@ independentt->independent
 independenttly->independently
 independentty->independently
 independnece->independence
+indepenent->independent
 INDEPENENT->INDEPENDENT
 indeppendence->independence
 indeppendent->independent
@@ -33818,8 +33852,10 @@ interrupt vectro->interrupt vector
 interrupt vectros->interrupt vectors
 interrupt veector->interrupt vector
 interrupt veectors->interrupt vectors
+interruptvektoren->interrupt vectors
 Interruptvektoren->interrupt vectors
 interrupt vektor->interrupt vector
+interruptvektor->interrupt vector
 Interruptvektor->interrupt vector
 interrupt vektors->interrupt vectors
 interrupt vvector->interrupt vector
@@ -34240,12 +34276,16 @@ IP-Addraess->IP-Address
 IPAddraess->IPAddress
 IP-Addreess->IP-Address
 IPAddreess->IPAddress
+ip-addres->ip-address
+ipaddres->ip-address
 IP-Addres->IP-Address
 IPAddres->IPAddress
 IP-Addressss->IP-Address
 IPAddressss->IPAddress
 IP-Addrress->IP-Address
 IPAddrress->IPAddress
+ip-adress->ip-address
+ipadress->ip-address
 IP-Adress->IP-Address
 IPAdress->IPAddress
 iraascible->irascible
@@ -35787,6 +35827,7 @@ Latitudee->Latitude
 latitute->latitude
 latituude->latitude
 Latituude->Latitude
+latiude->latitude
 Latiude->Latitude
 lattestt->latest
 lattex->latex
@@ -35830,6 +35871,7 @@ lavatoryy->lavatory
 lavatroy->lavatory
 lavattory->lavatory
 laveatory->lavatory
+laview->labview
 Laview->LabView
 lavvatory->lavatory
 laxonomic->taxonomic
@@ -38834,6 +38876,7 @@ micrrocontrrollerr->microcontroller
 micrro->micro
 micrroscopy->microscopy
 Micrrosoft->Microsoft
+micrsoft->microsoft
 Micrsoft->Microsoft
 middline->midline
 middwives->midwives
@@ -39155,6 +39198,7 @@ mirccroccontroller->mircrocontroller
 mircocontroller->microcontroller
 mirco->micro
 mircorcontorller->mircrocontroller
+mircosoft->microsoft
 Mircosoft->Microsoft
 mircroconlroller->mircrocontroller
 mircroconntroller->mircrocontroller
@@ -39167,6 +39211,7 @@ mircrocontrollller->mircrocontroller
 mircrocontrotter->mircrocontroller
 mircroconttroller->mircrocontroller
 mircroocoontrooller->mircrocontroller
+mircrosoft->microsoft
 Mircrosoft->Microsoft
 mirgate->migrate
 mirgration->migration
@@ -39183,6 +39228,7 @@ mirroreed->mirrored
 mirrorred->mirrored
 mirrroed->mirrored
 mirrrrorred->mirrored
+mirsa->misra
 MIRSA->MISRA
 misaassignment->misassignment
 misaerablae->miserable
@@ -40170,6 +40216,7 @@ Mozillaa->Mozilla
 Mozillae->Mozilla
 Mozilllla->Mozilla
 Mozitta->Mozilla
+mozzilla->mozilla
 mozzilla->Mozilla
 Mozzilla->Mozilla
 mqde->mode
@@ -40181,6 +40228,7 @@ Mroissette->Morissette
 mrooccan->moroccan
 mroocco->morocco
 mrotgage->mortgage
+mrtin->martin
 Mrtin->Martin
 msiing->missing
 muccous->mucous
@@ -40861,6 +40909,7 @@ Neandderthal->Neanderthal
 Neanderhtal->Neanderthal
 Neanderlhal->Neanderthal
 Neanderrthal->Neanderthal
+neandertal->neanderthal
 Neandertal->Neanderthal
 Neanderthall->Neanderthal
 Neanderthat->Neanderthal
@@ -41982,6 +42031,7 @@ Nyquisth->Nyquist
 Nyquistt->Nyquist
 Nyquits->Nyquist
 Nyquuist->Nyquist
+nyuquist->nyquist
 Nyuquist->Nyquist
 Nyyquist->Nyquist
 oaeuvrae->oeuvre
@@ -44266,6 +44316,7 @@ parrtitions->partitions
 Parrtitions->Partitions
 parrtly->partly
 parrty->party
+partations->Partitions
 Partations->Partitions
 partciular->particular
 parthially->partially
@@ -44307,6 +44358,7 @@ particutar->particular
 particutarty->particularly
 particuularly->particularly
 particuular->particular
+particvaly->particularly
 Particvaly->particularly
 partieell->partiell
 partiellll->partiell
@@ -45718,6 +45770,7 @@ polenlially->potentially
 polenlial->potential
 polgon->polygon
 polgons->polygons
+polian->polish
 Polian->Polish
 polical->political
 policcy->policy
@@ -49927,6 +49980,7 @@ rareffied->rarefied
 rarefiedd->rarefied
 rarefiied->rarefied
 rarified->rarefied
+rasbian->raspbian
 Rasbian->Raspbian
 rases->raises
 Raspbbian->Raspbian
@@ -49991,6 +50045,7 @@ readibility->readability
 readible->readable
 readiblity->readability
 readility->readability
+read me->readme
 Read me->Readme
 readmiissiion->readmission
 readmision->readmission
@@ -56833,6 +56888,7 @@ squirraellaed->squirrelled
 squirreelleed->squirrelled
 squirreled->squirrelled
 squirrelledd->squirrelled
+squirrelled->squirreled
 squirrelllled->squirrelled
 squirretted->squirrelled
 squirrrrelled->squirrelled
@@ -57449,6 +57505,7 @@ stackoverfllow->stackoverflow
 stackoverfloww->stackoverflow
 stackoverftow->stackoverflow
 stackoverlow->stackoverflow
+stackoverlow->stack overflow
 stackoverrflow->stackoverflow
 stackovrflow->stackoverflow
 stackovverflow->stackoverflow
@@ -60044,6 +60101,7 @@ Taeylor series->Taylor series
 tahn->than
 taht->that
 taid->laid
+tailor series->taylor series
 Tailor series->Taylor series
 takaes->takes
 takae->take
@@ -60390,6 +60448,7 @@ tendenciies->tendencies
 tendencyy->tendency
 tendenkies->tendencies
 tendenky->tendency
+tendmirco->trendmicro
 TendMirco->TrendMicro
 tength->length
 tengthy->lengthy
@@ -60427,6 +60486,7 @@ tentakle->tentacle
 teorem->theorem
 teory->theory
 tepmorarily->temporarily
+tera->terra
 Tera->Terra
 te rationale->the rationale
 tereafter->thereafter
@@ -63010,6 +63070,7 @@ tyypographical->typographical
 tyypo->typo
 tyyrannies->tyrannies
 tyyrannyy->tyranny
+ubantu->ubuntu
 Ubantu->Ubuntu
 ubbiquitous->ubiquitous
 Ubbuntu->Ubuntu
@@ -63022,12 +63083,15 @@ ubiquitoous->ubiquitous
 ubiquitouss->ubiquitous
 ubiquittous->ubiquitous
 ublisher->publisher
+ubundu->ubuntu
 Ubundu->Ubuntu
 Ubunlu->Ubuntu
 Ubunntu->Ubuntu
 Ubunthu->Ubuntu
 Ubunttu->Ubuntu
+ubunut->ubuntu
 Ubunut->Ubuntu
+ubutu->ubuntu
 Ubutu->Ubuntu
 Ubuuntuu->Ubuntu
 Uckrainian->Ukrainian
@@ -66500,7 +66564,9 @@ widesprread->widespread
 widesread->widespread
 widesspread->widespread
 widlcarded->wildcarded
+widnows->windows
 Widnows->Windows
+widows 7->windows 7
 Widows 7->Windows 7
 widows xp->windows xp
 wieeldeed->wielded
@@ -66567,6 +66633,7 @@ Wikipediae->Wikipedia
 Wikipeedia->Wikipedia
 Wikippedia->Wikipedia
 Wikkipedia->Wikipedia
+wikpedia->wikipedia
 Wikpedia->Wikipedia
 wil be treated->will be treated
 wilcard->wildcard
@@ -66662,6 +66729,7 @@ Windoows->Windows
 windoows xp->windows xp
 windoow->window
 windos->windows
+window 7->windows 7
 Window 7->Windows 7
 Windowss 7->Windows 7
 Windows Saervaer->Windows Server
@@ -66670,6 +66738,7 @@ Windows Serrverr->Windows Server
 Windows Serveer->Windows Server
 Windows Servr->Windows Server
 Windows Servver->Windows Server
+windows sever->windows server
 Windows Sever->Windows Server
 Windowss Server->Windows Server
 windowss->windows
@@ -66680,6 +66749,7 @@ windows xxp->windows xp
 Windowws 7->Windows 7
 Windowws Server->Windows Server
 Windowws->Windows
+windwos->windows
 Windwos->Windows
 Winndows 7->Windows 7
 Winndows Server->Windows Server
@@ -67255,15 +67325,18 @@ wwxWidgets->wxWidgets
 wwysiwwyg->wysiwyg
 wxMaaximaa->wxMaxima
 wxMaeximae->wxMaxima
+wxmasima->wxmaxima
 wxMasima->wxMaxima
 wxMaxiima->wxMaxima
 wxMaximma->wxMaxima
 wxWiddgets->wxWidgets
+wxwidets->wxwidgets
 wxWidets->wxWidgets
 wxWidgaets->wxWidgets
 wxWidgeets->wxWidgets
 wxWidgels->wxWidgets
 wxWidgest->wxWidgets
+wxwidges->wxwidgets
 wxWidges->wxWidgets
 wxWidgeths->wxWidgets
 wxWidgetss->wxWidgets
