@@ -657,7 +657,7 @@ abitities->abilities
 abitity->ability
 ablout->about
 ablout->absolute
-ablout->absolute, about
+ablout->absolute, about,
 aboive->above
 abondon->abandon
 abondoned->abandoned
@@ -12534,7 +12534,7 @@ command linae->command line
 command-linae->command-line
 commandline->command line
 commandline->command-line
-commandline->command line,command-line
+commandline->command line, command-line,
 command linee->command line
 command-linee->command-line
 command lline->command line
@@ -14892,7 +14892,7 @@ contamporaries->contemporaries
 contamporary->contemporary
 contant->constant
 contant->contact
-contant->contact,constant
+contant->contact, constant,
 contants->constants
 contaoin->contain
 contaoined->contained
@@ -19441,7 +19441,7 @@ did'nt->didn't
 didnt->didn't
 didnt->didn\"t
 didnt'->didn't
-didnt->didn't, did not
+didnt->didn't, did not,
 didn'th->didn't
 didn'tt->didn't
 didplayed->displayed
@@ -20852,7 +20852,7 @@ doesnt->does not
 doesnt->doesn't
 doesnt->doesn\"t
 doesnt'->doesn't
-doesnt->doesn't, does not
+doesnt->doesn't, does not,
 doesn'th->doesn't
 doesn'tt->doesn't
 doesnt't->doesn't
@@ -20923,7 +20923,7 @@ donott know->donot know
 don;t->do not
 dont->do not
 dont->don't
-dont->don't, do not
+dont->don't, do not,
 don'th->don't
 don'th thhink->don't think
 don't htink->don't think
@@ -28317,7 +28317,7 @@ had ben->had been
 had benn->had been
 hadd been->had been
 hadding->adding
-hadding->adding,having
+hadding->adding, having,
 hadding->having
 haeadaer->header
 haeadquartaeraed->headquartered
@@ -32078,7 +32078,7 @@ indviduals->individuals
 indx->index
 ineartial->inertial
 ineartial->initiated
-ineartial->initiated,inertial
+ineartial->initiated, inertial,
 ineefficieent->inefficient
 ineefficieently->inefficiently
 ineequalitiees->inequalities
@@ -33587,7 +33587,7 @@ interaective->interactive
 interaktive->interactive
 interal->integral
 interal->internal
-interal->internal, integral
+interal->internal, integral,
 interate->iterate
 interational->international
 interation->iteration
@@ -34644,7 +34644,7 @@ i'vae->i've
 i'vee->i've
 ive->i have
 Ive->I have
-ive->i have,i've
+ive->i have, i've,
 ive->i've
 i'v->i've
 i'vve->i've
@@ -40196,7 +40196,7 @@ muliple->multiple
 mulitchar->multichar
 mulithread->multi thread
 mulithread->multi-thread
-mulithread->multi-thread,multi thread
+mulithread->multi-thread, multi thread,
 mulitline->multiline
 mulitple->multiple
 mulitplexer->multiplexer
@@ -40286,7 +40286,7 @@ multifunktion->multifunction
 multifunnctionn->multifunction
 multihread->multi thread
 multihread->multi-thread
-multihread->multi-thread,multi thread
+multihread->multi-thread, multi thread,
 multihtreaded->multithreaded
 multi htread->multi thread
 multi-htread->multi-thread
@@ -40393,7 +40393,7 @@ multi-threadd->multi-thread
 multithreadd->multithread
 multithread->multi thread
 multithread->multi-thread
-multithread->multi-thread,multi thread
+multithread->multi-thread, multi thread,
 multithreaeded->multithreaded
 multi threaed->multi thread
 multi-threaed->multi-thread
@@ -51949,7 +51949,7 @@ representted->represented
 representt->represent
 representts->represents
 represetants->representants
-represetants->representants, represents
+represetants->representants, represents,
 represetants->represents
 represnted->represented
 repressentantss->representants
@@ -52960,7 +52960,6 @@ ringgingg->ringing
 rininging->ringing
 rinnginng->ringing
 rised->raised
-rised->raised, rose
 rised->raised, rose,
 rised->rose
 roaadmaap->roadmap
@@ -54279,7 +54278,7 @@ seeveereely->severely
 seeveerity->severity
 sef->safe
 sef->self
-sef->self,safe
+sef->self, safe,
 Segate->Seagate
 segemantion->segmentation
 segementation->segmentation
@@ -61055,7 +61054,7 @@ thosee->those
 thosse->those
 thos->this
 thos->those
-thos->those, this
+thos->those, this,
 tho sthraighthen->to straighten
 thothal->total
 tho thhe->to the
@@ -64959,7 +64958,7 @@ valuaes->values
 valuae->value
 valuble->valuable
 valud->valid
-valud->valid,value
+valud->valid, value,
 valud->value
 valueable->valuable
 valuees->values
@@ -66072,7 +66071,7 @@ was nott->was not
 wasn'th->wasn't
 wasn'tt->wasn't
 wasnt->was not
-wasnt->was not,wasn't
+wasnt->was not, wasn't,
 wasnt->wasn't
 wasnt'->wasn't
 wass ignored->was ignored
@@ -66955,7 +66954,7 @@ worldwidae->worldwide
 worldwidee->worldwide
 worldwiide->worldwide
 worled->worked
-worled->worked, world
+worled->worked, world,
 worled->world
 worlldwide->worldwide
 worlld->world
