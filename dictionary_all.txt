@@ -10176,10 +10176,12 @@ carttridge->cartridge
 cary->carry
 casadae->casade
 casadde->casade
+casade->cascade
 casadee->casade
 casae of->case of
 casaes->cases
 Casar->Caesar
+cascad->cascade
 cascade->casade
 cased->caused
 casee of->case of
@@ -18945,6 +18947,7 @@ destionation->destination
 destionations->destinations
 destory->destroy
 destoryed->destroyed
+destoyed->destroyed
 destrcuted->destructed
 destrooy->destroy
 destrooyed->destroyed
