@@ -12494,6 +12494,7 @@ comited->committed
 comiting->committing
 comitment->commitment
 comitments->commitments
+comits->commits
 comitted->committed
 comittee->committee
 comitting->committing
@@ -12567,6 +12568,7 @@ commannd-linne->command-line
 commanndo->commando
 commanndos->commandos
 commannds->commands
+commansd->commands
 commass->commas
 commata->commas
 commbinations->combinations
@@ -12767,9 +12769,12 @@ committttee->committee
 committtting->committing
 commived->connived
 commmemorated->commemorated
+commment->comment
 commmented->commented
 commments->comments
+commmit->commit
 commmited->committed
+commmits->commits
 commmma->comma
 commmmand->command
 commmmandeer->commandeer
@@ -15965,6 +15970,7 @@ correcttness->correctness
 correcttors->correctors
 correctty->correctly
 correctty formatted->correctly formatted
+correcty->correctly
 correect->correct
 correecteed->corrected
 correection->correction
@@ -17184,6 +17190,8 @@ Darddanelles->Dardanelles
 Dardenelles->Dardanelles
 Darrdanelles->Dardanelles
 darw->draw
+dashbord->dashboard
+dashbords->dashboards
 databasae->database
 Databasae->Database
 data base->database
@@ -19243,6 +19251,7 @@ develooping->developing
 develoopment->development
 develoops->develops
 develope->develop
+developeing->developing
 developement->development
 developerr->developer
 developerr's->developer's
@@ -19557,6 +19566,7 @@ differenttiatte->differentiate
 differenttiattions->differentiations
 differingg->differing
 differinng->differing
+differnet->different
 differnt->different
 differrence between->difference between
 differrence->difference
@@ -24479,6 +24489,8 @@ expecled->expected
 expecl->expect
 expecls->expects
 expecst->expects
+expectatoins->expectations
+expectatons->expectations
 expectedd->expected
 expecthed->expected
 expecth->expect
@@ -24524,6 +24536,7 @@ expenndable->expendable
 expereince->experience
 experianced->experienced
 experiance->experience
+experiement->experiment
 experiencced->experienced
 experiencce->experience
 experiencedd->experienced
@@ -26677,6 +26690,7 @@ frequentlyy->frequently
 frequentt->frequent
 frequenttly->frequently
 frequentty->frequently
+frequeny->frequency
 frequuency->frequency
 frequuent->frequent
 frequuently->frequently
@@ -32310,6 +32324,7 @@ infinitte->infinite
 infinittely->infinitely
 infinitty->infinity
 infinityy->infinity
+infinte->infinite
 infittrated->infiltrated
 infittrate->infiltrate
 infittration->infiltration
@@ -33610,6 +33625,7 @@ inteorperate->interoperate
 inteorp->interop
 intepretation->interpretation
 intepretator->interpretor
+intepreter->interpreter
 intepreting->interpreting
 interaactive->interactive
 interacctive->interactive
@@ -33905,6 +33921,7 @@ intettigence->intelligence
 intettigent->intelligent
 inteval->interval
 intevalls->intervals
+intevals->intervals
 intevene->intervene
 intger->integer
 intgers->integers
@@ -34325,6 +34342,8 @@ irraeplacaeablae->irreplaceable
 irraesistiblae->irresistible
 irraesistibly->irresistibly
 irrascible->irascible
+irratoinal->irrational
+irratoinals->irrationals
 irreeleevant->irrelevant
 irreeplaceeablee->irreplaceable
 irreesistiblee->irresistible
@@ -39129,6 +39148,7 @@ minimizee->minimize
 minimizzed->minimized
 minimizze->minimize
 minimuum->minimum
+mininalistic->minimalistic
 mininize->minimize
 mininum->minimum
 miniscule->minuscule
@@ -41872,6 +41892,8 @@ nrothern->northern
 nroth->north
 nto->not
 nto->not, disable due to \n
+nubmer->number
+nubmers->numbers
 nucclear->nuclear
 nuclaear->nuclear
 nuclaer->nuclear
@@ -44186,6 +44208,7 @@ parameeteers->parameters
 parameler->parameter
 paramelers->parameters
 paramerers->parameters
+parametere->parameter
 parameterss->parameters
 parametes->parameters
 paramether->parameter
@@ -44287,6 +44310,7 @@ parliment->parliament
 parlliamentarian->parliamentarian
 parlliament->parliament
 parlly->partly
+parmaeters->parameters
 paroject->project
 parrade->parade
 parrakeets->parakeets
@@ -44866,6 +44890,7 @@ perfroms->performs
 perhaaps->perhaps
 perhaeps->perhaps
 perhapss->perhaps
+perhas->perhaps
 perhasp->perhaps
 perheaps->perhaps
 perhhaps->perhaps
@@ -44957,6 +44982,8 @@ permissioon->permission
 permissioons->permissions
 permissons->permissions
 permissopns->permissions
+permisssion->permission
+permisssions->permissions
 permissssible->permissible
 permissssion->permission
 permissssionss->permissions
@@ -47344,6 +47371,7 @@ preesumably->presumably
 preevaleent->prevalent
 preeviously->previously
 preevious->previous
+prefectly->perfectly
 preferaable->preferable
 preferaably->preferably
 preferabble->preferable
@@ -47642,6 +47670,7 @@ previvous->previous
 prevvalent->prevalent
 prevviously->previously
 prevvious->previous
+prexisting->preexisting
 prhaps->perhaps
 priaesthood->priesthood
 pricipal->principal
@@ -51248,6 +51277,7 @@ regitsration->registration
 regitsry->registry
 regluar->regular
 regognition->recognition
+regresion->regression
 regsion->region
 regsiter->register
 regualr->regular
@@ -61143,6 +61173,7 @@ tho waith for thhe->to wait for the
 thowards->towards
 thoward->toward
 thown->town
+thow->throw
 thraceabilithy->traceability
 thraceable->traceable
 thradithionally->traditionally
@@ -63309,6 +63340,7 @@ unchaeckaed->unchecked
 unchaeck->uncheck
 unchaellengeaeble->unchallengeable
 unchaengeaeble->unchangeable
+unchaged->unchanged
 unchalengeable->unchallengeable
 unchallaengaeablae->unchallengeable
 unchalleengeeablee->unchallengeable
@@ -63701,6 +63733,7 @@ unfortunatelyy->unfortunately
 unfortunatety->unfortunately
 unfortunatley->unfortunately
 unfortunatly->unfortunately
+unfortuntely->unfortunately
 unforunately->unfortunately
 unfotunately->unfortunately
 unfourtunately->unfortunately
