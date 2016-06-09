@@ -9974,6 +9974,7 @@ capitatize->capitalize
 capithal->capital
 capithalize->capitalize
 capitialize->capitalize
+capitilzed->capitalized
 capittal->capital
 capittalize->capitalize
 caplcha->captcha
@@ -12388,6 +12389,7 @@ coma->comma
 comaeback->comeback
 comaedic->comedic
 comamnd->command
+comamnds->commands
 comand->command
 comandeer->commandeer
 comander->commandeer
@@ -12402,6 +12404,7 @@ comands->commands
 comany->company
 comapany->company
 comapring->comparing
+comas->commas
 comata->commas
 comback->comeback
 combanations->combinations
@@ -12435,6 +12438,7 @@ combusttion->combustion
 combutsion->combustion
 combuustion->combustion
 comclusion->conclusion
+comclusions->conclusions
 comdemnation->condemnation
 comebaack->comeback
 comebacc->comeback
@@ -12456,6 +12460,7 @@ comemoration->commemoration
 comemorative->commemorative
 comemoretion->commemoration
 comend->comment
+comends->comments
 coment->comment
 comented->commented
 coments->comments
@@ -25868,6 +25873,7 @@ finnd->find
 finnd out more->find out more
 finnite->finite
 finomaton->information
+finsihed->finished
 firends->friends
 firmmware->firmware
 firmwaare->firmware
@@ -29721,6 +29727,7 @@ htus->thus
 humaanoid->humanoid
 humaenoid->humanoid
 humaerus->humerus
+humamely->humanely
 humannoid->humanoid
 humanoidd->humanoid
 humanoiid->humanoid
@@ -44828,6 +44835,7 @@ perennialy->perennially
 perenniatty->perennially
 perenniially->perennially
 perennnnially->perennially
+perfeclty->perfectly
 perfer->prefer
 perfformance->performance
 perfformances->performances
@@ -54089,6 +54097,8 @@ Scintillae->Scintilla
 Scintilllla->Scintilla
 Scintitta->Scintilla
 Scinttilla->Scintilla
+scipt->script
+scipts->scripts
 scirpt->script
 Sckagerrack->Skagerrak
 sckating->skating
