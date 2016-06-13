@@ -7,6 +7,7 @@ Addresse->Adresse
 agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
+Monior->Monior
 allle->alle
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett

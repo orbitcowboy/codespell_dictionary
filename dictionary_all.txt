@@ -5293,6 +5293,7 @@ approproximate->approximate
 approriate->appropriate
 approrpiate->appropriate
 approxamately->approximately
+approxiamtion->approximation
 approxiately->approximately
 approxiimate->approximate
 approxiimated->approximated
@@ -13288,6 +13289,7 @@ compilled->compiled
 compiller->compiler
 compillers->compilers
 compilling->compiling
+compilments->compliments
 compire->compiler
 compitabte->compilable
 compitation->compilation
@@ -14908,6 +14910,7 @@ containes->contains
 containig->containing
 containingg->containing
 containss->contains
+containts->contains
 contairer->container
 contais->contains
 contamiinate->contaminate
@@ -17797,6 +17800,7 @@ declarre->declare
 declartion->declaration
 declartions->declarations
 declation->declaration
+decleration->deceleration
 decleration->declaration
 decllaration->declaration
 decllarations->declarations
@@ -18518,6 +18522,7 @@ dependancies->dependencies
 dependancy->dependency
 dependant->dependent
 dependcies->dependencies
+dependecies->dependencies
 dependecy->dependency
 dependencce->dependence
 dependenccies->dependencies
@@ -25806,6 +25811,7 @@ file ttime->file time
 fileystem->filesystem
 fileystems->filesystems
 filiament->filament
+filie->file
 fillament->filament
 fillename->filename
 fillenames->filenames
@@ -32636,6 +32642,7 @@ initiatizers->initializers
 initiatizing->initializing
 initiatty->initially
 initilization->initialization
+initilized->initialized
 initilize->initialize
 initital->initial
 inititialisation->initialisation
@@ -32653,6 +32660,7 @@ inittially->initially
 inittiatted->initiated
 inittiattion->initiation
 inittiattive->initiative
+inividual->individual
 inkarkerated->incarcerated
 in kase->in case
 in kase of->in case of
@@ -38886,6 +38894,8 @@ microcontrolleer->microcontroller
 microcontrollller->microcontroller
 microcontrotter->microcontroller
 microconttroller->microcontroller
+microntroller->microcontroller
+microntrollers->microcontrollers
 microocoontrooller->microcontroller
 microo->micro
 microoscoopy->microscopy
@@ -43493,6 +43503,7 @@ OSX operatingg systems->OSX operating systems
 OSX operating ssysstemss->OSX operating systems
 OSX operating sysitems->OSX operating systems
 OSX operating systemms->OSX operating systems
+osxoperating systems->osx operating systems
 OSXoperating systems->OSX operating systems
 OSX operating sytsems->OSX operating systems
 OSX operating syystems->OSX operating systems
@@ -43708,6 +43719,7 @@ overlaiid->overlaid
 overlapps->overlaps
 overlapss->overlaps
 overlayed->overlaid
+overlfow->overflow
 over lhere->over there
 overllaid->overlaid
 overllaps->overlaps
@@ -44350,6 +44362,8 @@ parrty->party
 partations->Partitions
 Partations->Partitions
 partciular->particular
+partent->parent
+partents->parents
 parthially->partially
 parthicipanths->participants
 parthicularly->particularly
@@ -51260,6 +51274,7 @@ regisstry->registry
 registeration->registration
 registerd->registered
 registeredd->registered
+registery->registry
 registhered->registered
 registher->register
 registhers->registers
@@ -52060,6 +52075,7 @@ reproducable->reproducible
 reproduccibility->reproducibility
 reproduccible->reproducible
 reproduccibly->reproducibly
+reproduceable->reproducible
 reproducibbility->reproducibility
 reproducibble->reproducible
 reproducibbly->reproducibly
@@ -54379,6 +54395,7 @@ segemantion->segmentation
 segementation->segmentation
 segement->segment
 segements->segments
+segemnation->segmentation
 seges->segues
 segfaault->segfault
 segfaeult->segfault
@@ -55349,6 +55366,7 @@ simitarty->similarly
 simlify->simplify
 simluar->similar
 simluator->simulator
+simly->simply
 simmilarity->similarity
 simmilarly->similarly
 simmilar->similar
@@ -57557,6 +57575,7 @@ stack pointerr->stack pointer
 stackpointer->stack pointer
 stack poointer->stack pointer
 stack ppointer->stack pointer
+stadard->standard
 staebility->stability
 staebilize->stabilize
 staebilizing->stabilizing
@@ -61821,6 +61840,7 @@ totaal->total
 totael->total
 totall->total
 totat->total
+totday->today
 toterance->tolerance
 to te->to the
 to thae->to the
@@ -65506,7 +65526,9 @@ verthical->vertical
 verthices->vertices
 verticaal->vertical
 verticael->vertical
+vertical align->vertically align
 verticall->vertical
+verticaly->vertically
 verticat->vertical
 verticcal->vertical
 verticces->vertices
