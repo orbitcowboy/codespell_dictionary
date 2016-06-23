@@ -7271,6 +7271,7 @@ autoomatioon->automation
 autoomoobile->automobile
 autoonoomoous->autonomous
 autor->author
+autorisation->authorization
 autorised->authorized
 autoritative->authoritative
 autorities->authorities
@@ -9589,6 +9590,7 @@ calcualating->calculating
 calcualtion->calculation
 calcualtions->calculations
 calcuation->calculation
+calcuations->calculations
 calculale->calculate
 calculaled->calculated
 calculales->calculates
@@ -13136,6 +13138,7 @@ comparsion->comparison
 comparsions->comparisons
 compartors->comparators
 compatabilities->compatibilities
+compatability->comparability
 compatability->compatibility
 compatabilty->compatibility
 compatable->compatible
@@ -18280,6 +18283,7 @@ delagates->delegates
 delailed->detailed
 delailedness->detailedness
 delapidated->dilapidated
+delault->default
 delcared->declared
 delecl->detect
 delecled->detected
@@ -19289,7 +19293,10 @@ developpment->development
 developps->develops
 develops->developers
 developss->develops
+develp->develop
 develped->developed
+develper->developer
+develpers->developers
 develpment->development
 devels->delves
 devensive->defensive
@@ -24211,6 +24218,8 @@ executabble->executable
 executablle->executable
 executabte->executable
 executaeble->executable
+executeable->executable
+executeables->executables
 executedd->executed
 executess->executes
 executhable->executable
@@ -26279,6 +26288,7 @@ forbidd->forbid
 forbiden->forbidden
 forbiidden->forbidden
 forbiid->forbid
+for consistence->for consistency
 foreeground->foreground
 foreeign->foreign
 foreemost->foremost
@@ -30196,6 +30206,7 @@ ie.->i.e.
 iff one sets->if one sets
 iff you want->if you want
 if onae saets->if one sets
+i fond->i found
 if onee seets->if one sets
 if one sels->if one sets
 if one sest->if one sets
@@ -31968,6 +31979,7 @@ indeppendently->independently
 indespensable->indispensable
 indespensible->indispensable
 indetifier->identifier
+indetify->identify
 indexess->indexes
 indexxes->indexes
 indexx->index
@@ -33645,6 +33657,7 @@ intepreting->interpreting
 interaactive->interactive
 interacctive->interactive
 interace->interface
+interactable->intractable
 interactivee->interactive
 interactiv->interactive
 interactivve->interactive
@@ -34357,6 +34370,7 @@ irraeplacaeablae->irreplaceable
 irraesistiblae->irresistible
 irraesistibly->irresistibly
 irrascible->irascible
+irratating->irritating
 irratoinal->irrational
 irratoinals->irrationals
 irreeleevant->irrelevant
@@ -35783,6 +35797,7 @@ languagees->languages
 languagess->languages
 languague->language
 languagues->languages
+langueage->language
 langugage->language
 languge->language
 languuage->language
@@ -38900,6 +38915,8 @@ microocoontrooller->microcontroller
 microo->micro
 microoscoopy->microscopy
 Microosooft->Microsoft
+microporcessor->microprocessor
+microporcessors->microprocessors
 microscoppy->microscopy
 microscopyy->microscopy
 Microsofft->Microsoft
@@ -44695,6 +44712,7 @@ peerveersee->perverse
 peessary->pessary
 peetition->petition
 peformed->performed
+peform->perform
 peice->piece
 peices->pieces
 pejjorative->pejorative
@@ -47248,6 +47266,7 @@ precice->precise
 preciisely->precisely
 preciise->precise
 preciisiion->precision
+preciou->precious
 preciselly->precisely
 preciselyy->precisely
 precisety->precisely
@@ -47657,6 +47676,7 @@ presumibly->presumably
 presummably->presumably
 presuumably->presumably
 pretection->protection
+pretify->prettify
 pretiminary->preliminary
 pretsigious->prestigious
 prevaalent->prevalent
@@ -61655,6 +61675,8 @@ tolkits->toolkits
 tolkit->toolkit
 Tolkkien->Tolkien
 tollerance->tolerance
+tollerates->tolerates
+tollerate->tolerate
 Tollkien->Tolkien
 tomaatoes->tomatoes
 tomaetoes->tomatoes
@@ -62076,6 +62098,7 @@ trailingss->trailings
 trailinngs->trailings
 trailins->trailings
 traillings->trailings
+trailling->trailing
 trainingg->training
 trainning->training
 trainninng->training
@@ -62364,6 +62387,7 @@ transtators->translators
 transtator->translator
 transtions->transitions
 transtion->transition
+tranthlator->translator
 trasaction->transaction
 trascation->transaction
 trasfered->transferred
@@ -65708,6 +65732,7 @@ virtuatty->virtually
 virtuat->virtual
 virtuually->virtually
 virtuual->virtual
+virual->virtual
 virusaes->viruses
 virusees->viruses
 virussess->viruses

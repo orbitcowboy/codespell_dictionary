@@ -7,7 +7,6 @@ Addresse->Adresse
 agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
-Monior->Monior
 allle->alle
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
@@ -239,6 +238,7 @@ Milimeter->Millimeter
 min nicht->mit nicht
 Modusse->Modi
 Möglihckeit->Möglichkeit
+Monior->Monior
 montalichen->monatlichen
 nach dem->nachdem
 Nachname->Nachnahme
