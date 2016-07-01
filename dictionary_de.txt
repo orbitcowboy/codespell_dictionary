@@ -238,7 +238,7 @@ Milimeter->Millimeter
 min nicht->mit nicht
 Modusse->Modi
 Möglihckeit->Möglichkeit
-Monior->Monior
+Monior->Monitor
 montalichen->monatlichen
 nach dem->nachdem
 Nachname->Nachnahme

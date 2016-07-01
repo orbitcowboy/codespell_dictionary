@@ -13457,6 +13457,8 @@ comprable->comparable
 compraehaensivae->comprehensive
 compraess->compress
 compraession->compression
+comprasion->comparison
+comprasions->comparisons
 compreeheensivee->comprehensive
 compreess->compress
 compreession->compression
@@ -18672,6 +18674,7 @@ derrivatives->derivatives
 derrived->derived
 derrogatorry->derogatory
 derviative->derivative
+desallocation->deallocation
 desccendant->descendant
 desccendants->descendants
 desccribed->described
@@ -20741,6 +20744,8 @@ divission->division
 divissionss->divisions
 divrged->diverged
 divrse->diverse
+divsion->division
+divsions->divisions
 divverged->diverged
 divverse->diverse
 divvidable->dividable
@@ -25388,6 +25393,7 @@ favourablae->favourable
 favourablee->favourable
 favourablle->favourable
 favourabte->favourable
+favourite->favorite
 favourrable->favourable
 favoutrable->favourable
 favouurable->favourable
@@ -26467,6 +26473,7 @@ formm->form
 formmidable->formidable
 formmula->formula
 formost->foremost
+formtat->format
 formulaa->formula
 formulla->formula
 formuta->formula
@@ -33119,6 +33126,7 @@ insensitiv->insensitive
 insensitivve->insensitive
 insensittive->insensitive
 insenstive->insensitive
+insentitive->insensitive
 insepaaraable->inseparable
 insepaeraeble->inseparable
 inseparabble->inseparable
@@ -39150,6 +39158,7 @@ millllisecond->millisecond
 milllliseconds->milliseconds
 millon->million
 miltary->military
+mimimal->minimal
 mimimun->minimum
 minaeral->mineral
 minature->miniature
@@ -51844,6 +51853,7 @@ reorgannisationn->reorganisation
 reorgganisation->reorganisation
 reorute->reroute
 repaartition->repartition
+repacing->replacing
 repaertition->repartition
 repaetedly->repeatedly
 repaet->repeat
@@ -62105,6 +62115,9 @@ trainninng->training
 traitings->trailings
 trakeability->traceability
 trakeable->traceable
+traked->tracked
+trakes->tracks
+traks->tracks
 tranceiver->transceiver
 trancendent->transcendent
 trancending->transcending
@@ -63789,6 +63802,7 @@ unfortunatley->unfortunately
 unfortunatly->unfortunately
 unfortuntely->unfortunately
 unforunately->unfortunately
+unforuntately->unfortunately
 unfotunately->unfortunately
 unfourtunately->unfortunately
 unfroeseen->unforeseen
