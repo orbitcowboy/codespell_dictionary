@@ -12966,6 +12966,8 @@ commuunications->communications
 commuunities->communities
 commuunity->community
 comna->comma
+comnad->command
+comnads->commands
 comnand->command
 comnandeer->commandeer
 comnander->commander
@@ -14027,6 +14029,8 @@ conlroversy->controversy
 conlusion->conclusion
 conlusions->conclusions
 conma->comma
+conmad->command
+conmads->commands
 conmand->command
 conmandeer->commandeer
 conmander->commander
@@ -14076,6 +14080,8 @@ conmunications->communications
 conmunities->communities
 conmunity->community
 conna->comma
+connad->command
+connads->commands
 connaectaed->connected
 Connaecticut->Connecticut
 connaection->connection
