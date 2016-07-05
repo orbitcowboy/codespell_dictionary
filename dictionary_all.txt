@@ -951,6 +951,7 @@ accessssess->accesses
 accessssible->accessible
 accessssing->accessing
 accessssion->accession
+accetable->acceptable
 acceterated->accelerated
 acceteration->acceleration
 acchieve->achieve
@@ -29322,6 +29323,7 @@ high bytte->high byte
 high byyte->high byte
 higheer->higher
 higheest->highest
+highe->high
 higherr->higher
 highesit->highest
 highesl->highest
@@ -54778,6 +54780,7 @@ seriall->serial
 seriatization->serialization
 seriat->serial
 seriell->serial
+seriel->serial
 seriialiizatiion->serialization
 seriial->serial
 seriiously->seriously
@@ -65140,6 +65143,7 @@ valuues->values
 valuue->value
 varables->variables
 varadic->variadic
+varaibles->variables
 varaible->variable
 varations->variations
 vareous->various
