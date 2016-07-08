@@ -7244,6 +7244,9 @@ automatiion->automation
 automatikally->automatically
 automationn->automation
 automibile->automobile
+automize->automatize
+automized->automatized
+automizes->automatizes
 autommagically->automagically
 autommated->automated
 autommatically->automatically
@@ -12386,6 +12389,7 @@ columnt->column
 colums->columns
 colunn->column
 colunns->columns
+coluns->columns
 coluumn->column
 coluumns->columns
 comaand-->command
@@ -16558,6 +16562,7 @@ critising->criticising
 critising->criticising, criticizing
 critising->criticising, criticizing,
 critising->criticizing
+critisised->criticized
 critisising->criticising
 critisism->criticism
 critisisms->criticisms
@@ -18682,6 +18687,7 @@ derrived->derived
 derrogatorry->derogatory
 derviative->derivative
 desallocation->deallocation
+desassembly->disassembly
 desccendant->descendant
 desccendants->descendants
 desccribed->described
@@ -19135,6 +19141,7 @@ determinne->determine
 determinninng->determining
 determinnistically->deterministically
 determinnistic->deterministic
+determinsitic->deterministic
 determinted->determined
 determminant->determinant
 determmined->determined
@@ -21430,6 +21437,7 @@ easiily->easily
 easilly->easily
 easilyy->easily
 easity->easily
+easly->easily
 eassier->easier
 eassily->easily
 easthetic->aesthetic
@@ -25274,6 +25282,7 @@ failurre->failure
 failurres->failures
 failuure->failure
 failuures->failures
+faily->fairly
 faits->fails
 faiture->failure
 faitures->failures
@@ -47430,6 +47439,7 @@ preevaleent->prevalent
 preeviously->previously
 preevious->previous
 prefectly->perfectly
+prefence->preference
 preferaable->preferable
 preferaably->preferably
 preferabble->preferable
@@ -50217,6 +50227,7 @@ realy->really
 reaon->reason
 reaons->reasons
 rearangement->rearrangement
+reards->regards
 rearrangemenl->rearrangement
 rearrangementh->rearrangement
 rearrangementt->rearrangement
@@ -51674,6 +51685,7 @@ rellieving->relieving
 relligiouslly->religiously
 relligious->religious
 rellinquishment->relinquishment
+relocatin->relocating
 relpacement->replacement
 relrieval->retrieval
 relrieved->retrieved
@@ -53127,6 +53139,7 @@ robotik->robotic
 robottic->robotic
 robusitness->robustness
 robuslness->robustness
+robusntess->robustness
 robusstnessss->robustness
 robusteness->robustness
 robusthness->robustness
@@ -53203,6 +53216,7 @@ rosae->rose
 rosee->rose
 rosse->rose
 rothogonal->orthogonal
+rotine->routine
 rougghly->roughly
 roughhly->roughly
 roughlly->roughly
@@ -54340,6 +54354,7 @@ secretery->secretary
 secrethary->secretary
 secrettary->secretary
 secrretarry->secretary
+sectionm->section
 secuirty->security
 securiity->security
 securily->security
@@ -55400,6 +55415,7 @@ similiar->similar
 simillarity->similarity
 simillarlly->similarly
 simillar->similar
+similtar->similar
 simitarity->similarity
 simitarty->similarly
 simlify->simplify
@@ -57675,6 +57691,7 @@ startegies->strategies
 startegy->strategy
 startiing poiint->starting point
 startiing->starting
+startimg->starting
 startingg point->starting point
 startingg->starting
 starting pooint->starting point
@@ -65101,6 +65118,7 @@ validattion->validation
 validdation->validation
 validdity->validity
 validd->valid
+valididty->validity
 validily->validity
 validithy->validity
 validitty->validity
