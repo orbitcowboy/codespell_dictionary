@@ -1370,6 +1370,7 @@ achived->achieved, archived,
 achived->archived
 achivement->achievement
 achivements->achievements
+achivevement->achievement
 acident->accident
 acidental->accidental
 acidentally->accidentally
@@ -11323,6 +11324,7 @@ chalenging->challenging
 challaengae->challenge
 challaengaed->challenged
 challaenging->challenging
+challanage->challenge
 challange->challenge
 challanged->challenged
 challeengee->challenge
@@ -13274,6 +13276,7 @@ compilaer->compiler
 compilaers->compilers
 compilaetion->compilation
 compilalion->compilation
+compilant->compliant
 compilated->compiled
 compilathion->compilation
 compilatin->compilation
@@ -17718,6 +17721,8 @@ debuug->debug
 debuugged->debugged
 debuugger->debugger
 debuugging->debugging
+decalarartion->declaration
+decalarartions->declarations
 decaled->declared
 decalre->declare
 decceived->deceived
@@ -19931,6 +19936,7 @@ directlyy->directly
 directoiry->directory
 directoory->directory
 directoory exists->directory exists
+directory->dictionary
 directory exisits->directory exists
 directory exisst->directory exists
 directory exisstss->directory exists
@@ -23170,6 +23176,7 @@ enummerable->enumerable
 enummerated->enumerated
 enummerating->enumerating
 enumrating->enumerating
+enure->ensure
 enusre->ensure
 enuumerable->enumerable
 enuumerated->enumerated
@@ -23287,6 +23294,7 @@ eprom->eeprom
 eprom->EEPROM
 epsiode->episode
 eqaul->equal
+eqiupment->equipment
 eqqual->equal
 eqquatorial->equatorial
 eqquilibrium->equilibrium
@@ -33941,6 +33949,7 @@ interrvenes->intervenes
 intersted->interested
 intersting->interesting
 intertaining->entertaining
+interupting->interrupting
 interupt->interrupt
 Interupt->Interrupt
 interupts->interrupts
@@ -38613,6 +38622,7 @@ menthioning->mentioning
 mentiioned->mentioned
 mentiioniing->mentioning
 menting->meting
+mentiond->mentioned
 mentionedd->mentioned
 mentionend->mentioned
 mentioningg->mentioning
@@ -40311,6 +40321,8 @@ mrotgage->mortgage
 mrtin->martin
 Mrtin->Martin
 msiing->missing
+muation->mutation
+muations->mutations
 muccous->mucous
 mucoous->mucous
 mucouss->mucous
@@ -52160,6 +52172,7 @@ reprot->report
 reprtoire->repertoire
 repsectively->respectively
 repsective->respective
+repsond->respond
 repsonse->response
 reptacement->replacement
 reptace->replace
@@ -55573,6 +55586,8 @@ sinc ethe->since the
 since thhe->since the
 since tthe->since the
 sinees->sines
+singals->signals
+singele->single
 singe->single
 singgle->single
 singgsongg->singsong
@@ -61323,6 +61338,7 @@ threatenned->threatened
 threatenninng->threatening
 threathmenth->treatment
 threatning->threatening
+threatning->threating
 threeateeneed->threatened
 threeateening->threatening
 threeee->three
@@ -61409,6 +61425,7 @@ thypographical->typographical
 thypo->typo
 thyrannies->tyrannies
 thyranny->tyranny
+thy->they
 tiabte->liable
 tiaise->liaise
 tiaison->liaison
