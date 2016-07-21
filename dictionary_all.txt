@@ -8637,6 +8637,7 @@ blogg->blog
 blooated->bloated
 bloog->blog
 boaat->boat
+boad->board
 boaet->boat
 boal->boat
 boath->boat
@@ -9594,6 +9595,7 @@ calcualate->calculate
 calcualating->calculating
 calcualtion->calculation
 calcualtions->calculations
+calcuated->calculated
 calcuation->calculation
 calcuations->calculations
 calculale->calculate
@@ -17895,6 +17897,7 @@ decribes->describes
 decribing->describing
 decription->description
 decriptor->descriptor
+decrment->decrement
 decrpyt->decrypt
 decrpyted->decrypted
 decrrease->decrease
@@ -22529,6 +22532,7 @@ emptty->empty
 emptyy->empty
 emtited->emitted
 emtpy->empty
+emty->empty
 enaable->enable
 enaables->enables
 enaameled->enameled
@@ -44239,6 +44243,8 @@ paraenthaesaes->parentheses
 paraenthaesis->parenthesis
 paraent->parent
 paraents->parents
+paragragh->paragraph
+paragraghs->paragraphs
 parakaeaets->parakeets
 parakeeeets->parakeets
 parakeels->parakeets
