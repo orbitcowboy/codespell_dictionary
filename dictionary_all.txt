@@ -19940,7 +19940,6 @@ directlyy->directly
 directoiry->directory
 directoory->directory
 directoory exists->directory exists
-directory->dictionary
 directory exisits->directory exists
 directory exisst->directory exists
 directory exisstss->directory exists
@@ -40326,6 +40325,7 @@ mrotgage->mortgage
 mrtin->martin
 Mrtin->Martin
 msiing->missing
+muated->mutated
 muation->mutation
 muations->mutations
 muccous->mucous
