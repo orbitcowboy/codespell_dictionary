@@ -19199,6 +19199,7 @@ detrimentael->detrimental
 detrimentall->detrimental
 detrimentat->detrimental
 detrimmental->detrimental
+detriplicate->de-triplicate
 detrrimental->detrimental
 detsabilized->destabilized
 detsination->destination
@@ -44178,6 +44179,7 @@ palh->path
 palhs->paths
 paliamentarian->parliamentarian
 palience->patience
+palindrom->palindrome
 Palistian->Palestinian
 Palistinian->Palestinian
 Palistinians->Palestinians
@@ -44865,6 +44867,7 @@ peoplles->peoples
 peopte->people
 peoptes->peoples
 peotry->poetry
+pepetuated->perpetuated
 perade->parade
 percceived->perceived
 percceive->perceive
@@ -45091,6 +45094,7 @@ perpendiicular->perpendicular
 perpendikular->perpendicular
 perpenndicular->perpendicular
 perpertrated->perpetrated
+perpetuat->perpetuate
 perphas->perhaps
 perpindicular->perpendicular
 perrceived->perceived
