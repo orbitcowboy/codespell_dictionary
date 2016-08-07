@@ -13812,6 +13812,7 @@ confform->conform
 confformities->conformities
 confformity->conformity
 confguration->configuration
+confgure->configure
 confgured->configured
 confidaential->confidential
 confidaentially->confidentially
@@ -36321,6 +36322,7 @@ librariers->libraries
 librariess->libraries
 librarys->libraries
 libraryy->library
+libray->library
 librrarries->libraries
 librrarry->library
 Libyaa->Libya
@@ -40910,6 +40912,10 @@ nammely->namely
 namme->name
 nammes->names
 namming->naming
+nane->name
+nanes->names
+nanne->name
+nannes->names
 Naploeon->Napoleon
 Napolaeonic->Napoleonic
 Napolaeon->Napoleon
