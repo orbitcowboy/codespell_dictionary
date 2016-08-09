@@ -3887,6 +3887,8 @@ a loot->a lot
 alophone->allophone
 alophones->allophones
 alorgithm->algorithm
+alorithm->algorithm
+alorithms->algorithms
 alos->also
 alot->a lot
 alot->a lot, allot
@@ -9818,6 +9820,7 @@ cancellathion->cancellation
 cancellatiion->cancellation
 cancellatioon->cancellation
 cancellattion->cancellation
+cancelling->canceling
 cancellllation->cancellation
 cancettation->cancellation
 candadate->candidate
@@ -24849,6 +24852,7 @@ extennsively->extensively
 extensiion->extension
 extensiions->extensions
 extensiively->extensively
+extensionon->extension
 extensioon->extension
 extensioons->extensions
 extensiveely->extensively
@@ -33922,6 +33926,7 @@ interruppt vector->interrupt vector
 interruppt vectors->interrupt vectors
 interrups->interrupts
 interrupst->interrupts
+interruptable->interruptible
 interruptss->interrupts
 interrupt vctor->interrupt vector
 interrupt vctors->interrupt vectors
@@ -50252,6 +50257,7 @@ realtionship->relationship
 realtions->relations
 realyl->really
 realy->really
+reanmed->renamed
 reaon->reason
 reaons->reasons
 rearangement->rearrangement
@@ -54639,6 +54645,7 @@ sensilive->sensitive
 sensisitive->sensitiveness
 sensithiveness->sensitiveness
 sensithive->sensitive
+sensititivity->sensitivity
 sensitiveeness->sensitiveness
 sensitivee->sensitive
 sensitivenes->sensitiveness
@@ -55447,6 +55454,8 @@ simillar->similar
 similtar->similar
 simitarity->similarity
 simitarty->similarly
+simlator->simulator
+simlators->simulators
 simlify->simplify
 simluar->similar
 simluator->simulator

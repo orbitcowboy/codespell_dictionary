@@ -8,6 +8,8 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
+mnit->mit
+nmit->mit
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
