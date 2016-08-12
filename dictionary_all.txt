@@ -15369,6 +15369,7 @@ convertibtes->convertibles
 convertiible->convertible
 convertiibles->convertibles
 convertion->conversion
+convertor->converter
 convertss->converts
 convertt->convert
 convertted->converted
@@ -19374,6 +19375,7 @@ devloper's->developer's
 devlopers->developers
 devloping->developing
 devlopment->development
+devlopments->developments
 devlops->develops
 devolopement->development
 devvastated->devastated
@@ -21116,6 +21118,7 @@ douubt->doubt
 dow->how
 dowload->download
 dowloads->downloads
+dowmloadable->downloadable
 downlload->download
 downlloads->downloads
 downloaad->download
