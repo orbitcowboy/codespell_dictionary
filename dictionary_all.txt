@@ -20101,6 +20101,7 @@ disasiter->disaster
 disasitrous->disastrous
 disasler->disaster
 disaslrous->disastrous
+disasseble->disassembly
 disassembley->disassembly
 disastaer->disaster
 disasteer->disaster
@@ -52216,7 +52217,9 @@ repulican->republican
 repulicans->republicans
 repulic->republic
 repulics->republics
+reqested->requested
 reqest->request
+reqests->requests
 reqirement->requirement
 reqquest->request
 reqquests->requests
@@ -53900,6 +53903,7 @@ sasy->says, sassy
 sasy->says, sassy,
 sataellitae->satellite
 sataellitaes->satellites
+sataisfy->satisfy
 satary->salary
 sateellitee->satellite
 sateellitees->satellites
