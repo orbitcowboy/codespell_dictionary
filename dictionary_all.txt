@@ -13854,6 +13854,7 @@ configgured->configured
 configgures->configures
 configguringg->configuring
 configiration->configuration
+configration->configuration
 configuartion->configuration
 configuation->configuration
 configue->configure
@@ -22987,6 +22988,7 @@ enouggh->enough
 enoughh->enough
 enought->enough
 enougth->enough
+enouraged->encouraged
 enourmous->enormous
 enourmously->enormously
 enouugh->enough
@@ -23001,6 +23003,7 @@ ensconcedd->ensconced
 ensconsed->ensconced
 enscoonced->ensconced
 enskonked->ensconced
+enslistment->enlistment
 enssconced->ensconced
 enssure->ensure
 enssuress->ensures
@@ -24539,6 +24542,7 @@ expatriiate->expatriate
 expatriot->expatriate
 expatrriate->expatriate
 expattriatte->expatriate
+expcted->expected
 expeccted->expected
 expecct->expect
 expeccts->expects
@@ -43084,6 +43088,7 @@ openninng->opening
 opennly->openly
 opennnness->openness
 openn->open
+opensll->openssl
 openty->openly
 operaands->operands
 operaate->operate
@@ -48916,6 +48921,7 @@ Protuguese->Portuguese
 protuuberance->protuberance
 protuuberances->protuberances
 protytpe->prototype
+prouduced->produced
 prouncements->pronouncements
 provaable->provable
 provabble->provable
@@ -66525,6 +66531,7 @@ wereabouts->whereabouts
 were're->we're
 werid->weird
 we'rre->we're
+wery->very
 wesite->website
 we spaek->we speak
 we speaak->we speak
