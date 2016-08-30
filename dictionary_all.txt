@@ -18620,6 +18620,7 @@ deram->dram, dream
 deram->dram, dream,
 deram->dream
 derectory->directory
+derefenced->dereferenced
 derefence->dereference
 derefencing->dereferencing
 dereferance->dereference
@@ -54512,6 +54513,7 @@ seggfault->segfault
 seggmentation->segmentation
 seggment->segment
 seggments->segments
+seggregate->segregate
 seggreggation->segregation
 seggues->segues
 segmenation->segmentation

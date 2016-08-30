@@ -8,8 +8,6 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-mnit->mit
-nmit->mit
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -238,6 +236,7 @@ meißt->meist
 mieserabel->miserabel
 Milimeter->Millimeter
 min nicht->mit nicht
+mnit->mit
 Modusse->Modi
 Möglihckeit->Möglichkeit
 Monior->Monitor
@@ -253,6 +252,7 @@ nerfen->nerven
 neuseten->neuesten
 nichts desto trotz->nichtsdestotrotz
 nießen->niesen
+nmit->mit
 Noitz->Notiz
 Nomenklartur->Nomenklatur
 notewendige->notwendige
