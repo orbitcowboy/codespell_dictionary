@@ -25934,6 +25934,8 @@ finnanncial->financial
 finnanncially->financially
 finnd->find
 finnd out more->find out more
+finnished->finished
+finnish->finish
 finnite->finite
 finomaton->information
 finsihed->finished
@@ -26976,6 +26978,8 @@ functin->function
 functino->function
 functins->functions
 functio->function
+functiom->function
+functioms->functions
 functionaal->functional
 functionaalities->functionalities
 functionaality->functionality
@@ -40418,6 +40422,7 @@ multhithhreaded->multithreaded
 multhi thhread->multi thread
 multhi-thhread->multi-thread
 multhithhread->multithread
+multible->multiple
 multicchar->multichar
 multicculturalism->multiculturalism
 multichaar->multichar
@@ -50134,6 +50139,7 @@ rathify->ratify
 ratiffy->ratify
 ratifyy->ratify
 ratiify->ratify
+ratino->ratio
 rattify->ratify
 rauccous->raucous
 raucoous->raucous
@@ -64001,6 +64007,7 @@ uninterruped->uninterrupted
 uninterruppted->uninterrupted
 uninterruptedd->uninterrupted
 uninterupted->uninterrupted
+unintetional->unintentional
 unintherrupthed->uninterrupted
 unintialized->uninitialized
 unintsalled->uninstalled
