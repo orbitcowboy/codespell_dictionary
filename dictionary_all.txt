@@ -51392,6 +51392,10 @@ registter->register
 registters->registers
 registtrattion->registration
 registtry->registry
+regiterd->registered
+regitered->registered
+regiter->register
+regiters->registers
 regitsered->registered
 regitser->register
 regitsers->registers
