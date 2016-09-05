@@ -16023,6 +16023,7 @@ corrent->current
 correponding->corresponding
 correposding->corresponding
 corrept->corrupt
+corresonding->corresponding
 correspoding->corresponding
 correspoinding->corresponding
 correspomding->corresponding
@@ -16809,6 +16810,7 @@ curiosityy->curiosity
 curiossity->curiosity
 curiosty->curiosity
 curiousity->curiosity
+curor->cursor
 curraent->current
 curraently->currently
 currect->correct
@@ -29929,6 +29931,9 @@ hygienne->hygiene
 hygiiene->hygiene
 hyjack->hijack
 hyjacking->hijacking
+hylighted->highlighted
+hylight->highlight
+hylights->highlights
 hypaerlink->hyperlink
 Hypaer Thraeading->Hyper Threading
 Hypaer-V->Hyper-V
@@ -62211,6 +62216,7 @@ trakeable->traceable
 traked->tracked
 trakes->tracks
 traks->tracks
+traling->trailing
 tranceiver->transceiver
 trancendent->transcendent
 trancending->transcending
