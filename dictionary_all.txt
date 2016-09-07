@@ -6052,6 +6052,7 @@ asignment->assignment
 asignments->assignments
 asigns->assigns
 asiian->asian
+asii->ascii
 asiide->aside
 a siimple->a simple
 a simmple->a simple
