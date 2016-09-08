@@ -1394,6 +1394,7 @@ acknowleddgedd->acknowledged
 acknowleddges that->acknowledges that
 acknowleddging->acknowledging
 acknowledgeing->acknowledging
+acknowledgement->acknowledgment
 acknowledges htat->acknowledges that
 acknowledges lhal->acknowledges that
 acknowledgess that->acknowledges that
@@ -13766,6 +13767,7 @@ conditionael->conditional
 conditionall->conditional
 conditionat->conditional
 conditioneed->conditioned
+conditiong->condition
 conditionnal->conditional
 conditionsof->conditions of
 conditions off->conditions of
@@ -13856,6 +13858,7 @@ configgures->configures
 configguringg->configuring
 configiration->configuration
 configration->configuration
+configrations->configurations
 configuartion->configuration
 configuation->configuration
 configue->configure
@@ -46631,6 +46634,7 @@ potatoess->potatoes
 potatos->potatoes
 poteentially->potentially
 poteential->potential
+potencial->potential
 potenntially->potentially
 potenntial->potential
 potentail->potential
@@ -62262,6 +62266,9 @@ trannsparennt->transparent
 trannsportationn->transportation
 trannssexuals->transsexuals
 trannssexual->transsexual
+tranported->transported
+tranports->transports
+tranport->transport
 transacction->transaction
 transactiion->transaction
 transactioon->transaction
