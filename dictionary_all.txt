@@ -17836,6 +17836,7 @@ declarre->declare
 declartion->declaration
 declartions->declarations
 declation->declaration
+decleare->declare
 decleration->deceleration
 decleration->declaration
 decllaration->declaration
@@ -22754,6 +22755,8 @@ endotiths->endoliths
 enduce->induce
 eneded->ended
 ened->need
+enent->event
+enents->events
 eneterd->entered
 enfforce->enforce
 enfforcing->enforcing
@@ -23904,6 +23907,7 @@ evidenlly->evidently
 evidenntly->evidently
 evidentally->evidently
 evidenthly->evidently
+evidentiary->evidential
 evidentlly->evidently
 evidentlyy->evidently
 evidenttly->evidently
@@ -24081,6 +24085,7 @@ excactly->exactly
 Excael->Excel
 excalamation->exclamation
 excange->exchange
+excatly->exactly
 excceeded->exceeded
 excceedingly->exceedingly
 exccel->excel
@@ -24381,6 +24386,9 @@ exerternal->external
 exerthed->exerted
 exertted->exerted
 exhalted->exalted
+exhbited->exhibited
+exhbit->exhibit
+exhbits->exhibits
 exhhibition->exhibition
 exhhibitions->exhibitions
 exhibbition->exhibition
@@ -33961,9 +33969,11 @@ interrupt vectro->interrupt vector
 interrupt vectros->interrupt vectors
 interrupt veector->interrupt vector
 interrupt veectors->interrupt vectors
+interruptvektoren->interruptvectors
 interruptvektoren->interrupt vectors
 Interruptvektoren->interrupt vectors
 interrupt vektor->interrupt vector
+interruptvektor->interruptvector
 interruptvektor->interrupt vector
 Interruptvektor->interrupt vector
 interrupt vektors->interrupt vectors
@@ -34091,6 +34101,7 @@ intialization->initialization
 intialized->initialized
 intialize->initialize
 intializers->initializers
+intializing->initializing
 intially->initially
 intiialize->initialize
 intining->inlining
@@ -54518,6 +54529,7 @@ segementation->segmentation
 segement->segment
 segements->segments
 segemnation->segmentation
+segemtns->segments
 seges->segues
 segfaault->segfault
 segfaeult->segfault
@@ -61421,6 +61433,7 @@ thrigger->trigger
 thrigonomethric->trigonometric
 thrigraphs->trigraphs
 thrilogy->trilogy
+thrity->thirty
 thrivial->trivial
 throlling->trolling
 throops->troops
@@ -65979,6 +65992,7 @@ volonteered->volunteered
 volonteering->volunteering
 volonteers->volunteers
 volonteer->volunteer
+volotile->volatile
 volounteered->volunteered
 volounteering->volunteering
 volounteers->volunteers
