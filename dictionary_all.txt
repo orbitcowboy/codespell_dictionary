@@ -63940,6 +63940,7 @@ unhappppy->unhappy
 unhappyy->unhappy
 unhapy->unhappy
 unhhappy->unhappy
+unices->unixes
 Unices->Unixes
 unihabited->uninhabited
 uniilaterally->unilaterally
@@ -64049,6 +64050,7 @@ unintsalled->uninstalled
 unintsantiated->uninstantiated
 unintterruptted->uninterrupted
 unintuitivelely->unintuitively
+unip->unique
 uniqe->unique
 uniqquely->uniquely
 uniqque->unique
