@@ -33585,6 +33585,8 @@ intaervaenae->intervene
 intaervaenaes->intervenes
 intaerval->interval
 intaervals->intervals
+intail->initial
+intailly->initially
 intallation->installation
 intall->install
 intance->instance
@@ -45921,6 +45923,8 @@ pointingg->pointing
 pointter->pointer
 pointting->pointing
 pointt->point
+poionter->pointer
+poionters->pointers
 poisin->poison
 poisonn->poison
 poisson->poison
