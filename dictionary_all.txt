@@ -4048,6 +4048,7 @@ alwayss->always
 alwayys->always
 alwways->always
 alwyas->always
+alyways->always
 amaelioratae->ameliorate
 amaendaed->amended
 amaend->amend
@@ -16964,6 +16965,7 @@ cypherred->cyphered
 cyphhered->cyphered
 cyphtered->cyphered
 cypphered->cyphered
+cystal->crystal
 cytinder->cylinder
 cyyan->cyan
 cyycle->cycle
@@ -22209,6 +22211,9 @@ eliigiible->eligible
 eliimiinated->eliminated
 eliimiinatiing->eliminating
 elikited->elicited
+elimanated->eliminated
+elimanate->eliminate
+elimanates->eliminates
 elimentary->elementary
 eliminaated->eliminated
 eliminaating->eliminating
@@ -50245,6 +50250,7 @@ reaerraengement->rearrangement
 reaesonaeble->reasonable
 reaeson->reason
 reaessign->reassign
+reagrds->regards
 reakhed->reached
 reakhing->reaching
 realease->release
@@ -51528,6 +51534,9 @@ reinnforced->reinforced
 reinnitializationn->reinitialization
 reinnitialize->reinitialize
 reinterpretcast->reinterpret cast
+reistered->registered
+reister->register
+reisters->registers
 reiviews->reviews
 reizing->resizing
 rekalkulate->recalculate
@@ -57683,6 +57692,7 @@ stabilizzing->stabilizing
 stabillity->stability
 stabillize->stabilize
 stabillizing->stabilizing
+stabished->established
 stabitity->stability
 stabitize->stabilize
 stabitizing->stabilizing
@@ -57827,6 +57837,8 @@ staticallyy->statically
 staticaly->statically
 staticatty->statically
 staticcally->statically
+staticily->statically
+staticlly->statically
 staticly->statically
 statiically->statically
 statiion->station
