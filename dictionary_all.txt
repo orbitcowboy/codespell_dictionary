@@ -34808,6 +34808,7 @@ ittustrates->illustrates
 itt will->it will
 it wil->it will
 it willll->it will
+it withstand->it withstands
 it witt->it will
 it wwill->it will
 it you want->if you want
@@ -48266,6 +48267,8 @@ profilingg->profiling
 profilinng->profiling
 profilling->profiling
 profliling->profiling
+profnes->proofness
+profness->proofness
 profusiion->profusion
 profusionn->profusion
 profussion->profusion
@@ -48636,6 +48639,8 @@ proofessioonal->professional
 proofessioon->profession
 proofessoor->professor
 proofiling->profiling
+proofnes->proofness
+proofness->proofness
 proofusioon->profusion
 proogrammable->programmable
 proogrammatically->programmatically
@@ -65272,6 +65277,8 @@ valuess->values
 valuuable->valuable
 valuues->values
 valuue->value
+vapour->vapor
+vapr->vapor
 varables->variables
 varadic->variadic
 varaibles->variables
