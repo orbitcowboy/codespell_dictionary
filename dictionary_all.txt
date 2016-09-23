@@ -23407,6 +23407,7 @@ equivilent->equivalent
 equivlalent->equivalent
 equivvalence->equivalence
 equivvalent->equivalent
+equl->equal
 equual->equal
 equuatorial->equatorial
 equuilibriuum->equilibrium
