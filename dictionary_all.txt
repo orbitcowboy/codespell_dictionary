@@ -11754,6 +11754,7 @@ Christiaen->Christian
 Christiann->Christian
 Christtian->Christian
 Chritsian->Christian
+chromaticty->chromaticity
 Chrristian->Christian
 chuch->church
 churchaes->churches
@@ -12498,6 +12499,8 @@ comfortaeble->comfortable
 comforthable->comfortable
 comforttable->comfortable
 comfrotable->comfortable
+comibination->combination
+comibinations->combinations
 comiing->coming
 comiler->compiler
 comingg->coming
@@ -18213,6 +18216,7 @@ defined ass globalss->defined as globals
 defineded->defined
 definetely->definitely
 definetly->definitely
+definex->define
 definied->defined
 definile->definite
 definilely->definitely
@@ -28060,6 +28064,7 @@ greeeen->green
 greenn->green
 greif->grief
 gren->green
+grenn->green
 griaef->grief
 griddddles->griddles
 griddlaes->griddles
@@ -40476,6 +40481,7 @@ multiffunction->multifunction
 multifuction->multifunction
 multifuncction->multifunction
 multifunctioon->multifunction
+multifunictional->multi-functional
 multifunktion->multifunction
 multifunnctionn->multifunction
 multihread->multi thread
@@ -50269,6 +50275,8 @@ realisationn->realisation
 realisatioon->realisation
 realisattion->realisation
 realisedd->realised
+realise->realize
+realises->realizes
 realisiation->realisation
 realisitic->realistic
 realislic->realistic
