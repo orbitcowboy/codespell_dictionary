@@ -6771,6 +6771,7 @@ Atmmega->Atmega
 Atmmel->Atmel
 atmomically->atomically
 atmost->almost
+at not charge->at no charge
 atomicalllly->atomically
 atomicallyy->atomically
 atomicaly->atomically
@@ -22565,6 +22566,7 @@ enaameled->enameled
 enabble->enable
 enabbles->enables
 enable enable->enable
+enablement->enabled
 enabless->enables
 enablle->enable
 enablles->enables
