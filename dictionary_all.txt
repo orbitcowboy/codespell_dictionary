@@ -6789,6 +6789,8 @@ atpha->alpha
 atphabeticatty->alphabetically
 atphanumeric->alphanumeric
 atready->already
+atribtute->attribute
+atribtutes->attributes
 atribute->attribute
 atributed->attributed
 atributes->attributes
@@ -6957,6 +6959,8 @@ attribbute->attribute
 attribbuted->attributed
 attribbutes->attributes
 attribs->attributes
+attribtute->attribute
+attribtutes->attributes
 attribuets->attributes
 attributae->attribute
 attributaed->attributed
