@@ -23217,7 +23217,9 @@ enummerated->enumerated
 enummerating->enumerating
 enumrating->enumerating
 enure->ensure
+enusred->ensured
 enusre->ensure
+enusres->ensures
 enuumerable->enumerable
 enuumerated->enumerated
 enuumerating->enumerating
@@ -48851,6 +48853,7 @@ proprocessor->preprocessor
 proprose->propose
 proprotional->proportional
 proprotions->proportions
+proprtion->proportion
 propse->propose
 propted->prompted
 propterties->properties
@@ -65230,6 +65233,7 @@ vagariess->vagaries
 vagariies->vagaries
 vagarries->vagaries
 vaggaries->vagaries
+vaglrind->valgrind
 vaguaries->vagaries
 vaieties->varieties
 vaild->valid
