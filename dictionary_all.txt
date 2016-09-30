@@ -52763,6 +52763,7 @@ resthricthion->restriction
 resthricthions->restrictions
 resthructhured->restructured
 resticted->restricted
+restiction->restriction
 restictions->restrictions
 rest off->rest of
 rest oof->rest of
