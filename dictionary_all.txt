@@ -29977,6 +29977,7 @@ hypeerlink->hyperlink
 Hypeer Threeading->Hyper Threading
 Hypeer-V->Hyper-V
 hypenation->hyphenation
+hypens->hyphens
 hyperliink->hyperlink
 hyperlinc->hyperlink
 hyperlinck->hyperlink
@@ -31185,6 +31186,8 @@ implementationss->implementations
 implementatioon->implementation
 Implementatioon->Implementation
 implementatioons->implementations
+implementaton->implementation
+implementatons->implementations
 implementedd->implemented
 implementerr->implementer
 implementerrs->implementers
@@ -33753,7 +33756,9 @@ intepretator->interpretor
 intepreted->interpreted
 intepreter->interpreter
 intepreters->interpreters
+intepretes->interprets
 intepreting->interpreting
+inteprets->interprets
 interaactive->interactive
 interacctive->interactive
 interace->interface
@@ -58925,6 +58930,7 @@ subthracthion->subtraction
 subthracths->subtracts
 subthracth->subtract
 subtile->subtle
+subtituting->substituting
 subtlae->subtle
 subtlee->subtle
 subtlle->subtle
@@ -63963,6 +63969,7 @@ unforgiveable->unforgivable
 unforgivvable->unforgivable
 unforguettable->unforgettable
 unforlunalely->unfortunately
+unformted->unformatted
 unforreseen->unforeseen
 unforrgettable->unforgettable
 unforrgivable->unforgivable
