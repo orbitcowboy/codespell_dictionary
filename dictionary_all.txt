@@ -7465,6 +7465,7 @@ a viiew->a view
 avilable->available
 aviod->avoid
 aviods->avoids
+avionk->avionik
 avitar->avatar
 avitars->avatars
 a vngeance->a vengeance
@@ -7473,6 +7474,7 @@ avoidds->avoids
 avoidss->avoids
 avoiid->avoid
 avoiids->avoids
+avoinik->avionik
 avooid->avoid
 avooids->avoids
 avraged->averaged
@@ -11338,6 +11340,9 @@ challaengae->challenge
 challaengaed->challenged
 challaenging->challenging
 challanage->challenge
+challanaged->challenged
+challanages->challenges
+challanaging->challenging
 challange->challenge
 challanged->challenged
 challeengee->challenge
@@ -33745,7 +33750,9 @@ inteorperate->interoperate
 inteorp->interop
 intepretation->interpretation
 intepretator->interpretor
+intepreted->interpreted
 intepreter->interpreter
+intepreters->interpreters
 intepreting->interpreting
 interaactive->interactive
 interacctive->interactive
@@ -34371,6 +34378,7 @@ investtigatte->investigate
 investtigatting->investigating
 invetsigate->investigate
 invetsigating->investigating
+invidual->individual
 invntor->inventor
 invocaation->invocation
 invocaetion->invocation
@@ -38689,13 +38697,16 @@ mentiioned->mentioned
 mentiioniing->mentioning
 menting->meting
 mentiond->mentioned
+mentiond->mentions
 mentionedd->mentioned
 mentionend->mentioned
+mentiones->mentions
 mentioningg->mentioning
 mentionned->mentioned
 mentionning->mentioning
 mentiooned->mentioned
 mentiooning->mentioning
+mentoin->mention
 menttally->mentally
 menttioned->mentioned
 menttioning->mentioning
@@ -41062,6 +41073,9 @@ Nazaretth->Nazareth
 Nazarreth->Nazareth
 Nazereth->Nazareth
 Nazzareth->Nazareth
+ncluded->included
+nclude->include
+ncludes->includes
 Neaanderthaal->Neanderthal
 neaar->near
 neaat->neat
@@ -43379,6 +43393,7 @@ optiimiized->optimized
 optiimiiziing->optimizing
 optiional->optional
 optiions->options
+optimalisation->optimisation
 optimazation->optimization
 optimazations->optimizations
 optimissm->optimism
@@ -51682,7 +51697,9 @@ releaase->release
 releaases->releases
 releaese->release
 releaeses->releases
+releassed->released
 releasse->release
+releasses->releases
 releassess->releases
 releated->related
 releationships->relationships
@@ -60652,6 +60669,7 @@ temporaarily->temporarily
 temporaary->temporary
 temporaerily->temporarily
 temporaery->temporary
+temporafy->temporary
 temporaly->temporarily
 temporarely->temporarily
 temporariily->temporarily
