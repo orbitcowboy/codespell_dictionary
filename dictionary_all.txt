@@ -3379,6 +3379,7 @@ ahtenian->athenian
 ahtenians->athenians
 ahve->have
 aicraft->aircraft
+aide->aid
 aiirborne->airborne
 aiircraft->aircraft
 aiirport->airport
@@ -13312,6 +13313,7 @@ compileers->compilers
 compilerr->compiler
 compilerrs->compilers
 compilerss->compilers
+compilet->compiled
 compiliance->compliance
 compiliant->compliant
 compilingg->compiling
@@ -19480,9 +19482,13 @@ diagrammmmatic->diagrammatic
 diagramms->diagrams
 diagramnatic->diagrammatic
 diagramss->diagrams
+diagran->diagram
 diagranmatic->diagrammatic
 diagranm->diagram
 diagrannatic->diagrammatic
+diagrann->diagram
+diagranns->diagrams
+diagrans->diagrams
 diagrms->diagrams
 diagrram->diagram
 diagrrammatic->diagrammatic
@@ -25808,7 +25814,9 @@ fierrcely->fiercely
 fietd->field
 fietd name->field name
 fietds->fields
+fiffh->fifth
 fifhts->fifths
+fiflh->fifth
 fiflhs->fifths
 fifndhs->fifths
 fifthhs->fifths
@@ -26017,6 +26025,7 @@ fitenames->filenames
 fites->files
 fitesystem->filesystem
 fite time->file time
+fitfh->fifth
 fixaed bug->fixed bug
 fixaed->fixed
 fixaed point arithmaetic->fixed point arithmetic
@@ -26557,6 +26566,7 @@ formost->foremost
 formtat->format
 formulaa->formula
 formulla->formula
+formum->forum
 formuta->formula
 formuula->formula
 fornating->formating
@@ -33844,6 +33854,7 @@ intered->interred, interned
 intered->interred, interned,
 interegnum->interregnum
 interelated->interrelated
+interesetd->interested
 interesing->interesting
 interesited->interested
 interesiting->interesting
@@ -64067,6 +64078,7 @@ uninitializeed->uninitialized
 uninitializzed->uninitialized
 uninitiallized->uninitialized
 uninitiatized->uninitialized
+uninitizlized->uninitialized
 uninittialized->uninitialized
 uninlerrupled->uninterrupted
 uninsitalled->uninstalled
@@ -67502,6 +67514,8 @@ wrritten->written
 wrrongly->wrongly
 wrrote->wrote
 wtih->with
+wunderfull->wonderful
+wunderful->wonderful
 wupport->support
 wwaiting->waiting
 wwait->wait
