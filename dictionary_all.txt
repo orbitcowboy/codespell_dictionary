@@ -5618,6 +5618,8 @@ architechture->architecture
 architechtures->architectures
 architecst->architects
 architectcture->architecture
+architectre->architecture
+architectres->architectures
 architectss->architects
 architectual->architectural
 architecturall->architectural
@@ -18118,6 +18120,7 @@ deeviations->deviations
 deevicee->device
 defaault->default
 defaeult->default
+defailt->default
 defaul->default
 defaull->default
 defaullt->default
@@ -26926,6 +26929,7 @@ frustaating->frustating
 frustaeting->frustating
 frustatiing->frustating
 frustating->frustating
+frustating->frustrating
 frustatingg->frustating
 frustatinng->frustating
 frusthathing->frustating
@@ -51254,6 +51258,7 @@ refaectoring->refactoring
 refaktoring->refactoring
 refect->reflect
 refedendum->referendum
+refelctive->reflective
 refence->reference
 referal->referral
 referance->reference
