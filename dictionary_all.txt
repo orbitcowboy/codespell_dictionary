@@ -19972,6 +19972,7 @@ direclly->directly
 direclory->directory
 direclory exisls->directory exists
 direcly->directly
+direcotry->directory
 directhly->directly
 directhory->directory
 directhory exisths->directory exists
@@ -32085,6 +32086,7 @@ independentty->independently
 independnece->independence
 indepenent->independent
 INDEPENENT->INDEPENDENT
+indepentent->independent
 indeppendence->independence
 indeppendent->independent
 indeppendently->independently
@@ -54866,6 +54868,7 @@ separration->separation
 separratism->separatism
 separratist->separatist
 separratorr->separator
+separted->separated
 sepcial->special
 sepcifically->specifically
 sepearetd->separated
@@ -64122,6 +64125,7 @@ uninterrrrupted->uninterrupted
 uninterruped->uninterrupted
 uninterruppted->uninterrupted
 uninterruptedd->uninterrupted
+uninterruptible->non interruptible
 uninterupted->uninterrupted
 unintetional->unintentional
 unintherrupthed->uninterrupted
