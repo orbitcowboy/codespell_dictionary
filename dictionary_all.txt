@@ -64125,8 +64125,8 @@ uninterrrrupted->uninterrupted
 uninterruped->uninterrupted
 uninterruppted->uninterrupted
 uninterruptedd->uninterrupted
-uninterruptible->non interruptible
 uninterupted->uninterrupted
+uninteruptible->uninterruptible
 unintetional->unintentional
 unintherrupthed->uninterrupted
 unintialized->uninitialized
