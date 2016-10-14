@@ -47968,6 +47968,8 @@ principly->principally
 principte->principle
 princiqle->principle
 princple->principle
+pring->print
+prings->prints
 prinicipal->principal
 prinkipal->principal
 prinkiple->principle
