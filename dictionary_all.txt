@@ -13348,6 +13348,7 @@ complaetion->completion
 complaiins->complains
 complainns->complains
 complainss->complains
+complay->comply
 compleemeent neess->complement ness
 compleeteed thee->completed the
 compleeteely->completely
@@ -13387,6 +13388,7 @@ completted tthe->completed the
 complettely->completely
 complettes->completes
 complettion->completion
+compley->comply
 compliaance->compliance
 compliaant->compliant
 compliaence->compliance
@@ -17693,6 +17695,7 @@ deaclivaled->deactivated
 deacthivathed->deactivated
 deactiivated->deactivated
 deactiveated->deactivated
+deactived->deactivated
 deactivvated->deactivated
 deacttivatted->deactivated
 deaectivaeted->deactivated
@@ -24691,6 +24694,7 @@ experriments->experiments
 expesive->expensive
 expession->expression
 expessions->expressions
+expeted->expected
 expet->expel
 expets->expels
 expext->expect
@@ -35768,6 +35772,8 @@ kustomers->customers
 kustomization->customization
 kustomize->customize
 kwno->know
+kwnow->know
+kwnows->knows
 kyan->cyan
 kygwin->cygwin
 kykle->cycle
@@ -51575,6 +51581,9 @@ reinforked->reinforced
 reinfroced->reinforced
 reinilializalion->reinitialization
 reinilialize->reinitialize
+reinitailized->reinitialized
+reinitailize->reinitialize
+reinitailizes->reinitializes
 reinitalization->reinitialization
 reinitalize->reinitialize
 reinithializathion->reinitialization
@@ -54766,6 +54775,7 @@ sennsitive->sensitive
 sennsor->sensor
 senntennce->sentence
 senor->sensor
+senors->sensors
 sensiitiiveness->sensitiveness
 sensiitiive->sensitive
 sensiliveness->sensitiveness
@@ -61600,6 +61610,8 @@ ticensed->licensed
 ticense->license
 ticenses->licenses
 tickening->thickening
+tickiets->tickets
+tickiet->ticket
 tideouse->tedious
 tief->thief
 tiem->item
