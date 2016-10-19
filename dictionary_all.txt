@@ -8148,6 +8148,7 @@ beginnerr->beginner
 beginnerrs->beginners
 beginnerss->beginners
 beginnig->beginning
+beginniners->beginners
 beginningss->beginnings
 beginnnner->beginner
 beginnnners->beginners
@@ -8560,6 +8561,7 @@ bitfileds->bitfields
 bithfield->bitfield
 bithfields->bitfields
 bitinguatism->bilingualism
+bitorientated->bit orientated
 bittfield->bitfield
 bittfields->bitfields
 bizaarre->bizarre
@@ -9607,6 +9609,7 @@ calch->catch
 calcluations->calculations
 calclulation->calculation
 calcualate->calculate
+calcualated->calculated
 calcualating->calculating
 calcualtion->calculation
 calcualtions->calculations
@@ -40563,6 +40566,7 @@ multile->multiple
 multilinae->multiline
 multilinee->multiline
 multilinne->multiline
+multilne->multiline
 multilpe->multiple
 multiplae inclusions->multiple inclusions
 multiplae->multiple
@@ -52126,6 +52130,7 @@ replaacement->replacement
 replaace->replace
 replaccement->replacement
 replacce->replace
+replaceing->replacing
 replacemenl->replacement
 replacemennt->replacement
 replacementh->replacement
