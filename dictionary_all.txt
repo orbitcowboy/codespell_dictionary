@@ -4728,6 +4728,7 @@ an pother->another
 ansalisation->nasalisation
 ansalisation->nasalization
 ansalization->nasalization
+an send->and send
 anser->answer
 ansestors->ancestors
 an so->and so
@@ -13615,6 +13616,7 @@ concattenatte->concatenate
 concattenatted->concatenated
 concattenattes->concatenates
 concattenattion->concatenation
+concatting->concatenating
 concearned->concerned
 concecptional->conceptual
 conceeiteed->conceited
@@ -36969,6 +36971,8 @@ llow byte->low byte
 llying->lying
 lmits->limits
 loacted->located
+loaction->location
+loactions->locations
 loadly->loudly
 lo allocale->to allocate
 lobacco->tobacco
@@ -52716,6 +52720,7 @@ respponses->responses
 respponsibilities->responsibilities
 respponsibility->responsibility
 respponsible->responsible
+respresentation->representation
 ressearch->research
 ressemblance->resemblance
 ressembled->resembled
@@ -63962,6 +63967,7 @@ unfforeseen->unforeseen
 unfforgettable->unforgettable
 unfforgivable->unforgivable
 unffortunately->unfortunately
+unfinised->unfinished
 unflaagged->unflagged
 unflaegged->unflagged
 unflaged->unflagged
