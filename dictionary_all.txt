@@ -11951,6 +11951,7 @@ claimms->claims
 claimss->claims
 clas->class
 clas->class, disabled because of name clash in c++
+clases->classes
 clasical->classical
 clasically->classically
 clasic->classic
@@ -31788,6 +31789,7 @@ inconclussive->inconclusive
 inconcluusive->inconclusive
 inconconclusive->inconclusive
 inconctusive->inconclusive
+inconlusive->inconclusive
 inconsisitencies->inconsistencies
 inconsisitency->inconsistency
 inconsisitent->inconsistent
@@ -34615,6 +34617,7 @@ isallpha->isalpha
 isalphha->isalpha
 isalppha->isalpha
 isatpha->isalpha
+is calles->is called
 is ccheccked for->is checked for
 is ccheccked that->is checked that
 is cconfigured->is configured
