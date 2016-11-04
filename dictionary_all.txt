@@ -13358,6 +13358,7 @@ compleeteed thee->completed the
 compleeteely->completely
 compleetees->completes
 compleetion->completion
+compleid->complied
 compleled lhe->completed the
 complelely->completely
 compleles->completes
@@ -20702,6 +20703,7 @@ distingishes->distinguishes
 distingishing->distinguishing
 distingiush->distinguish
 distingquished->distinguished
+distinguised->distinguished
 distinguishaed->distinguished
 distinguishaes->distinguishes
 distinguisheed->distinguished
@@ -31225,6 +31227,7 @@ implementher->implementer
 implementhers->implementers
 implementh->implement
 implementhing->implementing
+implementierung->implementation
 implementingg->implementing
 implemention->implementation
 implementor->implementer
@@ -31776,6 +31779,7 @@ incomptable->incompatible
 incomptete->incomplete
 incomptetent->incompetent
 inconcllusive->inconclusive
+inconcluse->inconclusive
 inconclusivae->inconclusive
 inconclusivee->inconclusive
 inconclusiv->inconclusive
@@ -32356,6 +32360,7 @@ inexxistent->inexistent
 infaallibility->infallibility
 infaallible->infallible
 infaantrymaan->infantryman
+infact->in fact
 infaectious->infectious
 infaellibility->infallibility
 infaellible->infallible
@@ -37291,6 +37296,7 @@ lttle->little
 luesday->tuesday
 lukid->likud
 lulorial->tutorial
+luminace->luminance
 lunnel->tunnel
 lurnkey->turnkey
 lveo->love
@@ -47814,6 +47820,7 @@ presidentiall->presidential
 presidentiat->presidential
 presidenttial->presidential
 presiidentiial->presidential
+presing->pressing
 presist->persist
 presitgious->prestigious
 presitigious->prestigious
@@ -50289,6 +50296,7 @@ readabillity->readability
 readabilty->readability
 readabitity->readability
 readablity->readability
+readble->readable
 readdability->readability
 Readdme->Readme
 readdmission->readmission
@@ -52721,6 +52729,7 @@ respponsibilities->responsibilities
 respponsibility->responsibility
 respponsible->responsible
 respresentation->representation
+resrve->reserve
 ressearch->research
 ressemblance->resemblance
 ressembled->resembled
@@ -58056,6 +58065,7 @@ stingent->stringent
 sting->string
 stip->slip
 stiring->stirring
+stirng->string
 stirringg->stirring
 stirrinng->stirring
 stirrrring->stirring
@@ -59827,6 +59837,7 @@ suspicicous->suspicious
 suspicionn->suspicion
 suspicioon->suspicion
 suspicioous->suspicious
+suspicous->suspicious
 suspiction->suspicion
 suspiiciion->suspicion
 suspiiciious->suspicious
@@ -66386,6 +66397,8 @@ waitting->waiting
 waitt->wait
 walchdog limer->watchdog timer
 walchdog->watchdog
+wandering->wondering
+wandring->wondering
 wanled->wanted
 wanl lo->want to
 wanls->wants
