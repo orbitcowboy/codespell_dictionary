@@ -4946,6 +4946,7 @@ aplication->application
 aplications->applications
 aplied->applied
 aplies->applies
+apllies->applies
 aply->apply
 apolegetics->apologetics
 apollogetics->apologetics
@@ -13957,6 +13958,7 @@ confirrmed by->confirmed by
 confirrmed->confirmed
 confitions->conditions
 confiugre->configure
+conflcting->conflicting
 conflusion->conclusion
 confomities->conformities
 confomity->conformity
@@ -19587,6 +19589,7 @@ diferent->different
 diferential->differential
 diferentiate->differentiate
 diferentiations->differentiations
+diferently->differently
 difering->differing
 diferrent->different
 diferrential->differential
@@ -27754,6 +27757,7 @@ glueing->gluing
 gluiing->gluing
 gluinng->gluing
 gluuing->gluing
+glyphes->glyphs
 gnaawed->gnawed
 gnaewed->gnawed
 gnawaed->gnawed
@@ -29709,6 +29713,7 @@ hopig->hoping
 hopiing->hoping
 hopingg->hoping
 hopinng->hoping
+hoppefully->hopefully
 horifying->horrifying
 horiizontal->horizontal
 horiizontally->horizontally
@@ -29845,6 +29850,7 @@ htink->think
 htird->third
 htis is->this is
 htis->this
+htlm->html
 htoroughly->thoroughly
 htorough->thorough
 htose->those
@@ -38509,6 +38515,7 @@ measuurable->measurable
 measuured->measured
 measuure->measure
 measuurement->measurement
+meber->member
 mecchaniccs->mechanics
 mecchanism->mechanism
 mechaanics->mechanics
@@ -44485,6 +44492,7 @@ parenthessiss->parenthesis
 parenthheses->parentheses
 parenthhesis->parenthesis
 parenth->parent
+parenthses->parentheses
 parenths->parents
 parentss->parents
 parenttheses->parentheses
@@ -44999,6 +45007,7 @@ peoptes->peoples
 peotry->poetry
 pepetuated->perpetuated
 perade->parade
+peraphs->perhaps
 percceived->perceived
 percceive->perceive
 perccentage->percentage
@@ -61545,6 +61554,7 @@ thresholld->threshold
 threshoold->threshold
 threshotd->threshold
 thresshold->threshold
+thres->theres
 thre->three
 thrid->third
 thried->tried
