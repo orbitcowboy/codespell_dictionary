@@ -54277,6 +54277,8 @@ sccripts->scripts
 sccroll->scroll
 sccrutiny->scrutiny
 scculptures->sculptures
+scecthes->sketches
+scecth->sketch
 sceenarios->scenarios
 scenaarios->scenarios
 scenaerios->scenarios
@@ -54285,6 +54287,8 @@ scenarioos->scenarios
 scenarrios->scenarios
 scenearios->scenarios
 scennarios->scenarios
+scetches->sketches
+scetch->sketch
 schaedulae->schedule
 scheddule->schedule
 schedual->schedule
