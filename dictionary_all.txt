@@ -12109,6 +12109,7 @@ cluuttered->cluttered
 cmo->com
 cmo->com, disabled due to lots of false positives
 cmoputer->computer
+cmplete->complete
 cna->can
 cnife->knife
 cnitializing->initializing
@@ -13417,6 +13418,7 @@ compliers->compilers
 compliiance->compliance
 compliiant->compliant
 complilation->compilation
+complile->compile
 complinace->compliance
 complinance->compliance
 complirs->compilers
@@ -37716,6 +37718,7 @@ mainntainninng->maintaining
 mainntainn->maintain
 mainntainns->maintains
 mainntennannce->maintenance
+maintable->maintainable
 maintaenancae->maintenance
 maintainabbility->maintainability
 maintainabilityy->maintainability
@@ -60734,6 +60737,7 @@ templaate->template
 templaetes->templates
 templaete->template
 templatess->templates
+templatised->templated
 templlates->templates
 templlate->template
 templte->template
