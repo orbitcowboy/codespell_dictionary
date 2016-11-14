@@ -4948,6 +4948,7 @@ aplied->applied
 aplies->applies
 apllies->applies
 aply->apply
+apocalytic->apocalyptic
 apolegetics->apologetics
 apollogetics->apologetics
 apollogies->apologies
@@ -17707,6 +17708,7 @@ deacthivathed->deactivated
 deactiivated->deactivated
 deactiveated->deactivated
 deactived->deactivated
+deactive->deactivate
 deactivvated->deactivated
 deacttivatted->deactivated
 deaectivaeted->deactivated
@@ -24317,6 +24319,7 @@ execule->execute
 execules->executes
 execuling->executing
 execulion->execution
+execure->execute
 executaable->executable
 executabble->executable
 executablle->executable
@@ -30882,6 +30885,7 @@ imaginery->imaginary, imagery,
 imagin->imagine
 imaginnary->imaginary
 imaginne->imagine
+imagne->imagine
 imaguery->imagery
 im am->i am
 imanent->eminent
@@ -37651,6 +37655,7 @@ maggnitude->magnitude
 maggnolia->magnolia
 magiccian->magician
 magicc->magic
+magic effect->magical effect
 magiciann->magician
 magiiciian->magician
 magiic->magic
@@ -61467,6 +61472,7 @@ thougght->thought
 thoughout->throughout
 thought->though
 thougth->thought
+thougt->thought
 thousaands->thousands
 thousaand->thousand
 thousaends->thousands
