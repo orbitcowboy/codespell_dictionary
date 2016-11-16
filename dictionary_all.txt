@@ -51763,6 +51763,7 @@ relattionship->relationship
 relattionships->relationships
 relattions->relations
 relattively->relatively
+relavant->relevant
 releaase->release
 releaases->releases
 releaese->release
