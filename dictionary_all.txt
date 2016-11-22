@@ -14585,6 +14585,7 @@ consistts of->consists of
 consitant->constant
 consitantly->constantly
 consitants->constants
+consit->consist
 consitency->consistency
 consitent->consistent
 consiternation->consternation
@@ -18592,6 +18593,7 @@ departtmentts->departments
 depcreated->deprecated
 depdendencies->dependencies
 depdendency->dependency
+depedant->dependent
 depencies->dependencies
 dependance->dependence
 dependancies->dependencies
@@ -27804,6 +27806,7 @@ gonig->going
 gooddesses->goddesses
 gooddess->goddess
 Goodunoov->Godunov
+gooies->goodies
 gooing->going
 Goothenburg->Gothenburg
 Goottlieb->Gottlieb
@@ -32034,6 +32037,7 @@ inddustrial->industrial
 inddustry->industry
 indecation->indication
 indeces->indexes
+indeces->indices
 inded->indeed
 in deed->indeed
 indeeeed->indeed
@@ -42420,6 +42424,7 @@ objject->object
 objjects->objects
 obsaessaed->obsessed
 obsaession->obsession
+obscurial->obscure
 obseesseed->obsessed
 obseession->obsession
 obselete->obsolete
@@ -49011,6 +49016,7 @@ protoganist->protagonist
 protokoll->protocol
 protokol->protocol
 prototpye->prototype
+prototpy->prototype
 prototypaed->prototyped
 prototypae->prototype
 prototypaes->prototypes
@@ -50933,6 +50939,8 @@ redistributaable->redistributable
 redistributablle->redistributable
 redistributabte->redistributable
 redistributaeble->redistributable
+redistributeable->redistributable
+redistributeables->redistributables
 redistribuutable->redistributable
 redisttributtable->redistributable
 reditsributable->redistributable
@@ -67491,6 +67499,7 @@ wouuld have->would have
 wouuld not->would not
 wouuldn't->wouldn't
 wouuld->would
+wo->who
 wraapping->wrapping
 wraepping->wrapping
 wraestlaers->wrestlers
