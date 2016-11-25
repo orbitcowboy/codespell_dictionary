@@ -26872,6 +26872,7 @@ froeseeable->foreseeable
 froetelling->foretelling
 froewrod->foreword
 frofeit->forfeit
+fro->for
 froge->forge
 fromal->formal
 fromalized->formalized
@@ -33515,6 +33516,8 @@ instrruments->instruments
 instrucction->instruction
 instrucctions->instructions
 instrucion->instruction
+instruciton->instruction
+instrucitons->instructions
 instructioon->instruction
 instructioons->instructions
 instruktion->instruction
@@ -64009,6 +64012,7 @@ undoubtely->undoubtedly
 undoubthedly->undoubtedly
 undoubttedly->undoubtedly
 undreground->underground
+undubbable->undoubtable
 uneccesary->unnecessary
 unecessarily->unnecessarily
 unecessary->unnecessary
