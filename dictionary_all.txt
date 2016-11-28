@@ -17255,6 +17255,7 @@ dangliing->dangling
 danglling->dangling
 dangting->dangling
 dannglinng->dangling
+dara->data
 Dardanaellaes->Dardanelles
 Dardaneellees->Dardanelles
 Dardaneles->Dardanelles
@@ -19051,6 +19052,7 @@ destinaation->destination
 destinaations->destinations
 destinaetion->destination
 destinaetions->destinations
+destinated->destinate
 destinatioon->destination
 destinatioons->destinations
 destinnationn->destination
@@ -20695,6 +20697,7 @@ disthributhed->distributed
 disthributhion->distribution
 disthributhions->distributions
 disthricths->districts
+distibution->distribution
 distiction->distinction
 distincction->distinction
 distincctive->distinctive
@@ -21382,6 +21385,7 @@ duble->double
 dublicates->duplicates
 duel->dual
 dum->dumb
+dummi->dummy
 dupicate->duplicate
 dupicates->duplicates
 duplicaate->duplicate
