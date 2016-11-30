@@ -1207,6 +1207,8 @@ accountts->accounts
 accour->occur
 accoustic->acoustic
 accousticc->acoustic
+accoutn->account
+accoutns->accounts
 accouunt->account
 accouunts->accounts
 accpet->accept
