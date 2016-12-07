@@ -4861,6 +4861,7 @@ anyother->any other
 any otherr->any other
 any othher->any other
 any otther->any other
+anysis->analysis
 anythhing->anything
 anythign->anything
 anythiing->anything
@@ -47430,6 +47431,7 @@ praktitioner->practitioner
 praktitioners->practitioners
 prarie->prairie
 praries->prairies
+pratical->practical
 praticaly->practically
 pratice->practice
 prcessing->processing
@@ -48926,6 +48928,7 @@ propotions->proportions
 propperly->properly
 propper->proper
 propreitery->proprietary
+propreity->proprietary
 proprely->properly
 propriaetary->proprietary
 propriaety->propriety

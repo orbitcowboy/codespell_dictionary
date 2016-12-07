@@ -8,6 +8,7 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
+unabgedeckt->nicht abgedeckt
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
