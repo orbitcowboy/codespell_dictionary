@@ -15364,6 +15364,7 @@ conventionaal->conventional
 conventionael->conventional
 conventionall->conventional
 conventionat->conventional
+conventionnal->conventional
 conventtional->conventional
 converion->conversion
 converison->conversion
@@ -40556,6 +40557,7 @@ multichaar->multichar
 multichaer->multichar
 multicharr->multichar
 multichhar->multichar
+multi-classing->multiclassing
 multicultralism->multiculturalism
 multiculturaalism->multiculturalism
 multiculturaelism->multiculturalism
@@ -56463,6 +56465,7 @@ somone->someone
 somthing->something
 somtimes->sometimes
 somwhere->somewhere
+somwhow->somehow
 sonething->something
 soocialism->socialism
 soocieties->societies
@@ -58116,6 +58119,7 @@ stillll->still
 stil->still
 stilus->stylus
 stingent->stringent
+stings->strings
 sting->string
 stip->slip
 stiring->stirring
@@ -58341,6 +58345,7 @@ striktest->strictest
 striktly->strictly
 stringaent->stringent
 stringeent->stringent
+stringend->stringent
 stringgent->stringent
 stringg pattern->string pattern
 stringgs->strings
@@ -65877,6 +65882,7 @@ verthices->vertices
 verticaal->vertical
 verticael->vertical
 vertical align->vertically align
+verticale->vertical
 verticall->vertical
 verticaly->vertically
 verticat->vertical
