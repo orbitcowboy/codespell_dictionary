@@ -7458,6 +7458,7 @@ averagedd->averaged
 averageed->averaged
 averagged->averaged
 averagued->averaged
+avere->averse
 averraged->averaged
 a viaew->a view
 avialable->available
@@ -13167,6 +13168,8 @@ comparisson->comparison
 comparissonss->comparisons
 comparitive->comparative
 comparitively->comparatively
+comparizon->comparison
+comparizons->comparisons
 comparrable->comparable
 comparrative->comparative
 comparratively->comparatively
@@ -13884,6 +13887,7 @@ confidenttially->confidentially
 confidess->confides
 confids->confides
 confiermed->confirmed
+configerable->configurable
 configgurable->configurable
 configguration->configuration
 configgure->configure
@@ -24924,6 +24928,8 @@ exressed->expressed
 extaant->extant
 extaent->extant
 extannt->extant
+extarnal->external
+extarnals->externals
 extemely->extremely
 extendability->expandability
 extendable->expendable
@@ -28789,6 +28795,7 @@ harassss->harass
 harassssing->harassing
 harassssment->harassment
 harassssmentss->harassments
+hardare->hardware
 harddware->hardware
 hardwarae->hardware
 hardwaree->hardware
@@ -37684,6 +37691,7 @@ magizine->magazine
 magnager->manager
 magnifficent->magnificent
 magnificaent->magnificent
+magnificant->magnificent
 magnificcent->magnificent
 magnificeent->magnificent
 magnificenl->magnificent
@@ -37723,6 +37731,7 @@ maiintaiins->maintains
 maiintenance->maintenance
 mailny->mainly
 mainain->maintain
+mainfraime->mainframe
 mainlainabilily->maintainability
 mainlained->maintained
 mainlaining->maintaining
@@ -42605,6 +42614,8 @@ occluusion->occlusion
 occopy->occupy
 occording->according
 occourence->occurrence
+occourences->occurrences
+occourencess->occurrences
 occour->occur
 occtahedral->octahedral
 occtahedra->octahedra
@@ -48245,6 +48256,7 @@ proceding->proceeding, preceding,
 procedings->proceedings
 proced->proceed
 proceds->proceeds
+procedured->performed
 proceduress->procedures
 proceduure->procedure
 proceduures->procedures
@@ -59179,6 +59191,7 @@ succesive->successive
 succesor->successor
 successffully->successfully
 successfful->successful
+successflully->successfully
 successfulllly->successfully
 successfull->successful
 successfullyy->successfully
@@ -60387,6 +60400,7 @@ syyrup->syrup
 syystematicallyy->systematically
 syystems->systems
 syystem->system
+szenario->scenario
 taable->table
 taakes->takes
 taake->take
