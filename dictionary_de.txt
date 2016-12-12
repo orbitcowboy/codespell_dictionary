@@ -8,7 +8,6 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-unabgedeckt->nicht abgedeckt
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -369,6 +368,7 @@ totlangweilig->todlangweilig
 totschick->todschick
 Übergangskriteren->Übergangskriterien
 Umbgebung->Umbgebung
+unabgedeckt->nicht abgedeckt
 unentgeldlich->unentgeltlich
 unverholen->unverhohlen
 unzufireden->unzufrieden

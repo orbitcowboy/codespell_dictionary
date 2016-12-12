@@ -6639,6 +6639,7 @@ a tesit->a test
 a tesst->a test
 a tet->a test
 a tets->a test
+at ever->at every
 atgebraic->algebraic
 atgebras->algebras
 atgorithm->algorithm
@@ -10058,6 +10059,7 @@ caraeaers->careers
 caraeful->careful
 caraefully->carefully
 Carakas->Caracas
+carat->caret
 carcas->Caracas
 carcas->carcass
 carcas->carcass, Caracas
@@ -12867,6 +12869,7 @@ commmmunication->communication
 commmmunications->communications
 commmmunities->communities
 commmmunity->community
+commmon->common
 commnad->command
 commnads->commands
 commnt->commit
@@ -15260,9 +15263,12 @@ contrrols->controls
 contrroverrsial->controversial
 contrroverrsies->controversies
 contrroverrsy->controversy
+contruct->construct
+contructed->constructed
 contruction->construction
 contructor->constructor
 contructors->constructors
+contructs->constructs
 contsant->constant
 contsantly->constantly
 contsants->constants
@@ -16358,6 +16364,8 @@ coutd have->could have
 coutd not->could not
 coutdn't->couldn't
 couthurier->couturier
+coutner->counter
+coutners->counters
 coutturier->couturier
 couturiaer->couturier
 couturieer->couturier
@@ -18912,6 +18920,8 @@ desitination->destination
 desitinations->destinations
 desitined->destined
 desitintaion->destintaion
+desitionation->destination
+desitionations->destinations
 desitned->destined
 desitroy->destroy
 desitroyed->destroyed
@@ -32703,6 +32713,7 @@ inilializer->initializer
 inilializers->initializers
 inilializing->initializing
 inilially->initially
+in in->in
 inital->initial
 initalisation->initialization
 initalised->initialized
