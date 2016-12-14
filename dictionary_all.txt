@@ -545,6 +545,7 @@ abanddonedd->abandoned
 abanddoning->abandoning
 abanddons->abandons
 abandonaed->abandoned
+abandonded->abandoned
 abandoneed->abandoned
 abandoniing->abandoning
 abandoningg->abandoning
@@ -6586,6 +6587,7 @@ asynchroonoously->asynchronously
 asynchrronous->asynchronous
 asynchrronously->asynchronously
 asyncronous->asynchronous
+asyncronously->asynchronously
 asynkhronous->asynchronous
 asynkhronously->asynchronously
 asynmetrical->asymmetrical
@@ -8739,6 +8741,7 @@ boosttrap->bootstrap
 bootean->boolean
 boothsthrap->bootstrap
 bootsitrap->bootstrap
+bootsrap->bootstrap
 bootsstrap->bootstrap
 bootstraap->bootstrap
 bootstraep->bootstrap
@@ -9763,12 +9766,15 @@ calllligraphy->calligraphy
 calllling->calling
 calllls->calls
 callss->calls
+calng->clang
 cals->calls
 caluclate->calculate
 caluclated->calculated
 caluclates->calculates
 caluculate->calculate
 caluculated->calculated
+caluculation->calculation
+caluculations->calculations
 calulate->calculate
 calulated->calculated
 calulater->calculator
@@ -12304,6 +12310,7 @@ collaeterael->collateral
 collaguaes->colleagues
 collaleral->collateral
 collander->colander
+collaobrative->collaborative
 collataeral->collateral
 collateeral->collateral
 collaterral->collateral
@@ -12701,6 +12708,8 @@ commemroates->commemorates
 commemroating->commemorating
 commemroation->commemoration
 commemroative->commemorative
+commend->comment, command,
+commends->comments, commands,
 commenl->comment
 commenled->commented
 commenls->comments
@@ -13417,6 +13426,7 @@ complianl->compliant
 compliannce->compliance
 compliannt->compliant
 complians->complains
+complianse->compliance
 complianth->compliant
 compliantt->compliant
 compliation->compilation
@@ -13827,6 +13837,7 @@ conected->connected
 Conecticut->Connecticut
 conectional->conceptual
 conection->connection
+conections->connections
 conectix->connectix
 conecutively->consecutively
 conencted->connected
@@ -16252,6 +16263,7 @@ coulld not->could not
 coulldn't->couldn't
 coulnd't->could not
 coulnd't->couldn't
+coult->could
 coulurier->couturier
 councellor->councillor
 councellor->councillor, counselor, councilor
@@ -16785,6 +16797,8 @@ ctearty->clearly
 cthrl->ctrl
 Cthrl-F->Ctrl-F
 ctient->client
+ctificate->certificate
+ctificates->certificates
 ctinicat->clinical
 ctinicatty->clinically
 ctipboard->clipboard
@@ -24346,6 +24360,7 @@ execulion->execution
 execure->execute
 executaable->executable
 executabble->executable
+executablble->executable
 executablle->executable
 executabte->executable
 executaeble->executable
@@ -27885,6 +27900,7 @@ goveernment->government
 goveernor->governor
 govement->government
 govenment->government
+govenor->governor
 govenrment->government
 goverance->governance
 govermental->governmental
@@ -28917,6 +28933,7 @@ hazardouss->hazardous
 hazardouus->hazardous
 hazarrdous->hazardous
 hazzardous->hazardous
+hazzle->hassle
 heaader->header
 heaadquaartered->headquartered
 heaadquaarter->headquarter
@@ -29735,6 +29752,8 @@ hoomoogenized->homogenized
 hoomoogenize->homogenize
 hoonoorary->honorary
 hoonoour->honour
+hoook->hook
+hoooks->hooks
 hoorizoontal->horizontal
 hoorizoontally->horizontally
 hoorrifying->horrifying
@@ -30045,6 +30064,8 @@ hypeerlink->hyperlink
 Hypeer Threeading->Hyper Threading
 Hypeer-V->Hyper-V
 hypenation->hyphenation
+hypened->hyphened
+hypen->hyphen
 hypens->hyphens
 hyperliink->hyperlink
 hyperlinc->hyperlink
@@ -33267,6 +33288,7 @@ insaertaed->inserted
 insalled->installed
 insall->install
 insance->instance
+inscpeting->inspecting
 insecctivorous->insectivorous
 inseclivorous->insectivorous
 insecthivorous->insectivorous
@@ -33698,6 +33720,7 @@ intance->instance
 intantion->instantiation
 inteade->instead
 intead->instead
+inted->inetd, intend,
 inteegeer->integer
 inteegeers->integers
 inteegral->integral
@@ -33916,6 +33939,7 @@ interconvrtible->interconvertible
 interconvvertible->interconvertible
 intercoontinental->intercontinental
 intercoonvertible->interconvertible
+interdediate->intermediate
 intered->interned
 intered->interred
 intered->interred, interned
@@ -39483,6 +39507,7 @@ mirored->mirrored
 mirorred->mirrored
 Mirranda->Miranda
 mirrcrrocontrrollerr->mircrocontroller
+mirro->mirror
 mirroored->mirrored
 mirroraed->mirrored
 mirroredd->mirrored
@@ -40512,6 +40537,8 @@ mulithread->multi thread
 mulithread->multi-thread
 mulithread->multi-thread, multi thread,
 mulitline->multiline
+mulitmeter->multimeter
+mulit->multi
 mulitple->multiple
 mulitplexer->multiplexer
 mulitplicator->multiplicator
@@ -41291,6 +41318,7 @@ neeighbour->neighbour
 neeighbours->neighbours
 neeitheer->neither
 neeolithic->neolithic
+nees->needs
 neesteed->nested
 neesting->nesting
 neet->neat
@@ -41499,6 +41527,7 @@ networck->network
 networc->network
 networkk->network
 networrk->network
+netwplit->netsplit
 netwrok->network
 netwwork->network
 neue->new
@@ -43528,6 +43557,8 @@ optionat->optional
 optionnal->optional
 optionns->options
 optionss->options
+optio->option
+optios->options
 optization->optimization
 optmizations->optimizations
 optmizing->optimizing
@@ -44309,6 +44340,7 @@ paire->pair
 pairr->pair
 paitience->patience
 pakage->package
+pakages->packages
 pakkage->package
 palacae->palace
 palacce->palace
@@ -45269,6 +45301,8 @@ permmissible->permissible
 permmission->permission
 permmissions->permissions
 perogative->prerogative
+peroides->periods
+peroid->period
 peronal->personal
 perosnality->personality
 perpenddicular->perpendicular
@@ -52247,6 +52281,7 @@ repoositoory->repository
 reporducibility->reproducibility
 reporducible->reproducible
 reporducibly->reproducibly
+reporitory->repository
 reporledly->reportedly
 reporling->reporting
 reporl->report
@@ -62451,6 +62486,7 @@ trancode->transcode
 tranfer->transfer
 tranformed->transformed
 tranform->transform
+tranlations->translations
 tranlation->translation
 tranmitter->transmitter
 tranmit->transmit
@@ -65602,6 +65638,7 @@ vearious->various
 vearying->varying
 veassals->vassals
 veassal->vassal
+vebrose->verbose
 vecctorization->vectorization
 vecctors->vectors
 vecctor->vector
@@ -67819,6 +67856,7 @@ xenophobiae->xenophobia
 xenophobiia->xenophobia
 xenophoby->xenophobia
 xenopphobia->xenophobia
+xour->your
 xxenophobia->xenophobia
 yaachting->yachting
 yaacht->yacht
