@@ -5985,7 +5985,7 @@ arttillery->artillery
 arugments ->arguments
 arugments->arguments
 arund->around
-arv Studio->avr Studio
+arv studio->avr studio
 ARV Studio->AVR Studio
 as as->as
 asasin->assassin
@@ -9904,6 +9904,7 @@ cann be performed->can be performed
 canncellationn->cancellation
 canndidate->candidate
 canndidates->candidates
+cannical->canonical
 Cannical->Canonical
 cannister->canister
 cannisters->canisters
@@ -10053,6 +10054,7 @@ capturred->captured
 Captuure->Capture
 captuured->captured
 capured->captured
+caputure->capture
 Caputure->Capture
 Caracass->Caracas
 Caraccas->Caracas
@@ -12159,6 +12161,7 @@ cocoaa->cocoa
 Cocoaa->Cocoa
 cocoae->cocoa
 Cocoae->Cocoa
+cococa->cocoa
 cococa->Cocoa
 coctail->cocktail
 codae and->code and
@@ -15910,6 +15913,7 @@ coppyable->copyable
 coppying->copying
 coppyright->copyright
 Coppyright->Copyright
+copright->copyright
 Copright->Copyright
 coputer->computer
 copyaable->copyable
@@ -16444,6 +16448,7 @@ coverted->converted, covered, coveted
 coverted->converted, covered, coveted,
 coverted->covered
 coverted->coveted
+coverty->coverity
 Coverty->Coverity
 covetedd->coveted
 covethed->coveted
@@ -16806,7 +16811,7 @@ ctock->clock
 ctock speed->clock speed
 ctock speeds->clock speeds
 ctoud->cloud
-ctr-F->ctrl-F
+ctr-f->ctrl-f
 Ctr-F->Ctrl-F
 ctrll->ctrl
 Ctrll-F->Ctrl-F
@@ -21249,6 +21254,7 @@ doxywwizard->doxywizard
 doxyygen->doxygen
 Doxyygen->Doxygen
 doxyywizard->doxywizard
+doygen->doxygen
 doygen->Doxygen
 dpcument->document
 draag aand drop->drag and drop
@@ -21409,6 +21415,7 @@ dryinng->drying
 dryyas->dryas
 dryying->drying
 dstination->destination
+dtandards->standards
 Dtandards->standards
 duaal->dual
 duael->dual
@@ -24345,6 +24352,7 @@ execellent->excellent
 exeception->exception
 execeptions->exceptions
 execising->exercising
+execl->excel
 Execl->Excel
 exection->execution
 exectuable->executable
@@ -25822,12 +25830,14 @@ fianite->finite
 fianlly->finally
 Fibbonacci->Fibonacci
 Fibonaacci->Fibonacci
+fibonaaci->fibonacci
 Fibonaaci->Fibonacci
 Fibonacccci->Fibonacci
 Fibonaci->Fibonacci
 Fibonaecci->Fibonacci
 Fibonakki->Fibonacci
 Fibonnacci->Fibonacci
+fibonocci->fibonacci
 Fibonocci->Fibonacci
 Fiboonacci->Fibonacci
 ficctitious->fictitious
@@ -26214,6 +26224,7 @@ FlexeLintt->FlexeLint
 flexibble->flexible
 flexibile->flexible
 flexiible->flexible
+flexlint->flexelint
 FlexLint->FlexeLint
 FlexxeLint->FlexeLint
 flexxible->flexible
@@ -27026,6 +27037,7 @@ fuhtark->futhark
 fuhtorc->futhorc
 Fujiitsu->Fujitsu
 Fujilsu->Fujitsu
+fujistu->fujitsu
 fujistu->Fujitsu
 Fujistu->Fujitsu
 Fujithsu->Fujitsu
@@ -27585,6 +27597,7 @@ gerat->great
 gererates->generates
 Germaan->German
 Germaen->German
+germal->german
 germal->German
 Germann->German
 Germman->German
@@ -27722,6 +27735,7 @@ gisth->gist
 gistt->gist
 GithHub->GitHub
 GitHubb->GitHub
+githut->github
 GitHut->GitHub
 GitHuub->GitHub
 GittHub->GitHub
@@ -28076,7 +28090,6 @@ graphviiz->graphviz
 Graphviiz->Graphviz
 GraphViiz->GraphViz
 graphvis->graphviz
-graphvis->graphViz
 GraphVis->GraphViz
 graphvizz->graphviz
 Graphvizz->Graphviz
@@ -28187,6 +28200,7 @@ ground speeeed->ground speed
 ground sppeed->ground speed
 ground sspeed->ground speed
 grounnd speed->ground speed
+groupid->group id
 GroupID->Group ID
 groupiing->grouping
 groupinng->grouping
@@ -33377,6 +33391,7 @@ insitrumentations->instrumentations
 insitrument->instrument
 insitruments->instruments
 insitsence->insistence
+insitute->institute
 Insitute->Institute
 insitution->institution
 insitutions->institutions
@@ -34866,6 +34881,7 @@ I thhink->I think
 I thiink->I think
 I thinc->I think
 I thinck->I think
+i thing->i think
 I thing->I think
 I thinkk->I think
 I thinnk->I think
@@ -37128,6 +37144,7 @@ logiccal->logical
 logiical->logical
 logikal->logical
 loging->logging
+logitude->longitude
 Logitude->Longitude
 lohtringen->lothringen
 lokal->local
@@ -37189,6 +37206,7 @@ longitudeial->longitudinal
 longitudinaal->longitudinal
 longitudinael->longitudinal
 longitudonal->longitudinal
+longitued->longitude
 Longitued->Longitude
 Longituude->Longitude
 longituudinal->longitudinal
@@ -37196,6 +37214,7 @@ longuer->longer
 longuest->longest
 longue->tongue
 lonighl->tonight
+lonitude->longitude
 Lonitude->Longitude
 lonley->lonely
 LONLONG->LONGLONG
@@ -37705,6 +37724,7 @@ Magdalenna->Magdalena
 Magdallena->Magdalena
 Magdatena->Magdalena
 Magddalena->Magdalena
+magdelena->magdalena
 Magdelena->Magdalena
 maggazine->magazine
 Maggdalena->Magdalena
@@ -41185,6 +41205,7 @@ Nauthical->Nautical
 Nauticall->Nautical
 Nauticat->Nautical
 Nauticcal->Nautical
+nautic->nautical
 Nautic->Nautical
 Nautiical->Nautical
 Nautikal->Nautical
@@ -44643,7 +44664,7 @@ parrtitions->partitions
 Parrtitions->Partitions
 parrtly->partly
 parrty->party
-partations->Partitions
+partations->partitions
 Partations->Partitions
 partciular->particular
 partent->parent
@@ -46763,6 +46784,7 @@ Postdam->Potsdam
 PostggreSQL->PostgreSQL
 PostgraeSQL->PostgreSQL
 PostgreeSQL->PostgreSQL
+postgres->postgresql
 Postgres->PostgreSQL
 PostgrreSQL->PostgreSQL
 PosthgreSQL->PostgreSQL
@@ -49834,6 +49856,7 @@ queestion->question
 queestions->questions
 queeuee->queue
 Quensland->Queensland
+querty->quwerty
 QUERTY->quwerty
 quesionts->questions
 quesitionable->questionable
@@ -51033,6 +51056,7 @@ redundanccy->redundancy
 Redundancy Checck->Redundancy Check
 Redundancy Checc->Redundancy Check
 Redundancy Checkk->Redundancy Check
+redundancycheck->redundancy check
 RedundancyCheck->Redundancy Check
 Redundancy Chek->Redundancy Check
 Redundancy Chheck->Redundancy Check
@@ -54461,6 +54485,7 @@ scinece->science
 Scinlilla->Scintilla
 Scinntilla->Scintilla
 Scinthilla->Scintilla
+scintiall->scintilla
 Scintiall->Scintilla
 Scintila->Scintilla
 Scintillaa->Scintilla
@@ -54746,6 +54771,7 @@ seeveerity->severity
 sef->safe
 sef->self
 sef->self, safe,
+segate->seagate
 Segate->Seagate
 segemantion->segmentation
 segementation->segmentation
@@ -65168,6 +65194,7 @@ user acount->user account
 useracount->user account
 user aeccount->user account
 user akkount->user account
+userid->user id
 UserID->User ID
 userr account->user account
 Userr ID->User ID
@@ -65817,6 +65844,7 @@ Verbathim->Verbatim
 Verbatiim->Verbatim
 Verbatimm->Verbatim
 Verbattim->Verbatim
+verbatum->verbatim
 Verbatum->Verbatim
 Verbbatim->Verbatim
 verbbiage->verbiage
@@ -67840,6 +67868,7 @@ wxWidgetts->wxWidgets
 wxWidggets->wxWidgets
 wxWidguets->wxWidgets
 wxWiidgets->wxWidgets
+wx wingets->wxwidgets
 wx wingets->wxWidgets
 wxxMaxxima->wxMaxima
 wxxWidgets->wxWidgets
