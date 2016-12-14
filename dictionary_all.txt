@@ -21146,6 +21146,7 @@ dosen't->doesn't
 dosen\"t->doesn\"t
 dosent'->doesn't
 dosnt->does not
+dosn't->doesn't
 doubble clicking->double clicking
 doubble-clicking->double-clicking
 doubble->double
@@ -34233,6 +34234,7 @@ inthuithions->intuitions
 inthuithive->intuitive
 inthuithively->intuitively
 intial->initial
+intialise->initialise
 intialization->initialization
 intialized->initialized
 intialize->initialize
@@ -51471,6 +51473,8 @@ reffresh->refresh
 reffrigeration->refrigeration
 reffrigerator->refrigerator
 reffusal->refusal
+refinment->refinement
+refinments->refinements
 reflecction->reflection
 reflecct->reflect
 refleclion->reflection
