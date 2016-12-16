@@ -4547,6 +4547,9 @@ annolalions->annotations
 annomalies->anomalies
 annomalous->anomalous
 annomaly->anomaly
+annonate->annotate
+annonated->annotated
+annonates->annotates
 annonnymity->anonymity
 annonnymous->anonymous
 annootate->annotate
@@ -5071,6 +5074,7 @@ apperances->appearances
 apper->appear
 appereance->appearance
 appereances->appearances
+apperently->apparently
 appiance->appliance
 appiances->appliances
 appication->application
@@ -19677,6 +19681,7 @@ diffikult->difficult
 diffikulties->difficulties
 diffikulty->difficulty
 diffrence->difference
+diffrences->differences
 diffrent->different
 dificul->difficult
 dificult->difficult
@@ -24671,6 +24676,7 @@ explaination->explanation
 explainedd->explained
 explaine->explain
 explaines->explains
+explaing->explaining
 explainingg->explaining
 explainned->explained
 explainn->explain
@@ -27404,6 +27410,8 @@ generattes->generates
 generatting->generating
 generattion->generation
 generatty->generally
+genereted->generated
+generetes->generates
 generilized->generalized
 generralized->generalized
 generrally->generally
@@ -32337,6 +32345,7 @@ inffrastructures->infrastructures
 inffringement->infringement
 in ffront->in front
 in ffuture->in future
+infiite->infinite
 infilitrated->infiltrated
 infilitrate->infiltrate
 infilitration->infiltration
@@ -34358,17 +34367,15 @@ ipaddraess->ipaddress
 ip-addreess->ip-address
 ipaddreess->ipaddress
 ip-addres->ip-address
-ipaddres->ip-address
-ip-addres->ip-address
 ipaddres->ipaddress
+ipaddres->ip-address
 ip-addressss->ip-address
 ipaddressss->ipaddress
 ip-addrress->ip-address
 ipaddrress->ipaddress
 ip-adress->ip-address
-ipadress->ip-address
-ip-adress->ip-address
 ipadress->ipaddress
+ipadress->ip-address
 iraascible->irascible
 iraescible->irascible
 irasccible->irascible
@@ -59415,6 +59422,8 @@ suppressionn->suppression
 suppressioons->suppressions
 suppressioon->suppression
 suppres->suppress
+supprions->suppressions
+supprion->suppression
 supproted->supported
 supproting->supporting
 supprots->supports
@@ -67407,6 +67416,7 @@ wrriting->writing
 wrritten->written
 wrrongly->wrongly
 wrrote->wrote
+wth->with
 wtih->with
 wunderfull->wonderful
 wunderful->wonderful
