@@ -9067,6 +9067,7 @@ broughtt->brought
 brougth->brought
 brouught->brought
 brower->browser
+browers->browsers
 browsae->browse
 browsaer->browser
 browsee->browse
@@ -65883,6 +65884,7 @@ viruuses->viruses
 visability->visibility
 visable->visible
 visably->visibly
+visbilty->visibility
 visibble->visible
 visibbly->visibly
 visibile->visible
@@ -66401,6 +66403,7 @@ watchhdog timer->watchdog timer
 watchhdog->watchdog
 watchodg->watchdog
 watchog->watchdog
+waterdection->waterdetection
 wathchdog thimer->watchdog timer
 wathchdog->watchdog
 wating->waiting
