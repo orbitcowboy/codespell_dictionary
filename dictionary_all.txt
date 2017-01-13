@@ -38858,6 +38858,7 @@ methhod->method
 methhodology->methodology
 methhods->methods
 methids->methodes
+methids->methods
 mething->meting
 methodd ddefines how->method defines how
 method deffines how->method defines how
@@ -39900,6 +39901,7 @@ modelet->modeled
 modeling->modelling
 modelliing->modelling
 modellingg->modelling
+modelling->modeling
 modellinng->modelling
 modelllled->modelled
 modelllling->modelling
@@ -42780,7 +42782,6 @@ omlette->omelette
 ommelette->omelette
 ommision->omission
 ommission->omission
-ommited->omited
 ommited->omitted
 ommiting->omitting
 ommit->omit
@@ -44627,6 +44628,7 @@ path to tets->path to test
 patiaencae->patience
 paticular->particular
 patieencee->patience
+patiell->partial
 patiell->partiell
 patiencce->patience
 patienke->patience
@@ -46277,6 +46279,7 @@ porperthy->porperty
 porperties->properties
 porpertty->porperty
 porperty->porperty
+porperty->property
 porpertyy->porperty
 porphecy->prophecy
 porportional->proportional
@@ -52034,6 +52037,7 @@ replicaable->replicable
 replicabble->replicable
 replicaeble->replicable
 replicateable->replicable
+replicateable->replicate
 repliccable->replicable
 repliess->replies
 repliicable->replicable
@@ -52375,6 +52379,7 @@ reseting->resetting
 resetled->resetted
 resetling->resetting
 resettedd->resetted
+resettet->reseted
 resettet->resetted
 resettiing->resetting
 resettingg->resetting
@@ -56653,6 +56658,7 @@ specctrum->spectrum
 specffiffic->specfific
 specfic->specific
 specfific->specfific
+specfific->specific
 specfifier->specifier
 specfifiers->specifiers
 specfiifiic->specfific
@@ -64055,7 +64061,7 @@ unintialized->uninitialized
 unintsalled->uninstalled
 unintsantiated->uninstantiated
 unintterruptted->uninterrupted
-unintuitivelely->unintuitively
+unintuitivelely->intuitively
 unip->unique
 uniqe->unique
 uniqquely->uniquely
@@ -65712,6 +65718,7 @@ verticcal->vertical
 verticces->vertices
 verticess->vertices
 verticies->vertices
+verticies->vertices's
 verticle->vertical
 vertiical->vertical
 vertiices->vertices
