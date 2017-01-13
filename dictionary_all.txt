@@ -1720,7 +1720,10 @@ adddress->address
 added added->added
 addeed->added
 addequate->adequate
+addes->address
+addeses->addresses
 addess->address
+addesses->addresses
 addherence->adherence
 addhering->adhering
 addiing->adding
@@ -1837,6 +1840,9 @@ adequathe->adequate
 adequatte->adequate
 adequit->adequate
 adequuate->adequate
+adeses->addresses
+adess->address
+adesses->addresses
 adhaeraencae->adherence
 adhaering->adhering
 adhearing->adhering
@@ -7660,6 +7666,7 @@ baeutiful->beautiful
 baeutifull->beautiful
 baeutifuly->beautifully
 baeyond->beyond
+bahvior->behavior
 bahviour->behaviour
 baically->basically
 bak->back
@@ -11350,6 +11357,7 @@ champagnee->champagne
 champagnne->champagne
 champange->champagne
 champpagne->champagne
+chanages->changes
 chanel->channel
 changable->changeable
 changaeablae->changeable
@@ -13069,6 +13077,7 @@ compaetitivae->competitive
 compaetitivaenaess->competitiveness
 compaetitors->competitors
 compair->compare
+compairing->comparing
 compairs->compares
 compalibililies->compatibilities
 compalibilily->compatibility
@@ -17276,6 +17285,7 @@ datatype->data type
 data typee->data type
 data typpe->data type
 data tyype->data type
+dat->data
 dathabase->database
 datha->data
 datha file->data file
@@ -18596,6 +18606,7 @@ deppendence->dependence
 deppendencies->dependencies
 deppendency->dependency
 deppendent->dependent
+deppends->depends
 deppict->depict
 depprecated->deprecated
 depprecating->deprecating
@@ -36148,6 +36159,8 @@ leveitate->levitate
 leveitates->levitates
 leveitating->levitating
 levele->level
+leve->level
+leves->levels
 levetated->levitated
 levetate->levitate
 levetates->levitates
@@ -66274,6 +66287,7 @@ walchdog limer->watchdog timer
 walchdog->watchdog
 wandering->wondering
 wandring->wondering
+wand->warned
 wanled->wanted
 wanl lo->want to
 wanls->wants
@@ -66284,6 +66298,8 @@ wannted->wanted
 wannts->wants
 wannt to->want to
 wannt->want
+wanrs->warns
+wanr->warn
 wanst->wants
 wantaed->wanted
 wantedd->wanted
