@@ -7994,6 +7994,7 @@ becames->becomes
 becames->becomes, became
 becames->becomes, became,
 becamme->became
+becase->because
 becasue->because
 becaue->because
 becaus->because
@@ -9146,6 +9147,7 @@ buffeer->buffer
 bufferr->buffer
 buffffer->buffer
 bugg->bug
+buid->build
 buiild->build
 buiildiing->building
 buiilt by->built by
@@ -17950,6 +17952,8 @@ decryt->decrypt
 decrytion->decryption
 decryypt->decrypt
 decryypted->decrypted
+decstiption->description
+decstiptions->descriptions
 dectaration->declaration
 dectarations->declarations
 dectared->declared
@@ -18575,6 +18579,7 @@ depcreated->deprecated
 depdendencies->dependencies
 depdendency->dependency
 depedant->dependent
+depedency->dependency
 depencies->dependencies
 dependance->dependence
 dependancies->dependencies
@@ -20067,6 +20072,7 @@ disagrement->disagreement
 disagrreed->disagreed
 disagrreement->disagreement
 disapearance->disappearance
+disapeard->disappeared
 disapear->disappear
 disapeared->disappeared
 disapearing->disappearing
@@ -20739,6 +20745,7 @@ districcts->districts
 districst->districts
 distrikts->districts
 distritution->distribution
+distrobution->distribution
 distrributed->distributed
 distrribution->distribution
 distrributions->distributions
@@ -21365,6 +21372,7 @@ dum->dumb
 dummi->dummy
 dupicate->duplicate
 dupicates->duplicates
+dupliate->duplicate
 duplicaate->duplicate
 duplicaates->duplicates
 duplicaete->duplicate
@@ -24228,6 +24236,7 @@ exciitiing->exciting
 exciled->excited
 exciling->exciting
 excisted->existed
+excisting->existing
 excitedd->excited
 excithed->excited
 excithing->exciting
@@ -28646,6 +28655,7 @@ hanndlinng->handling
 hannged->hanged
 hanngover->hangover
 hanngs->hangs
+hanshake->handshake
 hapend->happend
 hapends->happens
 hapened->happened
@@ -29512,6 +29522,7 @@ hislocompalibilily->histocompatibility
 hislorians->historians
 hislory->history
 hismelf->himself
+hisory->history
 hisstocompatibility->histocompatibility
 hisstorianss->historians
 hisstory->history
@@ -37211,6 +37222,7 @@ lrying->trying
 lry->try
 lsat->last
 lsit->list
+lsits->lists
 lttle->little
 luesday->tuesday
 lukid->likud
@@ -38659,6 +38671,7 @@ mentionned->mentioned
 mentionning->mentioning
 mentiooned->mentioned
 mentiooning->mentioning
+ment->meant
 mentoin->mention
 menttally->mentally
 menttioned->mentioned
@@ -44519,6 +44532,7 @@ partikipants->participants
 partikularly->particularly
 partikular->particular
 partioning->partitioning
+partion->partition
 partipants->participants
 partitioningg->partitioning
 partitionninng->partitioning
@@ -50563,6 +50577,7 @@ recippients->recipients
 recived->received
 reciver->receiver
 recivership->receivership
+recod->record
 recoggnise->recognise
 recoggnition->recognition
 recoggnized->recognized
@@ -57871,6 +57886,7 @@ stayyed->stayed
 stdudio->studio
 steereeotypees->stereotypes
 steeroids->steroids
+stength->strength
 steorids->steroids
 stereootypes->stereotypes
 stereotyppes->stereotypes
@@ -63759,6 +63775,7 @@ undefinablle->undefinable
 undefinabte->undefinable
 undefinaeble->undefinable
 undefinined->undefined
+undefuned->undefined
 undekidable->undecidable
 undeleclable->undetectable
 undelecled->undetected
@@ -63889,6 +63906,7 @@ uneeded->unneeded
 uneedet->unneeded
 unenforcable->unenforceable
 unequalities->inequalities
+uner->under
 unfflagged->unflagged
 unfforeseen->unforeseen
 unfforgettable->unforgettable
@@ -66749,6 +66767,7 @@ whiness->whines
 whinges->whines
 whinnes->whines
 whio->who
+whiped->wiped
 whitaelist->whitelist
 whitaespacae->whitespace
 whitae->white
