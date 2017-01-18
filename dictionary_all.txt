@@ -5991,6 +5991,7 @@ asasinations->assassinations
 asasins->assassins
 asault->assault
 asaulted->assaulted
+asbtraction->abstraction
 ascaending->ascending
 ascaension->ascension
 ascaetic->ascetic
@@ -6307,6 +6308,8 @@ assiist->assist
 assiming->assuming
 a ssimple->a simple
 assing->assign
+assingment->assignment
+assingments->assignments
 assisitance->assistance
 assisitant->assistant
 assisit->assist
@@ -9235,6 +9238,7 @@ buryinng->burying
 buryying->burying
 busaes->buses
 busees->buses
+busess->buses
 busiiness->business
 busiinesses->businesses
 busiinessman->businessman
@@ -9960,6 +9964,7 @@ capablae->capable
 capablee->capable
 capablle->capable
 capabte->capable
+capacitve->capacitive
 capae town->cape town
 capbilites->capabilities
 capee town->cape town
@@ -12149,6 +12154,7 @@ codesspell->codespell
 codiing->coding
 codingg->coding
 codinng->coding
+coditional->conditional
 coditioned->conditioned
 coeefficieent->coefficient
 coeefficieents->coefficients
@@ -15018,6 +15024,8 @@ contens->contents
 contenst->contents
 contentes->contents
 contentss->contents
+conter->counter
+conters->counters
 conthacth->contact
 conthainer->container
 conthainers->containers
@@ -25525,6 +25533,7 @@ feedbakk->feedback
 feedbback->feedback
 feeddback->feedback
 feedeerally->federally
+feedthrough->feed through
 feeeedback->feedback
 feeeel->feel
 feeeel freeee->feel free
@@ -25959,6 +25968,7 @@ finnish->finish
 finnite->finite
 finomaton->information
 finsihed->finished
+fird->third
 firends->friends
 firmmware->firmware
 firmwaare->firmware
@@ -36424,6 +36434,7 @@ lightly->slightly
 lightting->lighting
 lightt year->light year
 lightt years->light years
+lightweigh->lightweight
 light yaear->light year
 light yaears->light years
 light yaer->light year
@@ -38417,6 +38428,7 @@ measuurable->measurable
 measuured->measured
 measuure->measure
 measuurement->measurement
+meatadata->metadata
 meber->member
 mecchaniccs->mechanics
 mecchanism->mechanism
@@ -48721,6 +48733,7 @@ propaggation->propagation
 propeerly->properly
 propeer->proper
 propeertiees->properties
+propely->properly
 properies->properties
 properlies->properties
 properlly->properly
@@ -52792,6 +52805,8 @@ resulst->results
 resulths->results
 resultion->resolution
 resultts->results
+resulution->resolution
+resulutions->resolutions
 resurected->resurrected
 resurecting->resurrecting
 resurection->resurrection
@@ -53077,6 +53092,7 @@ revoluttionary->revolutionary
 revoluutionary->revolutionary
 revoolutioonary->revolutionary
 revotutionary->revolutionary
+revrese->reverse
 revrsal->reversal
 revrsible->reversible
 revrt->revert
@@ -54885,6 +54901,7 @@ seriouslly->seriously
 seriouslyy->seriously
 seriousty->seriously
 seriouusly->seriously
+seriuos->serious
 serivce->service
 serperated->separated
 serrgeant->sergeant
@@ -62307,6 +62324,7 @@ transacction->transaction
 transactiion->transaction
 transactioon->transaction
 transaktion->transaction
+transalte->translate
 transation->transaction
 transcaeivaers->transceivers
 transcaeivaer->transceiver
