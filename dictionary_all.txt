@@ -7743,6 +7743,7 @@ basiclly->basically
 basicly->basically
 basiically->basically
 basikally->basically
+basix->basic
 basline->baseline
 bassed on->based on
 basseline->baseline
@@ -13112,6 +13113,7 @@ comparathor->comparator
 comparathors->comparators
 comparatiive->comparative
 comparatiively->comparatively
+comparatir->comparator
 comparativae->comparative
 comparativaely->comparatively
 comparativ->comparative
@@ -34118,6 +34120,7 @@ intiialize->initialize
 intining->inlining
 intitial->initial
 intitialization->initialization
+intitialized->initialized
 intoduced->introduced
 in to->into
 intoo->into
