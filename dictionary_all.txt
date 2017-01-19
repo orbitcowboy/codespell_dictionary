@@ -18690,6 +18690,7 @@ derference->dereference
 deriivatiive->derivative
 deriivatiives->derivatives
 deriived->derived
+derirved->derived
 derivaative->derivative
 derivaatives->derivatives
 derivaetive->derivative
@@ -23554,6 +23555,7 @@ eruptedd->erupted
 erupthed->erupted
 eruptted->erupted
 eruupted->erupted
+ervery->every
 esablished->established
 escaape->escape
 escaepe->escape
@@ -34238,6 +34240,7 @@ intterred->interred
 intterregnum->interregnum
 intterrelatted->interrelated
 intterrupt->interrupt
+intterrupts->interrupts
 intterruptt->interrupt
 intterruptts->interrupts
 intterruptt vecttor->interrupt vector
@@ -52975,7 +52978,9 @@ retrive->retrieve
 retriving->retrieving
 re-trow->re-throw
 retrow->re-throw
+retruned->returned
 retrun->return
+retruns->returns
 retsarted->restarted
 retsaurant->restaurant
 retsaurants->restaurants
@@ -63422,6 +63427,7 @@ ullimalely->ultimately
 ulltimatelly->ultimately
 ulthimathely->ultimately
 ultiimately->ultimately
+ultility->utility
 ultimaately->ultimately
 ultimaetely->ultimately
 ultimataely->ultimately
