@@ -18277,6 +18277,7 @@ definnitely->definitely
 definnitionn->definition
 definnitionns->definitions
 defintion->definition
+defintiones->definitions
 defintions->definitions
 defintition->definition
 defnese->defense
@@ -38732,6 +38733,7 @@ merrchandise->merchandise
 merrcurrial->mercurial
 merre->mere
 mesage->message
+mesages->messages
 mesaging->messaging
 mesaure->measure
 mesenger->messenger
@@ -46461,6 +46463,7 @@ positivaes->positives
 positivee->positive
 positivees->positives
 positivese->positives
+positiveses->positive
 positiv->positive
 positivs->positives
 positivve->positive
