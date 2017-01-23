@@ -5028,6 +5028,7 @@ apparenttly->apparently
 apparentty->apparently
 apparrent->apparent
 apparrently->apparently
+appars->appears
 appart->apart
 appartment->apartment
 appartments->apartments
@@ -12928,6 +12929,7 @@ commuication->communication
 commuications->communications
 commuinications->communications
 communcation->communication
+communcations->communications
 communciation->communication
 communciations->communications
 communiation->communication
@@ -20974,6 +20976,7 @@ doenlt->does not
 doe not->does not
 doens->does
 doen't->doesn't
+does does->does
 doesn'l->doesn't
 does nnot->does not
 doesn not->does not
@@ -32724,6 +32727,8 @@ initiallizing->initializing
 initialllly->initially
 initiallyy->initially
 initialy->initially
+initialzation->initialization
+initialzations->initializations
 initialzed->initialized
 initiataed->initiated
 initiatedd->initiated
@@ -36236,6 +36241,7 @@ levvitates->levitates
 levvitating->levitating
 lexl box->text box
 leyer->layer
+lgoical->logical
 lhal's->that's
 lhal->that
 lhanks->thanks
@@ -47660,6 +47666,7 @@ preparatroy->preparatory
 preparattion->preparation
 preparattions->preparations
 preparattory->preparatory
+prepard->prepared
 prepartion->preparation
 prepatory->preparatory
 prepedning->prepending
@@ -54929,6 +54936,7 @@ seriousty->seriously
 seriouusly->seriously
 seriuos->serious
 serivce->service
+serivces->services
 serperated->separated
 serrgeant->sergeant
 serrialization->serialization
@@ -56816,6 +56824,7 @@ speciifiiers->specifiers
 speciifyiing->specifying
 speciify->specify
 speciimen->specimen
+speciiy->specify
 speciman->specimen
 specimenn->specimen
 specimmen->specimen
