@@ -11915,6 +11915,7 @@ claass->class
 claassicaal->classical
 claassicaally->classically
 claassic->classic
+claculate->calculate
 claeanaed->cleaned
 claeanup->cleanup
 claearaer->clearer
@@ -16931,6 +16932,7 @@ custtomers->customers
 custtomizattion->customization
 custtomize->customize
 cutminating->culminating
+cutom->custom
 cutomer->customer
 cutomers->customers
 cutsom->custom
@@ -19749,6 +19751,7 @@ digraphss->digraphs
 digrapphs->digraphs
 digrpahs->digraphs
 digrraphs->digraphs
+digtal->digital
 digts->digits
 diiaboliical->diabolical
 diiagnostiic->diagnostic
@@ -26780,6 +26783,7 @@ freedd->freed
 freeed->freed
 freeeed->freed
 freeeeing->freeing
+freee->free
 freeiing->freeing
 free'ing->freeing
 freeingg->freeing
@@ -44555,6 +44559,7 @@ partitionss->partitions
 partitiooning->partitioning
 partitioons->partitions
 partititions->partitions
+partiton->partition
 partlly->partly
 partlyy->partly
 parttially->partially
@@ -58872,6 +58877,8 @@ substitutingg->substituting
 substitutinng->substituting
 substitutionn->substitution
 substitutioon->substitution
+substiutions->substitutions
+substiution->substitution
 substracted->subtracted
 substracting->subtracting
 substractions->subtractions
@@ -61656,6 +61663,8 @@ timestaemp->timestamp
 timestampps->timestamps
 timestampp->timestamp
 time stamps->timestamps
+timestans->timespans
+timestan->timespan
 timetamp->timestamp
 timetsamps->timestamps
 timetsamp->timestamp
@@ -66819,6 +66828,7 @@ whittespace->whitespace
 whitte->white
 whit->white
 whit->with
+whit->with, white,
 whlch->which
 whn->when
 wholae raeport->whole report
