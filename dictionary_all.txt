@@ -4056,6 +4056,7 @@ alwayss->always
 alwayys->always
 alwways->always
 alwyas->always
+alwys->always
 alyways->always
 amaelioratae->ameliorate
 amaendaed->amended
@@ -7589,6 +7590,8 @@ backwarrds->backwards
 backwords->backwards
 backwward->backward
 backwwards->backwards
+bacup->backup
+bacups->backups
 bae ablae->be able
 baeachhaead->beachhead
 bae appliaed->be applied
@@ -8811,6 +8814,8 @@ bouundary->boundary
 bouut->bout
 bouyancy->buoyancy
 bouyant->buoyant
+bowser->browser
+bowsers->browsers
 boyant->buoyant
 braacket->bracket
 braackets->brackets
@@ -11943,6 +11948,7 @@ clases->classes
 clasical->classical
 clasically->classically
 clasic->classic
+clasified->classified
 classicallyy->classically
 classicaly->classically
 classicatty->classically
@@ -16423,6 +16429,7 @@ covverage->coverage
 covvered->covered
 covverity->coverity
 covveted->coveted
+coypright->copyright
 coyy->coy
 cpcheck->cppcheck
 cpoy->copy
@@ -19130,6 +19137,7 @@ detaited->detailed
 detaitedness->detailedness
 detakhed->detached
 detatched->detached
+detction->detection
 detecct->detect
 deteccted->detected
 deteccts->detects
@@ -22717,6 +22725,7 @@ encryptioon->encryption
 encryptted->encrypted
 encryptt->encrypt
 encrypttion->encryption
+encrypying->encrypting
 encryt->encrypt
 encrytion->encryption
 encryypted->encrypted
@@ -36454,6 +36463,7 @@ lighling->lighting
 lighl year->light year
 lighl years->light years
 lighning->lighting
+lighning->lightning
 lighthing->lighting
 lighth year->light year
 lighth years->light years
@@ -43166,6 +43176,8 @@ operandes->operands
 operandss->operands
 operannds->operands
 operaotor->operator
+operatation->operation
+operatations->operations
 operater->operator
 operatess->operates
 operathe->operate
@@ -47803,6 +47815,7 @@ preverse->perverse
 preverse->preserve
 previiously->previously
 previious->previous
+previlege->privilege
 previoously->previously
 previoous->previous
 previosly->previously
@@ -62604,6 +62617,7 @@ transtators->translators
 transtator->translator
 transtions->transitions
 transtion->transition
+transverser->tranverser
 tranthlator->translator
 trasaction->transaction
 trascation->transaction
