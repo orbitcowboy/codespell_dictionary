@@ -9606,7 +9606,11 @@ calbibration->calibration
 calcalation->calculation
 calch->catch
 calcluations->calculations
+calclulate->calculate
+calclulated->calculated
+calclulates->calculates
 calclulation->calculation
+calclulats->calculates
 calcualate->calculate
 calcualated->calculated
 calcualating->calculating
@@ -62141,6 +62145,8 @@ towward->toward
 towwn->town
 tpoics->topics
 tpoic->topic
+tpyes->types
+tpye->type
 traaceaability->traceability
 traaceaable->traceable
 traaditionaally->traditionally
@@ -63355,6 +63361,8 @@ typpically->typically
 typpical->typical
 typpograpphical->typographical
 typpo->typo
+typs->types
+typ->type
 tyraannies->tyrannies
 tyraanny->tyranny
 tyraennies->tyrannies
@@ -66597,6 +66605,7 @@ weell->well
 wee must point->we must point
 wee'ree->we're
 wee speeak->we speak
+wehere->where
 wehn->when
 weigghed->weighed
 weigghter->weighter
