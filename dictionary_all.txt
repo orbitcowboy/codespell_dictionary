@@ -27504,6 +27504,7 @@ gennitalia->genitalia
 gennuinne->genuine
 genrally->generally
 genrate->generate
+gental->gentle
 genuiine->genuine
 genuuine->genuine
 geograaphicaal->geographical
@@ -35881,6 +35882,8 @@ laeyer->layer
 laeyout->layout
 laeziness->laziness
 lagacy->legacy
+lagend->legend
+lagends->legends
 laguage->language
 laguages->languages
 laidd->laid
