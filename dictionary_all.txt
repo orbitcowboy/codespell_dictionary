@@ -8704,6 +8704,7 @@ bondary->boundary
 bonnannnno->bonanno
 bonnano->bonanno
 booat->boat
+bood->boot
 boodybuilder->bodybuilder
 booinc->boinc
 bookeep->bookkeep
@@ -21336,6 +21337,7 @@ droopped->dropped
 droped->dropped
 droppaed->dropped
 droppeed->dropped
+droppend->dropped
 dropppped->dropped
 drrag and drrop->drag and drop
 drragging->dragging
@@ -22819,6 +22821,7 @@ enforccing->enforcing
 enforceing->enforcing
 enforciing->enforcing
 enforcingg->enforcing
+enforcmement->enforcement
 enfore->enforce
 enforke->enforce
 enforking->enforcing
@@ -23936,6 +23939,7 @@ everythign->everything
 everythiing->everything
 every thime->every time
 everythime->everytime
+everythin->everything
 everythingg->everything
 everythink->everything
 everythinng->everything
@@ -34154,6 +34158,7 @@ intorductory->introductory
 intpolator->interpolator
 intput->input
 intrduced->introduced
+intregral->integral
 intresting->interesting
 intrest->interest
 introdducedd->introduced
@@ -44042,6 +44047,7 @@ paatience->patience
 paattern->pattern
 paavilion->pavilion
 pacakge->package
+pacakges->packages
 paccage->package
 pacckage->package
 packagae->package
