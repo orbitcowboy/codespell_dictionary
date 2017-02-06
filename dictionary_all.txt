@@ -5089,6 +5089,8 @@ appication->application
 appications->applications
 appies->applies
 applaiction->application
+applcation->application
+applcations->applications
 appliaction->application
 appliaed->applied
 appliaes->applies
@@ -11919,6 +11921,7 @@ cknowledgeable->knowledgeable
 cknowledge->knowledge
 cknown->known
 cknows->knows
+claaes->classes
 claaims->claims
 claas->class
 claass->class
@@ -22808,6 +22811,7 @@ endotiths->endoliths
 enduce->induce
 eneded->ended
 ened->need
+enemurate->enumerate
 enent->event
 enents->events
 eneterd->entered
@@ -25365,6 +25369,7 @@ fahrrenheit->fahrenheit
 faiils->fails
 faiilure->failure
 faiilures->failures
+faild->failed
 failes->fails
 failiure->failure
 faills->fails
@@ -38377,6 +38382,7 @@ mattrices->matrices
 matttered->mattered
 mattttered->mattered
 matttter->matter
+maually->manually
 maxamum->maximum
 maxiimum->maximum
 maximus->maximum
@@ -38764,6 +38770,8 @@ merrcantile->mercantile
 merrchandise->merchandise
 merrcurrial->mercurial
 merre->mere
+mesagboxes->messageboxes
+mesagbox->messagebox
 mesage->message
 mesages->messages
 mesaging->messaging
@@ -38774,6 +38782,8 @@ messaage->message
 messaaging->messaging
 messaege->message
 messaeging->messaging
+messagboxes->messageboxes
+messagbox->messagebox
 messager->messenger
 messagge->message
 messaggingg->messaging
@@ -56239,6 +56249,7 @@ softwware project->software project
 softwware->software
 softwware tools->software tools
 sofware->software
+sofwares->softwares
 sohw->show
 soiil->soil
 soilders->soldiers
