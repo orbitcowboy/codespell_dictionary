@@ -18317,6 +18317,9 @@ degress->degrees
 degrrade->degrade
 degrrading->degrading
 degrrees->degrees
+deifned->defined
+deifne->define
+deifnes->defines
 deiitiies->deities
 deiity->deity
 deilies->deities
@@ -45919,6 +45922,8 @@ plug-inn->plug-in
 pluginn->plugin
 pluginns->plugins
 pluginss->plugins
+pluign->plugin
+pluigns->plugins
 pluuggable->pluggable
 pluug in->plug in
 pluug-in->plug-in
