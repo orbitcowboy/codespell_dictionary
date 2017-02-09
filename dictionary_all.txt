@@ -13423,6 +13423,8 @@ compliation->compilation
 complicance->compliance
 complie->compile
 complied->compiled
+compliement->compliment
+compliements->compliments
 complier->compiler
 compliers->compilers
 compliiance->compliance
@@ -52113,6 +52115,8 @@ repettittion->repetition
 repettittions->repetitions
 repettittive->repetitive
 repid->rapid
+repietition->repetition
+repietitions->repetitions
 repitition->repetition
 repititions->repetitions
 replaacement->replacement
