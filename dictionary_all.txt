@@ -39315,6 +39315,7 @@ minimizeed->minimized
 minimizee->minimize
 minimizzed->minimized
 minimizze->minimize
+minimun->minimum
 minimuum->minimum
 mininalistic->minimalistic
 mininize->minimize
@@ -61668,7 +61669,6 @@ tike many parts->like many parts
 tiketihood->likelihood
 tikety->likely
 tikud->likud
-tile->title
 tilling->telling
 tillt->tilt
 tilte->title
