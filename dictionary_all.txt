@@ -1237,6 +1237,7 @@ accreeditation->accreditation
 accroding->according
 accrodingly->accordingly
 accrodion->accordion
+accrording->according
 accross->across
 accrreditation->accreditation
 acctimatization->acclimatization
@@ -18362,6 +18363,8 @@ dekrement->decrement
 dekrementor->decrementor
 dekrypt->decrypt
 dekrypted->decrypted
+dekstop->desktop
+dekstops->desktops
 dektop->desktop
 delached->detached
 delagates->delegates
@@ -27069,6 +27072,7 @@ functionaality->functionality
 functionael->functional
 functionaelities->functionalities
 functionaelity->functionality
+functiona->functional
 functionalies->functionalities
 functionalitiaes->functionalities
 functionalitiees->functionalities
@@ -30106,6 +30110,7 @@ hyppocrite->hypocrite
 hyppocrites->hypocrites
 hyppothetical->hypothetical
 hypthetical->hypothetical
+hyseresis->hysteresis
 hysical->physical
 hyybrid->hybrid
 hyydrogen->hydrogen
@@ -31357,6 +31362,7 @@ impreecisee->imprecise
 impreession->impression
 imprekise->imprecise
 impresion->impression
+impresive->impressive
 impressario->impresario
 impressionn->impression
 impressioon->impression
@@ -32209,6 +32215,7 @@ indite->indict
 indiveidual->individual
 indiveidually->individually
 indiveiduals->individuals
+individiual->individual
 individuaal->individual
 individuaally->individually
 individuaals->individuals
@@ -32599,6 +32606,10 @@ ingenius->ingenious
 ingeters->integers
 inggenious->ingenious
 inggredients->ingredients
+ingnored->ignored
+ingnore->ignore
+ingnores->ignores
+ingnor->ignore
 ingraediaents->ingredients
 ingration->integration
 ingreddients->ingredients
@@ -33195,6 +33206,8 @@ inplicit->implicit
 inpolite->impolite
 in pprincipple->in principle
 inpput->input
+inpresive->impressive
+inpressive->impressive
 in princciple->in principle
 in principal->in principle
 in principlae->in principle
@@ -41195,6 +41208,7 @@ needdedd->needed
 needd->need
 needds->needs
 needeed->needed
+needls->needles
 needss->needs
 neeed->need
 neeeedeed->needed
@@ -53756,6 +53770,7 @@ runniing->running
 runningg->running
 runnning->running
 runnnninng->running
+runntime->runtime
 runnung->running
 rusian->russian
 russiaan->russian
