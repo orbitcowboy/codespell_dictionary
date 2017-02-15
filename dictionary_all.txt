@@ -20869,6 +20869,8 @@ divvisions->divisions
 diyplay->display
 dize of->size of
 dize->size
+dlb_max->dbl_max
+dlb_min->dbl_min
 doaes->does
 doaes not->does not
 doaesn't->doesn't
@@ -31247,6 +31249,7 @@ implementters->implementers
 implementt->implement
 implementting->implementing
 implemetation->implementation
+implemetations->implementations
 implemeted->implemented
 implemetnation->implementation
 implemnetations->implementations
@@ -37940,6 +37943,7 @@ maneuvverable->maneuverable
 maneuvver->maneuver
 maneuvvers->maneuvers
 mangement->management
+mangementt->management
 manger->manager
 manifaestations->manifestations
 manifeestations->manifestations
@@ -52058,6 +52062,7 @@ repartiitiion->repartition
 repartitionn->repartition
 repartitioon->repartition
 reparttittion->repartition
+repathed->repeated
 repatition->repartition
 repatition->repetition
 repatition->repetition, repartition
