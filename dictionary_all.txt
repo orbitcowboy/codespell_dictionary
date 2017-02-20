@@ -47816,6 +47816,7 @@ presitgious->prestigious
 presitigious->prestigious
 presligious->prestigious
 prespective->perspective
+pres->press
 pressedd->pressed
 presselected->preselected
 pressence->presence
@@ -48342,9 +48343,11 @@ profusiion->profusion
 profusionn->profusion
 profussion->profusion
 profuusion->profusion
+progamed->programed
 progammable->programmable
 progamm->program
 progam->program
+progams->programs
 progarm->program
 progessed->progressed
 progess->progress
@@ -49577,6 +49580,7 @@ pursuith->pursuit
 pursuiths->pursuits
 pursuitt->pursuit
 pursuitts->pursuits
+pusehd->pushed
 pushhing->pushing
 pushiing->pushing
 pushingg->pushing
