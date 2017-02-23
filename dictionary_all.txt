@@ -3670,6 +3670,7 @@ allcoholl->alcohol
 allcohollic->alcoholic
 alle->all
 al leasl->at least
+alled->allowed
 alledge->allege
 alledged->alleged
 alledgedly->allegedly
@@ -5722,6 +5723,7 @@ argumetns->arguments
 argumets->arguments
 argumment->argument
 argumments->arguments
+argumnet->argument
 argumsnt->argument
 arguuably->arguably
 arguument->argument
@@ -22384,6 +22386,8 @@ embbedding->embedding
 embbezzled->embezzled
 embblazon->emblazon
 embblematic->emblematic
+embdedded->embedded
+embdeded->embedded
 embeddddedd->embedded
 embedddding->embedding
 embeddeding->embedding
@@ -22634,6 +22638,8 @@ enameld->enameled
 enameledd->enameled
 enameted->enameled
 enammeled->enameled
+enbdedded->embedded
+enbdeded->embedded
 enble->enable
 enbles->enables
 encaapsulaation->encapsulation
@@ -54602,6 +54608,7 @@ seelf->self
 seemantical->semantical
 seemaphoree->semaphore
 seemicolon->semicolon
+seemlessly->seamlessly
 seemm->seem
 seemms->seems
 seenior->senior
@@ -57972,6 +57979,7 @@ statisticcs->statistics
 statistiks->statistics
 statments->statements
 statment->statement
+stats values->status values
 statuus->status
 staughterhouses->slaughterhouses
 stauts->status
@@ -66143,6 +66151,7 @@ volcaeno->volcano
 volcanno->volcano
 volcanoe->volcano
 volccano->volcano
+voletile->volatile
 voleyball->volleyball
 voleybal->volleyball
 volkano->volcano
