@@ -34707,6 +34707,7 @@ iss checked that->is checked that
 iss configured->is configured
 is seet->is set
 is sel->is set
+is send->is sent
 is seth->is set
 is setted->is set
 is sett->is set
@@ -66637,6 +66638,7 @@ websitte->website
 webssite->website
 webste->website
 weddnesdday->wednesday
+we decides->we decided
 wednesdaay->wednesday
 wednesdaey->wednesday
 wednesdayy->wednesday
@@ -66851,6 +66853,7 @@ whherever->wherever
 whhere->where
 whhethher->whether
 whhichh->which
+whhich->which
 whhile->while
 whhines->whines
 whhitelist->whitelist
