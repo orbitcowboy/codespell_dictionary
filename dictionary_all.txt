@@ -9169,6 +9169,7 @@ buildd->build
 buildding->building
 builded->built
 buildign->building
+build-in->built-in
 buildingg->building
 buildinng->building
 builing->building
@@ -16413,6 +16414,8 @@ covenanl->covenant
 covenanth->covenant
 covenantt->covenant
 covennannt->covenant
+covention->convention
+coventions->conventions
 coveraage->coverage
 coverae->coverage
 coveraege->coverage
@@ -34732,6 +34735,9 @@ issuee->issue
 issueing->issuing
 issuingg->issuing
 issuinng->issuing
+issused->issued
+issuse->issue
+issuses->issues
 issuue->issue
 issuuing->issuing
 ist->is
@@ -62178,6 +62184,7 @@ totkien->tolkien
 to to->to
 to tsraighten->to straighten
 tottipop->lollipop
+tot->to
 toubles->troubles
 toucch->touch
 touchh->touch
@@ -64833,6 +64840,8 @@ unsurrprrisingly->unsurprisingly
 unsurrprrising->unsurprising
 untaerminataed->unterminated
 unteerminateed->unterminated
+unteraction->interaction
+unteractions->interactions
 untermiinated->unterminated
 unterminaated->unterminated
 unterminaeted->unterminated
@@ -65451,6 +65460,8 @@ vapour->vapor
 vapr->vapor
 varables->variables
 varadic->variadic
+varaiables->variables
+varaiable->variable
 varaibles->variables
 varaible->variable
 varations->variations
