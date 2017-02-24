@@ -10022,6 +10022,7 @@ cappitalize->capitalize
 capptcha->captcha
 cappture->capture
 capptured->captured
+captable->capable
 captchha->captcha
 capthcha->captcha
 capthure->capture
@@ -36027,6 +36028,8 @@ lattestt->latest
 lattex->latex
 lattittude->latitude
 lattitude->latitude
+lauched->launched
+lauches->launches
 lauch->launch
 laughl->taught
 launcched->launched
