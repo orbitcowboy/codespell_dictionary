@@ -11344,6 +11344,8 @@ chaiirman->chairman
 chairmann->chairman
 chairmman->chairman
 chairrman->chairman
+chalange->challenge
+chalanges->challenges
 chalenge->challenge
 chalenged->challenged
 chalenging->challenging
@@ -12206,6 +12208,9 @@ coffeeee->coffee
 coffffee->coffee
 cofficients->coefficients
 cofigured->configured
+cofnigure->configure
+cofnigured->configured
+cofnigures->configures
 coform->conform
 coggnizant->cognizant
 cogniizant->cognizant
@@ -13259,6 +13264,7 @@ competant->competent
 competative->competitive
 competennce->competence
 competennt->competent
+competetive->competitive
 compethence->competence
 compethenth->competent
 compethithion->competition
@@ -14986,6 +14992,7 @@ containerr->container
 containerrs->containers
 containerss->containers
 containes->contains
+containg->containing
 containig->containing
 containingg->containing
 containss->contains
@@ -27183,6 +27190,7 @@ furthhermore->furthermore
 furthmore->furthermore
 furtther->further
 furtthermore->furthermore
+furture->future
 furuther->further
 futark->futhark
 futfits->fulfils
@@ -30354,6 +30362,7 @@ i dnt->i did not
 idte->idle
 i.ee.->i.e.
 ie.->i.e.
+iff->if
 iff one sets->if one sets
 iff you want->if you want
 if onae saets->if one sets
@@ -47297,6 +47306,7 @@ practitionner->practitioner
 practitionners->practitioners
 practitiooner->practitioner
 practitiooners->practitioners
+practive->practice
 practtically->practically
 practtical->practical
 practtice->practice
@@ -48987,6 +48997,8 @@ prothuberances->protuberances
 protiferation->proliferation
 protific->prolific
 protion->portion
+protject->project
+protjects->projects
 protocal->protocol
 protoccol->protocol
 protocl->protocol
@@ -59021,6 +59033,8 @@ subthracths->subtracts
 subthracth->subtract
 subtile->subtle
 subtituting->substituting
+subtitutions->substitutions
+subtitution->substitution
 subtlae->subtle
 subtlee->subtle
 subtlle->subtle
