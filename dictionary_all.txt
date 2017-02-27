@@ -10452,6 +10452,7 @@ caugt->caught
 cauhgt->caught
 causaed->caused
 causalities->casualties
+cause by->caused by
 causedd->caused
 causeed->caused
 cause i->because i
@@ -37001,6 +37002,7 @@ loaction->location
 loactions->locations
 loadly->loudly
 lo allocale->to allocate
+loasing->loosing
 lobacco->tobacco
 lo be developed->to be developed
 lo be->to be
@@ -65161,6 +65163,7 @@ utilitiaes->utilities
 utilitiees->utilities
 utilitiess->utilities
 utilityy->utility
+utiliy->utility
 utilizaed->utilized
 utilizedd->utilized
 utilizeed->utilized
@@ -65812,6 +65815,8 @@ verifiedd->verified
 verifikation->verification
 verifing->verifying
 verifiy->verify
+veriftying->verifying
+verifty->verify
 verifyability->verifiability
 verifyable->verifiable
 verifyed->verified
