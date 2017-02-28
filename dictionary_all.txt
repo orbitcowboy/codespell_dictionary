@@ -17997,6 +17997,7 @@ dectarations->declarations
 dectared->declared
 dectare->declare
 dectect->detect
+dectection->detection
 decypt->decrypt
 deeactivateed->deactivated
 deeal->deal
@@ -34080,6 +34081,7 @@ interrvenes->intervenes
 intersted->interested
 intersting->interesting
 intertaining->entertaining
+interupted->interrupted
 interupting->interrupting
 interupt->interrupt
 interupts->interrupts
@@ -56193,6 +56195,8 @@ snappshotted->snapshotted
 snapshhotted->snapshotted
 snapsholled->snapshotted
 snapsholted->snapshotted
+snapshoot->snapshot
+snapshoots->snapshots
 snapshootted->snapshotted
 snapshoted->snapshotted
 snapshoththed->snapshotted
@@ -63627,6 +63631,7 @@ unanimoous->unanimous
 unanimouss->unanimous
 unanymous->unanimous
 unathorised->unauthorised
+unatteched->unattached
 unauhtorised->unauthorised
 unaulhorised->unauthorised
 unauthhorised->unauthorised
