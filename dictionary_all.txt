@@ -24346,6 +24346,8 @@ exeception->exception
 execeptions->exceptions
 execising->exercising
 execl->excel
+execption->exception
+execptions->exceptions
 exection->execution
 exectuable->executable
 exectued->executed
@@ -41191,6 +41193,7 @@ necessaarily->necessarily
 necessaary->necessary
 necessaerily->necessarily
 necessaery->necessary
+necessairy->necessary
 necessariily->necessarily
 necessarilly->necessarily
 necessarilyy->necessarily
