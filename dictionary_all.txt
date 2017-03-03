@@ -5082,6 +5082,9 @@ appennines->apennines
 apperance->appearance
 apperances->appearances
 apper->appear
+apperciate->appreciate
+apperciated->appreciated
+apperciates->appreciates
 appereance->appearance
 appereances->appearances
 apperently->apparently
@@ -6813,6 +6816,7 @@ attache->attached
 attachedd->attached
 attacheed->attached
 attachement->attachment
+attachements->attachments
 attachh->attach
 attachhed->attached
 attachhment->attachment
@@ -9082,6 +9086,8 @@ broought->brought
 broowse->browse
 broowser->browser
 brose->browse
+broser->browser
+brosers->browsers
 brougght->brought
 brough->brought
 broughht->brought
@@ -13843,6 +13849,8 @@ conectional->conceptual
 conection->connection
 conections->connections
 conectix->connectix
+conector->connector
+conectors->connectors
 conecutively->consecutively
 conencted->connected
 conent->content
@@ -25624,6 +25632,7 @@ feets->feels
 felds->fields
 fel->feel
 fel fre->feel free
+feling->feeling
 fell free->feel free
 fels->feels
 femminist->feminist
@@ -54204,6 +54213,7 @@ satyyr->satyr
 saught->sought
 saveing->saving
 savely->safely
+savety->safety
 saviing->saving
 savingg->saving
 savinng->saving
