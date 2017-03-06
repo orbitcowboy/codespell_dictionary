@@ -8194,6 +8194,7 @@ behid->behind
 behiind->behind
 behindd->behind
 behinnd->behind
+behiour->behavior
 beiing->being
 beiing sent->being sent
 beingg->being
@@ -43512,8 +43513,10 @@ optimzed->optimized
 optionaal->optional
 optionael->optional
 optionall->optional
+optionaly->optionally
 optionat->optional
 optionnal->optional
+optionnaly->optionally
 optionns->options
 optionss->options
 optio->option
@@ -43521,6 +43524,8 @@ optios->options
 optization->optimization
 optmizations->optimizations
 optmizing->optimizing
+optoinnal->optional
+optoinnaly->optionally
 optomism->optimism
 optons->options
 opttimism->optimism
