@@ -54065,6 +54065,8 @@ sammba->samba
 sammery->summery
 samme->same
 sammple->sample
+sampel->sample
+sampels->samples
 samplae->sample
 samplee->sample
 samplle->sample
