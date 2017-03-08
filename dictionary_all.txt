@@ -12638,6 +12638,8 @@ commanndo->commando
 commanndos->commandos
 commannds->commands
 commansd->commands
+commant->command
+commants->commands
 commass->commas
 commata->commas
 commbinations->combinations
@@ -65513,6 +65515,7 @@ varaiable->variable
 varaibles->variables
 varaible->variable
 varations->variations
+varation->variation
 vareous->various
 variabbles->variables
 variabble->variable
