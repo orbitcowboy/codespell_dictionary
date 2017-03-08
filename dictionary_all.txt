@@ -3211,6 +3211,7 @@ afther->after
 afther receiving->after receiving
 aftter->after
 aftter receiving->after receiving
+a functions->functions
 agaiin->again
 agaiinst->against
 againn->again
@@ -7588,6 +7589,7 @@ backkgrounds->backgrounds
 backkup->backup
 backkward->backward
 backkwards->backwards
+backround->background
 backrounds->backgrounds
 backupp->backup
 backuup->backup
@@ -8193,6 +8195,7 @@ behhind->behind
 behid->behind
 behiind->behind
 behindd->behind
+behing->behind
 behinnd->behind
 behiour->behavior
 beiing->being
@@ -18426,6 +18429,7 @@ delerminislic->deterministic
 delet->delete
 delete'ing->deleting
 deleteing->deleting
+deletet->deleted
 deletete->delete
 delethed->deleted
 delethe->delete
@@ -19968,6 +19972,8 @@ dimentional->dimensional
 dimention->dimension
 dimentions->dimensions
 dimesnional->dimensional
+dimesnsion->dimension
+dimesnsions->dimensions
 diminnutive->diminutive
 diminuitive->diminutive
 diminulive->diminutive
@@ -26300,6 +26306,7 @@ focuused->focused
 focuuses->focuses
 focuus->focus
 foe->for
+fo->for
 fokused->focused
 fokuses->focuses
 fokus->focus
@@ -27123,6 +27130,8 @@ functioningg->functioning
 functionining->functioning
 functionnality->functionality
 functionss->functions
+functionst->functions
+functiont->function
 functioonal->functional
 functioonalities->functionalities
 functioonality->functionality
@@ -53182,6 +53191,7 @@ retuurning->returning
 retuurn->return
 retuurns->returns
 retuurn valuue->return value
+reuest->request
 reusaability->reusability
 reusabbility->reusability
 reusabiiliity->reusability
