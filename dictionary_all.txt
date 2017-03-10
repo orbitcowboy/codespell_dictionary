@@ -9882,6 +9882,8 @@ canditate->candidate
 canditates->candidates
 canges->changes
 can have only->can only have
+canidate->candidate
+canidates->candidates
 caniister->canister
 caniisters->canisters
 canisiter->canister
@@ -11566,6 +11568,9 @@ checcs->checks
 checcsum->checksum
 checcsumming->checksumming
 checcsums->checksums
+checed->checked
+checg->check
+checgs->checks
 checkedd->checked
 checkes->checks
 checkiing->checking
@@ -19232,6 +19237,7 @@ determinaant->determinant
 determinaent->determinant
 determinded->determined
 determin->determine
+determing->determining
 determiningg->determining
 determinining->determining
 determinisitically->deterministically
@@ -26915,6 +26921,7 @@ friennds->friends
 friiend->friend
 friiendly->friendly
 friiends->friends
+frist->first
 frobade->forbade
 frobidden->forbidden
 frobid->forbid
@@ -28228,7 +28235,9 @@ grroup->group
 grroup id->group id
 grrouping->grouping
 grrow->grow
+gruop->group
 gruoping->grouping
+gruops->groups
 grwo->grow
 gtamorous->glamorous
 gtide stope->glide slope
@@ -30988,6 +30997,7 @@ imilaled->imitated
 imilale->imitate
 imilaling->imitating
 imilalor->imitator
+imilar->similar
 im->i'm
 iminent->eminent
 iminent->eminent, imminent, immanent
@@ -60118,7 +60128,9 @@ swithch->switch
 swith->switch
 switkh->switch
 swittch->switch
+swtiched->switched
 swtiches->switches
+swtich->switch
 swwears->swears
 swwear->swear
 swwept->swept
@@ -61756,6 +61768,7 @@ tifetime->lifetime
 tighting->lighting
 tight year->light year
 tight years->light years
+tigthly->tightly
 tihkn->think
 tihs->this
 tiilt->tilt
@@ -62862,6 +62875,8 @@ trilogyy->trilogy
 triloogy->trilogy
 trinary->ternary
 triology->trilogy
+tripels->triples
+tripel->triple
 tritogy->trilogy
 trival->trivial
 triveial->trivial
@@ -66924,6 +66939,7 @@ whetherr->whether
 whethe->whether
 whethher->whether
 whetther->whether
+whe->when
 whhat's->what's
 whhat->what
 whhenever->whenever
@@ -67428,6 +67444,7 @@ workarouunds->workarounds
 workarouund->workaround
 workedd->worked
 workeed->worked
+workes->works
 workiing->working
 workind->working
 workingg->working
