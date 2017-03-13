@@ -9182,6 +9182,7 @@ buildign->building
 build-in->built-in
 buildingg->building
 buildinng->building
+buildot->buildbot
 builing->building
 buill by->built by
 builld->build
@@ -57982,6 +57983,7 @@ stament->statement
 standarrds->standards
 standarrd->standard
 standars->standards
+standar->standard
 standart->standard
 standdardds->standards
 standdardd->standard
