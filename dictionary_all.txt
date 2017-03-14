@@ -35086,6 +35086,7 @@ judaissm->judaism
 juddaism->judaism
 juddicial->judicial
 juddiciary->judiciary
+judgement->judgment
 judical->judicial
 judiccial->judicial
 judicciary->judiciary
@@ -35900,6 +35901,7 @@ labeels->labels
 labeledd->labeled
 labeling->labelling
 labelledd->labelled
+labelled->labeled
 labelss->labels
 labes->labels
 labetted->labelled
@@ -61172,6 +61174,7 @@ theermostat->thermostat
 theesee reequireemeents->these requirements
 theesee->these
 theese->these
+thee->three
 theey havee beeeen->they have been
 theey'ree->they're
 theey->they
