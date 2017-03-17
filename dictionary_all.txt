@@ -13352,6 +13352,8 @@ compilated->compiled
 compilathion->compilation
 compilatin->compilation
 compilationn->compilation
+compilator->compiler
+compilators->compilers
 compilattion->compilation
 compileable->compilable
 compiledd->compiled
@@ -27148,6 +27150,7 @@ functioonality->functionality
 functioon->function
 functiooning->functioning
 functioons->functions
+functios->functions
 functtional->functional
 functtionalitties->functionalities
 functtionalitty->functionality
@@ -37759,6 +37762,7 @@ maiintaiins->maintains
 maiintenance->maintenance
 mailny->mainly
 mainain->maintain
+mainenance->maintenance
 mainfraime->mainframe
 mainlainabilily->maintainability
 mainlained->maintained
@@ -42105,6 +42109,7 @@ notticeably->noticeably
 notticing->noticing
 nottificattion->notification
 nott necessarily->not necessarily
+nott->not
 nottorietty->notoriety
 nottwitthsttanding->notwithstanding
 notwhithstanding->notwithstanding
@@ -45714,6 +45719,8 @@ phyysicallyy->physically
 phyysical->physical
 piaecae->piece
 piaecaes->pieces
+piar->pair
+piars->pairs
 piblisher->publisher
 piccture->picture
 pich->pitch
@@ -45919,6 +45926,7 @@ plausiblee->plausible
 plausiible->plausible
 plaussible->plausible
 plauusible->plausible
+playble->playable
 playright->playwright
 playwrigght->playwright
 playwrigghts->playwrights
@@ -49081,6 +49089,7 @@ prototypess->prototypes
 prototyyped->prototyped
 prototyype->prototype
 prototyypes->prototypes
+protoyped->prototyped
 protoype->prototype
 protoypes->prototypes
 protrait->portrait
@@ -60709,6 +60718,7 @@ techniqques->techniques
 techniquess->techniques
 techniquues->techniques
 technitian->technician
+technlogy->technology
 technnical->technical
 technnicianns->technicians
 technniciann->technician
@@ -62878,6 +62888,8 @@ trillogy->trilogy
 triloggy->trilogy
 trilogyy->trilogy
 triloogy->trilogy
+trimples->tripels
+trimple->tripel
 trinary->ternary
 triology->trilogy
 tripels->triples
@@ -64779,6 +64791,7 @@ unrepenttantt->unrepentant
 unrepetant->unrepentant
 unrepetent->unrepentant
 unreppentant->unrepentant
+unrocognized->unrecognized
 unrreachable->unreachable
 unrrecognized->unrecognized
 unrrepentant->unrepentant
