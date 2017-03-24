@@ -16046,6 +16046,7 @@ correclness->correctness
 correclors->correctors
 correcrtly->correctly
 correctedd->corrected
+correctely->correctly
 correcters->correctors
 correct formatted->correctly formatted
 correcth->correct
@@ -40878,6 +40879,7 @@ mutilatedd->mutilated
 mutilateed->mutilated
 mutiliated->mutilated
 mutillated->mutilated
+mutiples->multiples
 mutitated->mutilated
 mutliplexer->multiplexer
 mutliply->multiply
@@ -45926,7 +45928,6 @@ plausiblee->plausible
 plausiible->plausible
 plaussible->plausible
 plauusible->plausible
-playble->playable
 playright->playwright
 playwrigght->playwright
 playwrigghts->playwrights
@@ -48931,6 +48932,7 @@ properthies->properties
 propertiess->properties
 propertiies->properties
 propertties->properties
+propgating->propagating
 prophacy->prophecy
 prophaecy->prophecy
 propheccy->prophecy
@@ -48944,6 +48946,7 @@ propoganda->propaganda
 propogated->propagated
 propogate->propagate
 propogates->propagates
+propogating->propagating
 propogation->propagation
 proporlional->proportional
 proporlions->proportions
@@ -55534,6 +55537,7 @@ shruunk->shrunk
 shuld->should
 shure->sure
 siaegae->siege
+sice->since
 sicne->since
 sidaeraeal->sidereal
 siddereal->sidereal
@@ -60718,7 +60722,6 @@ techniqques->techniques
 techniquess->techniques
 techniquues->techniques
 technitian->technician
-technlogy->technology
 technnical->technical
 technnicianns->technicians
 technniciann->technician
