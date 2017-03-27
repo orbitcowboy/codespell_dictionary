@@ -15021,6 +15021,7 @@ containg->containing
 containig->containing
 containingg->containing
 containss->contains
+containt->contain
 containts->contains
 contairer->container
 contais->contains
@@ -26079,6 +26080,7 @@ firmwaere->firmware
 firmwarae->firmware
 firmwaree->firmware
 firmwware->firmware
+firmwwares->firmwares
 firrmwarre->firmware
 firrst->first
 firs->first
@@ -38505,6 +38507,7 @@ may hhave been->may have been
 mayybe->maybe
 mayy have been->may have been
 mayy->may
+mazilla->mozilla
 mcarthyist->mccarthyist
 mccaarthyist->mccarthyist
 mccaerthyist->mccarthyist
