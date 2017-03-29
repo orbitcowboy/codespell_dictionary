@@ -11820,6 +11820,8 @@ ciircumstance->circumstance
 ciircumstances->circumstances
 ciiviiliian->civilian
 cilled->killed
+cilyndre->cylinder
+cilyndres->cylinders
 cinccinnati->cincinnati
 cincimmati->cincinnati
 cincimnati->cincinnati
@@ -49596,6 +49598,7 @@ pumpkiin->pumpkin
 pumpkinn->pumpkin
 pumpkkin->pumpkin
 puplisher->publisher
+pupose->purpose
 purcchasing->purchasing
 purchaasing->purchasing
 purchaesing->purchasing
@@ -55014,6 +55017,7 @@ separratism->separatism
 separratist->separatist
 separratorr->separator
 separted->separated
+sepatae->separate
 sepcial->special
 sepcifically->specifically
 sepearetd->separated
