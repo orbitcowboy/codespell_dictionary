@@ -27477,6 +27477,7 @@ gelanned->gelaned
 gel->gael
 gellaned->gelaned
 gelting->getting
+gemerate->generate
 genaelogical->genealogical
 genaelogies->genealogies
 genaelogy->genealogy
@@ -34512,6 +34513,7 @@ invoocatioon->invocation
 invooke->invoke
 invoolvement->involvement
 invotvement->involvement
+invrstigate->investigate
 invrtebrates->invertebrates
 invrted->inverted
 invrting->inverting
@@ -36077,6 +36079,7 @@ lateest->latest
 lateex->latex
 latesit->latest
 latesst->latest
+latetly->lately
 latets->latest
 latexx->latex
 lathesth->latest
@@ -37767,6 +37770,7 @@ maiintaiins->maintains
 maiintenance->maintenance
 mailny->mainly
 mainain->maintain
+mainenacne->maintenance
 mainenance->maintenance
 mainfraime->mainframe
 mainlainabilily->maintainability
@@ -61853,6 +61857,7 @@ timestampp->timestamp
 time stamps->timestamps
 timestans->timespans
 timestan->timespan
+timestmap->timestamp
 timetamp->timestamp
 timetsamps->timestamps
 timetsamp->timestamp
@@ -68018,6 +68023,7 @@ yourselff->yourself
 yoursellf->yourself
 yoursetf->yourself
 yoursself->yourself
+your your->your
 yousaef->yousef
 youseef->yousef
 youseff->yousef
@@ -68041,6 +68047,7 @@ you'vee->you've
 youve->you've
 you'vve->you've
 you'v->you've
+you you->you
 yrea->year
 ytou->you
 yuo->you
