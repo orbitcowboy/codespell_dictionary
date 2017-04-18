@@ -40774,6 +40774,7 @@ multtitthreaded->multithreaded
 multti tthread->multi thread
 multti-tthread->multi-thread
 multtitthread->multithread
+multy->multi
 multy-thread->multithread
 multythread->multithread
 mumber->number
@@ -50802,6 +50803,7 @@ recommandation->recommendation
 recommand->recommend
 recommedations->recommendations
 recommeded->recommended
+recommemend->recommended
 recommendaation->recommendation
 recommendaations->recommendations
 recommendaetion->recommendation
@@ -52033,6 +52035,7 @@ reminsicent->reminiscent
 remmainder->remainder
 remmaining->remaining
 remmant->remnant
+remmber->remember
 remmeber->remember
 remmebers->remembers
 remmemmber->remember
