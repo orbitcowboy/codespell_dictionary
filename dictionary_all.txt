@@ -11834,6 +11834,8 @@ cincinnali->cincinnati
 cincinnathi->cincinnati
 cincinnatti->cincinnati
 cindergarten->kindergarten
+cinfiguration->configuration
+cinfigurations->configurations
 cinkinnati->cincinnati
 cinncinnnnati->cincinnati
 cintainer->container
@@ -13477,6 +13479,7 @@ complletes->completes
 complletion->completion
 complliance->compliance
 complliant->compliant
+complment->compliment
 componaent->component
 componaents->components
 componant->component
@@ -14921,6 +14924,7 @@ constructro->constructor
 constructros->constructors
 construcutor->constructor
 construtor->constructor
+construtors->constructors
 construuction->construction
 construuctor->constructor
 construuctors->constructors
@@ -27145,6 +27149,7 @@ functionatities->functionalities
 functionatity->functionality
 functioningg->functioning
 functionining->functioning
+functionionality->functionality
 functionnality->functionality
 functionss->functions
 functionst->functions
@@ -27156,6 +27161,7 @@ functioon->function
 functiooning->functioning
 functioons->functions
 functios->functions
+functoriality->functionality
 functtional->functional
 functtionalitties->functionalities
 functtionalitty->functionality
@@ -29178,6 +29184,7 @@ hereditty->heredity
 heredityy->heredity
 here iis->here is
 here iss->here is
+heres->here is
 heridity->heredity
 heriitage->heritage
 herilage->heritage
@@ -60715,6 +60722,7 @@ techhnicians->technicians
 techhnician->technician
 techhniques->techniques
 techhnology->technology
+techically->technically
 techicians->technicians
 techician->technician
 techiniques->techniques
