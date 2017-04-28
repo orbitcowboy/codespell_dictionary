@@ -4560,6 +4560,8 @@ annomaly->anomaly
 annonate->annotate
 annonated->annotated
 annonates->annotates
+annoncement->announcement
+annoncements->announcements
 annonnymity->anonymity
 annonnymous->anonymous
 annootate->annotate
@@ -13493,6 +13495,7 @@ componenths->components
 componentss->components
 componentt->component
 componentts->components
+componet->component
 componets->components
 componnennt->component
 componnennts->components
@@ -15424,6 +15427,7 @@ conventionat->conventional
 conventionnal->conventional
 conventtional->conventional
 converion->conversion
+converions->conversions
 converison->conversion
 converl->convert
 converled->converted
@@ -18703,6 +18707,7 @@ deppends->depends
 deppict->depict
 depprecated->deprecated
 depprecating->deprecating
+depracated->deprecated
 deprecaated->deprecated
 deprecaating->deprecating
 deprecaeted->deprecated
@@ -30214,6 +30219,7 @@ i amm doing->i am doing
 i amm->i am
 icconocclasticc->iconoclastic
 icluded->included
+icluding->including
 icnlude->include
 iconclastic->iconoclastic
 iconnoclastic->iconoclastic
@@ -34047,7 +34053,10 @@ interpretingg->interpreting
 interpretoor->interpretor
 interpretro->interpretor
 interptreter->interpreter
+interracting->interacting
+interract->interact
 interractive->interactive
+interracts->interacts
 interrbrred->interbred
 interrbrreed->interbreed
 interrchangeability->interchangeability
@@ -38791,6 +38800,7 @@ memoraeble->memorable
 memorrable->memorable
 memorry->memory
 memort->memory
+memorys->memories
 memoryy->memory
 memroable->memorable
 memroy->memory
@@ -44796,6 +44806,7 @@ pasttime->pastime
 pasttoral->pastoral
 pastural->pastoral
 pasword->password
+paswords->passwords
 patace->palace
 pataentaed->patented
 patameters->parameters
@@ -45974,6 +45985,7 @@ pleaasaant->pleasant
 pleaase->please
 pleaesaent->pleasant
 pleaese->please
+pleaes->please
 pleasanl->pleasant
 pleasannt->pleasant
 pleasanth->pleasant
@@ -46772,6 +46784,7 @@ postions->positions
 postition->position
 postive->positive
 postives->positives
+post-morten->post-mortem
 post porcessing->post processing
 post porcessor->post processor
 post porcessors->post processors
@@ -55215,6 +55228,7 @@ settlemment->settlement
 settllement->settlement
 settlment->settlement
 setttement->settlement
+setttings->settings
 setttting->setting
 settttings->settings
 settttlementt->settlement
@@ -65927,6 +65941,7 @@ verifty->verify
 verifyability->verifiability
 verifyable->verifiable
 verifyed->verified
+verifyied->verified
 verifyingg->verifying
 verifyinng->verifying
 verifyying->verifying
