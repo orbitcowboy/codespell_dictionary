@@ -20013,6 +20013,8 @@ dimmension->dimension
 dimmensions->dimensions
 dimminutive->diminutive
 dimunitive->diminutive
+dinension->dimension
+dinensions->dimensions
 diocaesae->diocese
 dioccese->diocese
 dioceesee->diocese
@@ -52688,6 +52690,7 @@ resiistiible->resistible
 resiizable->resizable
 resiize->resize
 resiiziing->resizing
+resion->region
 resisitance->resistance
 resisitant->resistant
 resisitible->resistible
