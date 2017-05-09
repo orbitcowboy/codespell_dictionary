@@ -53649,6 +53649,7 @@ rosee->rose
 rosse->rose
 rothogonal->orthogonal
 rotine->routine
+rouge->rogue
 rougghly->roughly
 roughhly->roughly
 roughlly->roughly
