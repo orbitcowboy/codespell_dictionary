@@ -2162,6 +2162,7 @@ adviised->advised
 adviisiing->advising
 adviisory->advisory
 advisaed->advised
+adviseable->advisable
 adviseed->advised
 advisingg->advising
 advisinng->advising
@@ -3381,6 +3382,7 @@ agrreed->agreed
 agrreeing->agreeing
 agrreement->agreement
 agrriculturre->agriculture
+agrument->argument
 agruments->arguments
 agument->argument
 ahev->have
@@ -8651,6 +8653,7 @@ blessssing->blessing
 blessure->blessing
 bliitzkriieg->blitzkrieg
 blilzkrieg->blitzkrieg
+blinry->binary
 blithzkrieg->blitzkrieg
 blittzkrieg->blitzkrieg
 blitzckrieg->blitzkrieg
@@ -10075,6 +10078,7 @@ capturd->captured
 capturedd->captured
 capturee->capture
 captureed->captured
+capturet->captured
 capturre->capture
 capturred->captured
 captuure->capture
@@ -11268,6 +11272,8 @@ certainnly->certainly
 certainnty->certainty
 certaintyy->certainty
 certanly->certainly
+certficate->certificate
+certficates->certificates
 certhain->certain
 certhainly->certainly
 certhainthy->certainty
@@ -21075,7 +21081,9 @@ documentt->document
 documentted->documented
 documentting->documenting
 documentts->documents
+documeted->documented
 documetnation->documentation
+documets->documents
 docummentable->documentable
 docummentary->documentary
 docummentation->documentation
@@ -51240,6 +51248,7 @@ reedistributablee->redistributable
 reedundancy cheeck->redundancy check
 reedundancy->redundancy
 reedundant->redundant
+reeeally->really
 reeeeleecteed->reelected
 reeeenteering->reentering
 reeeentrancy->reentrancy
