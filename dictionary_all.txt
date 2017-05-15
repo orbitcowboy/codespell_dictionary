@@ -13266,6 +13266,7 @@ compatiable->compatible
 compatibbilities->compatibilities
 compatibbility->compatibility
 compatibble->compatible
+compatibile->compatible
 compatibilitiaes->compatibilities
 compatibilitiees->compatibilities
 compatibilitiess->compatibilities
@@ -16149,6 +16150,7 @@ correesponding->corresponding
 correesponds->corresponds
 corrent->current
 correponding->corresponding
+correponds->corresponds
 correposding->corresponding
 corrept->corrupt
 corresonding->corresponding
@@ -34103,6 +34105,8 @@ interperter->interpreter
 interpet->interpret
 interpolaator->interpolator
 interpolaetor->interpolator
+interpolatio->interpolation
+interpolatios->interpolations
 interpolatro->interpolator
 interpollator->interpolator
 interpoolatoor->interpolator
@@ -36858,6 +36862,7 @@ lincs->links
 lineaar->linear
 lineaer->linear
 linearr->linear
+lineary->linear
 lineear->linear
 linee->line
 liner->linear
