@@ -55677,8 +55677,6 @@ shriec->shriek
 shrieek->shriek
 shriekk->shriek
 shriiek->shriek
-shrinked->shrunk
-shrinked->shrunken
 shrotcuts->shortcuts
 shrotly->shortly
 shrot while->short while
