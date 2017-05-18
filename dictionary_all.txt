@@ -9224,6 +9224,7 @@ buld->build
 bullerfly->butterfly
 bullon->button
 bulterfly->butterfly
+bultin->builtin
 bulton->button
 buoancy->buoyancy
 buooyancy->buoyancy
@@ -16546,6 +16547,7 @@ cppcheckk->cppcheck
 cppcheeck->cppcheck
 cppchek->cppcheck
 cppchheck->cppcheck
+cppckeck->cppcheck
 cppecheck->cppcheck
 cppppcheck->cppcheck
 craashes->crashes
@@ -24869,6 +24871,7 @@ explaiined->explained
 explaiin->explain
 explaiiniing->explaining
 explaination->explanation
+explainations->explanations
 explainedd->explained
 explaine->explain
 explaines->explains
@@ -44945,6 +44948,7 @@ patieencee->patience
 patiell->partial
 patiell->partiell
 patiencce->patience
+patienct->patience
 patienke->patience
 patiennce->patience
 patiience->patience
@@ -52360,6 +52364,9 @@ reperthoire->repertoire
 repertoiire->repertoire
 repertooire->repertoire
 reperttoire->repertoire
+repesented->represented
+repesent->represent
+repesents->represents
 repeteadly->repeatedly
 repetetive->repetitive
 repethithion->repetition
@@ -58462,6 +58469,10 @@ strangue->strange
 strannd->strand
 strannger->stranger
 strannge->strange
+strarted->started
+strarting->starting
+strarts->starts
+strart->start
 strataegiaes->strategies
 strataegically->strategically
 strataegic->strategic
