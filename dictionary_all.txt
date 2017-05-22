@@ -10024,6 +10024,7 @@ capablee->capable
 capablle->capable
 capabte->capable
 capacitve->capacitive
+capactiy->capacity
 capae town->cape town
 capbilites->capabilities
 capee town->cape town
@@ -12043,6 +12044,8 @@ cleand->cleaned
 cleanedd->cleaned
 cleanned->cleaned
 cleannup->cleanup
+cleanpu->cleanup
+cleanpus->cleanups
 cleanupp->cleanup
 cleanuup->cleanup
 clearannce->clearance
@@ -19786,6 +19789,7 @@ differentiat->differential
 differentiatiations->differentiations
 differentiationss->differentiations
 differentiatioons->differentiations
+differents->different
 differentt->different
 differenttial->differential
 differenttiatte->differentiate
@@ -26525,6 +26529,7 @@ foound->found
 fooundries->foundries
 fooundry->foundry
 foourth->fourth
+foppy->floppy
 foraeground->foreground
 foraeign->foreign
 foraemost->foremost
@@ -27684,6 +27689,7 @@ geomether->geometer
 geomethers->geometers
 geometrician->geometer
 geometricians->geometers
+geometrie->geometry
 geometter->geometer
 geometters->geometers
 geommeter->geometer
@@ -28653,6 +28659,7 @@ hadd been->had been
 hadding->adding
 hadding->adding, having,
 hadding->having
+hadling->handling
 haeadaer->header
 haeadquartaeraed->headquartered
 haeadquartaer->headquarter
@@ -31423,6 +31430,7 @@ implimented->implemented
 impliment->implement
 implimenting->implementing
 implitic->implicit
+implizit->implicit
 impllantation->implantation
 impllementation->implementation
 impllementations->implementations
@@ -32999,6 +33007,7 @@ inkrement->increment
 inkunabula->incunabula
 inlcuded->included
 inlcude->include
+inlcudes->includes
 inlcuding->including
 inleger->integer
 inlegers->integers
@@ -36278,6 +36287,7 @@ leaguue->league
 leanerr->leaner
 leanner->leaner
 leann->lean
+leanpu->cleanup
 leanr->lean
 leanr->leaner
 leanr->lean, learn, leaner
@@ -38982,6 +38992,8 @@ mesages->messages
 mesaging->messaging
 mesaure->measure
 mesenger->messenger
+mesge->message
+mesges->messages
 mesing->messing
 messaage->message
 messaaging->messaging
@@ -39005,6 +39017,8 @@ messengger->messenger
 messenging->messaging
 messenguer->messenger
 messennger->messenger
+messge->message
+messges->messages
 messiing->messing
 messingg->messing
 messinng->messing
@@ -56540,6 +56554,7 @@ software projecct->software project
 softwareproject->software project
 software projekt->software project
 software projject->software project
+softwares->software
 software tols->software tools
 software toolls->software tools
 softwaretools->software tools
@@ -60502,6 +60517,7 @@ synciing->syncing
 syncingg->syncing
 syncronisze->synchronize
 syncronization->synchronization
+syncting->syncing
 synkhronization->synchronization
 synkhronize->synchronize
 synkhronously->synchronously
@@ -61311,6 +61327,7 @@ thanns->thanks
 thann->than
 thansk->thanks
 thans->thanks
+thant->than
 thanx->thank
 thargethed->targeted
 thargething->targeting
