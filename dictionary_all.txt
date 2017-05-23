@@ -12314,6 +12314,7 @@ colandeer->colander
 colanderr->colander
 colannder->colander
 colateral->collateral
+colation->collation
 coleague->colleague
 coleagues->colleagues
 colect->collect
@@ -12690,7 +12691,6 @@ commata->commas
 commbinations->combinations
 commbined->combined
 commbustion->combustion
-comm->com
 commeback->comeback
 commected->connected
 commecticut->connecticut
@@ -14507,6 +14507,7 @@ conquuered->conquered
 conquueror->conqueror
 conquuerors->conquerors
 conrolled->controlled
+conrtib->contrib
 consaecutivae->consecutive
 consaecutivaely->consecutively
 consaensus->consensus
@@ -18545,6 +18546,8 @@ delirioous->delirious
 deliriouss->delirious
 deliriouus->delirious
 delirrious->delirious
+delivative->derivative
+delivatives->derivatives
 deliveery->delivery
 deliverry->delivery
 deliveryy->delivery
@@ -36815,6 +36818,7 @@ liklely->likely
 likle many parts->like many parts
 likudd->likud
 likuud->likud
+liky->likely
 lileral->literal
 lilerally->literally
 lilerals->literals
@@ -56224,6 +56228,8 @@ skatter->scatter
 skatting->skating
 skavenged->scavenged
 skeeptical->skeptical
+skelton->skeleton
+skeltons->skeletons
 skenarios->scenarios
 skeplical->skeptical
 skepptical->skeptical
