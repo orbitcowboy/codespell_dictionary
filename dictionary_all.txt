@@ -6106,6 +6106,7 @@ askii->ascii
 aslerisk->asterisk
 asleroid->asteroid
 aslo->also
+asnwer->answer
 asociate->associate
 asociated->associated
 asociates->associates
@@ -6545,6 +6546,7 @@ asumed->assumed
 asumes->assumes
 asuming->assuming
 asumption->assumption
+asumptions->assumptions
 asurance->assurance
 as waell->as well
 as weell->as well
@@ -10359,6 +10361,7 @@ catastrrophic->catastrophic
 catatina->catalina
 catatsrophic->catastrophic
 catched->cached
+catched->caught
 catchh->catch
 catcutate->calculate
 catcutated->calculated
@@ -21331,6 +21334,9 @@ downloaads->downloads
 downloadss->downloads
 downloaed->download
 downloaeds->downloads
+downlod->download
+downloding->downloading
+downlods->downloads
 downnload->download
 downnloads->downloads
 downtoad->download
@@ -23411,6 +23417,7 @@ enviironmentaliist->environmentalist
 enviironmentally->environmentally
 enviironment->environment
 enviironments->environments
+envionmental->environmental
 enviormental->environmental
 enviormentally->environmentally
 enviorment->environment
@@ -25105,6 +25112,7 @@ externall->external
 externnal->external
 exterrnal->external
 extesion->extension
+extesions->extensions
 exthanth->extant
 exthended->extended
 exthension->extension
@@ -31887,6 +31895,7 @@ incompalibilily->incompatibility
 incompalible->incompatible
 incompatabilies->incompatibilities
 incompatabilities->incompatibilities
+incompatability->incomparability
 incompatability->incompatibility
 incompatable->incompatible
 incompatablities->incompatibilities
@@ -38981,6 +38990,7 @@ mercuriall->mercurial
 mercuriat->mercurial
 mercuriial->mercurial
 mercuurial->mercurial
+merdge->merge
 merkantile->mercantile
 merkat->meerkat
 merkhandise->merchandise
