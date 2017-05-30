@@ -5147,6 +5147,8 @@ applicattions->applications
 appliccability->applicability
 appliccation->application
 appliccations->applications
+appliction->application
+applictions->applications
 appliedd->applied
 applieed->applied
 appliees->applies
@@ -29975,6 +29977,7 @@ hroizontal->horizontal
 hroizontally->horizontally
 hrorifying->horrifying
 hsitorians->historians
+hsitory->history
 hstory->history
 htanks->thanks
 htank->thank
@@ -51848,6 +51851,7 @@ rehtink->rethink
 re-htrow->re-throw
 reicarnation->reincarnation
 reiggningg->reigning
+reight->right
 reigining->reigning
 reignninng->reigning
 reiigniing->reigning
@@ -60164,6 +60168,7 @@ susceplible->susceptible
 suscepptible->susceptible
 suscepthible->susceptible
 susceptibble->susceptible
+susceptibilty->susceptibility
 susceptiblle->susceptible
 susceptibte->susceptible
 susceptiible->susceptible
@@ -60340,6 +60345,9 @@ swepl->swept
 sweppt->swept
 swepth->swept
 sweptt->swept
+swictched->switched
+swictches->switches
+swictch->switch
 swiimmiing->swimming
 swiitch->switch
 swilch->switch
@@ -65016,6 +65024,7 @@ unrreachable->unreachable
 unrrecognized->unrecognized
 unrrepentant->unrepentant
 unsaafe->unsafe
+unsable->unusable
 unsaefe->unsafe
 unsafae->unsafe
 unsafee->unsafe
