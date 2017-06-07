@@ -8648,6 +8648,7 @@ blamee->blame
 blameed->blamed
 blamme->blame
 blammed->blamed
+blcoking->blocking
 bleessing->blessing
 blesing->blessing
 blessiing->blessing
@@ -13804,6 +13805,8 @@ concerningg->concerning
 concerrn->concern
 concerrned->concerned
 concerrning->concerning
+concetanation->concatenation
+concetanations->concatenations
 concetrator->concentrator
 concider->consider
 concidered->considered
@@ -20456,6 +20459,7 @@ discription->description
 discrrepancies->discrepancies
 discrrepancy->discrepancy
 discrrete->discrete
+discrte->discrete
 disctinction->distinction
 disctinctive->distinctive
 discused->discussed
@@ -55359,6 +55363,8 @@ sesison->session
 sessiion->session
 sessionn->session
 sessioon->session
+setcion->section
+setcions->sections
 setdom->seldom
 setected->selected
 setect->select
