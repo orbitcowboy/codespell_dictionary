@@ -7,8 +7,8 @@ In order to use this dictionary file, you have to download codespell from https:
 
 After you have downloaded codespell you can used this dictionary as followed:
 
-$ ./codespell -d -R [PATH_TO_DICTIONARY_FILE] [FILES/FOLDERS_TO_CHECK]
+```$ ./codespell -d -R [PATH_TO_DICTIONARY_FILE] [FILES/FOLDERS_TO_CHECK]```
 
 for example:
 
-$ ./codespell -d -R dictionary.txt MyProjects
+```$ ./codespell -d -R dictionary_all.txt MyProjects```
