@@ -49953,13 +49953,18 @@ qualificcation->qualification
 qualifikation->qualification
 qualiifiicatiion->qualification
 quallification->qualification
+quanily->quantity
+quanity->quantity
 quanlily->quantity
+quanliy->quantity
 quanntity->quantity
 quantaty->quantity
 quanthithy->quantity
 quantiity->quantity
 quantitiy->quantity
 quantityy->quantity
+quantiy->quantity
+quantlty->quantity
 quanttitty->quantity
 quaranline->quarantine
 quaranntinne->quarantine
@@ -62313,6 +62318,7 @@ tommorrow->tomorrow
 tomororw->tomorrow
 tomorow->tomorrow
 tomorroww->tomorrow
+tomorrrow->tomorrow
 tomorrrrow->tomorrow
 tomrorow->tomorrow
 to much time->too much time
