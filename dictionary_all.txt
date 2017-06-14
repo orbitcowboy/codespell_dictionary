@@ -8221,6 +8221,7 @@ behindd->behind
 behing->behind
 behinnd->behind
 behiour->behavior
+behvior->behavior
 beiing->being
 beiing sent->being sent
 beingg->being
@@ -9761,6 +9762,7 @@ calibrationn->calibration
 calibratioon->calibration
 calibrattion->calibration
 calibrration->calibration
+calidated->calculated
 caligraphy->calligraphy
 caliiber->caliber
 caliibratiion->calibration
@@ -21331,6 +21333,7 @@ douubt->doubt
 dowgrade->downgrade
 dow->how
 dowload->download
+dowloaded->downloaded
 dowloads->downloads
 dowmloadable->downloadable
 downlload->download
@@ -26853,6 +26856,7 @@ forwward->forward
 forzen->frozen
 fotball->football
 fotder->folder
+fot->for
 fo the->for the
 fottowing->following
 fottowing in->following in
@@ -32951,6 +32955,7 @@ initialy->initially
 initialzation->initialization
 initialzations->initializations
 initialzed->initialized
+initialzes->initializes
 initiataed->initiated
 initiatedd->initiated
 initiateed->initiated
@@ -44900,6 +44905,7 @@ passersbyy->passersby
 passiing->passing
 passingg->passing
 passinng->passing
+passiv->passive
 passord->password
 passpharse->passphrase
 passphhrase->passphrase
@@ -52782,6 +52788,7 @@ resemmble->resemble
 resemmbles->resembles
 resemmbling->resembling
 reserveoir->reservoir
+reserverd->reserved
 reservoiir->reservoir
 reservooir->reservoir
 reserv->revert
@@ -58436,6 +58443,7 @@ stoore->store
 stoories->stories
 stoory->story
 stoped->stopped
+stoping->stopping
 stoppaed->stopped
 stoppedd->stopped
 stoppeed->stopped
@@ -59989,6 +59997,7 @@ suroundings->surroundings
 surounding->surrounding
 surounds->surrounds
 suround->surround
+surpise->surprise
 surplanted->supplanted
 surpprised->surprised
 surpprises->surprises
@@ -60789,6 +60798,8 @@ taexonomic->taxonomic
 taexonomy->taxonomy
 taext box->text box
 taeylor series->taylor series
+tages->stages
+tage->stage
 tahn->than
 taht->that
 taid->laid
@@ -62837,6 +62848,8 @@ transcodae->transcode
 transcodde->transcode
 transcodee->transcode
 transcoode->transcode
+transcptions->transceptions
+transcption->transception
 transcribbing->transcribing
 transcribingg->transcribing
 transcriibiing->transcribing
@@ -63030,6 +63043,8 @@ tranthlator->translator
 trasaction->transaction
 trascation->transaction
 trasfered->transferred
+traslations->translations
+traslation->translation
 trasnaction->transaction
 trasversal->traversal
 trasverse->traverse
@@ -65331,6 +65346,7 @@ upgradded->upgraded
 upgradding->upgrading
 upgradeed->upgraded
 upgradiing->upgrading
+upgradingn->upgrading
 upgradinng->upgrading
 upgradin->upgrading
 upgraeded->upgraded
