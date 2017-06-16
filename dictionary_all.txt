@@ -11879,6 +11879,7 @@ cinfigurations->configurations
 cinkinnati->cincinnati
 cinncinnnnati->cincinnati
 cintainer->container
+cintainers->containers
 ciphaer->cipher
 cipheer->cipher
 cipherr->cipher
@@ -21336,6 +21337,8 @@ dowload->download
 dowloaded->downloaded
 dowloads->downloads
 dowmloadable->downloadable
+downgrated->downgraded
+downgrate->downgrade
 downlload->download
 downlloads->downloads
 downloaad->download
@@ -27146,6 +27149,7 @@ ftuorescent->fluorescent
 ftuorine->fluorine
 fucntion->function
 fucntioning->functioning
+fucntions->functions
 fuction->function
 fuctions->functions
 fufilled->fulfilled
