@@ -5265,6 +5265,7 @@ apprekiates->appreciates
 appriciate->appreciate
 appriciated->appreciated
 apprieciate->appreciate
+appriopriate->appropriate
 approacch->approach
 approacches->approaches
 approachaes->approaches
@@ -7240,6 +7241,7 @@ autochthonouss->autochthonous
 autochtonous->autochthonous
 autocthhonous->autochthonous
 autoctonous->autochthonous
+autoformating->autoformatting
 autoiincrement->autoincrement
 autoinccrement->autoincrement
 autoincraemaent->autoincrement
@@ -9953,6 +9955,7 @@ cannnot->cannot
 cannocolize->canonicalize
 cannol->cannot
 cannonical->canonical
+cannonicalize->canonicalize
 cannonnical->canonical
 cannonnicalize->canonicalize
 cannonnicalized->canonicalized
@@ -15187,6 +15190,7 @@ contians->contains
 contibute->contribute
 contibuted->contributed
 contibutes->contributes
+contibutor->contributor
 contigent->contingent
 contigguous->contiguous
 contigious->contiguous
@@ -16191,6 +16195,7 @@ correspondentts->correspondents
 correspondiing->corresponding
 correspondingg->corresponding
 corresponding the->corresponding
+corresponing->corresponding
 corresponnd->correspond
 corresponnded->corresponded
 corresponndennt->correspondent
@@ -18912,6 +18917,7 @@ descenndannt->descendant
 descenndannts->descendants
 descibed->described
 descibing->describing
+desciption->description
 desciptions->descriptions
 desciptor->descriptor
 descirbes->describes
@@ -19663,6 +19669,7 @@ diamondss->diamonds
 diamonnds->diamonds
 diamons->diamonds
 diamoonds->diamonds
+diangose->diagnose
 diaplay->display
 diaram->diagram
 diaster->disaster
@@ -25456,6 +25463,7 @@ facillitated->facilitated
 facillitate->facilitate
 facillitates->facilitates
 facillities->facilities
+facilties->facilities
 facinated->fascinated
 facist->fascist
 facititated->facilitated
@@ -26708,6 +26716,7 @@ formathing->formating
 formaththed->formatted
 formaththing->formatting
 formatiing->formating
+formating->formating
 formating->formatting
 formatingg->formating
 formatinng->formating
@@ -33604,6 +33613,8 @@ instaentiaetions->instantiations
 instal a->install a
 instalation->installation
 instaled->installed
+instaling->installing
+instal->install
 installaed->installed
 installa->install a
 installaion->installation
@@ -35402,6 +35413,7 @@ kertifikate->certificate
 kertifikates->certificates
 kertifikation->certification
 kervikal->cervical
+keybaord->keyboard
 keybboard->keyboard
 keyboaard->keyboard
 keyboaerd->keyboard
@@ -35411,6 +35423,8 @@ keyboarrd->keyboard
 keybooard->keyboard
 keybord->keyboard
 keyowrd->keyword
+keyworkd->keyword
+keyworkds->keywords
 keyyboard->keyboard
 khairman->chairman
 khallenge->challenge
@@ -36423,6 +36437,7 @@ lengt->length
 lengtth->length
 lengtthy->lengthy
 lengty->lengthy
+leniant->lenient
 lenlacles->tentacles
 lenlacle->tentacle
 lenngth->length
@@ -45550,6 +45565,7 @@ persistencce->persistence
 persistenke->persistence
 persistennce->persistence
 persistennt->persistent
+persisten->persistent
 persisthence->persistence
 persisthenth->persistent
 persisttence->persistence
@@ -46028,6 +46044,7 @@ plaeusible->plausible
 plaeywright->playwright
 plaeywrights->playwrights
 plaform->platform
+plaforms->platforms
 plaftorm->platform
 plaftorms->platforms
 plagarism->plagiarism
@@ -48127,6 +48144,7 @@ preveious->previous
 prevelant->prevalent
 preverse->perverse
 preverse->preserve
+preverses->preserves
 previiously->previously
 previious->previous
 previlege->privilege
@@ -49110,6 +49128,7 @@ properlyy->properly
 properthies->properties
 propertiess->properties
 propertiies->properties
+propertise->properties
 propertties->properties
 propgating->propagating
 prophacy->prophecy
@@ -52510,6 +52529,7 @@ repositoryy->repository
 repositotry->repository
 repositroy->repository
 reposittory->repository
+reposoitory->repository
 repossitory->repository
 repostory->repository
 reppartition->repartition
@@ -57211,6 +57231,7 @@ specif->specify
 specifyer->specifier
 specifyied->specified
 specifyingg->specifying
+specifyinhg->specifying
 specifyinng->specifying
 specifyying->specifying
 specifyy->specify
@@ -58482,6 +58503,7 @@ straategicaally->strategically
 straategic->strategic
 straategies->strategies
 straategy->strategy
+strack->stack
 stradegies->strategies
 stradegy->strategy
 straeamlining->streamlining
@@ -59159,6 +59181,7 @@ subpoenna->subpoena
 subpooena->subpoena
 subppoena->subpoena
 subracted->subtracted
+subract->subtract
 subrooutine->subroutine
 subrouline->subroutine
 subrountine->subroutine
@@ -64097,6 +64120,8 @@ uncjeched->unchecked
 uncknown->unknown
 unclude->include
 uncnown->unknown
+uncomented->uncomented
+uncoment->uncoment
 uncomitted->uncommitted
 uncommiitted->uncommitted
 uncommilled->uncommitted
@@ -65062,6 +65087,7 @@ unsafee->unsafe
 unsaffe->unsafe
 unsed->unused
 unsed->used, unused, unsaid
+unsettin->unsetting
 unsiged->unsigned
 unsigend->unsigned
 unsiggned->unsigned
@@ -65865,6 +65891,7 @@ varietties->varieties
 varietty->variety
 varietyy->variety
 variey->variety
+varified->verified
 variiables->variables
 variiable->variable
 variiance->variance
@@ -67284,6 +67311,7 @@ whitellist->whitelist
 whitelsit->whitelist
 whitespaace->whitespace
 whitespacce->whitespace
+whitespaces->whitespace
 whitespaece->whitespace
 whitespake->whitespace
 whitesppace->whitespace
