@@ -18640,6 +18640,7 @@ demonslrales->demonstrates
 demonslralion->demonstration
 demonsstratess->demonstrates
 demonsstration->demonstration
+demonstarates->demonstrates
 demonsthrathes->demonstrates
 demonsthrathion->demonstration
 demonstraates->demonstrates
@@ -22895,8 +22896,10 @@ encryptted->encrypted
 encryptt->encrypt
 encrypttion->encryption
 encrypying->encrypting
+encryted->encrypted
 encryt->encrypt
 encrytion->encryption
+encryts->encrypts
 encryypted->encrypted
 encryypt->encrypt
 encryyption->encryption
@@ -56806,7 +56809,10 @@ soophisticated->sophisticated
 soophoomoore->sophomore
 soorcerer->sorcerer
 soorry->sorry
+soorted->sorted
 soort oof->sort of
+soort->sort
+soorts->sorts
 soought->sought
 soound->sound
 soounds->sounds
@@ -60395,6 +60401,7 @@ sweptt->swept
 swictched->switched
 swictches->switches
 swictch->switch
+swiift->swift
 swiimmiing->swimming
 swiitch->switch
 swilch->switch
