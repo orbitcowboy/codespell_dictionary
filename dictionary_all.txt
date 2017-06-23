@@ -3635,6 +3635,7 @@ aliggnment->alignment
 aligment->alignment
 aligmment->alignment
 alignaed->aligned
+aligne->align
 alignedd->aligned
 aligneed->aligned
 alignement->alignment
@@ -16998,6 +16999,7 @@ curriculumm->curriculum
 curricutum->curriculum
 curriiculum->curriculum
 curriosity->curiosity
+currrent->current
 currrrent->current
 currrrently->currently
 currrriculum->curriculum
@@ -19206,6 +19208,7 @@ destintaaion->destintaion
 destintaeion->destintaion
 destintaion->destintaion
 destintaioon->destintaion
+destionated->destinate
 destionation->destination
 destionations->destinations
 destory->destroy
@@ -26354,6 +26357,7 @@ flexiible->flexible
 flexlint->flexelint
 flexxelint->flexelint
 flexxible->flexible
+flie->file
 fligght->flight
 flighht->flight
 flighl->flight
@@ -48277,6 +48281,7 @@ prinling->printing
 prinncipal->principal
 prinnciple->principle
 prinntinng->printing
+printet->printed
 printhing->printing
 printingg->printing
 printting->printing
@@ -61784,6 +61789,7 @@ thithlebar->titlebar
 thithle->title
 thiunk->think
 thiw->this
+thnak->thank
 thna->than
 thne->then
 thnigs->things

@@ -358,6 +358,7 @@ Sylvester->Silvester
 Symtome->Symptome
 Syphon->Siphon
 Tabets->Tabletts
+technsicher->technischer
 Terasse->Terrasse
 Terrabyte->Terabyte
 Teststragegieen->Teststrategien
