@@ -19515,6 +19515,8 @@ developming->developing
 developmment->development
 developp->develop
 developped->developed
+developpe->develop
+developpement->development
 developper->developer
 developper's->developer's
 developpers->developers
