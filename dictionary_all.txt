@@ -3418,6 +3418,7 @@ aircrafth->aircraft
 aircrafts->aircraft
 aircrafts\"->aircraft\"s
 aircraftt->aircraft
+aircralt->aircraft
 airkraft->aircraft
 airpoort->airport
 airpoorts->airports
@@ -18517,6 +18518,7 @@ delermining->determining
 delerminislically->deterministically
 delerminislic->deterministic
 delet->delete
+delete'd->deleted
 delete'ing->deleting
 deleteing->deleting
 deletet->deleted
@@ -29254,6 +29256,7 @@ helmett->helmet
 helmmet->helmet
 helo->hello
 helpedd->helped
+helpe->help
 helpfful->helpful
 helpffully->helpfully
 helpfull->helpful
@@ -36067,6 +36070,7 @@ labeledd->labeled
 labeling->labelling
 labelledd->labelled
 labelled->labeled
+labelling->labeling
 labelss->labels
 labes->labels
 labetted->labelled
@@ -45482,6 +45486,7 @@ permmanent->permanent
 permmissible->permissible
 permmission->permission
 permmissions->permissions
+perofrmance->performance
 perogative->prerogative
 peroides->periods
 peroid->period
@@ -46817,6 +46822,7 @@ positionned->positioned
 positionninng->positioning
 positionn->position
 positionns->positions
+position position->position
 positivae->positive
 positivaes->positives
 positivee->positive
@@ -58351,6 +58357,7 @@ stayd->stayed
 stayedd->stayed
 stayeed->stayed
 stayyed->stayed
+std::stirng->std::string
 stdudio->studio
 steereeotypees->stereotypes
 steeroids->steroids
