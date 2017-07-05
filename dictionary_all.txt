@@ -8503,6 +8503,7 @@ better thaen->better than
 better thann->better than
 better then->better than
 better thhan->better than
+bettery->better
 bettigerent->belligerent
 be ttreatted->be treated
 betttter->better
@@ -11974,7 +11975,9 @@ cirrcumcision->circumcision
 cirrcumstance->circumstance
 cirrcumstances->circumstances
 cirtial->critical
+ciruit->circuit
 ciruitry->circuitry
+ciruits->circuits
 civeilian->civilian
 civiliaan->civilian
 civiliaen->civilian
@@ -13269,6 +13272,8 @@ comparrison->comparison
 comparrisons->comparisons
 comparsion->comparison
 comparsions->comparisons
+compartement->compartment
+compartements->compartments
 compartors->comparators
 compatabilities->compatibilities
 compatability->comparability
@@ -16698,6 +16703,7 @@ criticaal->critical
 criticael->critical
 criticall->critical
 criticat->critical
+criticial->critical
 criticisae->criticise
 criticisaed->criticised
 criticisaes->criticises
@@ -54984,6 +54990,7 @@ seettleemeent->settlement
 seeveeral->several
 seeveereely->severely
 seeveerity->severity
+seever->severe
 sef->safe
 sef->self
 sef->self, safe,
@@ -55862,6 +55869,8 @@ signatroy->signatory
 signats->signals
 signattories->signatories
 signattory->signatory
+signatur->signature
+signaturs->signatures
 signdedness->signedness
 signeddness->signedness
 signednes->signedness
