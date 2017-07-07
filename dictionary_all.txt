@@ -6340,8 +6340,10 @@ assiist->assist
 assiming->assuming
 a ssimple->a simple
 assing->assign
+assinged->assigned
 assingment->assignment
 assingments->assignments
+assings->assigns
 assisitance->assistance
 assisitant->assistant
 assisit->assist
@@ -67327,6 +67329,8 @@ whinges->whines
 whinnes->whines
 whio->who
 whiped->wiped
+whishes->wishes
+whish->wish
 whitaelist->whitelist
 whitaespacae->whitespace
 whitae->white
