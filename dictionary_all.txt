@@ -1644,6 +1644,8 @@ actuallyy->actually
 actualy->actually
 actuat->actual
 actuatty->actually
+actuionable->actionable
+actuion->action
 actuual->actual
 actuually->actually
 acuracy->accuracy
@@ -6266,6 +6268,7 @@ assemmbler->assembler
 assemmbles->assembles
 assemmbly->assembly
 assemple->assemble
+assenbly->assembly
 asserion->assertion
 asserlion->assertion
 asserrtion->assertion
@@ -8200,6 +8203,7 @@ behaaviour->behaviour
 behaevior->behavior
 behaeviour->behaviour
 behaiour->behavior
+behaivior->behaviour
 behaveior->behavior
 behaveiour->behaviour
 behaviior->behavior
@@ -14061,6 +14065,7 @@ confiiguriing->configuring
 confiirm->confirm
 confiirmed by->confirmed by
 confiirmed->confirmed
+confimred->confirmed
 confirguration->configuration
 confirmaed by->confirmed by
 confirmaed->confirmed
@@ -38723,6 +38728,7 @@ meaesurement->measurement
 meainig->meaning
 meaniing->meaning
 meaninful->meaningful
+meaningfull->meaningful
 meaningg->meaning
 meanin->meaning
 meaninng->meaning
@@ -47730,6 +47736,7 @@ preceed->precede
 preceeds->precedes
 precendence->precedence
 precentage->percentage
+precentages->percentages
 precesion->precision
 precice->precise
 preciisely->precisely
@@ -51828,6 +51835,7 @@ regisstry->registry
 registeration->registration
 registerd->registered
 registeredd->registered
+registeres->registers
 registery->registry
 registhered->registered
 registher->register
@@ -53172,6 +53180,7 @@ restauurateuur->restaurateur
 restauurateuurs->restaurateurs
 resteraunt->restaurant
 resteraunts->restaurants
+reste->reset
 restharthed->restarted
 resthauranth->restaurant
 resthauranths->restaurants
@@ -60725,6 +60734,7 @@ systemmatically->systematically
 systemms->systems
 systemm->system
 system system->system
+systen->system
 systhemathically->systematically
 systhems->systems
 systhem->system
