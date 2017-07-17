@@ -17013,6 +17013,8 @@ curriculumm->curriculum
 curricutum->curriculum
 curriiculum->curriculum
 curriosity->curiosity
+currnt->current
+currntly->currently
 currrent->current
 currrrent->current
 currrrently->currently
@@ -32763,6 +32765,8 @@ infraastructures->infrastructures
 infraestructure->infrastructure
 infraestructures->infrastructures
 infrantryman->infantryman
+infrasctructure->infrastructure
+infrasctructures->infrastructures
 infrasitructure->infrastructure
 infrasitructures->infrastructures
 infraslruclure->infrastructure
@@ -49814,6 +49818,7 @@ pull downn->pull down
 pull dow->pull down
 pull dowwn->pull down
 pullll down->pull down
+pulll->pull
 pulting->putting
 pumkin->pumpkin
 pummpkin->pumpkin
@@ -57255,6 +57260,7 @@ specificatioon->specification
 specificattion->specification
 specificatty->specifically
 specificied->specified
+specificly->specifically
 specifiction->specification
 specificy->specify
 specifiedd->specified
@@ -65461,6 +65467,8 @@ upsttream->upstream
 up tho->up to
 up too->up to
 upto->up to
+uptreams->upstreams
+uptream->upstream
 uptsream->upstream
 up tto->up to
 ur->our
