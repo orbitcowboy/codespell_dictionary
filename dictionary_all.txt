@@ -45121,6 +45121,7 @@ pedestriian->pedestrian
 pedestrrian->pedestrian
 pedesttrian->pedestrian
 pedetsrian->pedestrian
+pedning->pending
 peeaceeful and->peaceful and
 peeculiar->peculiar
 peedantic->pedantic
