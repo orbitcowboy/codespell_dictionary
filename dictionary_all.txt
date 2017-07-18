@@ -36460,6 +36460,7 @@ lenghts->lengths
 lenghty->lengthy
 lenglh->length
 lenglhy->lengthy
+lengthes->lengths
 lengthh->length
 lengthhy->lengthy
 lengthyy->lengthy
@@ -44163,6 +44164,8 @@ oveerusee->overuse
 oveeruse->overuse
 oveerwheelming->overwhelming
 oveerwhelming->overwhelming
+ovehead->overhead
+oveheads->overheads
 over ccompliccated->over complicated
 over commplicated->over complicated
 over complicaated->over complicated
