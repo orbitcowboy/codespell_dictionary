@@ -13260,6 +13260,7 @@ comparisions->comparisons
 comparisonn->comparison
 comparisonns->comparisons
 comparisson->comparison
+comparissons->comparisons
 comparissonss->comparisons
 comparitive->comparative
 comparitively->comparatively
@@ -19708,6 +19709,7 @@ dichotommy->dichotomy
 dichotomyy->dichotomy
 dichottomy->dichotomy
 dichtomy->dichotomy
+dicimal->decimal
 diclionary->dictionary
 diconnects->disconnects
 dicover->discover
@@ -20575,6 +20577,7 @@ diskrete->discrete
 diskuss->discuss
 diskussed->discussed
 dislay->display
+disley->display
 dislinclion->distinction
 dislinclive->distinctive
 dislinguish->distinguish
@@ -21072,6 +21075,7 @@ documeents->documents
 documemt->document
 documemts->documents
 documenation->documentation
+documenations->documentations
 documenatry->documentary
 documenlable->documentable
 documenlalion->documentation
@@ -29991,6 +29995,7 @@ hosspitable->hospitable
 hotiday->holiday
 hot to->how to
 hoty->holy
+hould->hold, should,
 hounour->honour
 hourrs->hours
 hourss->hours
@@ -31207,6 +31212,7 @@ immanentt->immanent
 immannennt->immanent
 immbalanced->imbalanced
 immbalance->imbalance
+immeadiately->immediately
 immeddiate->immediate
 immeddiately->immediately
 immediaate->immediate
@@ -36274,6 +36280,7 @@ lattittude->latitude
 lattitude->latitude
 lauched->launched
 lauches->launches
+lauching->launching
 lauch->launch
 laughl->taught
 launcched->launched
@@ -39263,6 +39270,7 @@ methoodes->methodes
 methood->method
 methoodooloogy->methodology
 methoods->methods
+methos->methods
 methrics->metrics
 metiing->meting
 metingg->meting
@@ -49282,6 +49290,8 @@ protagonits->protagonist
 protagonitss->protagonists
 protagonnist->protagonist
 protagonnists->protagonists
+protcol->protocol
+protcols->protocols
 protecction->protection
 protecct->protect
 protectiion->protection
@@ -50745,6 +50755,7 @@ rearrangment->rearrangement
 rearranguement->rearrangement
 rearranngemennt->rearrangement
 reasearch->research
+reasearh->research
 reasign->reassign
 reasonabble->reasonable
 reasonablle->reasonable
@@ -52387,6 +52398,7 @@ renowwn->renown
 rentering->reentering
 renterss->renters
 renthers->renters
+rentime->runtime
 rentors->renters
 rentrancy->reentrancy
 rentters->renters
@@ -55631,6 +55643,7 @@ shieeld->shield
 shieldd->shield
 shielld->shield
 shietd->shield
+shifing->shifting
 shiield->shield
 shiiniing->shining
 shiipped->shipped
@@ -58494,6 +58507,7 @@ stilus->stylus
 stingent->stringent
 stings->strings
 sting->string
+stin->stdin
 stip->slip
 stiring->stirring
 stirng->string
@@ -58817,6 +58831,8 @@ strucctures->structures
 struccture->structure
 strucst->structs
 structed->structured
+structres->structures
+structre->structure
 structual->structural
 structude->structured
 structuraal->structural
@@ -65464,6 +65480,7 @@ upstraeam->upstream
 upstraem->upstream
 upstreaam->upstream
 upstreaem->upstream
+upstreamedd->upstreamed
 upstreamm->upstream
 upstreeam->upstream
 upstrream->upstream
@@ -65897,6 +65914,8 @@ varation->variation
 vareous->various
 variabbles->variables
 variabble->variable
+variabeles->variables
+variabele->variable
 variabes->variables
 variablaes->variables
 variablae->variable
@@ -66155,6 +66174,9 @@ veiw->view
 vektorization->vectorization
 vektors->vectors
 vektor->vector
+velidated->validated
+velidates->validates
+velidate->validate
 vell->well
 vemware->vmware
 venemous->venomous
