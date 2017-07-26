@@ -14084,6 +14084,8 @@ confirrm->confirm
 confirrmed by->confirmed by
 confirrmed->confirmed
 confitions->conditions
+confiugration->configuration
+confiugrations->configurations
 confiugre->configure
 conflcting->conflicting
 conflusion->conclusion
@@ -27645,6 +27647,9 @@ genealogyy->genealogy
 genealoogical->genealogical
 genealoogies->genealogies
 genealoogy->genealogy
+geneated->generated
+geneate->generate
+geneates->generates
 geneatogicat->genealogical
 geneatogies->genealogies
 geneatogy->genealogy
@@ -43503,6 +43508,8 @@ operaetion->operation
 operaetions->operations
 operaetor->operator
 operaetors->operators
+operaion->operation
+operaions->operations
 operale->operate
 operales->operates
 operalion->operation
