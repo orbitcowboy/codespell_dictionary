@@ -38245,6 +38245,10 @@ maniputator->manipulator
 maniputor->manipulator
 manipuulator->manipulator
 manisfestations->manifestations
+manissa->mantissa
+manissas->mantissas
+manitsa->mantissa
+manitsas->mantissas
 manlissa->mantissa
 manmalian->mammalian
 manmal->mammal
@@ -38377,6 +38381,7 @@ mantains->maintains
 manthissa->mantissa
 mantiissa->mantissa
 mantisa->mantissa
+mantisas->mantissas
 mantissssa->mantissa
 manttissa->mantissa
 manualllly->manually
@@ -52619,6 +52624,8 @@ repproducibility->reproducibility
 repproducible->reproducible
 repproducibly->reproducibly
 represantative->representative
+represenation->representation
+represenations->representations
 represenlalion->representation
 represenlalive->representative
 represenlalives->representatives
