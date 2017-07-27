@@ -8,7 +8,6 @@ agressiv->aggressiv
 Akkustik->Akustik
 albel->Label
 allle->alle
-uach->auch
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
 Ananlyse->Analyse
@@ -368,6 +367,7 @@ Tipp->Tip
 togglen->toggeln
 totlangweilig->todlangweilig
 totschick->todschick
+uach->auch
 Übergangskriteren->Übergangskriterien
 Umbgebung->Umbgebung
 unabgedeckt->nicht abgedeckt
