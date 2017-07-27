@@ -5153,6 +5153,7 @@ appliccation->application
 appliccations->applications
 appliction->application
 applictions->applications
+applieation->application
 appliedd->applied
 applieed->applied
 appliees->applies
@@ -7169,6 +7170,7 @@ authhorship->authorship
 authobiographic->autobiographic
 authobiography->autobiography
 authochthhonous->autochthonous
+authofization->authorization
 authoincrementh->autoincrement
 autho login->auto login
 authomagically->automagically
@@ -7404,6 +7406,7 @@ avaeragaed->averaged
 avaiable->available
 avaialble->available
 avaible->available
+avaiiable->available
 avaiilabiiliity->availability
 avaiilable->available
 availabbility->availability
@@ -7564,6 +7567,7 @@ a wwhile->a while
 awwkwward->awkward
 awya->away
 axactly->exactly
+azntena->antenna
 baack->back
 baackground->background
 baackgrounds->backgrounds
@@ -8516,6 +8520,7 @@ betttter->better
 betttter tthan->better than
 bettween->between
 bettwether->bellwether
+betvreen->between
 betwee->between
 betweeen->between
 betweenn->between
@@ -15159,6 +15164,8 @@ conten->content
 contendder->contender
 contenderr->contender
 contendor->contender
+contenl->content
+contenls->contents
 contens->content
 contens->contents
 contenst->contents
@@ -20504,6 +20511,7 @@ discussaed->discussed
 discusseed->discussed
 discuuss->discuss
 discuussed->discussed
+disdosed->disposed
 disecting->dissecting
 diseenchanteed->disenchanted
 disemination->dissemination
@@ -21079,6 +21087,7 @@ documemts->documents
 documenation->documentation
 documenations->documentations
 documenatry->documentary
+documen!->document
 documenlable->documentable
 documenlalion->documentation
 documenlalion slyle->documentation style
@@ -22662,6 +22671,8 @@ emissionn->emission
 emissionns->emissions
 emissioon->emission
 emissioons->emissions
+emissron->emission
+emissrons->emissions
 emissssariess->emissaries
 emissssary->emissary
 emissssion->emission
@@ -23650,6 +23661,7 @@ equivlalent->equivalent
 equivvalence->equivalence
 equivvalent->equivalent
 equl->equal
+equrpment->equipment
 equual->equal
 equuatorial->equatorial
 equuilibriuum->equilibrium
@@ -23920,6 +23932,7 @@ esttablishing->establishing
 esttablishmentt->establishment
 esttimatted->estimated
 esttimattion->estimation
+etablissement->establishment
 etapsed->elapsed
 etcc->etc
 etcc.->etc.
@@ -23933,6 +23946,7 @@ etectricity->electricity
 etectron->electron
 etectronic->electronic
 etectronics->electronics
+etectrostatic->electrostatic
 etementary->elementary
 etement->element
 etements->elements
@@ -25109,6 +25123,7 @@ exprression->expression
 exprressions->expressions
 exprroprriated->expropriated
 exprroprriation->expropriation
+exprsss->express
 exptained->explained
 exptain->explain
 exptaining->explaining
@@ -26412,6 +26427,7 @@ fllirts->flirts
 fllourish->flourish
 flluorescent->fluorescent
 flluorine->fluorine
+floaled->floated
 flocse->fclose
 floourish->flourish
 florescent->fluorescent
@@ -27701,6 +27717,7 @@ generattes->generates
 generatting->generating
 generattion->generation
 generatty->generally
+generel->general
 genereted->generated
 generetes->generates
 generilized->generalized
@@ -29264,6 +29281,8 @@ heirarchies->hierarchies
 heirarchy->hierarchy
 heiroglyphics->hieroglyphics
 helerogeneous->heterogeneous
+helicopterr->helicopter
+helicopterrs->helicopters
 hellio->hello
 hellllo->hello
 hellmet->helmet
@@ -32895,6 +32914,7 @@ inhhabitants->inhabitants
 inhherently->inherently
 inhheritance->inheritance
 in hte->in the
+iniection->injection
 inifinite->infinite
 inifity->infinity
 iniitialize->initialize
@@ -34025,6 +34045,7 @@ intented->intended, indented
 intented->intended, indented,
 intentionaal->intentional
 intentionael->intentional
+intentionafly->intentionally
 intentionall->intentional
 intentionat->intentional
 intentioonal->intentional
@@ -38693,6 +38714,7 @@ maximus->maximum
 maximuum->maximum
 maxinum->maximum
 maxium->maximum
+maxrmal->maximal
 maxximum->maximum
 mayabe->maybe
 maybae->maybe
@@ -39145,6 +39167,7 @@ metalic->metallic
 metallicc->metallic
 metalliic->metallic
 metallik->metallic
+metallized->metalized
 metallllic->metallic
 metallllurgicall->metallurgical
 metallllurgic->metallurgic
@@ -42091,6 +42114,7 @@ nonopperational->nonoperational
 nonsaensae->nonsense
 nonseensee->nonsense
 nonsence->nonsense
+nonsimultaneous->non simultaneous
 nonssensse->nonsense
 nontheless->nonetheless
 nonthrivial->nontrivial
@@ -43017,6 +43041,7 @@ of coursee->of course
 ofcourse->of course
 of coursse->of course
 of couurse->of course
+ofdesign->of design
 ofered->offered
 oferings->offerings
 offaeraed->offered
@@ -50036,6 +50061,7 @@ qualfication->qualification
 qualiffication->qualification
 qualifiaction->qualification
 qualificalion->qualification
+qualificalions->qualifications
 qualificathion->qualification
 qualificationn->qualification
 qualificatioon->qualification
@@ -52741,6 +52767,7 @@ reptace->replace
 repticabte->replicable
 repties->replies
 reptition->repetition
+reptoduoed->reproduced
 repubican->republican
 repubicans->republicans
 repubic->republic
@@ -52805,6 +52832,8 @@ requiress->requires
 requirmeents->requirements
 requirment->requirement
 requirments->requirements
+requnement->requirement
+requnements->requirements
 requqirements->requirements
 requred->required
 requrements->requirements
@@ -61066,6 +61095,7 @@ techniciaan->technician
 techniciaens->technicians
 techniciaen->technician
 technicianss->technicians
+technics->technicals
 technic->technical
 techniical->technical
 techniiciians->technicians
@@ -62116,6 +62146,7 @@ tiabte->liable
 tiaise->liaise
 tiaison->liaison
 tiaisons->liaisons
+tiansmittsd->transmitted
 tiasion->liasion
 tibertarianism->libertarianism
 tibet->libel
@@ -67542,6 +67573,7 @@ wiithout->without
 wiith->with
 wiizard->wizard
 wikipaedia->wikipedia
+wikipeadia->wikipedia
 wikipeddia->wikipedia
 wikipediaa->wikipedia
 wikipediae->wikipedia
@@ -67686,6 +67718,7 @@ withdrawl->withdrawal, withdraw
 withdrawl->withdrawal, withdraw,
 withdrrawal->withdrawal
 withdrraw->withdraw
+withd->width
 witheld->withheld
 wither->either
 withespace->whitespace
