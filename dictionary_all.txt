@@ -11160,6 +11160,7 @@ cellppadding->cellpadding
 cellsius->celsius
 celpadding->cellpadding
 celsiius->celsius
+celsisus->celsius
 celsiuus->celsius
 celssiuss->celsius
 cemeleries->cemeteries
@@ -15215,6 +15216,7 @@ contibute->contribute
 contibuted->contributed
 contibutes->contributes
 contibutor->contributor
+contidtionally->conditionally
 contigent->contingent
 contigguous->contiguous
 contigious->contiguous
@@ -20122,6 +20124,7 @@ dimminutive->diminutive
 dimunitive->diminutive
 dinension->dimension
 dinensions->dimensions
+dioagnostics->diagnostics
 diocaesae->diocese
 dioccese->diocese
 dioceesee->diocese
@@ -26532,6 +26535,7 @@ fomr->from, form
 fomr->from, form,
 fomula->formula
 fonction->function
+fonctions->functions
 fonetic->phonetic
 fonlier->fontier
 fonntier->fontier
@@ -56161,6 +56165,7 @@ simulalor->simulator
 simulantaneously->simultaneously
 simulantaneous->simultaneous
 simular->similar
+simulataneously->simultaneously
 simulathor->simulator
 simulatoor->simulator
 simulatorr->simulator
@@ -61229,6 +61234,8 @@ temperaete->temperate
 temperaeture->temperature
 temperamennt->temperament
 temperarily->temporarily
+temperatues->temperatures
+temperatue->temperature
 temperatuure->temperature
 temperment->temperament
 temperrament->temperament
@@ -67700,6 +67707,7 @@ winndows xp->windows xp
 winndow->window
 winsows->windows
 wioth->with
+wipoing->wiping
 wirting->writing
 witdcarded->wildcarded
 witdcard->wildcard
