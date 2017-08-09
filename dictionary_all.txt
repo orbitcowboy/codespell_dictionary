@@ -29274,7 +29274,9 @@ heidellberg->heidelberg
 heidetberg->heidelberg
 heigght->height
 heigher->higher
+heigh->height
 heighl->height
+heighs->heights
 heighth->height
 heightt->height
 heigth->height
@@ -38295,6 +38297,7 @@ manneuvers->maneuvers
 mannifestationns->manifestations
 mannipulator->manipulator
 mann->manner
+mannner->manner
 mannnner->manner
 mannoeuverability->manoeuverability
 mannoeuvrability->manoeuvrability
@@ -44957,6 +44960,7 @@ partikularly->particularly
 partikular->particular
 partioning->partitioning
 partion->partition
+partion->partition, portion,
 partions->partitions
 partipants->participants
 partitioningg->partitioning
@@ -49229,6 +49233,8 @@ propheecy->prophecy
 propheky->prophecy
 prophhecy->prophecy
 propietary->proprietary
+propject->project
+propjects->projects
 propmted->prompted
 propoganda->propaganda
 propogated->propagated
@@ -63911,6 +63917,7 @@ typiical->typical
 typikally->typically
 typikal->typical
 typoe->typo
+typ of->type of
 typoggraphical->typographical
 typograaphicaal->typographical
 typograephicael->typographical
@@ -63931,6 +63938,7 @@ typpically->typically
 typpical->typical
 typpograpphical->typographical
 typpo->typo
+typs of->types
 typs->types
 typ->type
 tyraannies->tyrannies
@@ -64757,6 +64765,7 @@ unith thesths->unit tests
 unitialized ->uninitialized
 unitialized->uninitialized
 unitinitialized->uninitialized
+unitl->until
 unit taests->unit tests
 unittedsttattes->unitedstates
 unit teests->unit tests
