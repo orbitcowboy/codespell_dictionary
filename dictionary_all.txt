@@ -22497,6 +22497,8 @@ elligiblle->eligible
 elliminated->eliminated
 elliminating->eliminating
 ellse->else
+elment->element
+elments->elements
 elphant->elephant
 elsse->else
 emaanaated->emanated
@@ -34447,6 +34449,7 @@ intialize->initialize
 intializers->initializers
 intializing->initializing
 intially->initially
+intiates->initiates
 intiialize->initialize
 intining->inlining
 intitial->initial
@@ -38076,6 +38079,8 @@ makefiel->makefile
 makefiile->makefile
 makefille->makefile
 makefite->makefile
+makefle->makefile
+makefles->makefiles
 makerel->mackerel
 makess->makes
 makfile->makefile
