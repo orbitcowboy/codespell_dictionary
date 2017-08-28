@@ -3642,6 +3642,7 @@ aligne->align
 alignedd->aligned
 aligneed->aligned
 alignement->alignment
+alignements->alignments
 alignmaent->alignment
 alignmeent->alignment
 alignmenl->alignment
@@ -11565,6 +11566,7 @@ charater->character
 charaterized->characterized
 charaters->characters
 charcter->character
+charcters->characters
 charecter->character
 chareter->character
 chareters->characters
@@ -11977,6 +11979,8 @@ ciricuit->circuit
 ciriculum->curriculum
 cirlce->circle
 cirlces->circles
+cirle->circle
+cirles->circles
 cirrcle->circle
 cirrcles->circles
 cirrcuit->circuit
@@ -12205,6 +12209,8 @@ cmo->com, disabled due to lots of false positives
 cmoputer->computer
 cmplete->complete
 cna->can
+cnat->can't
+cnat'->can't
 cnife->knife
 cnitializing->initializing
 cnives->knives
@@ -29094,6 +29100,7 @@ have noot->have not
 have noth->have not
 have nott->have not
 havent->haven't
+havent'->haven't
 haven'th->haven't
 haven'tt->haven't
 have they been->they have been
@@ -29117,6 +29124,7 @@ havinng->having
 hav not->have not
 havnt->have not
 havn't->haven't
+havnt->haven't
 havve been->have been
 havve->have
 havve not->have not
@@ -31860,6 +31868,7 @@ inauuguuration->inauguration
 inbalanced->imbalanced
 inbalance->imbalance
 inbetween->between
+inbetween->between, in between,
 inbetween->in between
 incaarceraated->incarcerated
 in caase->in case
@@ -38608,6 +38617,8 @@ matchingg->matching
 matchinng->matching
 matcotm->malcolm
 mateerialist->materialist
+mateiral->material
+mateirals->materials
 matematically->mathematically
 matematical->mathematical
 matematician->mathematician
@@ -43809,6 +43820,9 @@ optimmizing->optimizing
 optimzed->optimized
 optimze->optimize
 optimzes->optimizes
+optinal->optional
+optin->option
+optins->options
 optionaal->optional
 optionael->optional
 optionall->optional
@@ -53584,6 +53598,7 @@ reveiew->review
 reveiews->reviews
 reveision->revision
 reveisions->revisions
+reveiwed->reviewed
 reveiw->review
 revelant->relevant
 reveolutionary->revolutionary
@@ -60890,6 +60905,7 @@ tabets->labels
 tabetted->labelled
 tablae->table
 tablee->table
+tablled->tabled
 tablle->table
 tabl->table
 taboratory->laboratory
@@ -66048,6 +66064,7 @@ variouus->various
 varities->varieties
 varity->variety
 variuable->variable
+varius->various
 varriables->variables
 varriable->variable
 varriance->variance
