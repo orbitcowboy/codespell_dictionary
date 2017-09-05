@@ -4763,6 +4763,7 @@ ans so->and so
 ansswer->answer
 ansswered->answered
 ansswerss->answers
+anstance->instance
 answaeraed->answered
 answaer->answer
 answaers->answers
@@ -23636,6 +23637,7 @@ equipemnt->equipment
 equipmenl->equipment
 equipmennt->equipment
 equipmenth->equipment
+equipments->equipment
 equipmentt->equipment
 equipmment->equipment
 equipmpent->equipment
@@ -42840,6 +42842,7 @@ obviousty->obviously
 obviouusly->obviously
 obviouus->obvious
 obvisouly->obviously
+obvlious->obvious
 obvous->obvious
 obvviously->obviously
 obvvious->obvious
@@ -53094,6 +53097,9 @@ resoolutioon->resolution
 resoource->resource
 resoources->resources
 resopnse->response
+resored->restored
+resore->restore
+resores->restores
 resotred->restored
 resotution->resolution
 resouce->resource
@@ -59051,6 +59057,8 @@ studdy->study
 studiio->studio
 studing->studying
 studioo->studio
+studos->studios
+studo->studio
 studyiing->studying
 studyingg->studying
 studyinng->studying
