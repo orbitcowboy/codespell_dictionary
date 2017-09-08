@@ -7610,6 +7610,7 @@ backgroound->background
 backgroounds->backgrounds
 backgroud->background
 backgrouded->background
+backgrouds->backgrounds
 backgroundd->background
 backgroundds->backgrounds
 backgroundss->backgrounds
@@ -12402,6 +12403,7 @@ collaguaes->colleagues
 collaleral->collateral
 collander->colander
 collaobrative->collaborative
+collapes->collapses
 collataeral->collateral
 collateeral->collateral
 collaterral->collateral
@@ -12630,6 +12632,7 @@ comiing->coming
 comiler->compiler
 comingg->coming
 cominng->coming
+comiplation->compilation
 comision->commission
 comisioned->commissioned
 comisioner->commissioner
@@ -13644,6 +13647,7 @@ comprehenssive->comprehensive
 comprehhensive->comprehensive
 compres->compress
 compresion->compression
+compresseed->compressed
 compressiion->compression
 compressing->compression
 compressionn->compression
@@ -21806,6 +21810,7 @@ editorr->editor
 editr->editor
 editro->editor
 editt->edit
+editting->editing
 edittor->editor
 educaationaal->educational
 educaetionael->educational
@@ -22144,6 +22149,7 @@ efectively->effectively
 efect on->effect on
 efects->effects
 efel->evil
+efering->referring
 effecct->effect
 effecctive->effective
 effecctively->effectively
@@ -26501,6 +26507,7 @@ foldeer->folder
 folderr->folder
 follder->folder
 folling->following
+folliwing->following
 follllowing->following
 follllowing in->following in
 follllows->follows
@@ -31947,6 +31954,7 @@ incidenthally->incidentally
 incidentially->incidentally
 incidently->incidentally
 incidenttally->incidentally
+inclided->included
 inclluded->included
 incllude->include
 inclludes->includes
@@ -44138,6 +44146,8 @@ outhpuththing->outputting
 outhside->outside
 outhsthanding->outstanding
 outlife->outline
+outlinging->outlining
+outling->outlining
 out off->out of
 out_off_range->out_of_range
 out_of_raange->out_of_range
@@ -58397,6 +58407,7 @@ standar->standard
 standart->standard
 standdardds->standards
 standdardd->standard
+standrard->standard
 stange->strange
 stanndards->standards
 stanndard->standard
@@ -63290,6 +63301,7 @@ trigered->triggered
 triger->trigger
 triggaeraed->triggered
 triggaer->trigger
+trigged->triggered
 triggeereed->triggered
 triggeer->trigger
 triggerd->triggered
@@ -66140,6 +66152,8 @@ vecotr->vector
 vecthorizathion->vectorization
 vecthors->vectors
 vecthor->vector
+vectonrs->vectors
+vectonr->vector
 vectoorizatioon->vectorization
 vectoors->vectors
 vectoor->vector
