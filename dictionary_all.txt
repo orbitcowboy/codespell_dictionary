@@ -6307,6 +6307,7 @@ assiggnments->assignments
 assiggns->assigns
 assiging->assigning
 assigment->assignment
+assigments->assignments
 assigmment->assignment
 assigmments->assignments
 assigne->assign
@@ -13451,6 +13452,7 @@ compilet->compiled
 compiliance->compliance
 compiliant->compliant
 compilingg->compiling
+compilining->compiling
 compilinng->compiling
 compillablle->compilable
 compillation->compilation
@@ -26922,6 +26924,8 @@ fortunnately->fortunately
 fortuunately->fortunately
 fortyy->forty
 forula->formula
+forumla->formula
+forumlas->formulas
 forunner->forerunner
 forwaarded->forwarded
 forwaard->forward
@@ -42527,6 +42531,8 @@ numbeers->numbers
 numberiing->numbering
 numberingg->numbering
 numberin->numbering
+number literal->numeric literal
+number literals->numeric literals
 numberous->numerous
 numberring->numbering
 numberr->number
@@ -52893,6 +52899,7 @@ requries->requires
 requrimens->requirements
 requrired->required
 requrirement->requirement
+requrirements->requirements
 requuest->request
 requuests->requests
 requuired->required
@@ -53742,6 +53749,7 @@ rhyythm->rhythm
 rhyythms->rhythms
 riddiculous->ridiculous
 ridicculous->ridiculous
+ridiciously->ridiculously
 ridicullous->ridiculous
 ridiculoous->ridiculous
 ridiculouss->ridiculous
@@ -53817,6 +53825,7 @@ robustneess->robustness
 robustnes->robustness
 robustnness->robustness
 robusttness->robustness
+robutness->robustness
 robutsness->robustness
 robuustness->robustness
 roccefeller->rockefeller
@@ -61586,6 +61595,7 @@ that'ss->that's
 thaughth->taught
 thaxonomic->taxonomic
 thaxonomy->taxonomy
+the a->a
 theaater->theater
 the aese of->the ease of
 theaeter->theater
