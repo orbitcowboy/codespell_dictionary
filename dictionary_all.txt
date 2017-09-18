@@ -11799,6 +11799,7 @@ childreen->children
 childrenn->children
 childrren->children
 childs->children
+childs->children, child's,
 child'ss->child's
 childs's->child's
 chilldbirth->childbirth
@@ -26810,6 +26811,7 @@ formedd->formed
 formeed->formed
 formeerly->formerly
 formelly->formerly
+formend->formed
 formerlly->formerly
 formerlyy->formerly
 formerty->formerly
@@ -38232,6 +38234,7 @@ managuement->management
 managuement tool->management tool
 managuer->manager
 mananger->manager
+mandetory->mandatory
 maneeuveerability->maneuverability
 maneeuveerablee->maneuverable
 maneeuveer->maneuver
@@ -38434,6 +38437,7 @@ mantained->maintained
 mantaining->maintaining
 mantain->maintain
 mantains->maintains
+mantatory->mandatory
 manthissa->mantissa
 mantiissa->mantissa
 mantisa->mantissa
@@ -42137,6 +42141,7 @@ non-intteracttive->non-interactive
 nonkombatants->noncombatants
 nonkompliant->noncompliant
 nonlrivial->nontrivial
+non->none
 nonopaerational->nonoperational
 nonopeerational->nonoperational
 nonoperaationaal->nonoperational
@@ -42221,6 +42226,7 @@ normaalizaation->normalization
 normaally->normally
 normaelizaetion->normalization
 normaelly->normally
+normales->normals
 normaliizatiion->normalization
 normalizalion->normalization
 normalizathion->normalization
@@ -52767,6 +52773,7 @@ repressentativess->representatives
 repressented->represented
 repressent->represent
 repressentss->represents
+reprociblbe->reproducible
 reprodducibility->reproducibility
 reprodducible->reproducible
 reprodducibly->reproducibly
@@ -61499,6 +61506,7 @@ tetephony->telephony
 tetetype->teletype
 tetevision->television
 tethat->lethal
+te->the
 tetnet->telnet
 tetsed->tested
 tetsicular->testicular
