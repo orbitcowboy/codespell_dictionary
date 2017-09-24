@@ -11151,6 +11151,7 @@ ceivingg->ceiving
 ceivinng->ceiving
 ceivving->ceiving
 celcius->celsius
+celesius->celsius
 cellll->cell
 cellllpadding->cellpadding
 cellpaadding->cellpadding
@@ -33743,6 +33744,7 @@ instatted->installed
 instatt->install
 insteaad->instead
 insteadd->instead
+in stead->instead
 insteaed->instead
 insteaf->instead
 insteead->instead
@@ -40379,6 +40381,8 @@ modetting->modelling
 modfiable->modifiable
 modfied->modified
 modfiied->modified
+modidfier->modifier
+modidfiers->modifiers
 modifed->modified
 modiffiable->modifiable
 modiffication->modification
@@ -50196,6 +50200,8 @@ questionabble->questionable
 questionablle->questionable
 questionabte->questionable
 questionaeble->questionable
+questionare->questionnaire
+questionares->questionnaires
 questionnable->questionable
 questionn->question
 questionns->questions
@@ -68101,6 +68107,7 @@ wouldn'tt->wouldn't
 wouldnt->would not
 wouldnt->wouldn't
 would of->would have
+woulkd->would
 woulld have->would have
 woulld not->would not
 woulldn't->wouldn't
