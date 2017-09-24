@@ -12896,8 +12896,6 @@ coloum->column
 coloumn->column
 coloumns->columns
 coloums->columns
-colour->color
-colours->colors
 colroings->colorings
 colum->column
 columm->column
