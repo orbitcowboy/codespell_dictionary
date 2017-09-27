@@ -22,7 +22,6 @@ Artzt->Arzt
 assozial->asozial
 Athmosphäre->Atmosphäre
 Atrappe->Attrappe
-Spicher->Speicher
 Aufage->Aufgabe
 Aufagen->Aufgaben
 aufegeschlagen->aufgeschlagen
@@ -340,6 +339,7 @@ Softwarepackete->Softwarepakete
 Softwwareversion->Softwareversion
 Spass->Spaß
 Speoche->Speicher
+Spicher->Speicher
 Spirenzchen->Sperenzchen
 Splenkörper->Spulenkörper
 sponsorn->sponsern

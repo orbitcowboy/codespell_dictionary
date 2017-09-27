@@ -4702,8 +4702,11 @@ annomaly->anomaly
 annonate->annotate
 annonated->annotated
 annonates->annotates
+annonce->announce
+annonced->announced
 annoncement->announcement
 annoncements->announcements
+annonces->announces
 annonnymity->anonymity
 annonnymous->anonymous
 annootate->annotate
@@ -5255,6 +5258,7 @@ applaiction->application
 applcation->application
 applcations->applications
 appliaction->application
+appliactions->applications
 appliaed->applied
 appliaes->applies
 appliancae->appliance
@@ -6121,6 +6125,7 @@ arrticles->articles
 arrtificial->artificial
 arrtificially->artificially
 arrtillerry->artillery
+arry->array
 artcile->article
 artefact->artifact
 artefacts->artifacts
@@ -22550,6 +22555,7 @@ editoor->editor
 editorr->editor
 editr->editor
 editro->editor
+editted->edited
 editt->edit
 editting->editing
 edittor->editor
@@ -28493,6 +28499,7 @@ gallatians->galatians
 gallaxies->galaxies
 galle->gale
 gallvanized->galvanized
+galons->gallons
 galvaniized->galvanized
 galvanizaed->galvanized
 galvanizedd->galvanized
@@ -65628,6 +65635,7 @@ trucating->truncating
 truely->truly
 trully->truly
 trulyy->truly
+trunates->truncates
 truncaated->truncated
 truncaeted->truncated
 truncataed->truncated
