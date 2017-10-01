@@ -1330,6 +1330,7 @@ aceptable->acceptable
 acept->accept
 aceptance->acceptance
 acepts->accepts
+acerage->acreage
 acesors->accessors
 acessable->accessible
 acess->access
@@ -1484,7 +1485,6 @@ acknowwledging->acknowledging
 ackowledge->acknowledge
 ackowledged->acknowledged
 ackward->awkward
-ackward->awkward*
 ackward->awkward, backward
 ackward->awkward, backward,
 ackward->backward
@@ -1633,6 +1633,7 @@ acquuires->acquires
 acquuiring->acquiring
 acquuisition->acquisition
 acquuitted->acquitted
+acrage->acreage
 acreditation->accreditation
 acrooss->across
 acros->across
@@ -2260,6 +2261,7 @@ advisroy->advisory
 advissed->advised
 advissing->advising
 advissory->advisory
+advizable->advisable
 advize->advise
 advnturous->adventurous
 advrsary->adversary
@@ -5248,7 +5250,7 @@ appereance->appearance
 appereances->appearances
 appered->appeared
 apperently->apparently
-appers->appears*
+appers->appears
 appiance->appliance
 appiances->appliances
 appication->application
@@ -5603,6 +5605,7 @@ aquired->acquired
 aquirer->acquirer
 aquiring->acquiring
 aquisition->acquisition
+aquit->acquit
 aquitted->acquitted
 aquueduuct->aqueduct
 araea->area
@@ -7515,7 +7518,7 @@ automataed->automated
 automatedd->automated
 automateed->automated
 automatical->automatically
-automaticall->automatically*
+automaticall->automatically
 automaticalllly->automatically
 automaticallyy->automatically
 automaticaly->automatically
@@ -9151,6 +9154,7 @@ bouundary->boundary
 bouut->bout
 bouyancy->buoyancy
 bouyant->buoyant
+bouy->buoy
 bowser->browser
 bowsers->browsers
 boyant->buoyant
@@ -15032,6 +15036,7 @@ consaequaencaes->consequences
 consaequaently->consequently
 consaervativae->conservative
 conscent->consent
+consciencious->conscientious
 consciious->conscious
 consciiously->consciously
 consciiousness->consciousness
@@ -18525,6 +18530,7 @@ deciduoous->deciduous
 deciduouss->deciduous
 deciduuouus->deciduous
 decieved->deceived
+decieve->deceive
 deciidable->decidable
 deciide->decide
 deciidedly->decidedly
@@ -18692,6 +18698,8 @@ dectare->declare
 dectect->detect
 dectection->detection
 decypt->decrypt
+ded->dead
+dedly->deadly
 deeactivateed->deactivated
 deeal->deal
 deeallocateed->deallocated
@@ -20752,6 +20760,7 @@ dilemna->dilemma
 dilenma->dilemma
 dilenna->dilemma
 dillapidated->dilapidated
+dillema->dilemma
 dillemma->dilemma
 dillemna->dilemma
 dimaensional->dimensional
@@ -67383,6 +67392,7 @@ unoobtrusive->unobtrusive
 unoofficial->unofficial
 unoperational->nonoperational
 unorderd->unordered
+unoredered->unordered
 unoticeable->unnoticeable
 unoticed->unnoticed
 unpayable->unplayable
