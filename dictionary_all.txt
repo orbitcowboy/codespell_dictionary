@@ -8486,7 +8486,6 @@ behaviiour->behaviour
 behavioor->behavior
 behavioour->behaviour
 behaviorr->behavior
-behaviour->behavior
 behaviourr->behaviour
 behavious->behavior
 behaviouur->behaviour
@@ -10575,7 +10574,6 @@ cartaesian->cartesian
 cartaginian->carthaginian
 cartdridge->cartridge
 carteesian->cartesian
-cartesian->cartesian
 cartesiann->cartesian
 cartesiian->cartesian
 cartessian->cartesian
