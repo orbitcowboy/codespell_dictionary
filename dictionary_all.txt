@@ -10175,6 +10175,7 @@ cammpaign->campaign
 cammpaigns->campaigns
 camnot->cannot
 camoflage->camouflage
+camoflague->camouflage
 camoouflage->camouflage
 camoufflage->camouflage
 camouflagae->camouflage
@@ -13043,6 +13044,7 @@ comiting->committing
 comitment->commitment
 comitments->commitments
 comits->commits
+comitte->committed, committee,
 comitted->committed
 comittee->committee
 comitting->committing
@@ -14205,6 +14207,7 @@ concattenattion->concatenation
 concatting->concatenating
 concearned->concerned
 concecptional->conceptual
+conceed->concede
 conceeiteed->conceited
 conceeivablee->conceivable
 conceeiveed->conceived
@@ -15078,6 +15081,7 @@ consecuutive->consecutive
 consecuutively->consecutively
 conseecutivee->consecutive
 conseecutiveely->consecutively
+conseed->concede
 conseensus->consensus
 conseent->consent
 conseequeencees->consequences
@@ -21598,6 +21602,7 @@ disstribution->distribution
 disstributionss->distributions
 disstrictss->districts
 distace->distance
+distarct->distract
 distgustingly->disgustingly
 disthincthion->distinction
 disthincthive->distinctive
@@ -26028,6 +26033,7 @@ exptoitative->exploitative
 exptorer->explorer
 exressed->expressed
 extaant->extant
+extacy->ecstacy
 extaent->extant
 extannt->extant
 extarnal->external
@@ -26168,6 +26174,7 @@ extravagent->extravagant
 extravaggant->extravagant
 extraveagant->extravagant
 extravvagant->extravagant
+extreem->extreme
 extremelly->extremely
 extremelyy->extremely
 extrememly->extremely
@@ -27154,6 +27161,7 @@ finsih->finish
 finsihing->finishing
 fird->third
 firends->friends
+firey->fiery
 firmmware->firmware
 firmwaare->firmware
 firmwaere->firmware
@@ -28550,12 +28558,14 @@ garabage->garbage
 garanteed->guaranteed
 garantee->guarantee
 garantees->guarantees
+garanty->guarantee
 garbagae->garbage
 garbagee->garbage
 garbague->garbage
 garbbage->garbage
 gardai->gardaí
 garddaí->gardaí
+garentee->guarantee
 garison->garrison
 garnison->garrison
 garrbage->garbage
@@ -30697,6 +30707,7 @@ hierrarrchy->hierarchy
 hierroglyph->hieroglyph
 hierroglyphics->hieroglyphics
 hierroglyphs->hieroglyphs
+higeine->hygiene
 higer->higher
 higest->highest
 higgh byte->high byte
@@ -30905,6 +30916,7 @@ hitsorians->historians
 hitsory->history
 hit ssingless->hit singles
 hitt singles->hit singles
+hiygeine->hygiene
 hoiisted->hoisted
 hoisited->hoisted
 hoisled->hoisted
@@ -31303,11 +31315,13 @@ hydrrophilic->hydrophilic
 hydrrophobe->hydrophobe
 hydrrophobic->hydrophobic
 hygeine->hygiene
+hygene->hygiene
 hyggiene->hygiene
 hygiaenae->hygiene
 hygieenee->hygiene
 hygienne->hygiene
 hygiiene->hygiene
+hygine->hygiene
 hyjack->hijack
 hyjacking->hijacking
 hylighted->highlighted
@@ -31684,6 +31698,7 @@ ignoored->ignored
 ignoraed->ignored
 ignoredd->ignored
 ignoreed->ignored
+ignorence->ignorance
 ignorred->ignored
 ignroed->ignored
 igored->ignored
@@ -34546,6 +34561,7 @@ innocaencae->innocence
 innoccencce->innocence
 innoceencee->innocence
 innoculated->inoculated
+innoculate->inoculate
 innokenke->innocence
 innoocence->innocence
 inn prinnciple->in principle
@@ -38036,6 +38052,7 @@ libell->libel
 liberaries->libraries
 liberlarianism->libertarianism
 liberrtarrianism->libertarianism
+liberry->library
 libertaariaanism->libertarianism
 libertaeriaenism->libertarianism
 libertarianismm->libertarianism
@@ -38148,6 +38165,7 @@ lighl year->light year
 lighl years->light years
 lighning->lighting
 lighning->lightning
+lightening->lightning
 lighthing->lighting
 lighth year->light year
 lighth years->light years
@@ -41090,6 +41108,7 @@ ministtries->ministries
 ministtry->ministry
 minitsries->ministries
 minitsry->ministry
+miniture->miniature
 minium->minimum
 miniums->minimums
 minized->minimized
@@ -64276,6 +64295,7 @@ thrrough->through
 thruly->truly
 thruncathed->truncated
 thrunk->trunk
+thruout->throughout
 thrusth->trust
 thrusthworthhiness->trustworthiness
 thru->through
