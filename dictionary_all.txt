@@ -12042,6 +12042,7 @@ cheemistry->chemistry
 cheif->chief
 cheifs->chiefs
 chek->check
+chekd->checked
 cheked->checked
 cheking->checking
 chekout->checkout
@@ -21815,6 +21816,8 @@ documaent->document
 documaenting->documenting
 documaents->documents
 documantation->documentation
+documant->document
+documants->documents
 documeentablee->documentable
 documeentary->documentary
 documeentation->documentation
@@ -22157,6 +22160,7 @@ downnload->download
 downnloads->downloads
 downtoad->download
 downtoads->downloads
+dowt->doubt
 dowwnload->download
 dowwnloads->downloads
 doxgen->doxygen
@@ -27182,7 +27186,10 @@ firts->flirts, first
 firts->flirts, first,
 firtual->virtual
 firware->firmware
+fisical->physical, fiscal,
 fisionable->fissionable
+fisisist->physicist
+fisist->physicist
 fisrt->first
 fissionaable->fissionable
 fissionabble->fissionable
@@ -28429,6 +28436,9 @@ fuuthorc->futhorc
 fuxed->fixed
 fxed->fixed
 fxes->fixes
+fysical->physical
+fysisist->physicist
+fysisit->physicist
 gaael->gael
 gaalaactic->galactic
 gaalaatiaans->galatians
@@ -29393,6 +29403,7 @@ ground speeeed->ground speed
 ground sppeed->ground speed
 ground sspeed->ground speed
 grounnd speed->ground speed
+groupd->grouped
 groupid->group id
 groupiing->grouping
 groupinng->grouping
@@ -30325,6 +30336,7 @@ heirarchies->hierarchies
 heirarchy->hierarchy
 heiroglyphics->hieroglyphics
 helerogeneous->heterogeneous
+hel->help, hell, heal,
 helicopterr->helicopter
 helicopterrs->helicopters
 hellio->hello
@@ -40518,6 +40530,7 @@ merkantile->mercantile
 merkat->meerkat
 merkhandise->merchandise
 merkurial->mercurial
+mermory->memory
 merrcantile->mercantile
 merrchandise->merchandise
 merrcurrial->mercurial
@@ -44197,6 +44210,8 @@ obfuuscated->obfuscated
 obfuuscate->obfuscate
 obfuuscation->obfuscation
 obfuuscator->obfuscator
+obgect->object
+obgects->objects
 obivously->obviously
 obivous->obvious
 objaectivae->objective
@@ -44344,6 +44359,10 @@ obvlious->obvious
 obvous->obvious
 obvviously->obviously
 obvvious->obvious
+obyect->object
+obyects->objects
+obyekt->object
+obyekts->objects
 o'caml->ocaml
 ocasionally->occasionally
 ocasional->occasional
@@ -47612,6 +47631,8 @@ physiically->physically
 physiical->physical
 physikally->physically
 physikal->physical
+physisist->physicist
+physisists->physicists
 physsically->physically
 physsical->physical
 phyysicallyy->physically
@@ -50907,6 +50928,7 @@ propertiies->properties
 propertise->properties
 propertties->properties
 propery->property
+propery->property, properly
 propgating->propagating
 prophacy->prophecy
 prophaecy->prophecy
@@ -58891,6 +58913,7 @@ sommething->something
 sommetimmes->sometimes
 sommewhere->somewhere
 somone->someone
+som->some
 somthing->something
 somtimes->sometimes
 somwhere->somewhere
@@ -59293,6 +59316,7 @@ speciaelized->specialized
 speciaelize->specialize
 speciaelly->specially
 speciael->special
+specialiced->specialised, specialized,
 specialice->specialize
 specialisedd->specialised
 specialise->specialize
@@ -59525,6 +59549,7 @@ sperrmatozoon->spermatozoon
 spetting->spelling
 spett->spell
 spezialization->specialization
+spezified->specified
 sphaerically->spherically
 spheerically->spherically
 sphereically->spherically
@@ -69399,6 +69424,8 @@ warings->warnings
 waring->warning
 warining->warning
 wariors->warriors
+warnigs->warnings
+warnig->warning
 warniings->warnings
 warniing->warning
 warninggs->warnings
@@ -70144,6 +70171,7 @@ withoout->without
 withouut->without
 withouyt->without
 withspace->whitespace
+withs->with, widths,
 withthe->with the
 witht->with
 with with->with
