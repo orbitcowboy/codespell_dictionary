@@ -4618,6 +4618,7 @@ anlialiased->antialiased
 anlialiasing->antialiasing
 an linux->a linux
 anly->any
+anly->only
 anmihilation->annihilation
 anmiversary->anniversary
 anmotate->annotate
@@ -4895,6 +4896,7 @@ an pother->another
 ansalisation->nasalisation
 ansalisation->nasalization
 ansalization->nasalization
+ans->and
 an send->and send
 anser->answer
 ansestors->ancestors
@@ -10115,6 +10117,7 @@ callcullation->calculation
 callcullations->calculations
 callcullator->calculator
 callcullus->calculus
+calld->called
 callendar->calendar
 callendars->calendars
 callender->calender
@@ -12419,6 +12422,7 @@ clasified->classified
 clasifies->classifies
 clasify->classify
 clasifying->classifying
+classe->class, classes
 classess->classes
 classicallyy->classically
 classicaly->classically
@@ -12561,6 +12565,7 @@ cloock->clock
 cloock speed->clock speed
 cloock speeds->clock speeds
 clooud->cloud
+clos->close
 closeing->closing
 cloudd->cloud
 clouud->cloud
@@ -24443,6 +24448,7 @@ equatoriial->equatorial
 equatorrial->equatorial
 equatroial->equatorial
 equattorial->equatorial
+equel->equal
 equence->sequence
 equialent->equivalent
 equiiliibriium->equilibrium
@@ -26680,7 +26686,9 @@ featre->feature
 featture->feature
 featue->feature
 featues->features
+featur->feature
 featurre->feature
+featurs->features
 featuure->feature
 feauture->feature
 feautures->features
@@ -26731,6 +26739,8 @@ feenceed->fenced
 feertility->fertility
 feet free->feel free
 feets->feels
+feeture->feature
+feetur->feature
 felds->fields
 fel->feel
 fel fre->feel free
@@ -28641,6 +28651,7 @@ gel->gael
 gellaned->gelaned
 gelting->getting
 gemerate->generate
+gemetrical->geometrical
 genaelogical->genealogical
 genaelogies->genealogies
 genaelogy->genealogy
@@ -30782,6 +30793,7 @@ high-llevell->high-level
 highllighted->highlighted
 highllight->highlight
 highllighting->highlighting
+hightest->highest
 high-tevet->high-level
 hightighted->highlighted
 hightight->highlight
@@ -34714,6 +34726,7 @@ inot->into
 inpeach->impeach
 inpending->impending
 inpenetrable->impenetrable
+inplemented->implemented
 inplement->implement
 inplicit->implicit
 inpolite->impolite
@@ -43772,7 +43785,9 @@ notae->note
 notaepad->notepad
 notaes->notes
 notaetion->notation
+notaion->notation
 not aktive->not active
+notasion->notation
 notatiion->notation
 noteable->notable
 noteably->notably
@@ -50026,6 +50041,7 @@ principte->principle
 princiqle->principle
 princliple->principle
 princple->principle
+prind->print
 pring->print
 prings->prints
 prinicipal->principal
@@ -51835,6 +51851,7 @@ quartz->quarz
 quarzz->quarz
 quatification->qualification
 qubic->cubic
+qudrangles->quadrangles
 queeeensland->queensland
 queenland->queensland
 queennslannd->queensland
@@ -53732,6 +53749,8 @@ regitsration->registration
 regitsry->registry
 regluar->regular
 regognition->recognition
+regon->region
+regons->regions
 regresion->regression
 regsion->region
 regsitered->registered
@@ -54936,6 +54955,8 @@ reslricled->restricted
 reslriclion->restriction
 reslriclions->restrictions
 reslruclured->restructured
+reslut->result
+resluts->results
 resollution->resolution
 resoltion->resolution
 resolulion->resolution
@@ -56935,6 +56956,7 @@ secion->section
 secions->sections
 seciton->section
 secitons->sections
+secound->second
 secratary->secretary
 secrelary->secretary
 secretaary->secretary
@@ -59113,6 +59135,7 @@ sourrce->source
 sourrces->sources
 sourthern->southern
 sourth->south
+sourt->sort, south,
 soutbridge->southbridge
 soutern->southern
 southaern->southern
@@ -60904,6 +60927,7 @@ strinng patternn->string pattern
 strinngs->strings
 strinngstream->stringstream
 strinng->string
+stript->stripped
 strnad->strand
 stroe->store
 stroies->stories
@@ -63161,6 +63185,8 @@ talloo->tattoo
 taltoos->tattoos
 taltoo->tattoo
 tangeant->tangent
+tangensial->tangential
+tangetial->tangential
 tanguage->language
 tanguages->languages
 tansients->transients
@@ -64803,6 +64829,7 @@ topiics->topics
 topiic->topic
 topiks->topics
 topik->topic
+topologie->topology
 toppics->topics
 toppic->topic
 torcch->torch
@@ -68483,6 +68510,7 @@ vectoorizatioon->vectorization
 vectoors->vectors
 vectoor->vector
 vectora->vectors
+vectores->vectors
 vectoriizatiion->vectorization
 vectorizaation->vectorization
 vectorizaetion->vectorization
