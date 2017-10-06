@@ -13669,6 +13669,7 @@ compareed->compared
 comparees->compares
 comparess->compares
 comparetivly->comparatively
+compariable->comparable
 compariing->comparing
 compariison->comparison
 compariisons->comparisons
@@ -26433,6 +26434,7 @@ facthoring->factoring
 facthory->factory
 factooring->factoring
 factoory->factory
+factoral->factorial
 factoriing->factoring
 factoringg->factoring
 factorining->factoring
@@ -42468,6 +42470,7 @@ multi tread->multi thread
 multi-tread->multi-thread
 multitread->multithread
 multitsring->multistring
+multline->multiline
 multple->multiple
 multplied->multiplied
 multplies->multiplies
