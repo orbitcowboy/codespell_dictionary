@@ -27,3 +27,11 @@ sed 's/\([A-Z]\)/\L\1/g' -i dictionary_generated.txt
 uniq dictionary_generated.txt dictionary_tmp.txt
 # remove duplicate lines
 mv dictionary_tmp.txt dictionary_generated.txt
+
+# sort dictionary all
+cat dictionary_all.txt > dictionary_tmp.txt
+cat dictionary_tmp.txt | sort | uniq > dictionary_all.txt
+# remove trailing blanks on each line
+sed 's/[[:blank:]]*$//' -i dictionary_all.txt
+# convert upper case to lower case letters
+sed 's/\([A-Z]\)/\L\1/g' -i dictionary_all.txt
