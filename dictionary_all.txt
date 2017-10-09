@@ -5287,6 +5287,7 @@ applicaiton->application
 applicaitons->applications
 applicalion->application
 applicalions->applications
+applicapple->applicable
 applicathion->application
 applicathions->applications
 applicatins->applications
@@ -17202,8 +17203,11 @@ crèchee->crèche
 crèchhe->crèche
 creddence->credence
 credennce->credence
+creeate->create
+creeated->created
 creeatee->create
 creeateed->created
+creeates->creates
 creeation->creation
 creeator->creator
 creedeencee->credence
@@ -42038,6 +42042,7 @@ montaenae->montana
 montains->mountains
 montanous->mountainous
 monthana->montana
+monthes->months
 monthh->month
 monthhs->months
 monthserrath->montserrat
