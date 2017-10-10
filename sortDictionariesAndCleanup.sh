@@ -34,8 +34,9 @@ cat dictionary_all.txt > dictionary_tmp.txt
 cat dictionary_en.txt >> dictionary_tmp.txt
 cat dictionary_generated.txt >> dictionary_tmp.txt
 # include dictionary from codespell
-cd ${WORKINGDIR}/codespell_git/codespell/codespell_lib/data/
+cd ${WORKINGDIR}/codespell_git/codespell/
 git pull
+make sort-dictionary
 cat ${WORKINGDIR}/codespell_git/codespell/codespell_lib/data/dictionary.txt >> dictionary_tmp.txt
 cd ${WORKINGDIR}
 cat dictionary_tmp.txt | sort | uniq > dictionary_all.txt

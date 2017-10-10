@@ -63536,6 +63536,7 @@ tenniss player->tennis player
 tennnnis player->tennis player
 tenntacles->tentacles
 tenntacle->tentacle
+tenporary->temporary
 tentaacles->tentacles
 tentaacle->tentacle
 tentaccles->tentacles
