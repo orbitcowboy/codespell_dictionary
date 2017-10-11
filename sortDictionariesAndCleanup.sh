@@ -37,7 +37,7 @@ cat dictionary_generated.txt >> dictionary_tmp.txt
 cd ${WORKINGDIR}/codespell_git/codespell/
 git pull
 make sort-dictionary
-cat ${WORKINGDIR}/codespell_git/codespell/codespell_lib/data/dictionary.txt >> dictionary_tmp.txt
+cat ${WORKINGDIR}/codespell_git/codespell/codespell_lib/data/dictionary.txt >> ${WORKINGDIR}/dictionary_tmp.txt
 cd ${WORKINGDIR}
 cat dictionary_tmp.txt | sort | uniq > dictionary_all.txt
 # remove trailing blanks on each line
