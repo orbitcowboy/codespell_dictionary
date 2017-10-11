@@ -30,17 +30,17 @@ uniq dictionary_generated.txt dictionary_tmp.txt
 mv dictionary_tmp.txt dictionary_generated.txt
 
 # Merge all dictionary files
-cat dictionary_all.txt > dictionary_tmp.txt
-cat dictionary_en.txt >> dictionary_tmp.txt
-cat dictionary_generated.txt >> dictionary_tmp.txt
+cat ${WORKINGDIR}/dictionary_all.txt > ${WORKINGDIR}/dictionary_tmp.txt
+cat ${WORKINGDIR}/dictionary_en.txt >> ${WORKINGDIR}/dictionary_tmp.txt
+cat ${WORKINGDIR}/dictionary_generated.txt >> ${WORKINGDIR}/dictionary_tmp.txt
 # include dictionary from codespell
 cd ${WORKINGDIR}/codespell_git/codespell/
 git pull
 make sort-dictionary
 cat ${WORKINGDIR}/codespell_git/codespell/codespell_lib/data/dictionary.txt >> ${WORKINGDIR}/dictionary_tmp.txt
 cd ${WORKINGDIR}
-cat dictionary_tmp.txt | sort | uniq > dictionary_all.txt
+cat ${WORKINGDIR}/dictionary_tmp.txt | sort | uniq > ${WORKINGDIR}dictionary_all.txt
 # remove trailing blanks on each line
-sed 's/[[:blank:]]*$//' -i dictionary_all.txt
+sed 's/[[:blank:]]*$//' -i ${WORKINGDIR}/dictionary_all.txt
 # convert upper case to lower case letters
-sed 's/\([A-Z]\)/\L\1/g' -i dictionary_all.txt
+sed 's/\([A-Z]\)/\L\1/g' -i ${WORKINGDIR}/dictionary_all.txt
