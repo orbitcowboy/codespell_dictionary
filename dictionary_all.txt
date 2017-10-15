@@ -7668,6 +7668,7 @@ availabilily->availability
 availabilithy->availability
 availabilitty->availability
 availabilityy->availability
+availabilty->availability
 availablable->available
 availablae->available
 availabled->available
@@ -8806,6 +8807,7 @@ betweenn->between
 betwen->between
 betwween->between
 bevaviour->behavior
+bevore->before
 beween->between
 bewteen->between
 beyondd->beyond
@@ -12240,6 +12242,7 @@ churrch->church
 churrches->churches
 chuurch->church
 chuurches->churches
+cicrle->circle
 cicuitry->circuitry
 ciinciinnatii->cincinnati
 ciipher->cipher
@@ -23199,6 +23202,7 @@ electtricitty->electricity
 electtron->electron
 electtronic->electronic
 electtronics->electronics
+elegible->eligible
 elekted->elected
 elektion->election
 elektrikal->electrical
@@ -29111,6 +29115,7 @@ golhenburg->gothenburg
 golllieb->gottlieb
 goltlieb->gottlieb
 gonig->going
+gonna->going to, disabled because one might want to allow informal spelling
 gooddesses->goddesses
 gooddess->goddess
 goodunoov->godunov
@@ -29416,6 +29421,7 @@ greenn->green
 greif->grief
 gren->green
 grenn->green
+greping->grepping
 griaef->grief
 griddddles->griddles
 griddlaes->griddles
@@ -29569,6 +29575,7 @@ guarantes->guarantees
 guarantheed->guaranteed
 guaranthee->guarantee
 guaranthees->guarantees
+guarantie->guarantee
 guarantteed->guaranteed
 guaranttee->guarantee
 guaranttees->guarantees
@@ -34819,6 +34826,7 @@ insensitivee->insensitive
 insensitiv->insensitive
 insensitivve->insensitive
 insensittive->insensitive
+insensitve->insensitive
 insenstive->insensitive
 insentitive->insensitive
 insepaaraable->inseparable
@@ -35377,7 +35385,9 @@ interaactive->interactive
 interacctive->interactive
 interace->interface
 interaces->interfaces
+interacsion->interaction
 interactable->intractable
+interactionn->interaction
 interactivee->interactive
 interactiv->interactive
 interactivly->interactively
@@ -35846,6 +35856,7 @@ introoduced->introduced
 introoduce->introduce
 introoductoory->introductory
 introp->interop
+introsepection->introspection
 intrroduced->introduced
 intrroduce->introduce
 intrroductorry->introductory
@@ -45098,6 +45109,7 @@ opaerations->operations
 opaerator->operator
 opaerators->operators
 opague->opaque
+opbjects->objects
 opearator->operator
 opearators->operators
 opeator->operator
@@ -46707,9 +46719,11 @@ passsserssby->passersby
 passssing->passing
 passssphrasse->passphrase
 passssword->password
+pass-thru->pass-through, pass through, passthrough,
 passtime->pastime
 passtime->pasttime
 passtoral->pastoral
+pass-trough->pass-through, pass through, passthrough,
 passwoord->password
 passwordd->password
 passworrd->password
@@ -50029,6 +50043,7 @@ primarly->primarily
 primatively->primitively
 primative->primitive
 primatives->primitives
+primeter->perimeter
 primilively->primitively
 primilive->primitive
 primilives->primitives
@@ -57305,6 +57320,7 @@ sensitivveness->sensitiveness
 sensitivve->sensitive
 sensittiveness->sensitiveness
 sensittive->sensitive
+sensitve->sensitive
 sensoor->sensor
 sensorr->sensor
 sensro->sensor
@@ -60984,6 +61000,7 @@ strinngstream->stringstream
 strinng->string
 stript->stripped
 strnad->strand
+stroage->storage
 stroe->store
 stroies->stories
 strongaest->strongest
