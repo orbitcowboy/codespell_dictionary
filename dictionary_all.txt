@@ -4287,6 +4287,7 @@ amerliorate->ameliorate
 amerrica->america
 ametiorate->ameliorate
 aminations->animations
+amin->main, disabled because of var names
 amke->make
 amking->making
 ammalgammated->amalgamated
@@ -25960,8 +25961,11 @@ explooitative->exploitative
 exploorer->explorer
 explorrerr->explorer
 explotation->exploitation
+explotation->exploitation, exploration,
 explot->exploit
+explot->exploit, explore,
 exploting->exploiting
+exploting->exploiting, exploring,
 explroer->explorer
 exponenlial->exponential
 exponenlialion->exponentiation
@@ -31734,6 +31738,7 @@ idte->idle
 i.ee.->i.e.
 ie.->i.e.
 iff->if
+iff->if, disabled due to valid mathematical concept
 iff one sets->if one sets
 iff you want->if you want
 if onae saets->if one sets
@@ -34267,6 +34272,7 @@ initialises->initializes
 initialising->initializing
 initialissation->initialisation
 initialisse->initialise
+initialiting->initializing
 initializaed->initialized
 initializae->initialize
 initializaer->initializer
