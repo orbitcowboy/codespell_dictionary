@@ -5429,6 +5429,8 @@ appriciate->appreciate
 appriciated->appreciated
 apprieciate->appreciate
 appriopriate->appropriate
+apprixamation->approximation
+apprixamations->approximations
 approacch->approach
 approacches->approaches
 approachaes->approaches
@@ -5491,6 +5493,7 @@ approriately->appropriately
 approrpiate->appropriate
 approxamately->approximately
 approxiamtion->approximation
+approxiamtions->approximations
 approxiately->approximately
 approxiimate->approximate
 approxiimated->approximated
@@ -7791,6 +7794,7 @@ avr studdio->avr studio
 avr studiio->avr studio
 avr studioo->avr studio
 avr stuudio->avr studio
+avtivated->activated
 avtomaton->automation
 avvailability->availability
 avvailable->available
@@ -25923,6 +25927,8 @@ explikitly->explicitly
 explination->explanation
 explit->explicit
 explitly->explicitly
+explizit->explicit
+explizitly->explicitly
 expllained->explained
 expllain->explain
 expllaining->explaining
@@ -27778,6 +27784,7 @@ formattiing->formatting
 formattingg->formatting
 formattings->formatting
 formattinng->formatting
+formattting->formatting
 formatttted->formatted
 formatttting->formatting
 formatty->formally
