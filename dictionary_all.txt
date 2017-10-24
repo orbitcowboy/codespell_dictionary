@@ -25383,6 +25383,7 @@ exciitiing->exciting
 exciled->excited
 exciling->exciting
 excisted->existed
+excist->exist
 excisting->existing
 excitedd->excited
 excithed->excited
@@ -29955,6 +29956,7 @@ hallowean->halloween
 hallowean->hallowe'en
 hallowean->hallowe'en, halloween,
 hallowean->hallowe\"en, halloween
+hallowean->hallowe'en, halloween,
 hallowee'een->hallowe'en
 halloweeeen->halloween
 hallowe'enn->hallowe'en
@@ -56611,6 +56613,7 @@ satisfiaed->satisfied
 satisfiedd->satisfied
 satisfieed->satisfied
 satisfyy->satisfy
+satisifed->satisfied
 satisified->satisfied
 satisifies->satisfies
 satisifying->satisfying
