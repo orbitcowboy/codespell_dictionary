@@ -1467,6 +1467,7 @@ acknowledggingg->acknowledging
 acknowledgiing->acknowledging
 acknowledgued->acknowledged
 acknowledgues that->acknowledges that
+acknowleding->acknowledging
 acknowleedgeed->acknowledged
 acknowleedgees that->acknowledges that
 acknowleedging->acknowledging
@@ -3623,6 +3624,7 @@ akquiring->acquiring
 akquisition->acquisition
 akquitted->acquitted
 akross->across
+aks->ask
 aktivate->activate
 aktivated->activated
 aktively->actively
@@ -5443,6 +5445,7 @@ approachs->approaches
 approakh->approach
 approakhes->approaches
 approch->approach
+approche->approach
 a pprofessional look->a professional look
 appron->apron
 approoach->approach
@@ -9286,6 +9289,7 @@ breaktthroughs->breakthroughs
 breeak->break
 breeakthrough->breakthrough
 breeakthroughs->breakthroughs
+breef->brief, beef,
 breethreen->brethren
 breevity->brevity
 brehtren->brethren
@@ -12550,6 +12554,8 @@ cllock speeds->clock speeds
 clloud->cloud
 cllumpy->clumpy
 clluttered->cluttered
+cloack->cloak
+cloacks->cloaks
 clocc->clock
 clocck->clock
 clocck speed->clock speed
@@ -15550,6 +15556,7 @@ consttructts->constructs
 constuction->construction
 constuctor->constructor
 constuctors->constructors
+consuder->consider
 consulant->consultant
 consullanl->consultant
 consulltant->consultant
@@ -16507,6 +16514,7 @@ coordinnate->coordinate
 coordinnates->coordinates
 coordinnationn->coordination
 coordins->coordinates
+cooridnate->coordinate
 coorperation->cooperation
 coorperation->cooperation, corporation
 coorperation->cooperation, corporation,
@@ -17053,6 +17061,7 @@ coururier->courier, couturier
 coururier->courier, couturier,
 coururier->couturier
 couse->course
+couse->course, cause,
 coutd->could
 coutd have->could have
 coutd not->could not
@@ -18485,6 +18494,8 @@ debiaen->debian
 debiann->debian
 debians->debian's
 debiian->debian
+debth->depth
+debths->depths
 debuged->debugged
 debuger->debugger
 debuget->debugged
@@ -18630,6 +18641,7 @@ decodinng->decoding
 decomissioned->decommissioned
 decommiissiioned->decommissioned
 decommisioned->decommissioned
+decommissionn->decommission
 decommissionned->decommissioned
 decommissssioned->decommissioned
 decommmmissioned->decommissioned
@@ -18907,6 +18919,8 @@ defautl->default
 defautt->default
 defauult->default
 defciencies->deficiencies
+defenate->definite
+defenately->definitely
 defendaant->defendant
 defendaants->defendants
 defendaent->defendant
@@ -19140,6 +19154,7 @@ delared->declared
 delare->declare
 delares->declares
 delaring->declaring
+delate->delete
 delault->default
 delcared->declared
 delecl->detect
@@ -20412,6 +20427,7 @@ diamonnds->diamonds
 diamons->diamonds
 diamoonds->diamonds
 diangose->diagnose
+dianostic->diagnostic
 diaplay->display
 diaram->diagram
 diaster->disaster
@@ -20419,6 +20435,7 @@ diat->dial
 diated->dialed
 dicchotomy->dichotomy
 dicctionary->dictionary
+dicergence->divergence
 dichhotomy->dichotomy
 dicholomy->dichotomy
 dichootoomy->dichotomy
@@ -22035,6 +22052,7 @@ donig->doing
 don'l->don't
 don'l lhink->don't think
 donlt->do not
+donn->done, don,
 do nnot->do not
 donnot->do not
 donnot knnow->donot know
@@ -22523,6 +22541,7 @@ eartier->earlier
 eartiest->earliest
 earty->early
 easely->easily
+easer->easier, eraser,
 easierr->easier
 easiier->easier
 easiily->easily
@@ -27382,6 +27401,7 @@ flemiish->flemish
 flemishh->flemish
 flemissh->flemish
 flemmish->flemish
+flexability->flexibility
 flexable->flexible
 flexeliint->flexelint
 flexelinl->flexelint
@@ -27503,6 +27523,7 @@ folloing->following
 followes->follows
 followiing->following
 followiing iin->following in
+followin->following
 followingg->following
 followingg in->following in
 followingin->following in
@@ -28066,6 +28087,8 @@ freeinng->freeing
 freequeency->frequency
 freequeent->frequent
 freequeently->frequently
+freez->frees, freeze,
+freezs->freezes
 freind->friend
 freindly->friendly
 freing->freeing
@@ -28864,6 +28887,7 @@ gererates->generates
 germaan->german
 germaen->german
 germal->german
+german->german
 germann->german
 germman->german
 gernerated->generated
@@ -28879,6 +28903,7 @@ geth->get
 geththing->getting
 geting->getting
 getling->getting
+get's->gets
 gettetx->gettext
 gett->get
 gettiing->getting
@@ -29956,7 +29981,6 @@ hallowean->halloween
 hallowean->hallowe'en
 hallowean->hallowe'en, halloween,
 hallowean->hallowe\"en, halloween
-hallowean->hallowe'en, halloween,
 hallowee'een->hallowe'en
 halloweeeen->halloween
 hallowe'enn->hallowe'en
@@ -30707,6 +30731,7 @@ hidae->hide
 hiddaen->hidden
 hidddden->hidden
 hiddden->hidden
+hidded->hidden
 hiddeen->hidden
 hidde->hide
 hiddenn->hidden
@@ -31172,6 +31197,7 @@ housr->house
 housse->house
 houurs->hours
 houuse->house
+hove->hove, have, hover, love,
 hovever->however
 hovewer->however
 howaevaer->however
@@ -33741,6 +33767,7 @@ individualy->individually
 individuat->individual
 individuats->individuals
 individuatty->individually
+individuelly->individually
 individuual->individual
 individuually->individually
 individuuals->individuals
@@ -34807,6 +34834,7 @@ inpuut->input
 inremented->incremented
 inrement->increment
 inrements->increments
+inreractive->interactive
 insaectivorous->insectivorous
 insaensitivae->insensitive
 insaeparablae->inseparable
@@ -35011,6 +35039,7 @@ installatioon->installation
 installedd->installed
 installeed->installed
 installe->installer
+installe->installer, installed, install,
 installll a->install a
 installllation->installation
 installlled->installed
@@ -38376,6 +38405,7 @@ liklelihood->likelihood
 likle->like
 liklely->likely
 likle many parts->like many parts
+lik->like, lick,
 likudd->likud
 likuud->likud
 liky->likely
@@ -39213,6 +39243,7 @@ maco-->macro
 macor->macro
 macors->macros
 macos->macros
+macpakge->package
 macroo->macro
 macroos->macros
 macroses->macros
@@ -40661,6 +40692,7 @@ messssaging->messaging
 messssenger->messenger
 messssing->messing
 messured->measured
+mesure->measure
 metaallic->metallic
 metaallurgicaal->metallurgical
 metaallurgic->metallurgic
@@ -41428,6 +41460,7 @@ missilee->missile
 missille->missile
 missingg->missing
 missin->missing
+missin->mission, missing,
 missinng->missing
 missionaary->missionary
 missionaery->missionary
@@ -43683,6 +43716,7 @@ nonexitsent->nonexistent
 nonexxistent->nonexistent
 non-iinteractiive->non-interactive
 non-inleraclive->non-interactive
+non-inreractive->non-interactive
 non-intaeractivae->non-interactive
 non-inteeractivee->non-interactive
 non-interaactive->non-interactive
@@ -43822,6 +43856,7 @@ northheastern->northeastern
 northheasthern->northeastern
 northhern->northern
 northh->north
+nortmally->normally
 nort->north
 norttheasttern->northeastern
 nortthern->northern
@@ -44764,6 +44799,7 @@ oficials->officials
 of kourse->of course
 oflen->often
 of lhe->of the
+ofo->of
 oftaen->often
 ofteen->often
 oftenly->often
@@ -45383,6 +45419,7 @@ oppressivve->oppressive
 oppressssion->oppression
 oppressssive->oppressive
 opprotunity->opportunity
+opproximate->approximate
 opprression->oppression
 opprressive->oppressive
 opps->oops
@@ -45770,6 +45807,7 @@ oursaelvaes->ourselves
 ourseelvees->ourselves
 oursellves->ourselves
 ourselvees->ourselves
+ourselve->ourselves
 ourselvs->ourselves
 ourselvves->ourselves
 oursetves->ourselves
@@ -46131,6 +46169,7 @@ packagee->package
 packagge->package
 packague->package
 packege->package
+packe->packed
 packge->package
 packges->packages
 packkage->package
@@ -46298,6 +46337,7 @@ pairr->pair
 paitience->patience
 pakage->package
 pakages->packages
+pakge->package
 pakkage->package
 palacae->palace
 palacce->palace
@@ -46659,6 +46699,7 @@ partieell->partiell
 partiellll->partiell
 partiel->partiell
 partiett->partiell
+partifular->particular
 partiially->partially
 partiiciipants->participants
 partiicularly->particularly
@@ -46674,6 +46715,7 @@ partion->partition
 partion->partition, portion,
 partions->partitions
 partipants->participants
+partitial->partial
 partitioningg->partitioning
 partitionninng->partitioning
 partitionns->partitions
@@ -52519,6 +52561,7 @@ readabillity->readability
 readabilty->readability
 readabitity->readability
 readablity->readability
+readapted->re-adapted
 readble->readable
 readdability->readability
 readdme->readme
@@ -52616,6 +52659,7 @@ realtions->relations
 realyl->really
 realy->really
 reamde->readme
+reander->render
 reanmed->renamed
 reaon->reason
 reaons->reasons
@@ -52958,6 +53002,7 @@ recomend->recommend
 recomends->recommends
 recommaissance->reconnaissance
 recommandation->recommendation
+recommandations->recommendations
 recommanded->recommended
 recommand->recommend
 recommedations->recommendations
@@ -54254,6 +54299,7 @@ remembranke->remembrance
 remembrannce->remembrance
 remembrence->remembrance
 rememeber->remember
+rememebr->remember
 remenant->remnant
 remenicent->reminiscent
 remiinder->reminder
@@ -54786,6 +54832,7 @@ requiire->require
 requiires->requires
 requird->required
 requiredd->required
+requireing->requiring
 requiremenl->requirement
 requiremenls->requirements
 requiremennt->requirement
@@ -55294,6 +55341,7 @@ restrication->restriction
 restriccted->restricted
 restricction->restriction
 restricctions->restrictions
+restriced->restricted
 restrictedd->restricted
 restrictionn->restriction
 restrictionns->restrictions
@@ -56252,6 +56300,7 @@ rusian->russian
 russiaan->russian
 russiaen->russian
 russiann->russian
+russian->russian
 russiian->russian
 russina->russian
 russion->russian
@@ -56648,6 +56697,7 @@ satyrr->satyr
 satyyr->satyr
 saught->sought
 savable->saveable
+savees->saves
 saveing->saving
 savely->safely
 savety->safety
@@ -57839,6 +57889,7 @@ shneiderrman->shneiderman
 shneiiderman->shneiderman
 shnneidermann->shneiderman
 shoftware->software
+shoild->should
 shold->should
 shoopkeepers->shopkeepers
 shoortcuts->shortcuts
@@ -57956,6 +58007,7 @@ shoulld not->should not
 shoulldn't->shouldn't
 shoulld->should
 shoul->should
+shouls->should
 shoult->should
 shoutd have->should have
 shoutd not have happened->should not have happened
@@ -58191,6 +58243,7 @@ similarrity->similarity
 similarrly->similarly
 similarr->similar
 similary->similarly
+similat->similar
 similiarity->similarity
 similiarly->similarly
 similiar->similar
@@ -60851,6 +60904,7 @@ strangeer->stranger
 strangee->strange
 strangger->stranger
 strangge->strange
+strangly->strangely
 stranguer->stranger
 strangue->strange
 strannd->strand
@@ -63520,6 +63574,7 @@ temmplates->templates
 temmplate->template
 temmporarily->temporarily
 temmporary->temporary
+temmporary->temporary, temporarily,
 temmp->temp
 temnis player->tennis player
 temorary->temporary
@@ -63568,6 +63623,7 @@ temporarilly->temporarily
 temporarilyy->temporarily
 temporarity->temporarily
 temporarly->temporarily
+temporarly->temporarily, temporary,
 temporaryy->temporary
 temporrarrily->temporarily
 temporrarry->temporary
@@ -63581,6 +63637,7 @@ tempporarily->temporarily
 tempporary->temporary
 tempp->temp
 temprary->temporary
+temprary->temporary, temporarily,
 temproarily->temporarily
 temproary->temporary
 temptates->templates
@@ -64042,6 +64099,7 @@ th e->the
 thether->whether
 the the->the
 thet->that
+thev->the
 thexth box->text box
 they haave been->they have been
 they haeve been->they have been
@@ -64499,6 +64557,7 @@ tickiet->ticket
 tideouse->tedious
 tief->thief
 tiem->item
+tiemstamp->timestamp
 tiem->time
 tiem->time, item,
 tiem->time, tim
@@ -67565,6 +67624,7 @@ unorderd->unordered
 unoredered->unordered
 unoticeable->unnoticeable
 unoticed->unnoticed
+unpacke->unpacked
 unpayable->unplayable
 unplaayaable->unplayable
 unplaeasant->unpleasant
@@ -68456,6 +68516,7 @@ varable->variable
 varadic->variadic
 varaiables->variables
 varaiable->variable
+varaiance->variance
 varaibles->variables
 varaible->variable
 varations->variations
@@ -69619,6 +69680,7 @@ wasnt->was not, wasn't,
 wasnt->wasn't
 wasnt'->wasn't
 was'nt->weren't
+wasn->wasn't, was,
 wass ignored->was ignored
 wass not->was not
 wassn't->wasn't
@@ -69875,6 +69937,7 @@ wheereeveer->wherever
 wheeree->where
 wheetheer->whether
 whehter->whether
+wheigh->weigh
 whelher->whether
 wheneveer->whenever
 wheneverr->whenever
@@ -70242,6 +70305,7 @@ winndows server->windows server
 winndows->windows
 winndows xp->windows xp
 winndow->window
+winn->win
 winsows->windows
 wioth->with
 wipoing->wiping
