@@ -30701,6 +30701,8 @@ hhouse->house
 hhowever->however
 hhow->how
 hhow to->how to
+hhttp->http
+hhttps->https
 hhumanoid->humanoid
 hhumerus->humerus
 hhumoral->humoral
@@ -38193,6 +38195,7 @@ librariess->libraries
 libraris->libraries
 librarys->libraries
 libraryy->library
+libraty->library
 libray->library
 librrarries->libraries
 librrarry->library
@@ -48192,6 +48195,7 @@ politiciaens->politicians
 politiciann->politician
 politicianns->politicians
 politicianss->politicians
+politiecs->politics
 politikal->political
 politikian->politician
 politikians->politicians
@@ -67105,6 +67109,7 @@ unhappyy->unhappy
 unhapy->unhappy
 unhhappy->unhappy
 unices->unixes
+unich->unix
 unihabited->uninhabited
 uniilaterally->unilaterally
 uniilateral->unilateral
