@@ -28887,7 +28887,6 @@ gererates->generates
 germaan->german
 germaen->german
 germal->german
-german->german
 germann->german
 germman->german
 gernerated->generated
@@ -34292,6 +34291,7 @@ initiaelly->initially
 initiaeted->initiated
 initiaetion->initiation
 initiaetive->initiative
+initiailzes->initializes
 initiaitive->initiative
 initialialized->initialized
 initialiation->initialization
@@ -52780,7 +52780,9 @@ recallcullation->recalculation
 recallcullations->recalculations
 recallll->recall
 recal->recall
+recalulated->recalculated
 recalulate->recalculate
+recalulates->recalculates
 recalulation->recalculation
 recalulations->recalculations
 recatcutate->recalculate
@@ -52839,6 +52841,9 @@ reccurring->recurring
 reccursion->recursion
 reccursively->recursively
 reccursive->recursive
+receated->recreated
+receate->recreate
+receates->recreates
 receddedd->receded
 recedding->receding
 recediing->receding
