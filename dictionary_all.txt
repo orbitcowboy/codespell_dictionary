@@ -735,6 +735,7 @@ abseill->abseil
 abseilling->abseiling
 abseit->abseil
 abseiting->abseiling
+abselutely->absolutely
 absencce->absence
 absenke->absence
 absennce->absence
@@ -778,6 +779,7 @@ absorrption->absorption
 absotute->absolute
 absotutety->absolutely
 absoulte->absolute
+absoulute->absolute
 absrobed->absorbed
 absroption->absorption
 absseil->abseil
@@ -4423,6 +4425,7 @@ analysator->analyzer
 analysies->analyzes
 analysiis->analysis
 analyssiss->analysis
+analysy->analysis
 analysys->analysis
 analythic->analytic
 analyticc->analytic
@@ -6511,6 +6514,7 @@ assigment->assignment
 assigments->assignments
 assigmment->assignment
 assigmments->assignments
+assignalble->assignable
 assigne->assign
 assignement->assignment
 assignements->assignments
@@ -12410,6 +12414,7 @@ claassicaal->classical
 claassicaally->classically
 claassic->classic
 claculate->calculate
+claculation->calculation
 claeanaed->cleaned
 claeanup->cleanup
 claearaer->clearer
@@ -16603,6 +16608,7 @@ copyrigthed->copyrighted
 copyrigths->copyrights
 copyriight->copyright
 copyrright->copyright
+copys->copies
 copywrite->copyright
 copyyable->copyable
 copyy->copy
@@ -16809,6 +16815,7 @@ corresspondentss->correspondents
 corressponding->corresponding
 corresspondss->corresponds
 corretly->correctly
+correxctly->correctly
 corriddors->corridors
 corridoors->corridors
 corridorss->corridors
@@ -19425,8 +19432,10 @@ dependenccies->dependencies
 dependenccy->dependency
 dependenciess->dependencies
 dependenciies->dependencies
+dependencis->dependencies
 dependencyy->dependency
 dependend->dependent
+dependend->dependent, depended,
 dependenke->dependence
 dependenkies->dependencies
 dependenky->dependency
@@ -19645,6 +19654,7 @@ descriiptiions->descriptions
 descriiptor->descriptor
 descriiptors->descriptors
 descriped->described
+descripes->describes
 descripition->description
 descriplion->description
 descriplions->descriptions
@@ -19680,6 +19690,7 @@ descrition->description
 descritpion->description
 descritpions->descriptions
 descritption->description
+descrptor->descriptor
 descrribed->described
 descrribe->describe
 descrribes->describes
@@ -21836,6 +21847,7 @@ doaes->does
 doaes not->does not
 doaesn't->doesn't
 doamain->domain
+doas->does
 docctrines->doctrines
 doccumentable->documentable
 doccumentary->documentary
@@ -22610,6 +22622,7 @@ edditable->editable
 eddit->edit
 edditor->editor
 edducational->educational
+ede->edge
 edgess->edges
 edgge->edge
 edgges->edges
@@ -24247,10 +24260,12 @@ entitites->entities
 entitities->entities
 entitity->entity
 entitiy->entity
+entitiys->entities
 entitledd->entitled
 entitlied->entitled
 entitlled->entitled
 entitted->entitled
+entitys->entities
 entityy->entity
 entorpy->entropy
 entraancy->entrancy
@@ -25504,6 +25519,7 @@ executiing->executing
 executiion->execution
 executingg->executing
 executinng->executing
+executiong->execution, executing,
 executionn->execution
 executioon->execution
 executtable->executable
@@ -25603,6 +25619,7 @@ exertedd->exerted
 exerternal->external
 exerthed->exerted
 exertted->exerted
+exeution->execution
 exhalted->exalted
 exhbited->exhibited
 exhbit->exhibit
@@ -26114,6 +26131,7 @@ extemely->extremely
 extendability->expandability
 extendable->expendable
 extenddedd->extended
+extendded->extended
 extende->extended
 exteneded->extended
 extened->extended
@@ -27185,11 +27203,13 @@ finaenciaelly->financially
 finalizae->finalize
 finalizee->finalize
 finalizze->finalize
+finalle->finale, finally,
 finallize->finalize
 finalllly->finally
 finallly->finally
 finallyy->finally
 finaly->finally
+finaly->finally, finale,
 financcial->financial
 financcially->financially
 financiall->financial
@@ -28887,6 +28907,7 @@ gererates->generates
 germaan->german
 germaen->german
 germal->german
+german->german
 germann->german
 germman->german
 gernerated->generated
@@ -29494,6 +29515,7 @@ groupinng->grouping
 groupp->group
 groupp id->group id
 groupping->grouping
+groupt->grouped
 grouund speed->ground speed
 grouup->group
 grouup id->group id
@@ -30869,8 +30891,10 @@ high-llevell->high-level
 highllighted->highlighted
 highllight->highlight
 highllighting->highlighting
+highter->higher
 hightest->highest
 high-tevet->high-level
+hight->height, high,
 hightighted->highlighted
 hightight->highlight
 hightighting->highlighting
@@ -31222,6 +31246,7 @@ hper-v->hyper-v
 hroizontal->horizontal
 hroizontally->horizontally
 hrorifying->horrifying
+hrough->through
 hsitorians->historians
 hsitory->history
 hstory->history
@@ -31751,6 +31776,7 @@ idiosyncraesy->idiosyncrasy
 idiosyncraetic->idiosyncratic
 idiosyncralic->idiosyncratic
 idiosyncrathic->idiosyncratic
+idiosyncraties->idiosyncrasies
 idiosyncrattic->idiosyncratic
 idiosyncrrasy->idiosyncrasy
 idiosyncrratic->idiosyncratic
@@ -33324,6 +33350,7 @@ inconveenieencee->inconvenience
 inconveenience->inconvenience
 inconvenence->inconvenience
 inconvertable->inconvertible
+inconvienience->inconvenience
 inconvienient->inconvenient
 inconvnience->inconvenience
 inconvvenience->inconvenience
@@ -36566,6 +36593,7 @@ ittegitimacy->illegitimacy
 ittegitimate->illegitimate
 ittem->item
 it ten came->it then came
+itterations->iterations
 itterator->iterator
 itterators->iterators
 itteratte->iterate
@@ -39250,6 +39278,7 @@ macroo->macro
 macroos->macros
 macroses->macros
 macross->macros
+macrow->macro
 macrro->macro
 macrros->macros
 madae->made
@@ -40480,6 +40509,7 @@ meethod->method
 meethodology->methodology
 meethods->methods
 meetrics->metrics
+meganism->mechanism
 mehod->methods
 mehtod defines how->method defines how
 mehtodes->methodes
@@ -43369,6 +43399,7 @@ nessasarily->necessarily
 nessasary->necessary
 nessecarily->necessarily
 nessecary->necessary
+nesseccary->necessary
 nessesarily->necessarily
 nessesary->necessary
 nessessarily->necessarily
@@ -44828,6 +44859,7 @@ ogting->ogling
 ohter htan->other than
 ohter->other
 ohterwise->otherwise
+ojbect->object
 oject->object
 ojects->objects
 okkasionally->occasionally
@@ -45506,6 +45538,7 @@ optios->options
 optization->optimization
 optmization->optimization
 optmizations->optimizations
+optmize->optimize
 optmizing->optimizing
 optoinnal->optional
 optoinnaly->optionally
@@ -49971,6 +50004,8 @@ preserv->preserve
 preservve->preserve
 preservving->preserving
 presetected->preselected
+preseverance->perseverance
+preseverence->perseverance
 presiddential->presidential
 presidenital->presidential
 presidenlial->presidential
@@ -51064,12 +51099,15 @@ properlies->properties
 properlly->properly
 properlyy->properly
 properthies->properties
+propertie->property, properties,
 propertiess->properties
 propertiies->properties
 propertise->properties
 propertties->properties
+propertys->properties
 propery->property
 propery->property, properly
+propeties->properties
 propgating->propagating
 prophacy->prophecy
 prophaecy->prophecy
@@ -51869,6 +51907,7 @@ pyhton->python
 pylhon->python
 pyscic->psychic
 pythhon->python
+pythin->python
 pythonn->python
 pythoon->python
 pyton->python
@@ -53211,6 +53250,7 @@ recyled->recycled
 recyle->recycle
 recyles->recycles
 recyling->recycling
+redction->reduction, redaction,
 reddeeming->redeeming
 re-ddetermine->re-determine
 reddistributable->redistributable
@@ -55524,6 +55564,7 @@ retored->restored
 retore->restore
 retores->restores
 retoring->restoring
+retourned->returned
 retrancy->reentrancy
 retransmited->retransmitted
 retreived->retrieved
@@ -59558,6 +59599,7 @@ specificatioon->specification
 specificaton->specification
 specificattion->specification
 specificatty->specifically
+specificed->specified
 specificiation->specification
 specificiations->specifications
 specificied->specified
@@ -63299,6 +63341,7 @@ taexonomic->taxonomic
 taexonomy->taxonomy
 taext box->text box
 taeylor series->taylor series
+taged->tagged
 tages->stages
 tage->stage
 tahn->than
@@ -70009,6 +70052,7 @@ whhole->whole
 whholly->wholly
 whho->who
 whicch->which
+whichs->which's
 whic->which
 whihc->which
 whiich->which
@@ -71143,5 +71187,6 @@ zionnists->zionists
 zionnist->zionist
 zioonists->zionists
 zioonist->zionist
+zoon->zoom, zoon,
 zzebra->zebra
 zzeros->zeros
