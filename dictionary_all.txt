@@ -19152,6 +19152,7 @@ dekrypted->decrypted
 dekstop->desktop
 dekstops->desktops
 dektop->desktop
+dektops->desktops
 delached->detached
 delagates->delegates
 delailed->detailed
@@ -32477,6 +32478,7 @@ immeensee->immense
 immennse->immense
 immensse->immense
 immidately->immediately
+immideatly->immediately
 immidiate->immediate
 immidiately->immediately
 immiggrant->immigrant
