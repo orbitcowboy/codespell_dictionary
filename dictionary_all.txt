@@ -3625,9 +3625,12 @@ akquaintanke->acquaintance
 akquaintankes->acquaintances
 akquainted->acquainted
 akquire->acquire
+akquire->akquire
 akquired->acquired
+akquired->akquired
 akquirer->acquirer
 akquires->acquires
+akquires->akquires
 akquiring->acquiring
 akquisition->acquisition
 akquitted->acquitted
@@ -15189,6 +15192,7 @@ considder->consider
 considderedd->considered
 considdering->considering
 considders->considers
+conside->consider
 consideer->consider
 consideereed->considered
 consideering->considering
@@ -58998,6 +59002,7 @@ sociialiism->socialism
 sociietiies->societies
 socities->societies
 soem->some
+soemthing->something
 sofftlink->softlink
 sofftware project->software project
 sofftware->software
@@ -69106,6 +69111,7 @@ verssatility->versatility
 verssion control->version control
 verssionss->versions
 verssion->version
+versu->versus
 verthical->vertical
 verthices->vertices
 verticaal->vertical
