@@ -38116,6 +38116,7 @@ leveitate->levitate
 leveitates->levitates
 leveitating->levitating
 levele->level
+leveles->levels
 leve->level
 leves->levels
 levetated->levitated
@@ -38151,6 +38152,7 @@ levittatte->levitate
 levittattes->levitates
 levittatting->levitating
 levle->level
+levles->levels
 levl->level
 levvel->level
 levvitated->levitated
@@ -47674,6 +47676,7 @@ petitionn->petition
 petitioon->petition
 petoponnesus->peloponnesus
 pettittion->petition
+pevious->previous
 phaaraaoh->pharaoh
 phaenomaenally->phenomenally
 phaenomaenal->phenomenal
