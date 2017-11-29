@@ -9862,6 +9862,9 @@ cacluates->calculates
 cacluating->calculating
 cacluation->calculation
 cacluations->calculations
+caclulate->calculate
+caclulated->calculated
+caclulates->calculates
 caculate->calculate
 caculated->calculated
 caculater->calculator
@@ -17764,6 +17767,8 @@ cygwiin->cygwin
 cygwinn->cygwin
 cygwwin->cygwin
 cylce->cycle
+cylced->cycled
+cylces->cycles
 cyliinder->cylinder
 cylindaer->cylinder
 cylindder->cylinder
