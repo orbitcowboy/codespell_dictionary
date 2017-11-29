@@ -3491,6 +3491,7 @@ agrument->argument
 agruments->arguments
 agument->argument
 aguments->arguments
+agvas->avgas
 aheared->adhered
 ahev->have
 ahppen->happen
@@ -10035,7 +10036,9 @@ calcualtes->calculates
 calcualting->calculating
 calcualtion->calculation
 calcualtions->calculations
+calcuate->calculate
 calcuated->calculated
+calcuates->calculates
 calcuation->calculation
 calcuations->calculations
 calculale->calculate
@@ -13914,6 +13917,7 @@ compilerss->compilers
 compilet->compiled
 compiliance->compliance
 compiliant->compliant
+compiliing->compiling
 compilingg->compiling
 compilining->compiling
 compilinng->compiling
@@ -50557,6 +50561,8 @@ processro->processor
 processsed->processed
 processses->processes
 processsing->processing
+processsor->processor
+processsors->processors
 processs->process
 processssess->processes
 processssing->processing
