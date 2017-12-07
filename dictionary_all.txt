@@ -780,6 +780,7 @@ absorrbed->absorbed
 absorrption->absorption
 absotute->absolute
 absotutety->absolutely
+absoult->absolute
 absoulte->absolute
 absoulute->absolute
 absrobed->absorbed
@@ -12588,6 +12589,7 @@ cllock speeds->clock speeds
 clloud->cloud
 cllumpy->clumpy
 clluttered->cluttered
+clmap->clamp
 cloack->cloak
 cloacks->cloaks
 clocc->clock
@@ -14426,6 +14428,8 @@ condemnatiion->condemnation
 condemnattion->condemnation
 condennation->condemnation
 condenned->condemned
+condiction->condition
+condictions->conditions
 condidtion->condition
 condidtions->conditions
 condiitiional->conditional
@@ -25736,6 +25740,7 @@ existencce->existence
 existenke->existence
 existennce->existence
 existennt->existent
+existes->existed
 existhed->existed
 existhence->existence
 existhenth->existent
@@ -27258,6 +27263,7 @@ finaelize->finalize
 finaelly->finally
 finaenciael->financial
 finaenciaelly->financially
+finalalized->finalized
 finalizae->finalize
 finalizee->finalize
 finalizze->finalize
@@ -31760,6 +31766,7 @@ identicall->identical
 identicat->identical
 identiccal->identical
 identicial->identical
+identifcation->identification
 identifer->identifier
 identifers->identifiers
 identiffiable->identifiable
@@ -41075,6 +41082,7 @@ midwivves->midwives
 midwwives->midwives
 miggrate->migrate
 miggration->migration
+migh->might
 migraate->migrate
 migraation->migration
 migraete->migrate
@@ -49916,6 +49924,9 @@ pregnankies->pregnancies
 pregnnanncies->pregnancies
 preiod->period
 preivew->preview
+prejected->projected
+preject->project
+prejects->projects
 prekeded->preceded
 prekedenke->precedence
 prekedenkes->precedences
@@ -50443,6 +50454,8 @@ probblem->problem
 probblems->problems
 probedd->probed
 probeed->probed
+probelem->problem
+probelems->problems
 probelm->problem
 probelms->problems
 probem->problem
@@ -66604,6 +66617,7 @@ uglines->ugliness
 uglinness->ugliness
 uglliness->ugliness
 uglyness->ugliness
+ugrading->upgrading
 ugtiness->ugliness
 uiint128_t->uint128_t
 uiint16_t->uint16_t
@@ -66633,6 +66647,7 @@ uintt64_tt->uint64_t
 uintt8_tt->uint8_t
 uise->use
 uisng->using
+uitlity->utility
 ukkrainian->ukrainian
 uknown->unknown
 ukraainiaan->ukrainian
@@ -70124,6 +70139,7 @@ whereever->wherever
 whereveer->wherever
 wherevr->wherever
 wherevver->wherever
+where where->where
 wherreabouts->whereabouts
 wherreas->whereas
 wherreverr->wherever
@@ -70922,6 +70938,8 @@ wrriting->writing
 wrritten->written
 wrrongly->wrongly
 wrrote->wrote
+wrtites->writes
+wrtite->write
 wth->with
 wtih->with
 wunderfull->wonderful
