@@ -20978,6 +20978,7 @@ diptomacy->diplomacy
 diraectly->directly
 diraectory aexists->directory exists
 diraectory->directory
+dircect->direct
 dirctories->directories
 dirctory->directory
 direcctly->directly
@@ -34835,6 +34836,7 @@ innterfere->interfere
 innterferennce->interference
 innterferinng->interfering
 innterim->interim
+innter->inner
 innterior->interior
 inntermittenntly->intermittently
 innternnal->internal
@@ -38587,6 +38589,7 @@ lineary->linear
 lineear->linear
 linee->line
 liner->linear
+liness->lines
 lingguistic->linguistic
 lingguistics->linguistics
 linguisitic->linguistic
@@ -44819,6 +44822,7 @@ ocurs->occurs
 ocuurences->occurrences
 od having->of having
 oeeuvree->oeuvre
+oel->oil
 oeperator->operator
 oerate->operate
 oerder->order
@@ -63742,6 +63746,8 @@ tempalte->template
 tempararily->temporarily
 temparary->temporary
 temparate->temperate
+tempatures->temperatures
+tempature->temperature
 temperaament->temperament
 temperaate->temperate
 temperaature->temperature
@@ -70071,6 +70077,7 @@ we speck->we speak
 we sppeak->we speak
 we sspeak->we speak
 wether->whether
+wettet->wetted
 wett known->well known
 wett->well
 whaat's->what's
