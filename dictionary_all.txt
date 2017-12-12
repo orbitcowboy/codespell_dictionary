@@ -2896,7 +2896,6 @@ aertificiael->artificial
 aertificiaelly->artificially
 aertillery->artillery
 aeruptaed->erupted
-aes->as
 aescapae->escape
 aescending->ascending
 aescension->ascension
