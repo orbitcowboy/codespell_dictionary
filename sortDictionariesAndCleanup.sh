@@ -35,6 +35,7 @@ cat ${WORKINGDIR}/dictionary_en.txt >> ${WORKINGDIR}/dictionary_tmp.txt
 cat ${WORKINGDIR}/dictionary_generated.txt >> ${WORKINGDIR}/dictionary_tmp.txt
 # include dictionary from codespell
 cd ${WORKINGDIR}/codespell_git/codespell/
+git stash
 git pull
 make sort-dictionary
 cat ${WORKINGDIR}/codespell_git/codespell/codespell_lib/data/dictionary.txt >> ${WORKINGDIR}/dictionary_tmp.txt
