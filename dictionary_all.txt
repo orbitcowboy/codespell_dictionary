@@ -15334,6 +15334,7 @@ conslruclion->construction
 conslruclor->constructor
 conslruclors->constructors
 conslrucls->constructs
+consol->console
 consolidaate->consolidate
 consolidaated->consolidated
 consolidaete->consolidate
@@ -53186,6 +53187,7 @@ recommendiing->recommending
 recommendingg->recommending
 recommendss->recommends
 recommeneded->recommended
+recommened->recommend
 recommened->recommended
 recommenndationn->recommendation
 recommenndationns->recommendations
@@ -58175,6 +58177,9 @@ shouuld not have->should not have
 shouuld not->should not
 shouuldn't->shouldn't
 shouuld->should
+showhed->showed
+showh->show
+showhs->shows
 showw->show
 shreak->shriek
 shriaek->shriek
@@ -61459,6 +61464,8 @@ studyinng->studying
 studyying->studying
 studyy->study
 stuggling->struggling
+stuidos->studios
+stuido->studio
 stumbbled->stumbled
 stumbeld->stumbled
 stumblaed->stumbled
@@ -62121,6 +62128,7 @@ sucessor->successor
 sucessot->successor
 sucess->success
 suces->success
+suche as->such as
 sucide->suicide
 sucidial->suicidal
 suddaenly->suddenly
