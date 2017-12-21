@@ -6533,8 +6533,10 @@ assigmments->assignments
 assignalble->assignable
 assigne->assign
 assignement->assignment
+assignementes->assignments
 assignements->assignments
 assignemnt->assignment
+assignemntes->assignments
 assignemnts->assignments
 assignend->assigned
 assignenent->assignment
