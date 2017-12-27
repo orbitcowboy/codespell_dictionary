@@ -5365,6 +5365,7 @@ appllies->applies
 applly->apply
 applocation->application
 applocations->applications
+applys->applies
 applyy->apply
 appologetics->apologetics
 appologies->apologies
@@ -36086,6 +36087,7 @@ intorductory->introductory
 intpolator->interpolator
 intput->input
 intrduced->introduced
+intreaction->interaction
 intreface->interface
 intregral->integral
 intresting->interesting
