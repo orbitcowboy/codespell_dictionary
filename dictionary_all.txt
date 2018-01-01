@@ -28093,6 +28093,7 @@ fortunnately->fortunately
 fortuunately->fortunately
 fortyy->forty
 forula->formula
+forulas->formulas
 forumla->formula
 forumlas->formulas
 forunate->fortunate
