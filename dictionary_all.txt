@@ -69977,6 +69977,7 @@ wardrobee->wardrobe
 wardroobe->wardrobe
 warings->warnings
 waring->warning
+warinings->warnings
 warining->warning
 wariors->warriors
 warnigs->warnings
