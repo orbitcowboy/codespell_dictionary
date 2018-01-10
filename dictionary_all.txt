@@ -3722,6 +3722,8 @@ algorithem->algorithm
 algorithems->algorithms
 algorithhm->algorithm
 algorithhms->algorithms
+algorithim->algorithm
+algorithims->algorithms
 algorithmical->algorithmically
 algorithmm->algorithm
 algorithmms->algorithms
@@ -12675,6 +12677,8 @@ cmak->cmake
 cmo->com
 cmo->com, disabled due to lots of false positives
 cmoputer->computer
+cmpiler->compiler
+cmpilers->compilers
 cmplete->complete
 cna->can
 cnat->can't
@@ -13009,6 +13013,7 @@ colums->columns
 colunn->column
 colunns->columns
 coluns->columns
+colur->colour, color,
 coluumn->column
 coluumns->columns
 comaand-->command
@@ -37896,6 +37901,8 @@ lalking->talking
 lalk->talk
 lalloos->tattoos
 lalloo->tattoo
+lamba->lambda
+lambas->lambdas
 langage->language
 langages->languages
 langauage->language
@@ -39455,6 +39462,8 @@ machin->machine
 machinne->machine
 machinnes->machines
 mach->match
+machted->matched
+machting->matching
 macing->making
 mackaerael->mackerel
 mackeereel->mackerel
