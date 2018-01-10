@@ -969,6 +969,7 @@ accesories->accessories
 accesors->accessors
 accessable->accessible
 accessibble->accessible
+accessiblilty->accessibility
 accessiblle->accessible
 accessibte->accessible
 accessiible->accessible
@@ -979,6 +980,7 @@ accessingg->accessing
 accessinng->accessing
 accessionn->accession
 accessioon->accession
+accessort->accessor
 accesss->access
 accessss->access
 accessssess->accesses
@@ -1017,6 +1019,7 @@ accidenthal->accidental
 accidenthally->accidentally
 accidential->accidental
 accidentially->accidentally
+accidentically->accidentally
 accidentily->accidentally
 accidently->accidentally
 accidenttal->accidental
@@ -1240,6 +1243,7 @@ accoring->according, occurring,
 accorrding->according
 accorrdingly->accordingly
 accorrdion->accordion
+accound->account
 accounl->account
 accounls->accounts
 accounnt->account
@@ -1280,6 +1284,7 @@ accreditatioon->accreditation
 accredithathion->accreditation
 accredittattion->accreditation
 accreeditation->accreditation
+accress->access
 accroding->according
 accrodingly->accordingly
 accrodion->accordion
