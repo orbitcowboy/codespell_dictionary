@@ -36581,6 +36581,7 @@ ipaddrress->ipaddress
 ip-adress->ip-address
 ipadress->ipaddress
 ipadress->ip-address
+iput->input, put,
 iraascible->irascible
 iraescible->irascible
 irasccible->irascible
