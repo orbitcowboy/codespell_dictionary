@@ -52318,6 +52318,7 @@ purposeely->purposely
 purposee->purpose
 purposelly->purposely
 purposelyy->purposely
+purposesh->purposes
 purposety->purposely
 purpossely->purposely
 purposse->purpose
@@ -68393,6 +68394,7 @@ unrepetant->unrepentant
 unrepetent->unrepentant
 unreppentant->unrepentant
 unresonable->unreasonable
+unresoved->unresolved
 unrocognized->unrecognized
 unrreachable->unreachable
 unrrecognized->unrecognized
