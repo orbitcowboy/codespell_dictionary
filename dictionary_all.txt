@@ -844,6 +844,7 @@ academyy->academy
 acadimy->academy
 acadimy->adademy
 acadmic->academic
+acale->scale
 accademic->academic
 accademicc->academic
 accademy->academy
@@ -7145,6 +7146,7 @@ attachmaent->attachment
 attachmeent->attachment
 attachmennt->attachment
 attachmment->attachment
+attacthed->attached
 attaemptaed->attempted
 attaempt->attempt
 attaempting->attempting
@@ -8620,7 +8622,14 @@ beleagueredd->beleaguered
 beleaguerred->beleaguered
 beleagured->beleaguered
 beleaguuered->beleaguered
+beleifable->believable
 beleif->belief
+beleife->belief, believe,
+beleifed->believed
+beleifes->beliefs, believes,
+beleifing->believing
+beleivable->believable
+beleiv->believe, belief,
 beleive->believe
 beleived->believed
 beleives->believes
@@ -8629,8 +8638,13 @@ belggium->belgium
 belgiium->belgium
 belgiumm->belgium
 belgiuum->belgium
+beliefable->believable
+beliefe->believe, belief,
+beliefed->believed
+beliefes->beliefs, believes
 belieff->belief
 belieffs->beliefs
+beliefing->believing
 beliefss->beliefs
 believ->believe
 believd->believed
@@ -8655,6 +8669,8 @@ beliieve->believe
 beliieved->believed
 beliieves->believes
 beliieviing->believing
+belivable->believable
+beliv->believe, belief,
 belive->believe
 belived->believed
 belived->believed, beloved
@@ -9060,6 +9076,8 @@ bllitzkrieg->blitzkrieg
 blloated->bloated
 bllog->blog
 bloaated->bloated
+bload->bloat
+bloaded->bloated
 bloaeted->bloated
 bloaled->bloated
 bloataed->bloated
@@ -9069,8 +9087,10 @@ bloathed->bloated
 bloatted->bloated
 blockout->blackout
 blogg->blog
+blohted->bloated
 blooated->bloated
 bloog->blog
+bloted->bloated
 boaat->boat
 boad->board
 boaet->boat
@@ -9588,12 +9608,15 @@ buddist->buddhist
 budha->buddha
 budhist->buddhist
 bufer->buffer
+bufers->buffers
 buffaer->buffer
 buffeer->buffer
 bufferr->buffer
 bufffer->buffer
 bufffers->buffers
 buffffer->buffer
+buffor->buffer
+buffors->buffers
 bugg->bug
 bugus->bogus
 buid->build
@@ -9637,6 +9660,7 @@ bullon->button
 bulterfly->butterfly
 bultin->builtin
 bulton->button
+bumpded->bumped
 buoancy->buoyancy
 buooyancy->buoyancy
 buooyant->buoyant
@@ -11784,6 +11808,7 @@ certificaete->certificate
 certificaetes->certificates
 certificaetion->certification
 certificaiton->certification
+certificat->certificate
 certificatess->certificates
 certificatin->certification
 certificationn->certification
@@ -18939,7 +18964,10 @@ dectarations->declarations
 dectared->declared
 dectare->declare
 dectect->detect
+dectected->detected
+dectecting->detecting
 dectection->detection
+dectector->detector
 decypt->decrypt
 ded->dead
 dedly->deadly
@@ -19627,22 +19655,26 @@ depdendency->dependency
 depedant->dependent
 depedencies->dependencies
 depedency->dependency
+depedencys->dependencies
 depencies->dependencies
 depency->dependency
 dependance->dependence
 dependancies->dependencies
 dependancy->dependency
+dependancys->dependencies
 dependand->dependent
 dependant->dependent
 dependcies->dependencies
 dependecies->dependencies
 dependecy->dependency
+dependecys->dependencies
 dependencce->dependence
 dependenccies->dependencies
 dependenccy->dependency
 dependenciess->dependencies
 dependenciies->dependencies
 dependencis->dependencies
+dependencys->dependencies
 dependencyy->dependency
 dependend->dependent
 dependend->dependent, depended,
@@ -19653,7 +19685,9 @@ dependenl->dependent
 dependenth->dependent
 dependentt->dependent
 depenencies->dependencies
+depenencis->dependencies
 depenency->dependency
+depenencys->dependencies
 depennd->depend
 depenndennce->dependence
 depenndenncies->dependencies
@@ -28287,6 +28321,13 @@ fotball->football
 fotder->folder
 fot->for
 fo the->for the
+fotografical->photographical
+fotografic->photographic
+fotograf->photograph
+fotografy->photography
+fotograph->photograph
+fotography->photography
+foto->photo
 fottowing->following
 fottowing in->following in
 fottows->follows
@@ -28707,8 +28748,10 @@ functiooning->functioning
 functioons->functions
 functios->functions
 functiosn->functions
+functonal->functional
 functonality->functionality
 functon->function
+functoning->functioning
 functons->functions
 functoriality->functionality
 functtional->functional
@@ -28772,6 +28815,7 @@ funtional->functional
 funtionalities->functionalities
 funtionality->functionality
 funtion->function
+funtioning->functioning
 funtions->functions
 furhter->further
 furhtermore->furthermore
@@ -29724,7 +29768,9 @@ graphvis->graphviz
 graphvizz->graphviz
 graphvviz->graphviz
 graphwiz->graphviz
+grapical->graphical
 grapic->graphic
+grapics->graphics
 grapph->graph
 grapphical->graphical
 grapphviz->graphviz
@@ -30505,6 +30551,7 @@ harrassing->harassing
 harrassment->harassment
 harrassments->harassments
 harrdwarre->hardware
+hart->heart, harm,
 harware->hardware
 harzardous->hazardous
 has baeaen->has been
@@ -31084,6 +31131,8 @@ hiddeen->hidden
 hidde->hide
 hiddenn->hidden
 hidding->hiding
+hidding->hiding, hidden,
+hiddin->hidden, hiding,
 hidee->hide
 hiden->hidden
 hid->hide
@@ -31239,6 +31288,7 @@ higlighting->highlighting
 higlights->highlights
 higligting->highlighting
 higliting->highlighting
+higth->height
 higway->highway
 hihglighted->highlighted
 hiidden->hidden
@@ -31353,6 +31403,7 @@ histtorians->historians
 histtory->history
 hitarious->hilarious
 hith singles->hit singles
+hitogram->histogram
 hit singgles->hit singles
 hit singlaes->hit singles
 hit singlees->hit singles
@@ -31862,6 +31913,7 @@ hypoocrisy->hypocrisy
 hypoocrite->hypocrite
 hypoocrites->hypocrites
 hypoothetical->hypothetical
+hyposesis->hypothesis
 hypotetical->hypothetical
 hypothaetical->hypothetical
 hypotheetical->hypothetical
@@ -46230,6 +46282,7 @@ othaerwisae->otherwise
 otheer->other
 otheer than->other than
 otheerwisee->otherwise
+othere->other
 otherise->otherwise
 otherr->other
 otherr than->other than
@@ -47644,6 +47697,8 @@ perenniatty->perennially
 perenniially->perennially
 perennnnially->perennially
 perfeclty->perfectly
+perference->preference
+perferences->preferences
 perfer->prefer
 perfformance->performance
 perfformances->performances
@@ -48234,6 +48289,11 @@ phonogrraph->phonograph
 phooenecian->phoenecian
 phoonetic->phonetic
 phoonoograph->phonograph
+photografical->photographical
+photografic->photographic
+photografy->photography
+photograpical->photographical
+photograpic->photographic
 phsyically->physically
 phyiscally->physically
 phyiscal->physical
@@ -59195,8 +59255,12 @@ skienke->science
 skientifik->scientific
 skientist->scientist
 skintilla->scintilla
+skipd->skipped
 skiped->skipped
+skiped->skipped, skyped,
 skiping->skipping
+skippd->skipped
+skipp->skip, skipped,
 skkagerrakk->skagerrak
 skkating->skating
 skkeptical->skeptical
@@ -67284,12 +67348,15 @@ unbeknownstt->unbeknownst
 unbeknownts->unbeknownst
 unbeknowst->unbeknownst
 unbeknowwnst->unbeknownst
+unbeleifable->unbelievable
 unbeleivable->unbelievable
+unbeliefable->unbelievable
 unbelievaable->unbelievable
 unbelievaeble->unbelievable
 unbelieveable->unbelievable
 unbelievvable->unbelievable
 unbeliievable->unbelievable
+unbelivable->unbelievable
 unbellievablle->unbelievable
 unbetievabte->unbelievable
 unbvelievable->unbelievable
@@ -67987,6 +68054,7 @@ unknonw->unknown
 unknoown->unknown
 unknow->unknown
 unknowwn->unknown
+unkn->unknown
 unknwon->unknown
 unkommitted->uncommitted
 unkompetitive->uncompetitive
@@ -68102,6 +68170,7 @@ unnbelievable->unbelievable
 unncertainnty->uncertainty
 unncesarilly->unnecessarily
 unncesarily->unnecessarily
+unncessary->unnecessary
 unnchallenngeable->unchallengeable
 unnchanngeable->unchangeable
 unnchecked->unchecked
@@ -68382,7 +68451,29 @@ unrecoognized->unrecognized
 unreeachablee->unreachable
 unreecognizeed->unrecognized
 unreepeentant->unrepentant
+unregisted->unregistered
+unregisteing->registering
+unregisterd->runegistered
+unregisteres->unregisters
+unregistert->unregistered
+unregistes->unregisters
+unregiste->unregister
+unregisting->unregistering
+unregistred->unregistered
+unregistrs->unregisters
 unregnized->unrecognized
+unregsitered->unregistered
+unregsitering->unregistering
+unregsiters->unregisters
+unregsiter->unregister
+unregstered->unregistered
+unregstering->unregistering
+unregsters->unregisters
+unregster->unregister
+unreigstered->unregistered
+unreigstering->unregistering
+unreigsters->unregisters
+unreigster->unregister
 unrekognized->unrecognized
 unrepenlanl->unrepentant
 unrepentaant->unrepentant
@@ -68393,6 +68484,10 @@ unrepenttantt->unrepentant
 unrepetant->unrepentant
 unrepetent->unrepentant
 unreppentant->unrepentant
+unresgisterd->unregistered
+unresgistered->unregistered
+unresgisters->unregisters
+unresgister->unregister
 unresonable->unreasonable
 unresoved->unresolved
 unrocognized->unrecognized
