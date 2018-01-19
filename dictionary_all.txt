@@ -4136,6 +4136,7 @@ alrready->already
 als->also
 alse->also
 alse->also, else
+alse->also, else,
 alse->else
 alsoo->also
 alsot->also
@@ -4444,6 +4445,7 @@ amussed->amused
 amuused->amused
 analagous->analogous
 analises->analysis, analyses
+analises->analysis, analyses,
 analisis->analysis
 analisys->analysis
 analitical->analytical
@@ -8644,6 +8646,7 @@ beliefable->believable
 beliefe->believe, belief,
 beliefed->believed
 beliefes->beliefs, believes
+beliefes->beliefs, believes,
 belieff->belief
 belieffs->beliefs
 beliefing->believing
@@ -12596,6 +12599,7 @@ clasifies->classifies
 clasify->classify
 clasifying->classifying
 classe->class, classes
+classe->class, classes,
 classess->classes
 classicallyy->classically
 classicaly->classically
@@ -25078,6 +25082,7 @@ essentiael->essential
 essentiaelly->essentially
 essentiall->essential
 essentiall->essential, essentially
+essentiall->essential, essentially,
 essentialllly->essentially
 essentiallyy->essentially
 essentialy->essentially
@@ -36004,6 +36009,7 @@ interferencce->interference
 interferenke->interference
 interferingg->interfering
 interfer->interfere
+interfernce->interference
 interferred->interfered
 interferring->interfering
 interfface->interface
@@ -46282,6 +46288,7 @@ otehrwise->otherwise
 otehrwize->otherwise
 oter->other
 oter->other, otter
+oter->other, otter,
 oter tan->other than
 oterwice->otherwise
 oterwise->otherwise
@@ -50338,6 +50345,7 @@ preferaeble->preferable
 preferaebly->preferably
 prefered->preferred
 prefere->prefer, preferred
+prefere->prefer, preferred,
 prefering->preferring
 preferraably->preferrably
 preferrabbly->preferrably
@@ -51666,6 +51674,7 @@ propertties->properties
 propertys->properties
 propery->property
 propery->property, properly
+propery->property, properly,
 propeties->properties
 propetry->property
 propetrys->properties
@@ -54688,8 +54697,10 @@ relaationships->relationships
 relaations->relations
 relaatively->relatively
 relace->replace
+relaesed->release
 relaese->release
 relaeses->releases
+relaesing->releasing
 relaeted->related
 relaetion->relation
 relaetionship->relationship
@@ -59199,6 +59210,7 @@ sitylisitic->stylistic
 sitylus->stylus
 sixtin->sistine
 sixtin->sistine, sixteen
+sixtin->sistine, sixteen,
 sizaed->sized
 sizae of->size of
 sizae->size
@@ -68512,6 +68524,7 @@ unsafee->unsafe
 unsaffe->unsafe
 unsed->unused
 unsed->unused, used
+unsed->unused, used,
 unsed->used, unused, unsaid
 unselect->deselect
 unsettin->unsetting
@@ -71479,6 +71492,7 @@ wraped->wrapped, warped,
 wraper->wrapper
 wraping->wrapping
 wraping->wrapping, warping
+wraping->wrapping, warping,
 wrappiing->wrapping
 wrappingg->wrapping
 wrappinng->wrapping
