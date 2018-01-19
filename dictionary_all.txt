@@ -7090,6 +7090,7 @@ atmmega128a->atmega128a
 atmmega128->atmega128
 atmmega->atmega
 atmmel->atmel
+atmnel->atmel
 atmomically->atomically
 atmost->almost
 at not charge->at no charge
@@ -8363,6 +8364,7 @@ be apppplied->be applied
 be apptied->be applied
 beastiality->bestiality
 beatiful->beautiful
+beatuiful->beautiful
 beaulifier->beautifier
 beauliful->beautiful
 beaurocracy->bureaucracy
@@ -12786,6 +12788,9 @@ coaast->coast
 coaefficiaent->coefficient
 coaefficiaents->coefficients
 coaest->coast
+coammand->command
+coammanded->commanded
+coammands->commands
 coasit->coast
 coasl->coast
 coasst->coast
@@ -17155,6 +17160,7 @@ couldnt'->couldn't
 couldn'th->couldn't
 couldn'tt->couldn't
 could of->could have
+couldron->cauldron
 could't->couldn't
 coulld->could
 coulld have->could have
@@ -41554,6 +41560,8 @@ milieuxx->milieux
 miligram->milligram
 mililary->military
 milionaire->millionaire
+milione->million
+miliones->millions
 milion->million
 milipede->millipede
 miliraty->military
@@ -41612,6 +41620,8 @@ millionaeire->millionaire
 millionairae->millionaire
 millionairee->millionaire
 millionairre->millionaire
+millione->million
+milliones->millions
 millioniare->millionaire
 millionnaire->millionaire
 millionn->million
@@ -70981,6 +70991,7 @@ wiith->with
 wiizard->wizard
 wikipaedia->wikipedia
 wikipeadia->wikipedia
+wikipeda->wikipedia
 wikipeddia->wikipedia
 wikipediaa->wikipedia
 wikipediae->wikipedia
