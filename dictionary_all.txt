@@ -12865,6 +12865,8 @@ coefficientts->coefficients
 coefficiet->coefficient
 coeffiiciient->coefficient
 coeffiiciients->coefficients
+coeficent->coefficient
+coeficents->coefficients
 coeficient->coefficient
 coeficients->coefficients
 cofee->coffee
@@ -13113,7 +13115,9 @@ colums->columns
 colunn->column
 colunns->columns
 coluns->columns
+colur->color
 colur->colour, color,
+colurs->colors
 coluumn->column
 coluumns->columns
 comaand-->command
@@ -19439,6 +19443,7 @@ delet->delete
 delete'd->deleted
 delete'ing->deleting
 deleteing->deleting
+deleteion->deletion
 deletet->deleted
 deletete->delete
 delethed->deleted
@@ -19447,6 +19452,7 @@ delething->deleting
 deletiing->deleting
 deletingg->deleting
 deletinng->deleting
+delets->deletes
 deletted->deleted
 delette->delete
 deletting->deleting
@@ -21677,6 +21683,7 @@ disobedienth->disobedient
 disobedientt->disobedient
 disobeedieencee->disobedience
 disobeedieent->disobedient
+disokay->display
 disolved->dissolved
 disolve->dissolve
 disoobedience->disobedience
@@ -33605,6 +33612,7 @@ includees->includes
 includeig->including
 includeing->including
 includess->includes
+includied->included
 includ->include
 includingg->including
 includng->including
@@ -38434,6 +38442,7 @@ lenggth->length
 lenggthy->lengthy
 lengh->length
 lenghs->lengths
+lenghtening->lengthening
 lenght->length
 lenghts->lengths
 lenghty->lengthy
@@ -43222,6 +43231,7 @@ musssselss->mussels
 musst exisst->must exist
 must aexist->must exist
 must eexist->must exist
+muste->must
 must exiist->must exist
 must exists->must exist
 must exxist->must exist
@@ -45325,6 +45335,7 @@ oficials->officials
 of kourse->of course
 oflen->often
 of lhe->of the
+of of->of
 ofo->of
 oftaen->often
 ofteen->often
@@ -45469,6 +45480,7 @@ once agaiin->once again
 once aggain->once again
 oncee again->once again
 once nice->one nice
+onces->once
 onee nicee->one nice
 onee or moree->one or more
 oneerous->onerous
@@ -49458,6 +49470,8 @@ potatos->potatoes
 poteentially->potentially
 poteential->potential
 potencial->potential
+potenially->potentially
+potenial->potential
 potenntially->potentially
 potenntial->potential
 potentail->potential
