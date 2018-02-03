@@ -574,6 +574,7 @@ abberation->aberration
 abberration->aberration
 abbilities->abilities
 abbility->ability
+abble->able
 abborigine->aborigine
 abbortifacient->abortifacient
 abbout->about
@@ -55660,6 +55661,7 @@ resettingg->resetting
 resettinng->resetting
 resetttted->resetted
 resetttting->resetting
+resevered->reserved
 resevoir->reservoir
 resgister->register
 resgisters->registers
