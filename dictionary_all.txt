@@ -24893,6 +24893,7 @@ equivaalence->equivalence
 equivaalent->equivalent
 equivaelence->equivalence
 equivaelent->equivalent
+equivalant->equivalent
 equivalencce->equivalence
 equivalency->equivalence
 equivalenke->equivalence
@@ -72027,6 +72028,7 @@ zebrra->zebra
 zeebra->zebra
 zeeros->zeros
 zeors->zeros
+zeroes->zeros
 zeroos->zeros
 zeross->zeros
 zerros->zeros
