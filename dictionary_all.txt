@@ -72049,7 +72049,6 @@ zebrra->zebra
 zeebra->zebra
 zeeros->zeros
 zeors->zeros
-zeroes->zeros
 zeroos->zeros
 zeross->zeros
 zerros->zeros
