@@ -5960,6 +5960,7 @@ areea->area
 aree->are
 aree creeateed->are created
 are kreated->are created
+aren's->aren't
 are'nt->aren't
 aren;t->aren't
 arent->aren't
@@ -18689,6 +18690,7 @@ deaclivaled->deactivated
 deacthivathed->deactivated
 deactiivated->deactivated
 deactiveated->deactivated
+de-actived->deactivated
 deactived->deactivated
 deactive->deactivate
 deactivvated->deactivated
@@ -46203,6 +46205,7 @@ orgonisation->organization
 orhtogonal->orthogonal
 oridinarily->ordinarily
 orientatied->orientated
+oriente->oriented
 orientied->oriented
 origanaly->originally
 origginally->originally
@@ -49478,8 +49481,11 @@ post proceessing->post processing
 post proceessor->post processor
 post proceessors->post processors
 post procesing->post processing
+post-procesing->post-processing
+postprocesing->postprocessing
 post procesor->post processor
 post procesors->post processors
+post-proces->post-process
 post processiing->post processing
 post processingg->post processing
 postprocessing->post processing
@@ -50568,7 +50574,11 @@ prepocessor->preprocessor
 preporcessor->preprocessor
 prepresent->represent
 preproccessor->preprocessor
+pre-procesing->pre-processing
+preprocesing->preprocessing
 preprocesor->preprocessor
+pre-proces->pre-process
+preproces->preprocess
 preprocesser->preprocessor
 preprocessro->preprocessor
 preprocessssor->preprocessor
@@ -59550,6 +59560,9 @@ smmart pointers->smart pointers
 smmart->smart
 smmelting->smelting
 smoe->some
+smooter->smoother
+smooting->smoothing
+smoot->smooth
 snaapshotted->snapshotted
 snaeaezae->sneeze
 snaeaks->sneaks
@@ -65483,6 +65496,7 @@ tiome->time
 tiome->time, tome
 tiome->time, tome,
 tiome->tome
+tipe->type, tip,
 tipically->typically
 tipizzaner->lipizzaner
 tipo->typo
@@ -68150,11 +68164,15 @@ unkhangeable->unchangeable
 unkhekked->unchecked
 unkhekk->uncheck
 unkknown->unknown
+unknonws->unknowns
 unknonw->unknown
 unknoown->unknown
+unknows->unknowns, unknows,
 unknow->unknown
+unknow->unknown, unknow,
 unknowwn->unknown
 unkn->unknown
+unknwons->unknowns
 unknwon->unknown
 unkommitted->uncommitted
 unkompetitive->uncompetitive
@@ -68164,7 +68182,9 @@ unkonskiousness->unconsciousness
 unkonskious->unconscious
 unkonstitutional->unconstitutional
 unkonventional->unconventional
+unkonwns->unknowns
 unkonwn->unknown
+unkowns->unknowns
 unkown->unknown
 unlaess->unless
 unleess->unless
@@ -71269,6 +71289,7 @@ with onne->with one
 with on->with one
 with oone->with one
 withoout->without
+withour->without, with our,
 withouut->without
 withouyt->without
 withspace->whitespace
