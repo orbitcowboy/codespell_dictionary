@@ -9264,6 +9264,7 @@ boundarry->boundary
 boundaryy->boundary
 bounddaries->boundaries
 bounddary->boundary
+boundig->bounding
 boundries->boundaries
 boundry->boundary
 bounke->bounce
