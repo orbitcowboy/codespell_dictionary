@@ -1959,6 +1959,8 @@ adequuate->adequate
 adeses->addresses
 adess->address
 adesses->addresses
+adge->edge, badge, adage,
+adges->edges, badges, adages,
 adhaeraencae->adherence
 adhaering->adhering
 adhearing->adhering
@@ -4337,6 +4339,7 @@ amerika->america
 amerliorate->ameliorate
 amerrica->america
 ametiorate->ameliorate
+amiguous->ambiguous
 aminations->animations
 amin->main, disabled because of var names
 amke->make
@@ -5122,6 +5125,7 @@ anyywhere->anywhere
 a option->an option
 aorse->arose
 aorund->around
+aovid->avoid
 apaenninaes->apennines
 apalling->appalling
 aparent->apparent
@@ -8913,6 +8917,7 @@ betwee->between
 betweeen->between
 betweenn->between
 betwen->between
+betwene->between
 betwween->between
 bevaviour->behavior
 bever->never
@@ -14282,10 +14287,13 @@ comprehenssive->comprehensive
 comprehhensive->comprehensive
 compres->compress
 compresed->compressed
+compreser->compressor
 compreses->compresses
 compresing->compressing
 compresion->compression
+compresor->compressor
 compresseed->compressed
+compresser->compressor
 compressiion->compression
 compressing->compression
 compressionn->compression
@@ -14618,7 +14626,10 @@ condittion->condition
 condittioned->conditioned
 condittions->conditions
 condittions of->conditions of
+condtional->conditional
+condtionally->conditionally
 condtion->condition
+condtioned->conditioned
 condtions->conditions
 conecpt->concept
 conect->connect
@@ -14827,6 +14838,7 @@ confromance->conformance
 confrom->conform
 confromities->conformities
 confromity->conformity
+confuising->confusing
 conggratulations->congratulations
 conggressional->congressional
 congraatulaations->congratulations
@@ -16336,6 +16348,7 @@ conveyorr->conveyor
 conveyro->conveyor
 conveyyor->conveyor
 conviced->convinced
+convience->convince, convenience,
 convienience->convenience
 convienient->convenient
 convieniently->conveniently
@@ -18918,8 +18931,11 @@ decompposes->decomposes
 decompposing->decomposing
 decompres->decompress
 decompresed->decompressed
+decompreser->decompressor
 decompreses->decompresses
 decompresing->decompressing
+decompresor->decompressor
+decompresser->decompressor
 deconding->decoding
 deconmissioned->decommissioned
 deconnissioned->decommissioned
@@ -19734,6 +19750,7 @@ depictt->depict
 depiict->depict
 depikt->depict
 deployement->deployment
+depnds->depends
 deppartmental->departmental
 deppartment->department
 deppartments->departments
@@ -19913,6 +19930,7 @@ descided->decided
 descide->decide
 descides->decides
 desciding->deciding
+desciminate->descriminate, disseminate, decimate,
 desciption->description
 desciptions->descriptions
 desciptor->descriptor
@@ -20352,6 +20370,7 @@ deteriroated->deteriorated
 deteriroate->deteriorate
 deteriroating->deteriorating
 determeined->determined
+determenant->determinant
 determiinant->determinant
 determiined->determined
 determiine->determine
@@ -20892,6 +20911,7 @@ differenttiattions->differentiations
 differingg->differing
 differinng->differing
 differnce->difference
+differnces->differences
 differnet->different
 differnt->different
 differrence between->difference between
@@ -20942,10 +20962,13 @@ difficuulty->difficulty
 diffikult->difficult
 diffikulties->difficulties
 diffikulty->difficulty
+diffreences->differences
 diffreent->different
+diffreents->different, difference,
 diffrence->difference
 diffrences->differences
 diffrent->different
+diffrents->different, difference,
 dificul->difficult
 dificult->difficult
 dificulties->difficulties
@@ -22836,6 +22859,7 @@ eacf->each
 eacg->each
 eache->each
 eachh->each
+eachother->each other
 eaech->each
 eaegle->eagle
 eaerlier->earlier
@@ -23370,6 +23394,7 @@ efffforts->efforts
 efficcienccy->efficiency
 efficcient->efficient
 efficciently->efficiently
+efficencty->efficiency
 efficency->efficiency
 efficent->efficient
 efficently->efficiently
@@ -23868,10 +23893,12 @@ emissaery->emissary
 emissarries->emissaries
 emissarry->emissary
 emissaryy->emissary
+emissed->remissed, amassed, amiss,
 emissionn->emission
 emissionns->emissions
 emissioon->emission
 emissioons->emissions
+emiss->remiss, amiss, amass,
 emissron->emission
 emissrons->emissions
 emissssariess->emissaries
@@ -24234,6 +24261,8 @@ enduce->induce
 eneables->enables
 eneded->ended
 ened->need
+enegeries->energies
+enegery->energy
 enemurate->enumerate
 enent->event
 enents->events
@@ -39002,6 +39031,7 @@ liner->linear
 liness->lines
 lingguistic->linguistic
 lingguistics->linguistics
+lingth->length
 linguisitic->linguistic
 linguisitics->linguistics
 linguislic->linguistic
@@ -46042,6 +46072,7 @@ optiions->options
 optimalisation->optimisation
 optimazation->optimization
 optimazations->optimizations
+optimiality->optimality
 optimissm->optimism
 optimizaation->optimization
 optimizaations->optimizations
@@ -46147,6 +46178,7 @@ orgaenizaetionael->organizational
 orgaenizaetion->organization
 orgaen->organ
 orgainisation->organisation
+orgamise->organise
 organiisatiion->organisation
 organiise->organise
 organiism->organism
@@ -49446,6 +49478,8 @@ possthumouss->posthumous
 posst processssing->post processing
 posst processssor->post processor
 posst processssorss->post processors
+postcondtion->postcondition
+postcondtions->postconditions
 postdam->potsdam
 postggresql->postgresql
 postgraesql->postgresql
@@ -50258,6 +50292,12 @@ precison->precision
 precissely->precisely
 precisse->precise
 precission->precision
+precondtioner->preconditioner
+precondtioners->preconditioners
+precondtionner->preconditioner
+precondtionners->preconditioners
+precondtion->precondition
+precondtions->preconditions
 precurser->precursor
 precursoor->precursor
 precursro->precursor
@@ -53794,6 +53834,12 @@ reconstructedd->reconstructed
 reconstruucted->reconstructed
 reconsttructted->reconstructed
 recontructed->reconstructed
+recontructing->reconstructing
+recontruction->reconstruction
+recontructions->reconstructions
+recontructor->reconstructor
+recontructors->reconstructors
+recontructs->reconstructs
 recontsructed->reconstructed
 recoognise->recognise
 recoognitioon->recognition
@@ -64831,6 +64877,7 @@ thenthacle->tentacle
 theoorem->theorem
 theoory->theory
 theoremm->theorem
+theoreticall->theoretically
 theorie->theory
 theori->theory
 theorm->theorem
@@ -66145,6 +66192,7 @@ tranfers->transfers
 tranfer->transfer
 tranformations->transformations
 tranformation->transformation
+tranformative->transformative
 tranformed->transformed
 tranforming->transforming
 tranforms->transforms
@@ -66368,6 +66416,7 @@ transmition->transmission
 transmitled->transmitted
 transmitler->transmitter
 transmitling->transmitting
+transmitsion->transmission
 transmittaed->transmitted
 transmittaer->transmitter
 transmittedd->transmitted
@@ -67592,8 +67641,11 @@ uncomppressed->uncompressed
 uncompraessaed->uncompressed
 uncompreesseed->uncompressed
 uncompresed->uncompressed
+uncompreses->uncompresses
+uncompresing->uncompressing
 uncompressedd->uncompressed
 uncompressssed->uncompressed
+uncompres->uncompress
 uncomprressed->uncompressed
 unconciousness->unconsciousness
 unconcious->unconscious
@@ -67613,6 +67665,7 @@ unconditionat->unconditional
 unconditionnal->unconditional
 unconditionnaly->unconditionally
 uncondittional->unconditional
+uncondtionally->unconditionally
 unconfortability->discomfort
 unconmitted->uncommitted
 unconnitted->uncommitted
@@ -68103,6 +68156,7 @@ unithedsthathes->unitedstates
 unith thesths->unit tests
 unitialized ->uninitialized
 unitialized->uninitialized
+unitialize->uninitialize
 unitinitialized->uninitialized
 unitl->until
 unit taests->unit tests
@@ -71426,6 +71480,7 @@ workarounnds->workarounds
 workarounnd->workaround
 workarouunds->workarounds
 workarouund->workaround
+workbanch->workbench
 workedd->worked
 workeed->worked
 workes->works
@@ -71537,6 +71592,7 @@ worsaenaed->worsened
 worseeneed->worsened
 worsenedd->worsened
 worsenned->worsened
+worser->worse
 worssened->worsened
 worstened->worsened
 wortdwide->worldwide

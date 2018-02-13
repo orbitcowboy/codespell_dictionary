@@ -1,4 +1,6 @@
 #!/bin/bash
+set -x
+set -e
 WORKINGDIR=$(dirname $(readlink -f $0))
 # sort the english dictionary file
 cat dictionary_en.txt > dictionary_tmp.txt
