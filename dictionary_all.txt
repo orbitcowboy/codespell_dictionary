@@ -14179,6 +14179,7 @@ complianth->compliant
 compliantt->compliant
 compliation->compilation
 complicance->compliance
+complicances->compliances
 complie->compile
 complied->compiled
 compliement->compliment
@@ -48596,6 +48597,7 @@ pixeel->pixel
 pixeels->pixels
 pixell->pixel
 pixells->pixels
+pixelly->pixie, pixely,
 pixelss->pixels
 pixet->pixel
 pixets->pixels
@@ -51842,6 +51844,7 @@ propaggation->propagation
 propeerly->properly
 propeer->proper
 propeertiees->properties
+propegating->propagating
 propely->properly
 properies->properties
 properlies->properties
@@ -59773,6 +59776,7 @@ societties->societies
 sociialiism->socialism
 sociietiies->societies
 socities->societies
+soemone->someone
 soem->some
 soemthing->something
 sofftlink->softlink
@@ -69498,6 +69502,9 @@ vailidty->validity
 vairable->variable
 vakuum->vacuum
 valagrind->valgrind
+valdiated->validated
+valdiates->validates
+valdiate->validate
 valetta->valletta
 valggrind->valgrind
 valgriind->valgrind
