@@ -14033,6 +14033,7 @@ competitivveness->competitiveness
 competitorrs->competitors
 competitorss->competitors
 competitros->competitors
+competitve->competitive
 competive->competitive
 competiveness->competitiveness
 compettence->competence
@@ -35701,6 +35702,7 @@ instrruments->instruments
 instrucction->instruction
 instrucctions->instructions
 instrucion->instruction
+instrucions->instructions
 instruciton->instruction
 instrucitons->instructions
 instructioon->instruction
@@ -70687,6 +70689,8 @@ waring->warning
 warinings->warnings
 warining->warning
 wariors->warriors
+warnigns->warnings
+warnign->warning
 warnigs->warnings
 warnig->warning
 warniings->warnings
