@@ -10151,6 +10151,7 @@ calbibration->calibration
 calcalation->calculation
 calch->catch
 calclate->calculate
+calcluation->calculation
 calcluations->calculations
 calclulate->calculate
 calclulated->calculated
@@ -12447,6 +12448,7 @@ churrches->churches
 chuurch->church
 chuurches->churches
 cicrle->circle
+cicrular->circular
 cicuitry->circuitry
 ciinciinnatii->cincinnati
 ciipher->cipher
@@ -20605,6 +20607,8 @@ devasttatting->devastating
 devations->deviations
 devatsated->devastated
 devatsating->devastating
+devcie->device
+devcies->devices
 deveastated->devastated
 deveastating->devastating
 deveelop->develop
@@ -58606,6 +58610,7 @@ sequuence->sequence
 sequuences->sequences
 serach->search
 serarch->search
+sereil->serial
 sergaent->sergeant
 sergeaant->sergeant
 sergeaent->sergeant

@@ -292,6 +292,7 @@ Qualiät->Qualität
 Qualifkation->Qualifikation
 Qualifkationsbedarf->Qualifikationsbedarf
 qualitätssicherende->qualitätssichernde
+Quellec->Quelle
 rauh->rau
 Rechts-klick->Rechtsklick
 Reflektion->Reflexion
