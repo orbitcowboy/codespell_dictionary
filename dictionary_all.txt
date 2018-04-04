@@ -30625,7 +30625,6 @@ hallowean->halloween
 hallowean->hallowe'en
 hallowean->hallowe'en, halloween,
 hallowean->hallowe\"en, halloween
-hallowean->hallowe'en, halloween,
 hallowee'een->hallowe'en
 halloweeeen->halloween
 hallowe'enn->hallowe'en
@@ -36658,7 +36657,6 @@ intrrupted->interrupted
 intrrupting->interrupting
 intrrupt->interrupt
 intrrupts->interrupts
-intrrupts->interrupts	
 intrrusive->intrusive
 intruction->instruction
 intructions->instructions
@@ -36784,6 +36782,8 @@ intutively->intuitively
 intuuitions->intuitions
 intuuitive->intuitive
 intuuitively->intuitively
+intveral->interval
+intverals->intervals
 inudstry->industry
 inumerable->enumerable
 inumerable->enumerable, innumerable
@@ -37363,6 +37363,7 @@ it wwill->it will
 it you want->if you want
 iunior->junior
 i'vae->i've
+ivalid->invalid
 i'vee->i've
 ive->i have
 ive->i have, i've,
@@ -40501,7 +40502,6 @@ managuement->management
 managuement tool->management tool
 managuer->manager
 manangement->management
-manangement->management	
 mananger->manager
 mandetory->mandatory
 maneeuveerability->maneuverability
@@ -51303,6 +51303,7 @@ probablity->probability
 probablly->probably
 probablyy->probably
 probabty->probably
+probaby->probably
 probaebilistic->probabilistic
 probaebilities->probabilities
 probaebility->probability
@@ -52955,6 +52956,8 @@ quaestion->question
 quaestions->questions
 quaeuae->queue
 qualfication->qualification
+qualfier->qualifier
+qualfiers->qualifiers
 qualiffication->qualification
 qualifiaction->qualification
 qualificalion->qualification
@@ -54253,7 +54256,6 @@ recyle->recycle
 recyles->recycles
 recyling->recycling
 redction->reduction, redaction,
-redction->reduction, redaction,	
 reddeeming->redeeming
 re-ddetermine->re-determine
 reddistributable->redistributable
@@ -63313,6 +63315,8 @@ sukkessive->successive
 sukkessor->successor
 sukkess->success
 sumary->summary
+sumbodules->submodules
+sumbodule->submodule
 sumery->summery
 summaary->summary
 summaery->summary
@@ -70642,6 +70646,8 @@ vmwre->vmware
 vmwware->vmware
 vngeance->vengeance
 vnomous->venomous
+volatages->voltages
+volatage->voltage
 volcaano->volcano
 volcaeno->volcano
 volcanno->volcano

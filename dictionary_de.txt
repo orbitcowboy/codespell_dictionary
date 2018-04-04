@@ -10,6 +10,7 @@ albel->Label
 allle->alle
 Amalgan->Amalgam
 Amaturenbrett->Armaturenbrett
+analyseieren->analysieren
 Ananlyse->Analyse
 anbgeboten->angeboten
 and->an
