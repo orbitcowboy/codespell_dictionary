@@ -1292,6 +1292,8 @@ accoutns->accounts
 accouunt->account
 accouunts->accounts
 accpet->accept
+accpeted->accepted
+accpets->accepts
 accquaintancce->acquaintance
 accquaintancces->acquaintances
 accquainted->acquainted
@@ -2275,6 +2277,7 @@ adressed->addressed
 adresses->addresses
 adressing->addressing
 adressing->addressing, dressing
+adroid->android
 adustable->adjustable
 advaenturous->adventurous
 advaersary->adversary
@@ -19446,6 +19449,8 @@ debuugger->debugger
 debuugging->debugging
 decalarartion->declaration
 decalarartions->declarations
+decalaration->declaration
+decalarations->declarations
 decalared->declared
 decalare->declare
 decalares->declares
@@ -23427,6 +23432,7 @@ downgrated->downgraded
 downgrate->downgrade
 downlad->download
 downlads->downloads
+downlaod->download
 downlload->download
 downlloads->downloads
 downloaad->download
@@ -40519,6 +40525,7 @@ loongest->longest
 loongitude->longitude
 loongitudinal->longitudinal
 loong->long
+loook->look
 loooopback->loopback
 looose->lose
 loopbaack->loopback
@@ -47650,6 +47657,8 @@ oveflow->overflow
 oveflows->overflows
 ovehead->overhead
 oveheads->overheads
+oveloading->overloading
+oveload->overload
 overaall->overall
 over ccompliccated->over complicated
 over commplicated->over complicated
@@ -56784,6 +56793,7 @@ requqirements->requirements
 requred->required
 requrements->requirements
 requre->require
+requres->requires
 requrested->requested
 requresting->requesting
 requrest->request
@@ -60576,6 +60586,7 @@ skeeptical->skeptical
 skelton->skeleton
 skeltons->skeletons
 skenarios->scenarios
+skepitc->skeptic
 skeplical->skeptical
 skepptical->skeptical
 skepthical->skeptical
@@ -72693,6 +72704,7 @@ wohle->whole
 woiuldn't->wouldn't
 wokring->working
 wokr->work
+wold->would
 wondaeraed->wondered
 wondaerful->wonderful
 wondderedd->wondered
