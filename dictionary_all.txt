@@ -14367,6 +14367,9 @@ compalibililies->compatibilities
 compalibilily->compatibility
 compalible->compatible
 companny->company
+compansate->compensate
+compansated->compensated
+compansates->compensates
 companyy->company
 comparabble->comparable
 comparablae->comparable
