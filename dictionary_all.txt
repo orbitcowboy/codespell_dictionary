@@ -7699,6 +7699,10 @@ a uniquae->a unique
 a uniquee->a unique
 a unniform level->a uniform level
 a unnique->a unique
+aunthenticate->authenticate
+aunthenticated->authenticated
+aunthenticates->authenticates
+aunthenticating->authenticating
 auospacing->autospacing
 auot->auto
 auotmatic->automatic
@@ -10345,6 +10349,7 @@ cacluator->calculator
 caclulate->calculate
 caclulated->calculated
 caclulates->calculates
+caclulating->calculating
 caculate->calculate
 caculated->calculated
 caculater->calculator
@@ -14921,6 +14926,8 @@ comunications->communications
 comunities->communities
 comunity->community
 comute->commute
+comute->commute, compute,
+comuted->commuted, computed,
 conact->contact
 conain->contain
 conained->contained
@@ -15239,6 +15246,7 @@ conent->content
 conents->contents
 conesencus->consensus
 conetxt->context
+conext->context, connect, connects,
 confaeraencae->conference
 confaeraencaes->conferences
 confeereencee->conference
@@ -16633,6 +16641,7 @@ contidtionally->conditionally
 contigent->contingent
 contigguous->contiguous
 contigious->contiguous
+contigous->contiguous
 contiguious->contiguous
 contiguos->contiguous
 contiguouss->contiguous
@@ -18667,6 +18676,7 @@ customeer->customer
 customeers->customers
 customerr->customer
 customerrs->customers
+customicable->customizable
 customiizatiion->customization
 customiize->customize
 customise->customize
@@ -27606,6 +27616,7 @@ explot->exploit, explore,
 exploting->exploiting
 exploting->exploiting, exploring,
 explroer->explorer
+expolde->explode
 exponenlial->exponential
 exponenlialion->exponentiation
 exponentation->exponentiation
@@ -29268,8 +29279,10 @@ fomr->from, form
 fomr->from, form,
 fomula->formula
 fonctional->functional
+fonctionalities->functionalities
 fonction->function
 fonctioning->functioning
+fonctionnalities->functionalities
 fonctions->functions
 fonetic->phonetic
 fonlier->fontier
@@ -32603,6 +32616,7 @@ hiddenn->hidden
 hidding->hiding
 hidding->hiding, hidden,
 hiddin->hidden, hiding,
+hided->hidden, hid,
 hidee->hide
 hiden->hidden
 hid->hide
@@ -33020,6 +33034,7 @@ hopyfully->hopefully
 horifying->horrifying
 horiizontal->horizontal
 horiizontally->horizontally
+horizntal->horizontal
 horizonal->horizontal
 horizonally->horizontally
 horizonlal->horizontal
@@ -38013,6 +38028,9 @@ intreface->interface
 intregral->integral
 intresting->interesting
 intrest->interest
+intriduced->introduced
+intriduce->introduce
+intriduction->introduction
 intrisinc->intrinsic
 intrisincs->intrinsics
 introdducedd->introduced
@@ -38336,6 +38354,7 @@ ip-adress->ip-address
 ipadress->ipaddress
 ipadress->ip-address
 iplementation->implementation
+iput->input
 iput->input, put,
 iraascible->irascible
 iraescible->irascible
@@ -45141,6 +45160,7 @@ musssselss->mussels
 musst exisst->must exist
 must aexist->must exist
 must aligned->must align, must be aligned,
+mustator->mutator
 must eexist->must exist
 muste->must
 must exiist->must exist
@@ -49872,6 +49892,7 @@ perfeclty->perfectly
 perference->preference
 perferences->preferences
 perfer->prefer
+perferred->preferred
 perfformance->performance
 perfformances->performances
 perfformed->performed
@@ -58668,6 +58689,7 @@ retease->release
 reteases->releases
 reterival->retrieval
 retet->reset, retest,
+retetting->resetting, retesting,
 retevance->relevance
 retevant->relevant
 rethaliathed->retaliated
@@ -60367,6 +60389,7 @@ seciton->section
 secitons->sections
 secod->second
 secondy->secondary
+secord->second
 secound->second
 secratary->secretary
 secrelary->secretary
@@ -62048,6 +62071,8 @@ slaugtherhouses->slaughterhouses
 slauughterhouuses->slaughterhouses
 sleceted->selected
 slected->selected
+slecting->selecting
+slection->selection
 slect->select
 slereolypes->stereotypes
 sleroids->steroids
@@ -70937,6 +70962,7 @@ unforgiveable->unforgivable
 unforgivvable->unforgivable
 unforguettable->unforgettable
 unforlunalely->unfortunately
+unformated->unformatted
 unformted->unformatted
 unforreseen->unforeseen
 unforrgettable->unforgettable
@@ -72895,6 +72921,8 @@ veriify->verify
 verions->version
 verions->versions
 verion->version
+veriosns->versions
+veriosn->version
 verious->various
 verison control->version control
 verisons->versions
@@ -73394,6 +73422,7 @@ votunteered->volunteered
 votunteering->volunteering
 votunteers->volunteers
 votunteer->volunteer
+vould->would
 voxes->voxels, voxel,
 vraiable->variable
 vranda->veranda
