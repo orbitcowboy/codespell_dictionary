@@ -70259,6 +70259,8 @@ tyyrannyy->tyranny
 ubantu->ubuntu
 ubbiquitous->ubiquitous
 ubbuntu->ubuntu
+ubelieveble->unbelievable
+ubelievebly->unbelievably
 ubiiquiitous->ubiquitous
 ubiqquitous->ubiquitous
 ubiquilous->ubiquitous
