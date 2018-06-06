@@ -27055,7 +27055,9 @@ execl->excel
 execption->exception
 execptions->exceptions
 exected->executed
+exected->executed, expected,
 execting->executing
+execting->executing, expecting,
 exection->execution
 exections->executions
 exectuable->executable
@@ -39981,6 +39983,7 @@ lateest->latest
 lateex->latex
 latesit->latest
 lates->later
+lates->latest
 latesst->latest
 latetly->lately
 latets->latest
@@ -54576,6 +54579,7 @@ pssychic->psychic
 pssychology->psychology
 psudocode->pseudocode
 psuedo->pseudo
+psuh->push
 psycchicc->psychic
 psycchology->psychology
 psychadelic->psychedelic
@@ -60604,6 +60608,7 @@ selecte->selected
 selecthed->selected
 selecth->select
 selectin->selection
+selectin->selection, selecting,
 selecton->selection
 selectons->selections
 selectted->selected
@@ -66576,6 +66581,8 @@ symnetrically->symmetrically
 symnetrical->symmetrical
 symnetric->symmetric
 symnetry->symmetry
+symnols->symbols
+symnol->symbol
 symobl->symbol
 symobolic->symbolic
 symphhony->symphony
