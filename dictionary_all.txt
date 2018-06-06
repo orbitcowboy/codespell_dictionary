@@ -20005,6 +20005,7 @@ defaul->default
 defaull->default
 defaullt->default
 defaulst->default
+defaulst->defaults, default,
 defaultet->defaulted
 defaulth->default
 defaultt->default
@@ -26445,6 +26446,8 @@ etsbalishment->establishment
 etse->else
 etsimated->estimated
 etsimation->estimation
+etsts->tests
+etst->test
 ettc->etc
 ettc.->etc.
 etthnocenttrism->ethnocentrism
@@ -33682,6 +33685,7 @@ idiosynncrasy->idiosyncrasy
 idiosynncratic->idiosyncratic
 idiosyyncrasyy->idiosyncrasy
 idiosyyncratic->idiosyncratic
+idividual->individual
 idlae->idle
 idlee->idle
 idlle->idle
@@ -46429,6 +46433,7 @@ nothiceable->noticeable
 nothiceably->noticeably
 nothicing->noticing
 nothificathion->notification
+nothign->nothing
 nothihg->nothing
 nothind->nothing
 nothin->nothing
