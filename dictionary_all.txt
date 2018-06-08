@@ -70999,6 +70999,7 @@ unfortunatetly->unfortunately
 unfortunatety->unfortunately
 unfortunatley->unfortunately
 unfortunatly->unfortunately
+unfortuntaly->unfortunately
 unfortuntely->unfortunately
 unforunately->unfortunately
 unforunate->unfortunate
@@ -72128,7 +72129,9 @@ usefulllly->usefully
 usefullness->usefulness
 usefull->useful
 usefullyy->usefully
+usefult->useful
 usefuly->usefully
+usefutl->useful
 usefutty->usefully
 usefut->useful
 usege->usage
