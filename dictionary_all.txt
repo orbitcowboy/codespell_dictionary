@@ -5546,6 +5546,7 @@ applicathion->application
 applicathions->applications
 applicatin->application
 applicatins->applications
+applicationb->application
 applicationn->application
 applicationns->applications
 applicationss->applications
@@ -9078,6 +9079,7 @@ be lrealed->be treated
 belter than->better than
 belween->between
 belwether->bellwether
+belwo->below
 bemmusemment->bemusement
 bemusemenl->bemusement
 bemusemennt->bemusement
@@ -19767,7 +19769,9 @@ decoraded->decorated
 decoratrion->decoration
 decraese->decrease
 decraesing->deceasing, decreasing,
+decraesing->decreasing, deceasing,
 decrasing->deceasing, decreasing,
+decrasing-> decreasing, deceasing,
 decreaase->decrease
 decreaese->decrease
 decreas->decrease
@@ -19790,6 +19794,7 @@ decremmentor->decrementor
 decres->decrees
 decresing->deceasing, decreasing,
 decresing->decreasing
+decresing->decreasing, deceasing,
 decress->decrees
 decribed->described
 decribe->describe
@@ -22533,6 +22538,7 @@ discourages->discouraged
 discouragged->discouraged
 discouragued->discouraged
 discourraged->discouraged
+discourrage->discourage
 discouuraged->discouraged
 discovaeraed->discovered
 discovaer->discover
@@ -22787,6 +22793,7 @@ displayaed->displayed
 displayd->displayed
 displayeed->displayed
 displayes->displays
+displayes->displays, displayed,
 displayingg->displaying
 displayinng->displaying
 display ligghtingg->display lighting
@@ -23930,6 +23937,7 @@ eaggle->eagle
 eaglle->eagle
 eagte->eagle
 eahc->each
+eailier->earlier
 eaiser->easier
 eaisier->easier
 eakh->each
@@ -25780,6 +25788,7 @@ entrepreneurss->entrepreneurs
 entrepreneuur->entrepreneur
 entrepreneuurs->entrepreneurs
 entrie->entries
+entrie->entry, entries,
 entriess->entries
 entriies->entries
 entriy->entry
@@ -27161,6 +27170,7 @@ exepcted->expected
 exepected->expected
 exeperiment->experiment
 exept->except
+exept->except, exempt,
 exeptional->exceptional
 exeption->exception
 exeptions->exceptions
@@ -32070,6 +32080,7 @@ havae not->have not
 havaen't->haven't
 havae writtaen->have written
 hava->have
+hava->have, have a,
 hav been->have been
 havea->have
 have bbeen->have been
@@ -33252,6 +33263,7 @@ humroal->humoral
 humro->humor
 humroous->humorous
 humurous->humorous
+hunderd->hundred
 hundrets->hundreds
 hungs->hangs
 husbaand->husband
@@ -34613,6 +34625,7 @@ implemennter->implementer
 implemennters->implementers
 implemennt->implement
 implemenntinng->implementing
+implemenrt->implement
 implementaation->implementation
 implementaations->implementations
 implementaed->implemented
@@ -38745,6 +38758,7 @@ itsef->itself
 itselfs->itself
 itselt->itself
 itsems->items
+its is-> it is, it's,
 itslef->itself
 it sports->it supports
 it ssupportss->it supports
@@ -39991,6 +40005,7 @@ lateest->latest
 lateex->latex
 latesit->latest
 lates->later
+lates->later, latest,
 lates->latest
 latesst->latest
 latetly->lately
@@ -49595,6 +49610,7 @@ patiience->patience
 patkhes->patches
 patkh->patch
 patlern->pattern
+patrent->parent, patent, patron,
 patsime->pastime
 patsoral->pastoral
 pattaern->pattern
@@ -62399,6 +62415,7 @@ soldiiers->soldiers
 soled->solved
 soleely->solely
 solelyy->solely
+soler->solver, solar, solely,
 soley->solely
 solftare->software
 solftware->software
@@ -65158,6 +65175,7 @@ subsaequaently->subsequently
 subsaequaent->subsequent
 subsccribe->subscribe
 subsccription->subscription
+subsceptible->susceptible
 subscribae->subscribe
 subscribee->subscribe
 subscriibe->subscribe
@@ -67631,6 +67649,7 @@ tha->the
 thath->that
 thaththoos->tattoos
 thaththoo->tattoo
+thatn->that, than,
 that'ss->that's
 that;s->that's
 thats->that's
@@ -68264,6 +68283,7 @@ throupe->troupe
 throuth->through
 throuughouut->throughout
 throuugh->through
+throwed->threw, thrown,
 throwgh->through
 thrreatened->threatened
 thrreatening->threatening
@@ -74770,6 +74790,7 @@ wortdwide->worldwide
 wortd->world
 worte->wrote
 worthing->meriting
+worthing->worth, meriting,
 woudl->would
 woudn't->wouldn't
 woud->would
