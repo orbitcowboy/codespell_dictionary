@@ -8286,6 +8286,8 @@ backkwards->backwards
 backround->background
 backrounds->backgrounds
 backsapce->backspace
+backslase->backslash
+backslases->backslashes
 backslashs->backslashes
 backupp->backup
 backupped->backed-up
@@ -62088,6 +62090,8 @@ slandard->standard
 slarling poinl->starting point
 slarling->starting
 slarl->start
+slase->slash
+slases->slashes
 slashaes->slashes
 slashees->slashes
 slashhes->slashes
