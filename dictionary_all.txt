@@ -2289,6 +2289,8 @@ advaenturous->adventurous
 advaersary->adversary
 advaertisaemaent->advertisement
 advaertisaemaents->advertisements
+advanatage->advantage
+advanatages->advantages
 advancae->advance
 advancaed->advanced
 advancce->advance
@@ -24418,6 +24420,7 @@ efects->effects
 efel->evil
 eferences->references
 efering->referring
+efetivity->effectivity
 effecct->effect
 effecctive->effective
 effecctively->effectively
@@ -29887,6 +29890,7 @@ freqquently->frequently
 frequecny->frequency
 frequenccy->frequency
 frequence->frequency
+frequences->frequencies
 frequencey->frequency
 frequenct->frequency
 frequencyy->frequency
@@ -37758,6 +37762,7 @@ internface->interface
 interooperate->interoperate
 interoop->interop
 interoperaate->interoperate
+inter-operability->interoperability
 interoperaete->interoperate
 interopperate->interoperate
 interopp->interop
