@@ -21568,6 +21568,7 @@ deviattion->deviation
 deviattions->deviations
 devicce->device
 device-dependend->device-dependent
+devided->decided
 devided->divided
 devide->divide
 devider->divider
