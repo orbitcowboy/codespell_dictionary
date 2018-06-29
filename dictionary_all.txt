@@ -42149,6 +42149,7 @@ maniipulator->manipulator
 manippulator->manipulator
 manipulalor->manipulator
 manipulathor->manipulator
+manipulatin->manipulating
 manipulatoor->manipulator
 manipulatorr->manipulator
 manipulatro->manipulator
@@ -43422,6 +43423,7 @@ migratte->migrate
 migrattion->migration
 migrrate->migrate
 migrration->migration
+migth->might
 mihtraic->mithraic
 miichiigan->michigan
 miicrocontroller->microcontroller
@@ -73537,6 +73539,7 @@ vrsion->version
 vrtical->vertical
 vrtices->vertices
 vry->very
+vulerable->vulnerable
 vullnerabillity->vulnerability
 vulnaerability->vulnerability
 vulneerability->vulnerability
