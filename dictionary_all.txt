@@ -11483,6 +11483,7 @@ ccalcculus->calculus
 ccalendar->calendar
 ccalendars->calendars
 ccalender->calender
+ccale->scale
 ccaliber->caliber
 ccalibration->calibration
 ccallbacck->callback
@@ -15344,6 +15345,7 @@ configiration->configuration
 configire->configure
 configration->configuration
 configrations->configurations
+configruated->configuration
 configuartion->configuration
 configuartions->configurations
 configuation->configuration
@@ -54375,6 +54377,9 @@ proveing->proving
 proveisional->provisional
 proveision->provision
 proveocativee->provocative
+provicded->provided
+provicde->provide
+provicdes->provides
 provicial->provincial
 providaed->provided
 providae->provide
@@ -58422,6 +58427,7 @@ resoure->resource
 resoures->resources
 resourke->resource
 resourkes->resources
+resoution->resolution
 resouurce->resource
 resouurces->resources
 resoves->resolves
