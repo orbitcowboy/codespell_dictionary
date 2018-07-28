@@ -42,7 +42,7 @@ git pull
 make sort-dictionary
 cat ${WORKINGDIR}/codespell_git/codespell/codespell_lib/data/dictionary.txt >> ${WORKINGDIR}/dictionary_tmp.txt
 cd ${WORKINGDIR}
-cat ${WORKINGDIR}/dictionary_tmp.txt | sort | uniq > ${WORKINGDIR}dictionary_all.txt
+cat ${WORKINGDIR}/dictionary_tmp.txt | sort | uniq > ${WORKINGDIR}/dictionary_all.txt
 # remove trailing blanks on each line
 sed 's/[[:blank:]]*$//' -i ${WORKINGDIR}/dictionary_all.txt
 # convert upper case to lower case letters

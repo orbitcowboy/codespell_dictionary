@@ -15304,6 +15304,8 @@ confformance->conformance
 confform->conform
 confformities->conformities
 confformity->conformity
+confgiuration->configuration
+confgiured->configured
 confguration->configuration
 confgure->configure
 confgured->configured
@@ -48664,6 +48666,8 @@ outtputttting->outputting
 outtsanding->outstanding
 outtside->outside
 outtsttanding->outstanding
+outupt->output
+outupts->outputs
 outuput->output
 outut->output
 oututs->outputs
