@@ -23813,6 +23813,7 @@ dravidiann->dravidian
 draview->drawview
 draviidiian->dravidian
 dravvidian->dravidian
+drawed->drawn
 drawiing->drawing
 drawingg->drawing
 drawinng->drawing
@@ -39482,6 +39483,9 @@ kleennex->kleenex
 klenex->kleenex
 klernel->kernel
 kleyboard->keyboard
+klick->click
+klicked->clicked
+klicks->clicks
 klient->client
 klinikal->clinical
 klinikally->clinically
