@@ -1483,6 +1483,7 @@ acidentally->accidentally
 acidentaly->accidentally
 acient->ancient
 acii->ascii
+acii->ascii
 acitivate->activate
 acitivation->activation
 acitivities->activities
@@ -4465,6 +4466,7 @@ amennded->amended
 amenndmennt->amendment
 amenndmennts->amendments
 amercia->america
+amercia->america
 americaa->america
 americae->america
 americca->america
@@ -5345,6 +5347,7 @@ apemnines->apennines
 apended->appended
 apendix->appendix
 apenines->apennines
+apenines->apennines
 apenines->apennines, apennines
 apenines->apennines, apennines,
 apenmines->apennines
@@ -5491,6 +5494,7 @@ appendign->appending
 appendiix->appendix
 appendixx->appendix
 appeneded->appended
+appenines->apennines
 appenines->apennines
 appenines->apennines, apennines
 appenines->apennines, apennines,
@@ -6170,6 +6174,7 @@ archvie->archive
 archvies->archives
 arcticle->article
 arctile->article
+ardiuno->arduino
 ardiuno->arduino
 aready->already
 are are->are
@@ -7733,6 +7738,8 @@ austraaliaan->australian
 austraeliae->australia
 austraeliaen->australian
 austrailia->australia
+austrailia->australia
+austrailian->australian
 austrailian->australian
 australia->australia
 australiann->australian
@@ -9171,6 +9178,7 @@ berggamot->bergamot
 bernnoulli->bernoulli
 bernooulli->bernoulli
 bernouilli->bernoulli
+bernouilli->bernoulli
 bernouli->bernoulli
 bernoullii->bernoulli
 bernoulllli->bernoulli
@@ -9442,6 +9450,7 @@ blitzckrieg->blitzkrieg
 blitzcrieg->blitzkrieg
 blitzkkrieg->blitzkrieg
 blitzkreig->blitzkrieg
+blitzkreig->blitzkrieg
 blitzkriaeg->blitzkrieg
 blitzkrieeg->blitzkrieg
 blitzkriegg->blitzkrieg
@@ -9528,6 +9537,7 @@ bonanmo->bonanno
 bonano->bonanno
 bondary->boundary
 bonnannnno->bonanno
+bonnano->bonanno
 bonnano->bonanno
 booat->boat
 bood->boot
@@ -9744,6 +9754,7 @@ brannch->branch
 brannches->branches
 braodcasted->broadcasted
 brasillian->brazilian
+brasillian->brazilian
 braziiliian->brazilian
 braziliann->brazilian
 brazillian->brazilian
@@ -9878,10 +9889,12 @@ britainn->britain
 brithain->britain
 brithish->british
 britian->britain
+britian->britain
 britishh->british
 britissh->british
 brittain->britain
 brittiant->brilliant
+brittish->british
 brittish->british
 brnaches->branches
 brning->brining
@@ -10001,6 +10014,7 @@ btoated->bloated
 btog->blog
 btton->button
 buddah->buddha
+buddah->buddha
 buddddha->buddha
 buddddhist->buddhist
 buddhaa->buddha
@@ -10014,6 +10028,7 @@ buddhisst->buddhist
 buddhisth->buddhist
 buddhistt->buddhist
 buddhits->buddhist
+buddist->buddhist
 buddist->buddhist
 budha->buddha
 budhist->buddhist
@@ -10753,6 +10768,7 @@ cambridgee->cambridge
 cambridgge->cambridge
 cambridgue->cambridge
 cambrige->cambridge
+cambrige->cambridge
 cambriidge->cambridge
 cambrridge->cambridge
 cameera->camera
@@ -10980,6 +10996,7 @@ capee town->cape town
 caperbility->capability
 cape toown->cape town
 capetown->cape town
+capetown->cape town
 cape townn->cape town
 cape towwn->cape town
 capible->capable
@@ -11056,6 +11073,7 @@ carcas->caracas
 carcas->carcass
 carcas->carcass, caracas
 carcas->carcass, caracas,
+carcas->carcass, caracas,
 carcassss->carcass
 careeeer->career
 careeeers->careers
@@ -11095,6 +11113,7 @@ carlographer->cartographer
 carlridge->cartridge
 carmaelitae->carmelite
 carmalite->carmelite
+carmalite->carmelite
 carmeelitee->carmelite
 carmeliite->carmelite
 carmelile->carmelite
@@ -11109,12 +11128,15 @@ carnagae->carnage
 carnagee->carnage
 carnagge->carnage
 carnagie->carnegie
+carnagie->carnegie
+carnagie-mellon->carnegie-mellon
 carnagie-mellon->carnegie-mellon
 carnague->carnage
 carneegiee->carnegie
 carneegiee-meellon->carnegie-mellon
 carnege->carnage
 carnege->carnage, carnegie
+carnege->carnage, carnegie,
 carnege->carnage, carnegie,
 carnege->carnegie
 carneggie->carnegie
@@ -11128,8 +11150,11 @@ carnegiie-mellon->carnegie-mellon
 carnige->carnage
 carnige->carnage, carnegie
 carnige->carnage, carnegie,
+carnige->carnage, carnegie,
 carnige->carnegie
 carnigie->carnegie
+carnigie->carnegie
+carnigie-mellon->carnegie-mellon
 carnigie-mellon->carnegie-mellon
 carniivorous->carnivorous
 carniveorous->carnivorous
@@ -11157,6 +11182,8 @@ carriagee->carriage
 carriagge->carriage
 carriague->carriage
 carribbean->caribbean
+carribbean->caribbean
+carribean->caribbean
 carribean->caribbean
 carrige->carriage
 carriiage->carriage
@@ -11183,6 +11210,7 @@ cartesiann->cartesian
 cartesiian->cartesian
 cartessian->cartesian
 carthagginian->carthaginian
+carthagian->carthaginian
 carthagian->carthaginian
 carthagiiniian->carthaginian
 carthaginniann->carthaginian
@@ -11301,6 +11329,7 @@ cataliina->catalina
 cataline->catalina
 cataline->catiline
 cataline->catiline, catalina
+cataline->catiline, catalina,
 cataline->catiline, catalina,
 catalinna->catalina
 catallina->catalina
@@ -12056,6 +12085,7 @@ ccygwin->cygwin
 ccylinder->cylinder
 ccyphered->cyphered
 ceasar->caesar
+ceasar->caesar
 ceate->create
 ceated->created
 ceates->creates
@@ -12100,6 +12130,7 @@ ceiveing->ceiving
 ceivingg->ceiving
 ceivinng->ceiving
 ceivving->ceiving
+celcius->celsius
 celcius->celsius
 celesius->celsius
 celles->cells
@@ -12434,6 +12465,7 @@ champaggne->champagne
 champagnae->champagne
 champagnee->champagne
 champagnne->champagne
+champange->champagne
 champange->champagne
 champpagne->champagne
 chanages->changes
@@ -12945,11 +12977,13 @@ cincimmati->cincinnati
 cincimnati->cincinnati
 cincinati->cincinnati
 cincinatti->cincinnati
+cincinatti->cincinnati
 cincinmati->cincinnati
 cincinnaati->cincinnati
 cincinnaeti->cincinnati
 cincinnali->cincinnati
 cincinnathi->cincinnati
+cincinnatti->cincinnati
 cincinnatti->cincinnati
 cindergarten->kindergarten
 cinfiguration->configuration
@@ -13346,6 +13380,7 @@ coasst->coast
 coasth->coast
 coastt->coast
 cobvers->covers
+coca cola->coca-cola
 coca cola->coca-cola
 coccktail->cocktail
 coccoa->cocoa
@@ -15702,6 +15737,7 @@ connercial->commercial
 connercially->commercially
 connerical->commercial
 conneticut->connecticut
+conneticut->connecticut
 connetion->connection
 connferennce->conference
 connferennces->conferences
@@ -16080,6 +16116,7 @@ consistenly->consistently
 consistentlly->consistently
 consistentlyy->consistently
 consistentty->consistently
+consisteny->consistency, consistent,
 consisthency->consistency
 consisthenth->consistent
 consisthenthly->consistently
@@ -16523,6 +16560,7 @@ contaiminating->contaminating
 containa->contain
 containaer->container
 containaers->containers
+containe->contain, contained,
 containeer->container
 containeers->containers
 containees->containers
@@ -16997,7 +17035,9 @@ conventionall->conventional
 conventionat->conventional
 conventionnal->conventional
 conventtional->conventional
+convered->converted, covered,
 convered->covered
+convering->converting, covering,
 convering->covering
 converion->conversion
 converions->conversions
@@ -18805,6 +18845,7 @@ cyllinder->cylinder
 cylnder->cylinder
 cylnders->cylinders
 cymk->cmyk
+cymk->cmyk
 cyphaeraed->cyphered
 cypheereed->cyphered
 cypher->cipher
@@ -19086,6 +19127,7 @@ dardanelllles->dardanelles
 dardanettes->dardanelles
 dardannelles->dardanelles
 darddanelles->dardanelles
+dardenelles->dardanelles
 dardenelles->dardanelles
 darrdanelles->dardanelles
 darw->draw
@@ -19575,6 +19617,7 @@ deattocated->deallocated
 debaataable->debatable
 debaetaeble->debatable
 debain->debian
+debain->debian
 debalable->debatable
 debatablle->debatable
 debatabte->debatable
@@ -19591,8 +19634,10 @@ debbuging->debugging
 debg->debug
 debiaan->debian
 debiab->debian
+debiab->debian
 debiaen->debian
 debiann->debian
+debians->debian's
 debians->debian's
 debiian->debian
 debth->depth
@@ -19882,6 +19927,7 @@ dectector->detector
 dectivate->deactivate
 decypt->decrypt
 ded->dead
+dedection->detection
 dedly->deadly
 deeactivateed->deactivated
 deeal->deal
@@ -20155,6 +20201,7 @@ deficienncies->deficiencies
 deficienncy->deficiency
 deficinies->deficiencies
 defiend->defined
+defien->define
 defiiance->defiance
 defiiciienciies->deficiencies
 defiiciiency->deficiency
@@ -21302,6 +21349,7 @@ deteccted->detected
 deteccts->detects
 deteced->detected
 detecst->detects
+detectected->detected
 detecte->detect
 detectes->detects
 detectetd->detected
@@ -21983,6 +22031,8 @@ diffrence->difference
 diffrences->differences
 diffrent->different
 diffrents->different, difference,
+diffrerence->difference
+diffrerences->differences
 diffult->difficult
 dificul->difficult
 dificult->difficult
@@ -22340,6 +22390,8 @@ direktly->directly
 direktory->directory
 direktory exists->directory exists
 direoctry->directory
+diretories->directories
+diretory->directory
 dirived->derived
 dirrectly->directly
 dirrectorry->directory
@@ -23754,6 +23806,7 @@ draughttsman->draughtsman
 draugthsman->draughtsman
 drauughtsman->draughtsman
 dravadian->dravidian
+dravadian->dravidian
 draveidian->dravidian
 draviddian->dravidian
 dravidiann->dravidian
@@ -24050,6 +24103,8 @@ easthetical->aesthetical
 easthetically->aesthetically
 eaxample->example
 eaxmple->example
+ebaled->enabled
+ebale->enable
 eccessive->excessive
 eccleccticc->eclectic
 ecclectic->eclectic
@@ -25222,6 +25277,7 @@ enbales->enables
 enbaling->enabling
 enbdedded->embedded
 enbdeded->embedded
+enbedding->embedding
 enble->enable
 enbles->enables
 encaapsulaation->encapsulation
@@ -25430,6 +25486,8 @@ endpionts->endpoints
 endsup->ends up
 enduce->induce
 eneables->enables
+enebaled->enabled
+enebale->enable
 eneded->ended
 ened->need
 enegeries->energies
@@ -25583,6 +25641,7 @@ enlily->entity
 enlirely->entirely
 enlish->english
 enlish->english, enlist
+enlish->english, enlist,
 enlish->english, enlist,
 enlish->enlist
 enlisit->enlist
@@ -26551,10 +26610,14 @@ europeanss->europeans
 europeean->european
 europeeans->europeans
 europian->european
+europian->european
+europians->europeans
 europians->europeans
 europpean->european
 europpeans->europeans
 eurpean->european
+eurpean->european
+eurpoean->european
 eurpoean->european
 eurropean->european
 eurropeans->europeans
@@ -28417,6 +28480,7 @@ fanttasttic->fantastic
 fanttasy->fantasy
 faour->favor
 farenheit->fahrenheit
+farenheit->fahrenheit
 fasade->facade
 fasccinated->fascinated
 fasccist->fascist
@@ -28518,6 +28582,8 @@ februaery->february
 februaryy->february
 februuary->february
 febuary->february
+febuary->february
+feburary->february
 feburary->february
 fedality->fidelity
 fedback->feedback
@@ -29191,6 +29257,7 @@ flemiish->flemish
 flemishh->flemish
 flemissh->flemish
 flemmish->flemish
+flemmish->flemish
 flexability->flexibility
 flexable->flexible
 flexeliint->flexelint
@@ -29589,6 +29656,7 @@ formaeting->formating
 formaetted->formatted
 formaetting->formatting
 formalhaut->fomalhaut
+formalhaut->fomalhaut
 formaliized->formalized
 formaliize->formalize
 formaling->formating
@@ -29827,6 +29895,7 @@ foundd->found
 founddries->foundries
 founddry->foundry
 foundland->newfoundland
+foundland->newfoundland
 foundriaes->foundries
 foundriees->foundries
 foundriess->foundries
@@ -29925,6 +29994,8 @@ frankiskans->franciscans
 frannciscann->franciscan
 frannciscanns->franciscans
 fransiscan->franciscan
+fransiscan->franciscan
+fransiscans->franciscans
 fransiscans->franciscans
 fred->freed
 freedd->freed
@@ -30418,6 +30489,7 @@ gae->gale
 gae->game
 gae->game, gael, gale
 gae->game, gael, gale,
+gae->game, gael, gale,
 gaelaectic->galactic
 gaelaetiaens->galatians
 gaelaexies->galaxies
@@ -30468,6 +30540,7 @@ galatianss->galatians
 galatic->galactic
 galatiians->galatians
 galations->galatians
+galations->galatians
 galattians->galatians
 galaxiaes->galaxies
 galaxiees->galaxies
@@ -30495,6 +30568,7 @@ gamae boy->game boy
 gamae->game
 gamaes->games
 game booy->game boy
+gameboy->game boy
 gameboy->game boy
 game boyy->game boy
 gamee boy->game boy
@@ -30900,6 +30974,7 @@ gguideline->guideline
 gguidelines->guidelines
 gguttural->guttural
 ghandi->gandhi
+ghandi->gandhi
 ghhostscript->ghostscript
 ghoostscript->ghostscript
 ghositscript->ghostscript
@@ -31054,6 +31129,7 @@ goddunov->godunov
 godesses->goddesses
 godess->goddess
 godounov->godunov
+godounov->godunov
 godunnov->godunov
 godunove->godunov
 godunovv->godunov
@@ -31063,6 +31139,7 @@ gogether->together
 gogin->gauguin
 gogin->going
 gogin->going, gauguin
+gogin->going, gauguin,
 gogin->going, gauguin,
 gohtenburg->gothenburg
 goign->going
@@ -31097,6 +31174,7 @@ gothaenburg->gothenburg
 gotheenburg->gothenburg
 gothenbburg->gothenburg
 gothenberg->gothenburg
+gothenberg->gothenburg
 gothenburgg->gothenburg
 gothenburrg->gothenburg
 gothenbuurg->gothenburg
@@ -31106,6 +31184,7 @@ goththlieb->gottlieb
 gotlieb->gottlieb
 gotllieb->gottlieb
 gotthenburg->gothenburg
+gottleib->gottlieb
 gottleib->gottlieb
 gottliaeb->gottlieb
 gottliebb->gottlieb
@@ -31500,9 +31579,11 @@ guadetoupe->guadeloupe
 guaduloupe->guadalupe
 guaduloupe->guadalupe, guadeloupe
 guaduloupe->guadalupe, guadeloupe,
+guaduloupe->guadalupe, guadeloupe,
 guaduloupe->guadeloupe
 guadulupe->guadalupe
 guadulupe->guadalupe, guadeloupe
+guadulupe->guadalupe, guadeloupe,
 guadulupe->guadalupe, guadeloupe,
 guadulupe->guadeloupe
 guaedaelupe->guadalupe
@@ -31571,6 +31652,8 @@ guassian->gaussian
 guataemala->guatemala
 guataemalan->guatemalan
 guatamala->guatemala
+guatamala->guatemala
+guatamalan->guatemalan
 guatamalan->guatemalan
 guateemala->guatemala
 guateemalan->guatemalan
@@ -31673,9 +31756,12 @@ guiideliine->guideline
 guiideliines->guidelines
 guiinness->guinness
 guilia->giulia
+guilia->giulia
+guilio->giulio
 guilio->giulio
 guimmess->guinness
 guimness->guinness
+guiness->guinness
 guiness->guinness
 guinmess->guinness
 guinnaess->guinness
@@ -31683,6 +31769,7 @@ guinneess->guinness
 guinnes->guinness
 guinnessss->guinness
 guinnnness->guinness
+guiseppe->giuseppe
 guiseppe->giuseppe
 gui's->guis
 guiss->guis
@@ -31786,6 +31873,7 @@ habeeas->habeas
 habenero->habanero
 habeus->habeas
 hability->ability
+habsbourg->habsburg
 habsbourg->habsburg
 habsburgg->habsburg
 habsburrg->habsburg
@@ -31920,6 +32008,7 @@ hallowean->halloween
 hallowean->hallowe'en
 hallowean->hallowe'en, halloween,
 hallowean->hallowe\"en, halloween
+hallowean->hallowe'en, halloween,
 hallowee'een->hallowe'en
 halloweeeen->halloween
 hallowe'enn->hallowe'en
@@ -32145,6 +32234,7 @@ hass->has
 hass not->has not
 hassn't->hasn't
 hatian->haitian
+hatian->haitian
 hattowe'en->hallowe'en
 hattoween->halloween
 havae baeaen->have been
@@ -32363,6 +32453,7 @@ heidelbberg->heidelberg
 heidelbergg->heidelberg
 heidelberrg->heidelberg
 heidelburg->heidelberg
+heidelburg->heidelberg
 heidellberg->heidelberg
 heidetberg->heidelberg
 heigest->highest
@@ -32448,6 +32539,7 @@ heraa->hera
 herader->header
 herad->heard
 herad->heard, hera
+herad->heard, hera,
 herad->heard, hera,
 herad->hera
 herae->hera
@@ -33829,6 +33921,7 @@ igores->ignores
 igoring->ignoring
 i haave->i have
 ihaca->ithaca
+ihaca->ithaca
 i haeve->i have
 i havae->i have
 i havee->i have
@@ -34228,6 +34321,7 @@ illegittimatte->illegitimate
 illess->illness
 il lhen came->it then came
 illiegal->illegal
+i;ll->i'll
 i;ll->i'll
 illistrates->illustrates
 illllegall->illegal
@@ -35378,6 +35472,7 @@ inconsistencyy->inconsistency
 inconsistend->inconsistent
 inconsisten->inconsistent
 inconsistenly->inconsistently
+inconsisteny->inconsistency, inconsistent,
 inconsisthencies->inconsistencies
 inconsisthency->inconsistency
 inconsisthenth->inconsistent
@@ -38689,6 +38784,7 @@ isotrophically->isotropically
 israaelis->israelis
 israeelis->israelis
 israelies->israelis
+israelies->israelis
 israeliis->israelis
 israellis->israelis
 israetis->israelis
@@ -38951,12 +39047,15 @@ januarry->january
 januaryy->january
 janurary->january
 januray->january
+januray->january
 januuary->january
 japanaesae->japanese
 japaneesee->japanese
 japanes->japanese
+japanes->japanese
 japanesse->japanese
 japannese->japanese
+japanses->japanese
 japanses->japanese
 jappanese->japanese
 jaques->jacques
@@ -39000,6 +39099,7 @@ johaennine->johannine
 johammine->johannine
 johamnine->johannine
 johanine->johannine
+johanine->johannine
 johanmine->johannine
 johanniine->johannine
 johanninae->johannine
@@ -39017,6 +39117,7 @@ josaeph->joseph
 joseeph->joseph
 josephh->joseph
 josepph->joseph
+jospeh->joseph
 jospeh->joseph
 josseph->joseph
 jouney->journey
@@ -39056,6 +39157,8 @@ jscipt->jscript
 jstu->just
 jsut->just
 juadaism->judaism
+juadaism->judaism
+juadism->judaism
 juadism->judaism
 judaaism->judaism
 judaeism->judaism
@@ -41515,6 +41618,7 @@ lweak->tweak
 lwelflh->twelfth
 lwo->two
 lybia->libya
+lybia->libya
 lyiing->lying
 lyingg->lying
 lyinng->lying
@@ -42041,6 +42145,7 @@ malching->matching
 malch->match
 malcolmm->malcolm
 malcom->malcolm
+malcom->malcolm
 malcoolm->malcolm
 malerialisl->materialist
 malfformed->malformed
@@ -42078,6 +42183,7 @@ maltaesae->maltese
 malteesee->maltese
 maltered->mattered
 malter->matter
+maltesian->maltese
 maltesian->maltese
 maltesse->maltese
 malthese->maltese
@@ -42550,6 +42656,8 @@ massachusets->massachusetts
 massachusetst->massachusetts
 massachusetttts->massachusetts
 massachussets->massachusetts
+massachussets->massachusetts
+massachussetts->massachusetts
 massachussetts->massachusetts
 massachuusetts->massachusetts
 massakhusetts->massachusetts
@@ -42744,6 +42852,7 @@ mayybe->maybe
 mayy have been->may have been
 mayy->may
 mazilla->mozilla
+mazilla->mozilla
 mcarthyist->mccarthyist
 mccaarthyist->mccarthyist
 mccaerthyist->mccarthyist
@@ -42893,6 +43002,7 @@ medikine->medicine
 medikiny->mediciny
 medilerranean->mediterranean
 mediterainnean->mediterranean
+mediteranean->mediterranean
 mediteranean->mediterranean
 mediterraaneaan->mediterranean
 mediterraeneaen->mediterranean
@@ -43101,6 +43211,7 @@ meory->memory
 meranda->miranda
 meranda->veranda
 meranda->veranda, miranda
+meranda->veranda, miranda,
 meranda->veranda, miranda,
 mercaantile->mercantile
 mercaentile->mercantile
@@ -43401,6 +43512,7 @@ miccroccontroller->microcontroller
 miccro->micro
 miccrosccopy->microscopy
 miccrosoft->microsoft
+michagan->michigan
 michagan->michigan
 michhigan->michigan
 michigaan->michigan
@@ -43716,6 +43828,7 @@ minerat->mineral
 minerial->mineral
 minerral->mineral
 minggw->mingw
+minggw->mingw
 miniaature->miniature
 miniaeture->miniature
 minialure->miniature
@@ -43971,6 +44084,7 @@ misogyynyy->misogyny
 misoogynist->misogynist
 misoogyny->misogyny
 misouri->missouri
+misouri->missouri
 mispeld->misspelled
 mispeling->misspelling
 mispelld->misspelled
@@ -44012,6 +44126,8 @@ missionaryy->missionary
 missionnary->missionary
 missioonary->missionary
 missisipi->mississippi
+missisipi->mississippi
+missisippi->mississippi
 missisippi->mississippi
 mississipi->mississippi
 mississippppi->mississippi
@@ -44692,6 +44808,7 @@ monotypik->monotypic
 monotyppic->monotypic
 monotyypic->monotypic
 monserrat->montserrat
+monserrat->montserrat
 monsterrat->montserrat
 monstrum->monster
 montaanaa->montana
@@ -44705,6 +44822,7 @@ monthhs->months
 monthserrath->montserrat
 monthss->months
 mont->month
+montnana->montana
 montnana->montana
 montsaerrat->montserrat
 montseerrat->montserrat
@@ -44902,6 +45020,7 @@ movment->movement
 movvement->movement
 movvie->movie
 moziilla->mozilla
+mozila->mozilla
 mozila->mozilla
 mozillaa->mozilla
 mozillae->mozilla
@@ -45441,6 +45560,7 @@ mystterious->mysterious
 mysttery->mystery
 mysttical->mystical
 mythraic->mithraic
+mythraic->mithraic
 mytserious->mysterious
 mytsery->mystery
 mytsical->mystical
@@ -45556,11 +45676,14 @@ nanes->names
 nanne->name
 nannes->names
 naploeon->napoleon
+naploeon->napoleon
 napolaeonic->napoleonic
 napolaeon->napoleon
 napolean->napoleon
+napolean->napoleon
 napoleeonic->napoleonic
 napoleeon->napoleon
+napoleonian->napoleonic
 napoleonian->napoleonic
 napoleonicc->napoleonic
 napoleoniic->napoleonic
@@ -45640,6 +45763,7 @@ nazarethh->nazareth
 nazaret->nazareth
 nazaretth->nazareth
 nazarreth->nazareth
+nazereth->nazareth
 nazereth->nazareth
 nazzareth->nazareth
 ncluded->included
@@ -46078,6 +46202,7 @@ neww yorker->new yorker
 new yoorker->new yorker
 new yorcer->new yorker
 new yorcker->new yorker
+newyorker->new yorker
 newyorker->new yorker
 new yorkker->new yorker
 new yorkler->new yorker
@@ -46701,6 +46826,7 @@ novembber->november
 novemberr->november
 novemmber->november
 novermber->november
+novermber->november
 novmber->november
 no vvalue->no value
 novvember->november
@@ -46749,6 +46875,7 @@ nuklear->nuclear
 nularbor->nullarbor
 nulk->null
 nullaarbor->nullarbor
+nullabour->nullarbor
 nullabour->nullarbor
 nullaerbor->nullarbor
 nullarbbor->nullarbor
@@ -46849,6 +46976,7 @@ nuraembaerg->nuremberg
 nureembeerg->nuremberg
 nurembberg->nuremberg
 nurembergg->nuremberg
+nuremburg->nuremberg
 nuremburg->nuremberg
 nuremmberg->nuremberg
 nurluring->nurturing
@@ -47167,6 +47295,7 @@ obyect->object
 obyects->objects
 obyekt->object
 obyekts->objects
+o'caml->ocaml
 o'caml->ocaml
 ocasionally->occasionally
 ocasional->occasional
@@ -49224,7 +49353,10 @@ paliamentarian->parliamentarian
 palience->patience
 palindrom->palindrome
 palistian->palestinian
+palistian->palestinian
 palistinian->palestinian
+palistinian->palestinian
+palistinians->palestinians
 palistinians->palestinians
 pallace->palace
 pallaet->pallet
@@ -49275,6 +49407,7 @@ pantommimme->pantomime
 pantoomime->pantomime
 panttomime->pantomime
 paoition->position
+papanicalou->papanicolaou
 papanicalou->papanicolaou
 papaniccolaou->papanicolaou
 papanicolaouu->papanicolaou
@@ -49899,6 +50032,7 @@ pelopomnesus->peloponnesus
 peloponesus->peloponnesus
 peloponmesus->peloponnesus
 peloponnes->peloponnesus
+peloponnes->peloponnesus
 peloponnessuss->peloponnesus
 peloponnesuus->peloponnesus
 peloponnnnesus->peloponnesus
@@ -49968,6 +50102,7 @@ pennsylveania->pennsylvania
 pennsylvvania->pennsylvania
 pennsytvania->pennsylvania
 pennsyylvania->pennsylvania
+pennyslvania->pennsylvania
 pennyslvania->pennsylvania
 pensinula->peninsula
 pensle->pencil
@@ -50473,6 +50608,7 @@ phaeromonae->pheromone
 phantasy->fantasy
 pharaooh->pharaoh
 pharoah->pharaoh
+pharoah->pharaoh
 pharraoh->pharaoh
 pheenomeenally->phenomenally
 pheenomeenal->phenomenal
@@ -50555,6 +50691,7 @@ phiilosophiies->philosophies
 phiilosophy->philosophy
 philipine->philippine
 philipines->philippines
+philipines->philippines
 philippinae->philippine
 philippinaes->philippines
 philippinee->philippine
@@ -50568,8 +50705,10 @@ philisopher->philosopher
 philisophical->philosophical
 philisophy->philosophy
 phillipine->philippine
+phillipine->philippine
 phillipines->philippines
 phillippine->philippine
+phillippines->philippines
 phillippines->philippines
 phillosopher->philosopher
 phillosophicalllly->philosophically
@@ -50625,6 +50764,7 @@ phoeneciian->phoenecian
 phoenekian->phoenecian
 phoenneciann->phoenecian
 phonaetic->phonetic
+phonecian->phoenecian
 phonecian->phoenecian
 phoneetic->phonetic
 phonelic->phonetic
@@ -51518,6 +51658,7 @@ portayed->portrayed
 portection->protection
 portect->protect
 portguese->portuguese
+portguese->portuguese
 porthabilithy->portability
 porthion->portion
 porthraith->portrait
@@ -51556,10 +51697,12 @@ porttuguese->portuguese
 portuberance->protuberance
 portuberances->protuberances
 portugese->portuguese
+portugese->portuguese
 portugguese->portuguese
 portuguaesae->portuguese
 portuguease->portuguese
 portugueesee->portuguese
+portugues->portuguese
 portugues->portuguese
 portuguesse->portuguese
 portuuguuese->portuguese
@@ -51768,11 +51911,13 @@ posst processssorss->post processors
 postcondtion->postcondition
 postcondtions->postconditions
 postdam->potsdam
+postdam->potsdam
 postggresql->postgresql
 postgraesql->postgresql
 postgreesql->postgresql
 postgres->postgresql
 postgress->postgresql
+postgressql->postgresql
 postgressql->postgresql
 postgrresql->postgresql
 posthgresql->postgresql
@@ -52861,6 +53006,7 @@ premmiere->premiere
 premmillennial->premillennial
 premmonstratensians->premonstratensians
 premonasterians->premonstratensians
+premonasterians->premonstratensians
 premonnstratennsianns->premonstratensians
 premonsitratensians->premonstratensians
 premonslralensians->premonstratensians
@@ -52966,6 +53112,7 @@ prerogativve->prerogative
 prerogattive->prerogative
 preroggative->prerogative
 preroogative->prerogative
+prersistent->persistent
 presance->presence
 presedential->presidential
 presed->pressed
@@ -54820,6 +54967,7 @@ pucciinii->puccini
 puccinni->puccini
 puchasing->purchasing
 pucini->puccini
+pucini->puccini
 pueerto rican->puerto rican
 pueerto ricans->puerto ricans
 puerlo rican->puerto rican
@@ -54844,6 +54992,8 @@ puerto riicans->puerto ricans
 puerto rikan->puerto rican
 puerto rikans->puerto ricans
 puertorrican->puerto rican
+puertorrican->puerto rican
+puertorricans->puerto ricans
 puertorricans->puerto ricans
 puertto rican->puerto rican
 puertto ricans->puerto ricans
@@ -55113,6 +55263,7 @@ quckstarter->quickstarter
 qudrangles->quadrangles
 queeeensland->queensland
 queenland->queensland
+queenland->queensland
 queennslannd->queensland
 queenslaand->queensland
 queenslaend->queensland
@@ -55175,7 +55326,9 @@ questtions->questions
 quetsionable->questionable
 quetsion->question
 quetsions->questions
+queueud->queued
 queu->queue
+queus->queues
 quew->queue
 quiaet->quiet
 quicckly->quickly
@@ -55192,6 +55345,7 @@ quicklyy->quickly
 quickty->quickly
 quieet->quiet
 quiel->quiet
+quiessent->quiescent
 quieth->quiet
 quiett->quiet
 quiickly->quickly
@@ -55244,6 +55398,8 @@ quothe->quote
 quotte->quote
 quottes->quotes
 quoute->quote
+quried->queried
+quroum->quorum
 qutie->quiet
 qutie->quite
 qutie->quite, quiet
@@ -55830,6 +55986,7 @@ realtionship->relationship
 realtions->relations
 realyl->really
 realy->really
+reamde->readme
 reamde->readme
 ream->ream, stream,
 reander->render
@@ -57739,6 +57896,7 @@ re-open->reopen
 reoport->report
 reoppen->reopen
 reordder->reorder
+reorded->reorder
 reord->record
 reorgaanisaation->reorganisation
 reorgaenisaetion->reorganisation
@@ -59293,6 +59451,7 @@ rockefellller->rockefeller
 rockefetter->rockefeller
 rockeffeller->rockefeller
 rockerfeller->rockefeller
+rockerfeller->rockefeller
 rockkefeller->rockefeller
 rocklefeller->rockefeller
 rococco->rococo
@@ -59745,6 +59904,8 @@ russiaen->russian
 russiann->russian
 russiian->russian
 russina->russian
+russina->russian
+russion->russian
 russion->russian
 russssian->russian
 rute->rule
@@ -59795,6 +59956,7 @@ saccrilegious->sacrilegious
 sacle->scale
 sacrafice->sacrifice
 sacreligious->sacrilegious
+sacremento->sacramento
 sacremento->sacramento
 sacriffice->sacrifice
 sacrifficial->sacrificial
@@ -60010,6 +60172,7 @@ sanhaedrin->sanhedrin
 sanheddrin->sanhedrin
 sanhedriin->sanhedrin
 sanhedrim->sanhedrin
+sanhedrim->sanhedrin
 sanhedrrin->sanhedrin
 sanheedrin->sanhedrin
 sanhhedrin->sanhedrin
@@ -60049,6 +60212,8 @@ satellllite->satellite
 satellllites->satellites
 satement->statement
 saterday->saturday
+saterday->saturday
+saterdays->saturdays
 saterdays->saturdays
 sate->state, sate,
 satettite->satellite
@@ -60194,6 +60359,7 @@ scaller->scatter
 scalter->scatter
 scamned->scanned
 scamning->scanning
+scandanavia->scandinavia
 scandanavia->scandinavia
 scanddinavia->scandinavia
 scandiinaviia->scandinavia
@@ -62016,6 +62182,8 @@ sinse->sines, since
 sinse->sines, since,
 sintax->syntax
 sionists->zionists
+sionists->zionists
+sionist->zionist
 sionist->zionist
 sirculations->circulation
 sisitine->sistine
@@ -62116,6 +62284,7 @@ sivible->visible
 sixtin->sistine
 sixtin->sistine, sixteen
 sixtin->sistine, sixteen,
+sixtin->sistine, sixteen,
 sizaed->sized
 sizae of->size of
 sizae->size
@@ -62139,6 +62308,7 @@ skaeptical->skeptical
 skaeting->skating
 skagaerrak->skagerrak
 skageerrak->skagerrak
+skagerak->skagerrak
 skagerak->skagerrak
 skagerrrrak->skagerrak
 skaggerrak->skagerrak
@@ -63051,6 +63221,7 @@ spaghetli->spaghetti
 spaghettii->spaghetti
 spaghetttti->spaghetti
 spaghhetti->spaghetti
+spainish->spanish
 spainish->spanish
 spakious->spacious
 spaniish->spanish
@@ -67798,6 +67969,7 @@ thast->that's
 thast->that, that's,
 thast->that, that\"s
 tha->than, that,
+tha->than, that, the,
 tha->that
 tha->the
 thath->that
@@ -68178,6 +68350,7 @@ thinggs->things
 thingg->thing
 thinghs->things
 thingss->things
+thinigs->things
 thinkingg->thinking
 thinkking->thinking
 thinkks->thinks
@@ -68619,6 +68792,7 @@ timout->timeout
 timsort->timesort
 tim->time
 tim->time, tim, disabled due to being a person's name
+tim->time, tim, disabled due to being a person's name
 tinear->linear
 tinguistic->linguistic
 tinguistics->linguistics
@@ -68822,6 +68996,7 @@ toleranz->tolerance
 tolerence->tolerance
 tolernce->tolerance
 tolerrance->tolerance
+tolkein->tolkien
 tolkein->tolkien
 tolkiaen->tolkien
 tolkieen->tolkien
@@ -70318,6 +70493,7 @@ turnk->turnkey, trunk,
 turnnkey->turnkey
 turrnkey->turnkey
 tuscon->tucson
+tuscon->tucson
 tus->thus
 tust->trust
 tutoorial->tutorial
@@ -70391,6 +70567,7 @@ typicael->typical
 typicalllly->typically
 typicall->typical
 typicall->typically
+typicall->typically, typical,
 typicaly->typically
 typicat->typical
 typicatty->typically
@@ -70480,6 +70657,7 @@ ubunthu->ubuntu
 ubunttu->ubuntu
 ubunut->ubuntu
 ubutunu->ubuntu
+ubutunu->ubuntu
 ubutu->ubuntu
 ubuuntuu->ubuntu
 uckrainian->ukrainian
@@ -70491,6 +70669,7 @@ udpater->updater
 udpates->updates
 udpate->update
 udpating->updating
+uegister->unregister
 uesd->used
 uesful->useful
 uesr->user
@@ -70543,6 +70722,7 @@ ukraainiaan->ukrainian
 ukraeiniaen->ukrainian
 ukraiiniian->ukrainian
 ukrainniann->ukrainian
+ukranian->ukrainian
 ukranian->ukrainian
 ukrrainian->ukrainian
 ulililies->utilities
@@ -70655,6 +70835,7 @@ unavailible->unavailable
 unavaillablle->unavailable
 unavaitabte->unavailable
 unaveailable->unavailable
+unavilable->unavailable
 unavvailable->unavailable
 unbaalaance->unbalance
 unbaeknownst->unbeknownst
@@ -70734,6 +70915,7 @@ unchaeck->uncheck
 unchaellengeaeble->unchallengeable
 unchaengeaeble->unchangeable
 unchaged->unchanged
+unchainged->unchanged
 unchalengeable->unchallengeable
 unchallaengaeablae->unchallengeable
 unchalleengeeablee->unchallengeable
@@ -70743,6 +70925,7 @@ unchallengeabble->unchallengeable
 unchallenggeable->unchallengeable
 unchallengueable->unchallengeable
 unchallllengeablle->unchallengeable
+unchaned->unchanged
 unchaneged->unchanged
 unchangable->unchangeable
 unchangaeablae->unchangeable
@@ -70957,6 +71140,7 @@ undeffinable->undefinable
 undeffined->undefined
 undefied->undefined
 undefiend->undefined
+undefien->undefine
 undefiinable->undefinable
 undefiined->undefined
 undefinaable->undefinable
@@ -70965,6 +71149,7 @@ undefinablle->undefinable
 undefinabte->undefinable
 undefinaeble->undefinable
 undefinined->undefined
+undeflows->underflows
 undefuned->undefined
 undekidable->undecidable
 undeleclable->undetectable
@@ -70980,12 +71165,14 @@ underlyingg->underlying
 underlyying->underlying
 underrgrround->underground
 underrlying->underlying
+underrrun->underrun
 underrscorre->underscore
 underrstandability->understandability
 underrstanding->understanding
 underrstand->understand
 underrstood->understood
 underr->under
+undersacn->underscan
 undersccore->underscore
 underscoore->underscore
 underscroe->underscore
@@ -71114,6 +71301,7 @@ unexected->unexpected
 unexepcted->unexpected
 unexepected->unexpected
 unexpcted->unexpected
+unexpectdly->unexpectedly
 unexpecte->unexpected
 unexpetedly->unexpectedly
 unexpeted->unexpected
@@ -71179,6 +71367,8 @@ unforseen->unforeseen
 unfortanetly->unfortunately
 unforthunathely->unfortunately
 unforttunattely->unfortunately
+unfortuantely->unfortunately
+unfortuante->unfortunate
 unfortunaately->unfortunately
 unfortunaetely->unfortunately
 unfortunataely->unfortunately
@@ -71358,6 +71548,7 @@ unitedstaetes->unitedstates
 unitedstatess->unitedstates
 uniteedstatees->unitedstates
 unitesstates->unitedstates
+unitesstates->unitedstates
 unithedsthathes->unitedstates
 unith thesths->unit tests
 unitialized ->uninitialized
@@ -71428,6 +71619,8 @@ unkhangeable->unchangeable
 unkhekked->unchecked
 unkhekk->uncheck
 unkknown->unknown
+unknon->unknown
+unknonwn->unknown
 unknonws->unknowns
 unknonw->unknown
 unknoown->unknown
@@ -71466,6 +71659,7 @@ unlikkely->unlikely
 unliklely->unlikely
 unlil->until
 unlimitied->unlimited
+unline->unlike
 unlless->unless
 unllikelly->unlikely
 unlouched->untouched
@@ -71506,6 +71700,7 @@ unmanouverable->unmaneuverable
 unmanouverable->unmaneuverable, unmanoeuvrable
 unmanouverable->unmaneuverable, unmanoeuvrable,
 unmanouverable->unmanoeuvrable
+unmaping->unmapping
 unmecessarily->unnecessarily
 unmecessary->unnecessary
 unmeeded->unneeded
@@ -71757,6 +71952,7 @@ unoredered->unordered
 unorotated->unrotated
 unoticeable->unnoticeable
 unoticed->unnoticed
+unpacket->unpacked
 unpacke->unpacked
 unpayable->unplayable
 unplaayaable->unplayable
@@ -71863,6 +72059,7 @@ unregstered->unregistered
 unregstering->unregistering
 unregsters->unregisters
 unregster->unregister
+unreigister->unregister
 unreigstered->unregistered
 unreigstering->unregistering
 unreigsters->unregisters
@@ -71985,6 +72182,7 @@ unsued->unused
 unsufficient->insufficient
 unsukkessfully->unsuccessfully
 unsukkessful->unsuccessful
+unsuportable->unsupportable
 unsuported->unsupported
 unsuppoorted->unsupported
 unsupporled->unsupported
@@ -72074,6 +72272,7 @@ untuitive->intuitive
 untypically->atypically
 unued->unused
 ununsed->unused
+ununsual->unusual
 unusaable->unusable
 unusabble->unusable
 unusablae->unusable
@@ -72100,6 +72299,7 @@ unused funktions->unused functions
 unuseed functions->unused functions
 unuseed->unused
 unuseful->useless
+unusre->unsure
 unussable->unusable
 unussed functionss->unused functions
 unussed->unused
@@ -72266,6 +72466,7 @@ upstrream->upstream
 upsttream->upstream
 uptadeable->updatable
 up tho->up to
+uptions->options
 up too->up to
 upto->up to
 uptreams->upstreams
@@ -72311,12 +72512,14 @@ usal->usual
 uscaled->unscaled
 useable->usable
 useage->usage
+useed->used
 useefully->usefully
 useeful->useful
 useer account->user account
 useer id->user id
 useers->users
 useer->user
+usees->uses
 usee->use
 useffully->usefully
 usefful->useful
@@ -72343,15 +72546,21 @@ user acount->user account
 useracount->user account
 user aeccount->user account
 user akkount->user account
+userapace->userspace
 usera->users
 userful->useful
 userid->user id
+userpace->userspace
 userr account->user account
 userr id->user id
 userrs->users
 userr->user
+usersapce->userspace
+userspase->userspace
 usesfull->useful
+usespace->userspace
 usesrs->users
+usetnet->usenet
 usetnet->usenet
 usfull->useful
 usibility->usability
@@ -72399,6 +72608,7 @@ uthilized->utilized
 utiiliitiies->utilities
 utiiliity->utility
 utiiliized->utilized
+utiilties->utilities
 utilies->utilities
 utilise->utilize
 utilis->utilise
@@ -72409,6 +72619,8 @@ utilitiess->utilities
 utilityy->utility
 utiliy->utility
 utilizaed->utilized
+utilizaton->utilization
+utiliza->utilize
 utilizedd->utilized
 utilizeed->utilized
 utiliz->utilize
@@ -72424,6 +72636,7 @@ utitities->utilities
 utitity->utility
 utitized->utilized
 utitlty->utility
+utlities->utilities
 utlity->utility
 uttilitties->utilities
 uttilitty->utility
@@ -72651,6 +72864,7 @@ vaiable->variable
 vaiants->variants
 vaieties->varieties
 vaild->valid
+vailidity->validity
 vailidty->validity
 vairable->variable
 vakuum->vacuum
@@ -72685,6 +72899,7 @@ valif->valid
 valiidatiion->validation
 valiidiity->validity
 valiid->valid
+valitdity->validity
 valkues->values
 vallaetta->valletta
 valldatlon->validation
@@ -73284,6 +73499,7 @@ victroies->victories
 victtories->victories
 vieew->view
 vietnamesea->vietnamese
+vietnamesea->vietnamese
 viewtransfromation->viewtransformation
 vieww->view
 vigeur->vigor
@@ -73623,6 +73839,7 @@ voluunteering->volunteering
 voluunteers->volunteers
 voluunteer->volunteer
 vompiler->compiler
+vonfig->config
 voolcanoo->volcano
 voolleyball->volleyball
 voolume->volume
@@ -73839,6 +74056,7 @@ waitingg->waiting
 waitinng->waiting
 waitting->waiting
 waitt->wait
+wakup->wakeup
 walchdog limer->watchdog timer
 walchdog->watchdog
 wandering->wondering
@@ -73880,6 +74098,7 @@ wan't->want, wasn't
 wan't->want, wasn't,
 wan;t->wasn't
 wan->want
+wappers->wrappers
 warantee->warranty
 waranties->warranties
 warant->warrant
@@ -74000,6 +74219,7 @@ watchhdog->watchdog
 watchodg->watchdog
 watchog->watchdog
 waterdection->waterdetection
+watermask->watermark
 wathchdog thimer->watchdog timer
 wathchdog->watchdog
 wathc->watch
@@ -74178,6 +74398,8 @@ we muts point->we must point
 we muust point->we must point
 wendesday->wednesday
 wendsay->wednesday
+wendsay->wednesday
+wensday->wednesday
 wensday->wednesday
 wereabouts->whereabouts
 wereas->whereas
@@ -74244,6 +74466,7 @@ wheetheer->whether
 whehter->whether
 wheigh->weigh
 whelher->whether
+whell->wheel
 wheneveer->whenever
 wheneverr->whenever
 whenevery->whenever
@@ -74282,6 +74505,7 @@ wherreverr->wherever
 wherre->where
 wher->where
 whery->where
+whetehr->whether
 wheter->whether
 whetherr->whether
 whethe->whether
@@ -74312,6 +74536,7 @@ whhole->whole
 whholly->wholly
 whho->who
 whicch->which
+whicg->which
 which;s->which's
 whichs->which's
 whicht->which
@@ -74643,6 +74868,7 @@ wirte->write
 wirting->writing
 witdcarded->wildcarded
 witdcard->wildcard
+witdh->width
 witdrawal->withdrawal
 witdraw->withdraw
 witd->wild
@@ -74793,6 +75019,7 @@ woould have->would have
 woould noot->would not
 woouldn't->wouldn't
 woould->would
+worarounds->workarounds
 worcarounds->workarounds
 worcaround->workaround
 worced->worked
@@ -74828,7 +75055,9 @@ workaeround->workaround
 workaorunds->workarounds
 workaorund->workaround
 workaraound->workaround
+workarbound->workaround
 workardound->workaround
+workarould->workaround
 workaroundds->workarounds
 workaroundd->workaround
 workaroundss->workarounds
@@ -75060,12 +75289,14 @@ writaeble->writable
 writaers->writers
 writaer->writer
 writae->write
+writebufer->writebuffer
 writeers->writers
 writeer->writer
 writee->write
 writeing->writing
 writen->written
 writerss->writers
+writet->writes
 writewr->writer
 writhable->writable
 writhers->writers
@@ -75084,6 +75315,7 @@ writter->writer
 writte->write
 writting->writing
 writtin->written
+writtten->written
 writttten->written
 wrods->words
 wrod->word
@@ -75128,6 +75360,7 @@ wrriting->writing
 wrritten->written
 wrrongly->wrongly
 wrrote->wrote
+wrtie->write
 wrtites->writes
 wrtite->write
 wth->with
@@ -75376,12 +75609,14 @@ yementite->yemeni
 yementite->yemenite
 yementite->yemenite, yemeni
 yementite->yemenite, yemeni,
+yementite->yemenite, yemeni,
 yemmenite->yemenite
 yemmeni->yemeni
 yeras->years
 yera->year
 yersa->years
 yettow->yellow
+yhe->the
 yiaelding->yielding
 yiaeld->yield
 yieelding->yielding
