@@ -46852,6 +46852,7 @@ nurembergg->nuremberg
 nuremburg->nuremberg
 nuremmberg->nuremberg
 nurluring->nurturing
+nurning->burning
 nurremberrg->nuremberg
 nurrturring->nurturing
 nurthuring->nurturing
