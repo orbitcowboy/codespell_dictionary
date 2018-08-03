@@ -10554,6 +10554,8 @@ calbulates->calculates
 calcable->calculable
 calcalation->calculation
 calch->catch
+calciulate->calculate
+calciulating->calculating
 calclate->calculate
 calcluate->calculate
 calcluated->calculated
@@ -12381,6 +12383,8 @@ chaarismaatic->charismatic
 chaase->chase
 chaaser->chaser
 chaauffeur->chauffeur
+chacacter->character
+chacacters->characters
 chache->cache
 chached->cached
 chaeat->cheat
@@ -12538,6 +12542,8 @@ chaptter->chapter
 characer->character
 characers->characters
 characetrs->characters
+characher->character
+charachers->characters
 charachter->character
 charachters->characters
 characler->character
@@ -13033,6 +13039,7 @@ circullation->circulation
 circumcisionn->circumcision
 circumcisioon->circumcision
 circumcission->circumcision
+circumferencial->circumferential
 circummcision->circumcision
 circummstance->circumstance
 circummstances->circumstances
@@ -16655,6 +16662,9 @@ conten->content
 contendder->contender
 contenderr->contender
 contendor->contender
+contened->contained, contend,
+contener->container
+conteners->containers
 contenl->content
 contenls->contents
 contens->content
@@ -32134,6 +32144,7 @@ happiily->happily
 happilly->happily
 happilyy->happily
 happing->happening
+happing->happening, happen,
 happity->happily
 happly->happily
 happneds->happens
@@ -37247,6 +37258,7 @@ in spithe->in spite
 in spitte->in spite
 insppire->inspire
 in sppite->in spite
+insprected->inspected
 inssectivorouss->insectivorous
 inssenssitive->insensitive
 insseparable->inseparable
@@ -46436,6 +46448,7 @@ nol necessarily->not necessarily
 nol->not
 noloriely->notoriety
 nolwilhslanding->notwithstanding
+nomimal->nominal
 nonaethaelaess->nonetheless
 nonaexistaent->nonexistent
 nonccombatants->noncombatants
@@ -51346,8 +51359,10 @@ polution->pollution
 polyar->polar
 polyggon->polygon
 polygond->polygons
+polygone->polygon
 polygonn->polygon
 polylon->polygon
+polylon->polygon, pylon,
 polynnomial->polynomial
 polynnomials->polynomials
 polynomiaal->polynomial
@@ -51790,6 +51805,7 @@ positiv->positive
 positivs->positives
 positivve->positive
 positivves->positives
+positoned->positioned
 positon->position
 positon->position, positron
 positons->positions
@@ -57210,6 +57226,7 @@ regaring->regarding
 regarless->regardless
 regeistered->registered
 regeister->register
+regession->regression
 regestered->registered
 regestry->registry
 regexess->regexes
@@ -61757,6 +61774,7 @@ shrunnk->shrunk
 shruunken->shrunken
 shruunk->shrunk
 shuld->should
+shurely->surely
 shure->sure
 shutdownm->shutdown
 shwon->shown
@@ -63765,6 +63783,7 @@ squuirrelled->squirrelled
 srcipt->script
 srcipts->scripts
 sreturns->returns
+srew->screw, shrew,
 srikeout->strikeout
 srings->strings
 sring->string
@@ -67663,6 +67682,7 @@ temporaery->temporary
 temporafy->temporary
 temporalily->temporarily
 temporaly->temporarily
+temporaly->temporary, temporarily, temporally,
 temporarely->temporarily
 temporariily->temporarily
 temporarilly->temporarily
