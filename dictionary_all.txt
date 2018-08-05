@@ -5887,6 +5887,7 @@ aquaintance->acquaintance
 aquainted->acquainted
 aquainting->acquainting
 aquaints->acquaints
+aquaramine->aquamarine
 aquedduct->aqueduct
 aqueducct->aqueduct
 aqueducl->aqueduct
@@ -16586,6 +16587,7 @@ containss->contains
 containt->contain
 containt->contain, content,
 containted->contained
+containter->container
 containting->containing
 containts->contains
 containuations->continuations
