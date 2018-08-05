@@ -3814,6 +3814,8 @@ alggebraic->algebraic
 alggebras->algebras
 alggorithm->algorithm
 alggorithms->algorithms
+alghoritm->algorithm
+alghoritms->algorithms
 algoorithm->algorithm
 algoorithms->algorithms
 algorhitm->algorithm
@@ -5589,6 +5591,7 @@ appliies->applies
 applikability->applicability
 applikation->application
 applikations->applications
+appling->applying
 appling->applying, appalling,
 applliance->appliance
 applliances->appliances
@@ -6156,6 +6159,7 @@ archittectturally->architecturally
 archittectture->architecture
 archittecttures->architectures
 archivaed->archived
+archiv->archive
 archivation->archiving
 archivd->archived
 archivedd->archived
@@ -22282,6 +22286,7 @@ dimmensions->dimensions
 dimminutive->diminutive
 dimnension->dimension
 dimnention->dimension
+dim sare->dims are
 dimunitive->diminutive
 dinamically->dynamically
 dinamicaly->dynamically
@@ -29180,6 +29185,7 @@ fixeed bug->fixed bug
 fixeed->fixed
 fixeed point arithmeetic->fixed point arithmetic
 fixees->fixes
+fixe->fixed
 fixel->pixel
 fixeme->fixme
 fixess->fixes
@@ -46868,6 +46874,8 @@ nto->not
 nto->not, disabled due to \n
 nto->not, disable due to \n
 nubering->numbering
+nuber->number
+nubers->numbers
 nubmer->number
 nubmers->numbers
 nucclear->nuclear
@@ -59091,6 +59099,8 @@ retreived->retrieved
 retreive->retrieve
 retreiving->retrieving
 retreval->retrieval
+retrevied->retrieved
+retrevies->retrieves
 retricted->restricted
 retrict->restrict
 retriebe->retrieve
@@ -65636,6 +65646,8 @@ substituded->substituted
 substitudes->substitutes
 substitude->substitute
 substituding->substituting
+substitued->substituted
+substitues->substitutes
 substitue->substitute
 substituing->substituting
 substituions->substitutions
