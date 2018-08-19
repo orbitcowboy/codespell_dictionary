@@ -20739,6 +20739,7 @@ delerminislically->deterministically
 delerminislic->deterministic
 delet->delete
 delete'd->deleted
+deleteed->deleted
 delete'ing->deleting
 deleteing->deleting
 deleteion->deletion
@@ -20777,6 +20778,9 @@ deliiriious->delirious
 deliivery->delivery
 delimeter->delimiter
 delimeters->delimiters
+delimiited->delimited
+delimiiter->delimiter
+delimiiters->delimiters
 delimiler->delimiter
 delimilers->delimiters
 delimiterr->delimiter
@@ -22699,6 +22703,7 @@ direclory exisls->directory exists
 direcly->directly
 direcories->directories
 direcory->directory
+direcotries->directories
 direcotry->directory
 directes->directs
 directhly->directly
@@ -58585,6 +58590,7 @@ remved->removed
 remvoed->removed
 remvoe->remove
 remvoved->removed
+renable->reenable
 renamend->renamed
 rendde->rende
 renddering->rendering
