@@ -2080,6 +2080,7 @@ aditionally->additionally
 aditionaly->additionally
 adivce->advice, advise,
 adivisory->advisory
+adivsory->advisory
 adjacaent->adjacent
 adjaccent->adjacent
 adjaceent->adjacent
@@ -3970,6 +3971,7 @@ a linnux->a linux
 a linuux->a linux
 a linuxx->a linux
 alising->aliasing
+alittude->altitude
 aliver->alive, liver,
 alkohol->alcohol
 alkoholik->alcoholic
@@ -18495,6 +18497,7 @@ coverted->converted, covered, coveted,
 coverted->covered
 coverted->coveted
 coverting->converting
+coverts->converts
 coverty->coverity
 covetedd->coveted
 covethed->coveted
@@ -43078,6 +43081,7 @@ manthissa->mantissa
 mantiissa->mantissa
 mantisa->mantissa
 mantisas->mantissas
+mantise->mantissa
 mantissssa->mantissa
 manttissa->mantissa
 manualllly->manually
