@@ -15629,6 +15629,7 @@ configire->configure
 configration->configuration
 configrations->configurations
 configruated->configuration
+configruated->configured, configuration,
 configrued->configured
 configuartion->configuration
 configuartions->configurations
@@ -18539,6 +18540,7 @@ cppecheck->cppcheck
 cppppcheck->cppcheck
 craashes->crashes
 craches->caches
+craches->crashes, caches, crutches,
 craeaeping->creeping
 craeatae->create
 craeataed->created
@@ -22680,6 +22682,7 @@ diplommacy->diplomacy
 diploomacy->diplomacy
 dipose->dispose, depose,
 diposing->disposing
+diposing->disposing, deposing,
 dipphthong->diphthong
 dipphthongs->diphthongs
 dipplomacy->diplomacy
@@ -26682,6 +26685,8 @@ eror condition->error condition
 eror->error
 erorneous->erroneous
 erorneously->erroneously
+erorneus->erroneous
+erorneusly->erroneously
 erorr condition->error condition
 erorr->error
 erorrs->errors
@@ -45710,6 +45715,7 @@ mulitplicative->multiplicative
 mulitplicator->multiplicator
 mulitplied->multiplied
 mulitplot->multiplot
+mulitplying->multiplying
 mulitthread->multithread
 mullichar->multichar
 mulliculluralism->multiculturalism
@@ -46422,6 +46428,7 @@ neaanderthaal->neanderthal
 neaar->near
 neaat->neat
 neaded->needed
+neaded->needed, kneaded,
 nead->need
 neads->needs
 neaenderthael->neanderthal
@@ -54465,7 +54472,10 @@ productss->products
 productts->products
 produkts->products
 produucts->products
+proejcted->projected
+proejcting->projecting
 proejction->projection
+proejct->project
 proeprties->properties
 proeprty->property
 proerties->properties
@@ -57876,6 +57886,7 @@ refference->reference
 refferences->references
 refferendum->referendum
 refferes->refers
+refferes->refers, referees,
 reffering->referring
 refferral->referral
 refferred->referred
@@ -63888,6 +63899,7 @@ souce->source
 souces->sources
 soucr code->source code
 soucre->source
+soucres->sources
 soudn->sound
 soudns->sounds
 sougght->sought
@@ -71546,6 +71558,7 @@ tyhat->that
 tyhe->they
 tyies->tries
 tyope->type
+tyo->typo
 typaeahaead->typeahead
 typaedaef->typedef
 typaehaed->typeahead
