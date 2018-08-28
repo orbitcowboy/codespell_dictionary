@@ -65312,7 +65312,6 @@ stack poinnter->stack pointer
 stack pointaer->stack pointer
 stack pointeer->stack pointer
 stack pointerr->stack pointer
-stackpointer->stack pointer
 stack poointer->stack pointer
 stack ppointer->stack pointer
 stadard->standard
