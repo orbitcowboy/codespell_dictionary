@@ -2375,6 +2375,8 @@ adversaryy->adversary
 adverssary->adversary
 adverthisementh->advertisement
 adverthisemenths->advertisements
+advertice->advertise
+adverticed->advertised
 advertiisement->advertisement
 advertiisements->advertisements
 advertisemennt->advertisement
@@ -44130,6 +44132,7 @@ metthodology->methodology
 metthods->methods
 metting->meting
 mettrics->metrics
+meybe->maybe
 mey->may
 mial->mail
 micchigan->michigan
@@ -47852,6 +47855,7 @@ objekt->object
 objekts->objects
 objetcs->objects
 objet->object
+objets->objects
 objext->object
 objjective->objective
 objjectives->objectives
