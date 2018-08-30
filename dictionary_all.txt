@@ -6312,6 +6312,8 @@ argumeent->argument
 argumeents->arguments
 argumemnt->argument
 argumemnts->arguments
+argumeng->argument
+argumengs->arguments
 argumenl->argument
 argumenls->arguments
 argumennt->argument
@@ -23182,6 +23184,10 @@ dislinguish->distinguish
 dislinguished->distinguished
 dislinguishes->distinguishes
 dislinguishing->distinguishing
+dislpay->display
+dislpayed->displayed
+dislpaying->displaying
+dislpays->displays
 dislplay->display
 dislribuled->distributed
 dislribulion->distribution
@@ -28390,6 +28396,8 @@ externnal->external
 exterrnal->external
 extesion->extension
 extesions->extensions
+extesnion->extension
+extesnions->extensions
 exthanth->extant
 exthended->extended
 exthension->extension
@@ -69450,6 +69458,8 @@ thoughout->throughout
 thought->though
 thougth->thought
 thougt->thought
+thouroughly->thoroughly
+thourough->thorough
 thousaands->thousands
 thousaand->thousand
 thousaends->thousands
