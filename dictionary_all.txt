@@ -3359,6 +3359,7 @@ afecting->affecting
 afects->affects
 afer->after
 afetr->after
+affact->affect, effect,
 affaects->affects
 affaiir->affair
 affairr->affair
@@ -4373,6 +4374,7 @@ alteratives->alternatives
 alteredd->altered
 alterior->ulterior
 altermative->alternative
+alternaive->alternative
 alternarive->alternative
 alternatievly->alternatively
 alternatiive->alternative
@@ -4393,6 +4395,7 @@ alternetives->alternatives
 alternitives->alternatives
 alternnative->alternative
 alternnatives->alternatives
+alterntely->alternately
 alterration->alteration
 alterred->altered
 alterrnative->alternative
@@ -6675,6 +6678,7 @@ asembled->assembled
 asembler->assembler
 asembles->assembles
 asembly->assembly
+aseparately->separately
 asertion->assertion
 asesed->assessed
 asesment->assessment
@@ -9652,6 +9656,8 @@ boaut->bout, boat, about,
 bobard->board, bombard,
 boddy->body
 boddybuildder->bodybuilder
+boder->border
+boders->borders
 bodgy->body
 bodybuiilder->bodybuilder
 bodybuildaer->bodybuilder
@@ -10988,6 +10994,7 @@ can bae paerformaed->can be performed
 can bbe->can be
 can bbe performed->can be performed
 ca nbe->can be
+canbe->can be
 can bee->can be
 can bee peerformeed->can be performed
 can be perfformed->can be performed
@@ -11150,6 +11157,7 @@ capabilites->capabilities
 capabilithies->capabilities
 capabilithy->capability
 capabilitiaes->capabilities
+capabilitie->capabilities
 capabilitiees->capabilities
 capabilitiess->capabilities
 capabilitiy->capability
@@ -12574,6 +12582,7 @@ chacacter->character
 chacacters->characters
 chache->cache
 chached->cached
+chack->check, chalk,
 chaeat->cheat
 chaeckaed->checked
 chaeck->check
@@ -16837,6 +16846,7 @@ containa->contain
 containaer->container
 containaers->containers
 containe->contain, contained,
+containe->contain, contained, container,
 containeer->container
 containeers->containers
 containees->containers
@@ -25222,6 +25232,7 @@ elektronik->electronic
 elektroniks->electronics
 elelctronics->electronics
 elelments->elements
+elemantary->elementary
 elemement->element
 elemements->elements
 elememt->element
@@ -27880,6 +27891,7 @@ existtentt->existent
 existting->existing
 existts->exists
 existung->existing
+existy->exist
 exited->excited
 exitsed->existed
 exitsence->existence
@@ -28165,6 +28177,7 @@ explicilt->explicit
 explicilty->explicitly
 explicited->explicitly
 explicite->explicit
+explicite->explicit, explicitly,
 explicitely->explicitly
 explicith->explicit
 explicithly->explicitly
@@ -29478,10 +29491,12 @@ filie->file
 fillament->filament
 fille->file
 fille->file, fill,
+fille->file, fill, filled,
 fillename->filename
 fillenames->filenames
 filles->files
 filles->files, fills,
+filles->files, fills, filled,
 fillesystem->filesystem
 fille time->file time
 fillingg->filling
@@ -38822,6 +38837,7 @@ intorduce->introduce
 intorductory->introductory
 intot->into
 intpolator->interpolator
+intpreter->interpreter
 intput->input
 intputs->inputs
 intrduced->introduced
@@ -38830,6 +38846,7 @@ intreface->interface
 intregral->integral
 intresting->interesting
 intrest->interest
+intrest->interest, insert,
 intriduced->introduced
 intriduce->introduce
 intriduction->introduction
@@ -46997,6 +47014,7 @@ ninthh->ninth
 ninties->1990s
 nint->ninth
 nintth->ninth
+nintveral->interval
 ninty->ninety
 nither->neither
 nknown->unknown
@@ -47113,8 +47131,10 @@ nodel->model
 nodels->models
 nodess->nodes
 nodifiable->modifiable
+nodulated->modulated
 noe->not, no, know,
 noe->not, no, node, know,
+noe->not, no, node, know, now,
 noes->nodes
 nofified->notified
 nohypen->nohyphen
@@ -52002,6 +52022,7 @@ pojecting->projecting
 poject->project
 pojnt->point
 polaloes->potatoes
+polariy->polarity
 polenlially->potentially
 polenlial->potential
 polgon->polygon
@@ -66618,6 +66639,7 @@ substitutingg->substituting
 substitutinng->substituting
 substitutionn->substitution
 substitutioon->substitution
+substitutio->substitution
 substiutions->substitutions
 substiution->substitution
 substracted->subtracted
@@ -68043,6 +68065,10 @@ synchrronous->synchronous
 synch->sync
 synciing->syncing
 syncingg->syncing
+syncrhonised->synchronised
+syncrhonise->sychronise
+syncrhonized->synchronized
+syncrhonize->sychronize
 syncronised->synchronised
 syncronises->synchronises
 syncronise->synchronise

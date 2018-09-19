@@ -1,5 +1,6 @@
 abe rauch->aber auch
 abgarbeitet->abgearbeitet
+abgegbildert->abgebildet
 abgeschalten->abgeschaltet
 abrechen->abbrechen
 Abstatzstil->Absatzstil
