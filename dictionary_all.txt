@@ -37137,7 +37137,6 @@ initialisation->initialization
 initialisatioon->initialisation
 initialisee->initialise
 initialise->initialize
-initialises->initializes
 initialisiert->initialised, initialized,
 initialising->initializing
 initialissation->initialisation
