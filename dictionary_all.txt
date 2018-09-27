@@ -12859,6 +12859,8 @@ chasser->chaser
 chatacter->character
 chatacters->characters
 chatch->catch
+chatched->catch
+chatches->catches
 chatper->chapter
 chattenge->challenge
 chattenged->challenged
@@ -76021,6 +76023,7 @@ windoows xp->windows xp
 windoow->window
 windos->windows
 window 7->windows 7
+windo->window
 windowss 7->windows 7
 windows saervaer->windows server
 windows seerveer->windows server
