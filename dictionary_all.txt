@@ -10760,11 +10760,13 @@ calcualting->calculating
 calcualtion->calculation
 calcualtions->calculations
 calcualtor->calculator
+calcuat->calculate
 calcuate->calculate
 calcuated->calculated
 calcuates->calculates
 calcuation->calculation
 calcuations->calculations
+calcuats->calculates
 calculaion->calculation
 calculale->calculate
 calculaled->calculated
@@ -35305,6 +35307,7 @@ impeeccably->impeccably
 impeedancee->impedance
 impeerial->imperial
 impekkably->impeccably
+impelementation->implementation
 impelement->implemented
 impelemnted->implemented
 impelment->implement
@@ -37039,6 +37042,7 @@ inhhabitants->inhabitants
 inhherently->inherently
 inhheritance->inheritance
 in hte->in the
+inialized->initialized
 inidicates->indicates
 iniection->injection
 inifinite->infinite
@@ -44143,6 +44147,7 @@ methid->method
 methids->methodes
 methids->methods
 mething->meting
+methjod->method
 methodd ddefines how->method defines how
 method deffines how->method defines how
 method defiines how->method defines how
@@ -46488,6 +46493,7 @@ nauticcal->nautical
 nautic->nautical
 nautiical->nautical
 nautikal->nautical
+nautral->natural, neutral,
 nauttical->nautical
 nauutical->nautical
 navagating->navigating
@@ -50518,6 +50524,7 @@ partiitiions->partitions
 partikipants->participants
 partikularly->particularly
 partikular->particular
+partioned->partitioned
 partioning->partitioning
 partion->partition
 partion->partition, portion,
@@ -54026,6 +54033,7 @@ presitigious->prestigious
 presligious->prestigious
 prespective->perspective
 pres->press
+presreved->preserved
 pressedd->pressed
 presselected->preselected
 pressence->presence
@@ -59112,6 +59120,7 @@ representativs->representatives
 representativve->representative
 representativves->representatives
 representedd->represented
+represente->represents, represented,
 representhanths->representants
 representhathion->representation
 representhathive->representative
@@ -68553,6 +68562,7 @@ tayout->layout
 taytor series->taylor series
 tayylor series->taylor series
 taziness->laziness
+tbe->the
 teached->taught
 teads->leads
 teague->league
@@ -68731,6 +68741,7 @@ tempalte->template
 tempararily->temporarily
 temparary->temporary
 temparate->temperate
+temparily->temporarily
 tempatures->temperatures
 tempature->temperature
 tempdate->template
@@ -69777,6 +69788,7 @@ thsose->those
 ths->the
 ths->the, this,
 ths->this
+thst->that
 thta->that
 thte->the, that,
 tht->the, that,
@@ -71243,6 +71255,7 @@ trucnate->truncate
 trucnating->truncating
 truelly->truly
 truely->truly
+truied->tried
 trully->truly
 trulyy->truly
 trunates->truncates
@@ -71968,6 +71981,7 @@ unakkompanied->unaccompanied
 unambbiguously->unambiguously
 unambigguously->unambiguously
 unambigiously->unambiguously
+unambigious->unambiguous
 unambigously->unambiguously
 unambiguoously->unambiguously
 unambiguouslly->unambiguously
