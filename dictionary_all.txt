@@ -1836,7 +1836,9 @@ a dala lype->a data type
 adapated->adapted
 adapater->adapter
 adapaters->adapters
+adapd->adapt, adapted, adopt, adopted,
 adapdive->adaptive
+adaped->adapted, adapt, adopted, adopt,
 adapive->adaptive
 adapl->adapt
 adaplalion->adaptation
@@ -4456,6 +4458,7 @@ alusion->allusion
 alusion->allusion, illusion
 alusion->allusion, illusion,
 alusion->illusion
+alvorithm->algorithm
 alwasy->always
 alway->always
 alwayss->always
@@ -16860,6 +16863,7 @@ containaer->container
 containaers->containers
 containe->contain, contained,
 containe->contain, contained, container,
+containe->contain, contained, container, contains,
 containeer->container
 containeers->containers
 containees->containers
@@ -18074,6 +18078,7 @@ correctnes->correctness
 correctnessss->correctness
 correctnness->correctness
 correcton->correction
+correctons->corrections
 correctorss->correctors
 correctt->correct
 correctted->corrected
@@ -18892,6 +18897,7 @@ cruisaes->cruises
 cruisees->cruises
 cruissess->cruises
 cruncing->crunching
+crurrent->current
 crusies->cruises
 crusor->cursor
 cruucifixion->crucifixion
@@ -21249,6 +21255,7 @@ desactivated->deactivated
 desactivate->deactivate
 desallocated->deallocated
 desallocate->deallocate
+desallocates->deallocates
 desallocation->deallocation
 desassembly->disassembly
 desaster->disaster
@@ -22755,6 +22762,7 @@ direcories->directories
 direcory->directory
 direcotries->directories
 direcotry->directory
+direcoty->directory
 directes->directs
 directhly->directly
 directhory->directory
@@ -24058,6 +24066,7 @@ dosent'->doesn't
 dosnt->does not
 dosn;t->doesn't
 dosn't->doesn't
+dosnt->doesn't
 dosposing->disposing
 dosument->document
 dosuments->documents
@@ -24546,6 +24555,7 @@ eassily->easily
 easthetic->aesthetic
 easthetical->aesthetical
 easthetically->aesthetically
+easyer->easier
 eaxample->example
 eaxmple->example
 ebaled->enabled
@@ -25281,8 +25291,11 @@ elementss->elements
 elementtary->elementary
 elementt->element
 elementts->elements
+elemetal->elemental
+elemet->element
 elemetn->element
 elemetns->elements
+elemets->elements
 eleminated->eliminated
 eleminating->eliminating
 elemmentary->elementary
@@ -28014,6 +28027,7 @@ expaension->expansion
 expaetriaete->expatriate
 expalin->explain
 expalriale->expatriate
+expanation->expatiation
 expandabbility->expandability
 expandabiiliity->expandability
 expandabilily->expandability
@@ -29493,6 +29507,8 @@ filenamme->filename
 filenammes->filenames
 filenname->filename
 filennames->filenames
+filesname->filename, filenames,
+filesnames->filenames
 filess->files
 filessysstem->filesystem
 filesysems->filesystems
@@ -29588,6 +29604,7 @@ find outt more->find out more
 find ouut more->find out more
 finialization->finalization
 finile->finite
+finishe->finished, finish,
 finishs->finishes
 finitae->finite
 finitee->finite
@@ -32811,12 +32828,14 @@ hava->have
 hava->have, have a,
 hav been->have been
 havea->have
+havea->have, have a,
 have bbeen->have been
 have beenn->have been
 have ben->have been
 havee beeeen->have been
 havee been->have been
 havee->have
+havee->have, have a,
 havee not->have not
 haveen't->haven't
 havee writteen->have written
@@ -33786,6 +33805,8 @@ hopig->hoping
 hopiing->hoping
 hopingg->hoping
 hopinng->hoping
+hopmepage->homepage
+hopmepages->homepages
 hoppefully->hopefully
 hopyfully->hopefully
 horifying->horrifying
@@ -36220,6 +36241,7 @@ incrementaally->incrementally
 incrementael->incremental
 incrementaelly->incrementally
 incrementall->incremental
+incrementall->incremental, incrementally,
 incrementalllly->incrementally
 incrementallyy->incrementally
 incrementaly->incrementally
@@ -38556,6 +38578,7 @@ internall->internal, internally,
 internaly->internally
 internatinal->international
 internat->internal
+internatioanl->international
 internationall->international
 internationat->international
 internation->international
@@ -39613,6 +39636,7 @@ ittegitimacy->illegitimacy
 ittegitimate->illegitimate
 ittem->item
 it ten came->it then came
+itteration->itteration
 itterations->iterations
 itterator->iterator
 itterators->iterators
@@ -46776,6 +46800,7 @@ neighbbours->neighbours
 neighboorhooood->neighborhood
 neighbooring->neighboring
 neighboor->neighbor
+neighboor->neighbor, neighbour,
 neighboors->neighbors
 neighboors->neighbors, neighbours,
 neighboourhooood->neighbourhood
@@ -47941,6 +47966,7 @@ objektive->objective
 objektives->objectives
 objekt->object
 objekts->objects
+objetc->object
 objetcs->objects
 objet->object
 objets->objects
@@ -48039,6 +48065,8 @@ obsttructted->obstructed
 obsure->obscure
 obtaiend->obtained
 obtaion->obtain
+obtrained->obtained
+obtrain->obtain
 obtsacle->obstacle
 obtsacles->obstacles
 obtsructed->obstructed
@@ -49790,6 +49818,7 @@ overwite->overwrite
 overwites->overwrites
 overwitten->overwritten
 overwize->otherwise
+overwridden->overwritten
 overwriten->overwritten
 overwritren->overwritten
 overwrittes->overwrites
@@ -54317,6 +54346,7 @@ privilegue->privilege
 privilegues->privileges
 priviliege->privilege
 privilieges->privileges
+priviliged->privileged
 privilige->privilege
 priviliges->privileges
 privilleged->privileged
@@ -55473,9 +55503,12 @@ providfers->providers
 providingg->providing
 providinng->providing
 providse->provide
+providse->provides, provide,
 provied->provide
 provied->provided
+provie->provide, prove,
 provies->provides
+provies->provides, proves,
 proviided->provided
 proviide->provide
 proviiders->providers
@@ -58983,6 +59016,8 @@ replaece->replace
 replaint->repaint
 replakement->replacement
 replake->replace
+replcaced->replaced
+replcace->replace
 replicaable->replicable
 replicabble->replicable
 replicaeble->replicable
@@ -68416,6 +68451,7 @@ taeylor series->taylor series
 taged->tagged
 tages->stages
 tage->stage
+tage->stage, take, tag, tagged,
 taget->target
 tagnetial->tangential
 tagnets->tangents
@@ -68474,6 +68510,8 @@ tanguages->languages
 tansfomed->transformed
 tansients->transients
 tansient->transient
+tarbals->tarballs
+tarbal->tarball
 targaetaed->targeted
 targaeting->targeting
 targeeteed->targeted
@@ -70781,6 +70819,7 @@ transferredd->transferred
 transferriing->transferring
 transferringg->transferring
 transfert->transfer
+transfert->transfer, transferred,
 transfferred->transferred
 transfferring->transferring
 transffer->transfer
@@ -72410,6 +72449,7 @@ understtand->understand
 understtood->understood
 undertsandability->understandability
 undertsanding->understanding
+undertsands->understands
 undertsand->understand
 undertsood->understood
 undertying->underlying
@@ -76094,6 +76134,7 @@ withdrraw->withdraw
 withd->width
 witheld->withheld
 wither->either
+wither->wither, either, whether, weather,
 withespace->whitespace
 withe->with
 withhaeld->withheld
@@ -76198,6 +76239,7 @@ wonn't->won't
 won'th->won't
 won'tt->won't
 wont't->won't
+won;t->won't,
 wont->won't
 wont->won't, wont,
 woondered->wondered
