@@ -2393,6 +2393,8 @@ advertisment->advertisement
 advertisments->advertisements
 advertissement->advertisement
 advertissementss->advertisements
+advertistment->advertisement
+advertistments->advertisements
 adverttisementt->advertisement
 adverttisementts->advertisements
 advesary->adversary
@@ -28157,6 +28159,7 @@ experrimental->experimental
 experriment->experiment
 experriments->experiments
 experssion->expression
+experssions->expressions
 expesive->expensive
 expession->expression
 expessions->expressions
@@ -31335,6 +31338,11 @@ genereates->generates
 genereating->generating
 genered->generated
 generel->general
+genererated->generated
+genererate->generate
+genererater->generator
+genererating->generating
+genereration->generation
 genereted->generated
 generetes->generates
 generilized->generalized
@@ -42844,8 +42852,11 @@ makr->make
 makro->macro
 makros->macros
 makse->makes
+makse->makes, masks,
 maks->mask
+maks->mask, makes, make,
 makss->masks
+makss->masks, makes,
 malccolm->malcolm
 malching->matching
 malch->match
@@ -45724,6 +45735,7 @@ motivvated->motivated
 motoroloa->motorola
 mottivatted->motivated
 moudle->module
+moudles->modules
 mould->mold, mould, module,
 mounlainous->mountainous
 mounlains->mountains
@@ -48579,6 +48591,7 @@ once aggain->once again
 oncee again->once again
 once nice->one nice
 onces->once
+onces->once, ones,
 ond->one
 onece->once
 onee nicee->one nice
@@ -63783,6 +63796,8 @@ soiil->soil
 soilders->soldiers
 soill->soil
 soit->soil
+soket->socket
+sokets->sockets
 sokialism->socialism
 sokieties->societies
 solaely->solely
