@@ -13474,6 +13474,7 @@ cleses->closes
 clevely->cleverly
 cliaent->client
 cliboard->clipboard
+cliboards->clipboards
 clieent->client
 clienl->client
 cliennt->client
@@ -13500,6 +13501,8 @@ clipboaerd->clipboard
 clipboardd->clipboard
 clipboarrd->clipboard
 clipbooard->clipboard
+clipoard->clipboard
+clipoards->clipboards
 clipoing->clipping
 clippboard->clipboard
 cliuent->client
