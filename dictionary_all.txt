@@ -2034,6 +2034,7 @@ addrsses->addresses
 addtion->addition
 addtional->additional
 addtionally->additionally
+addtionaly->additionalyy
 addvance->advance
 addvancedd->advanced
 addventurous->adventurous
@@ -2395,6 +2396,7 @@ advertissement->advertisement
 advertissementss->advertisements
 advertistment->advertisement
 advertistments->advertisements
+advertize->advertise
 adverttisementt->advertisement
 adverttisementts->advertisements
 advesary->adversary
@@ -3415,6 +3417,7 @@ affrod->afford
 affrods->affords
 affter->after
 affter receiving->after receiving
+afganistan->afghanistan
 aficcionado->aficionado
 aficcionados->aficionados
 aficionaddo->aficionado
@@ -3934,6 +3937,7 @@ alienatingg->alienating
 alienatting->alienating
 aliennatinng->alienating
 alientating->alienating
+aligement->alignment
 aliggn->align
 aliggned->aligned
 aliggnment->alignment
@@ -4267,6 +4271,7 @@ a lol->a lot
 alomically->atomically
 alomost->almost
 alomst->almost
+alook->a look
 a loot->a lot
 aloows->allows
 alophone->allophone
@@ -4514,6 +4519,7 @@ ambigguous->ambiguous
 ambigious->ambiguous
 ambigous->ambiguous
 ambiguoous->ambiguous
+ambiguouity->ambiguity
 ambiguouss->ambiguous
 ambiguuouus->ambiguous
 ambiient->ambient
@@ -4702,12 +4708,14 @@ analogeous->analogous
 analoggous->analogous
 analogouss->analogous
 analogouus->analogous
+analogue->analog
 analoogoous->analogous
 analsis->analysis
 analsyis->analysis
 analyis->analysis
 analylic->analytic
 analysator->analyzer
+analyse->analyze
 analysies->analyzes
 analysiis->analysis
 analyssiss->analysis
@@ -4878,6 +4886,8 @@ and tthe->and the
 and tthen->and then
 and und->and
 anevironment->environment
+anfer->after
+angainst->against
 ang->and
 angeled->angled
 anggina->angina
