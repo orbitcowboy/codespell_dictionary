@@ -14118,6 +14118,10 @@ comebackk->comeback
 comebaeck->comeback
 comebak->comeback
 comebback->comeback
+comect->connect
+comected->connected
+comecting->connecting
+comectivity->connectivity
 comeddic->comedic
 comediic->comedic
 comeeback->comeback
@@ -14265,9 +14269,12 @@ commbinations->combinations
 commbined->combined
 commbustion->combustion
 commeback->comeback
+commect->connect
 commected->connected
 commecticut->connecticut
+commecting->connecting
 commection->connection
+commectivity->connectivity
 commectix->connectix
 commedic->comedic
 commeemoratee->commemorate
@@ -16510,11 +16517,13 @@ consitant->constant
 consitantly->constantly
 consitants->constants
 consit->consist
+consited->consisted
 consitency->consistency
 consitent->consistent
 consitently->consistently
 consiternation->consternation
 consiths->consits
+consiting->consisting
 consitituencies->constituencies
 consitituency->constituency
 consitituent->constituent
@@ -17471,7 +17480,9 @@ converssation->conversation
 converssion->conversion
 converst->converts
 converstion->conversion
+converstion->conversion, conversation,
 converstions->conversions
+converstions->conversions, conversations,
 convertable->convertible
 convertables->convertibles
 convertation->conversation
@@ -26146,6 +26157,7 @@ endingg->ending
 .endmakro->.endmacro
 .endmmacro->.endmacro
 endnoden->endnode
+endoint->endpoint
 endolihts->endoliths
 endoliiths->endoliths
 endolilhs->endoliths
@@ -30337,6 +30349,9 @@ forbidd->forbid
 forbiden->forbidden
 forbiidden->forbidden
 forbiid->forbid
+forbiten->forbidden
+forbit->forbid
+forbitten->forbidden
 forcably->forcibly
 for consistence->for consistency
 foreeground->foreground
@@ -31689,7 +31704,6 @@ gererates->generates
 germaan->german
 germaen->german
 germal->german
-german->german
 germann->german
 germman->german
 gernal->general, journal,
@@ -33236,6 +33250,7 @@ heappend->happend
 heappens->happens
 heardd->heard
 heared->heard
+heared->heard, header,
 hearrd->heard
 heathy->healthy
 heatthcare->healthcare
@@ -35260,6 +35275,7 @@ illustraated->illustrated
 illustraates->illustrates
 illustraeted->illustrated
 illustraetes->illustrates
+illustrasion->illustration
 illustrataed->illustrated
 illustrataes->illustrates
 illustratedd->illustrated
@@ -35286,7 +35302,9 @@ iluminated->illuminated
 ilumination->illumination
 ilusion->illusion
 ilustrated->illustrated
+ilustrate->illustrate
 ilustrates->illustrates
+ilustration->illustration
 il will->it will
 imaagery->imagery
 imaaginaary->imaginary
@@ -48593,6 +48611,8 @@ occuppy->occupy
 occupyy->occupy
 occurance->occurrence
 occurances->occurrences
+occurded->occurred
+occurd->occurred, occur,
 occured->occurred
 occurence->occurrance
 occurence->occurrence
@@ -50846,6 +50866,7 @@ parentthesis->parenthesis
 parentt->parent
 parentts->parents
 parially->partially
+parial->partial
 parisitic->parasitic
 paritial->partial
 paritioning->partitioning
@@ -64600,6 +64621,7 @@ sotitoquy->soliloquy
 sotrage->storage, shortage,
 sotred->sorted
 sotring->storing
+sotring->storing, sorting,
 sotry->story
 sotubte->soluble
 sotution->solution
@@ -64857,6 +64879,7 @@ spcified->specified
 spcifies->specifies
 speach->speech
 speacial->special
+speacial->special, spacial,
 speakiing->speaking
 spearator->separator
 spearators->separators
@@ -66308,6 +66331,7 @@ sthyle->style
 sthylisthic->stylistic
 sthylus->stylus
 stictly->strictly
+stiffneing->stiffening
 stightty->slightly
 stiill->still
 stiirriing->stirring
@@ -68528,6 +68552,7 @@ swwimming->swimming
 swwitch->switch
 syas->says
 syatem->sypport
+syatem->system
 sybsystem->subsystem
 sychronisly->synchronously
 sychronmode->synchronmode
@@ -68855,6 +68880,7 @@ syphitis->syphilis
 syphyllis->syphilis
 sypmtoms->symptoms
 sypphilis->syphilis
+sypport->support
 syrap->syrup
 syrrup->syrup
 syrupp->syrup
@@ -71269,6 +71295,7 @@ traitings->trailings
 trakeability->traceability
 trakeable->traceable
 traked->tracked
+traker->tracker
 trakes->tracks
 traks->tracks
 traling->trailing
@@ -73538,6 +73565,7 @@ unlimitied->unlimited
 unline->unlike
 unlless->unless
 unllikelly->unlikely
+unloadins->unloading
 unlouched->untouched
 unlranslalable->untranslatable
 unmaanaaged->unmanaged
@@ -76895,6 +76923,7 @@ wnat->want
 wndow->window
 wod->word
 wohle->whole
+woill->will
 woiuldn't->wouldn't
 wokring->working
 wokr->work
