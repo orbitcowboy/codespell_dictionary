@@ -30477,7 +30477,6 @@ formalling->formatting
 formallized->formalized
 formallize->formalize
 formalllly->formally
-formally->formerly
 formallyy->formally
 formalted->formatted
 formalting->formatting
@@ -47697,7 +47696,6 @@ nonkombatants->noncombatants
 nonkompliant->noncompliant
 nonlrivial->nontrivial
 nonnegarive->nonnegative
-non->none
 nonopaerational->nonoperational
 nonopeerational->nonoperational
 nonoperaationaal->nonoperational
