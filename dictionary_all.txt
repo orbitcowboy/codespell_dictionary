@@ -5470,6 +5470,7 @@ aplly->apply
 apllying->applying
 aply->apply
 apocalytic->apocalyptic
+apolegetic->apologetic
 apolegetics->apologetics
 apollogetics->apologetics
 apollogies->apologies
@@ -5508,6 +5509,8 @@ apooloogize->apologize
 apooloogy->apology
 a porfessional look->a professional look
 aporn->apron
+apostrophie->apostrophe
+apostrophies->apostrophes
 apotogetics->apologetics
 apotogies->apologies
 apotogize->apologize
@@ -19653,7 +19656,6 @@ data strream->data stream
 data tsream->data stream
 data typae->data type
 datatyp->data type
-datatype->data type
 data typee->data type
 data typpe->data type
 data tyype->data type
@@ -33764,7 +33766,6 @@ high bbyte->high byte
 high byle->high byte
 high bytae->high byte
 high bytee->high byte
-highbyte->high byte
 high bythe->high byte
 high bytte->high byte
 high byyte->high byte
@@ -42595,7 +42596,6 @@ low bbyte->low byte
 low byle->low byte
 low bytae->low byte
 low bytee->low byte
-lowbyte->low byte
 low bythe->low byte
 low bytte->low byte
 low byyte->low byte
@@ -44314,7 +44314,6 @@ menttioning->mentioning
 menual->manual
 menu baar->menu bar
 menu baer->menu bar
-menubar->menu bar
 menu barr->menu bar
 menu bbar->menu bar
 menue->menu
@@ -53297,7 +53296,6 @@ post procesors->post processors
 post-proces->post-process
 post processiing->post processing
 post processingg->post processing
-postprocessing->post processing
 post processinng->post processing
 postprocessor->post processor
 postprocessors->post processors
@@ -63425,6 +63423,7 @@ sightly->slightly
 sightted->sighted
 siginificantly->significantly
 siginificant->significant
+siginify->signify
 sigit->digit
 siglans->signals
 sigle->single
@@ -64934,7 +64933,6 @@ speciafied->specified
 specialiced->specialised, specialized,
 specialice->specialize
 specialisedd->specialised
-specialised->specialized
 specialise->specialize
 specialises->specializes
 specialitzed->specialised, specialized,
@@ -70810,7 +70808,6 @@ toklenization->tokenization
 toklenized->tokenized
 toklenizer->tokenizer
 to konnekt to->to connect to
-tok->took
 tolaerancae->tolerance
 tolarable->tolerable
 tolcien->tolkien
