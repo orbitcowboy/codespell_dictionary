@@ -812,6 +812,7 @@ abstaction->abstraction
 abstactions->abstractions
 abstactly->abstractly
 abstrcation->abstraction
+absulute->absolute
 absymal->abysmal
 abtract->abstract
 abudance->abundance
@@ -5183,6 +5184,7 @@ anonymithy->anonymity
 anonymitty->anonymity
 anonymmity->anonymity
 anonymmous->anonymous
+anonymouse->anonymous
 anonymouss->anonymous
 anonymouus->anonymous
 anonymus->anonymous
@@ -5884,6 +5886,7 @@ appropriiateness->appropriateness
 approproate->appropriate
 appropropiate->appropriate
 appropropiately->appropriately
+appropropreate->appropriate
 appropropriate->appropriate
 approproximate->approximate
 approriate->appropriate
@@ -6923,6 +6926,7 @@ assenbly->assembly
 asserion->assertion
 asserlion->assertion
 asserrtion->assertion
+assersion->assertion
 assertation->assertion
 asserthion->assertion
 assertiion->assertion
@@ -13302,6 +13306,7 @@ circlle->circle
 circlles->circles
 circte->circle
 circtes->circles
+circual->circular
 circuil->circuit
 circuilry->circuitry
 circuils->circuits
@@ -21795,6 +21800,7 @@ destinated->destinate
 destinatin->destination
 destinatioon->destination
 destinatioons->destinations
+destinguish->distinguish
 destinnationn->destination
 destinnationns->destinations
 destinned->destined
@@ -24385,6 +24391,7 @@ doxyywizard->doxywizard
 doygen->doxygen
 dpcument->document
 dpeends->depends
+dpendencies->dependencies
 draag aand drop->drag and drop
 draagging->dragging
 draained->drained
@@ -27385,6 +27392,9 @@ evaluatte->evaluate
 evaluattes->evaluates
 evaluattion->evaluation
 evaluattions->evaluations
+evalueated->evaluated
+evalueate->evaluate
+evalueted->evaluated
 evaluete->evaluate
 evalutaion->evaluation
 evalutaions->evaluations
@@ -32352,7 +32362,6 @@ gropu->group
 groundd speedd->ground speed
 ground spaeaed->ground speed
 ground sped->ground speed
-groundspeed->ground speed
 ground speeeed->ground speed
 ground sppeed->ground speed
 ground sspeed->ground speed
@@ -34649,6 +34658,7 @@ idenntify->identify
 idenntifyinng->identifying
 idenntities->identities
 identation->indentation
+identcial->identical
 identhical->identical
 identhifiable->identifiable
 identhificathion->identification
@@ -34703,6 +34713,7 @@ identifyying->identifying
 identikal->identical
 identitied->identified
 identitiess->identities
+identiy->identify, identity,
 identiy->identity
 identtical->identical
 identtifiable->identifiable
@@ -34806,6 +34817,7 @@ ignoored->ignored
 ignoraed->ignored
 ignoredd->ignored
 ignoreed->ignored
+ignoreing->ignoring
 ignorence->ignorance
 ignorred->ignored
 ignroed->ignored
@@ -42809,6 +42821,7 @@ macefile->makefile
 machanism->mechanism
 machanisms->mechanisms
 mached->matched
+maches->matches
 machhine->machine
 machhines->machines
 machiine->machine
@@ -46893,6 +46906,7 @@ nativelyy->natively
 nativety->natively
 nativly->natively
 nativvely->natively
+natrual->natural
 nattively->natively
 natturally->naturally
 nattural->natural
@@ -47172,6 +47186,7 @@ neice->niece
 neice->niece, nice
 neice->niece, nice,
 neigborhood->neighborhood
+neigbor->neighbor
 neigbourhood->neighborhood
 neigbourhood->neighbourhood
 neigbouring->neighboring
@@ -50813,6 +50828,8 @@ parargaph->paragraph
 parargaphs->paragraphs
 pararllel->parallel
 pararmeters->parameters
+parastic->parasitic
+parastics->parasitics
 parathenses->parentheses
 paratheses->parentheses
 paratmers->parameters
@@ -50849,7 +50866,6 @@ parenthesed->parenthesized
 parenthese->parentheses
 parenthesies->parenthesis
 parenthesiis->parenthesis
-parenthesis->parentheses
 parenthessess->parentheses
 parenthessiss->parenthesis
 parenthheses->parentheses
@@ -54686,6 +54702,7 @@ primittively->primitively
 primittive->primitive
 primittives->primitives
 primitve->primitive
+primitves->primitives
 primive->primitive
 primmarily->primarily
 primmitively->primitively
@@ -56558,6 +56575,7 @@ pythhon->python
 pythin->python
 pythonn->python
 pythoon->python
+pytnon->python
 pyton->python
 pytthon->python
 pyython->python
@@ -57949,7 +57967,9 @@ recruithing->recruiting
 recruitingg->recruiting
 recruitinng->recruiting
 recruitting->recruiting
+recrusevly->recursively
 recrusion->recursion
+recrusivelly->recursively
 recrusively->recursively
 recrusive->recursive
 recruuiting->recruiting
@@ -58040,6 +58060,8 @@ re-dettermine->re-determine
 redialling->redialing
 redict->redirect
 rediculous->ridiculous
+redifintion->redefinition
+redifintions->redefinitions
 rediistriibutable->redistributable
 redircet->redirect
 redirectrion->redirection
@@ -59225,6 +59247,7 @@ remembrannce->remembrance
 remembrence->remembrance
 rememeber->remember
 rememebr->remember
+rememer->remember
 remenant->remnant
 remenicent->reminiscent
 remiinder->reminder
@@ -59373,6 +59396,7 @@ rentrancy->reentrancy
 rentters->renters
 reoccurrence->recurrence
 reocurring->recurring
+reoder->reorder
 reonly->read-only
 reoopen->reopen
 reoorder->reorder
@@ -71509,6 +71533,8 @@ transitioons->transitions
 transitioon->transition
 transitons->transitions
 transiton->transition
+transitors->transistors
+transitor->transistor
 transkeivers->transceivers
 transkeiver->transceiver
 transkendenke->transcendence
@@ -71701,9 +71727,12 @@ travversal->traversal
 travverse->traverse
 tray->try
 treaatment->treatment
+treadet->treated
 tread->tread, thread,
+tread->tread, thread, treat,
 treaetment->treatment
 treak->treat
+treak->treat, tweak,
 treatement->treatment
 treatened->threatened
 treatening->threatening
@@ -73989,6 +74018,7 @@ unrrecognized->unrecognized
 unrrepentant->unrepentant
 unsaafe->unsafe
 unsable->unusable
+unsable->unusable, usable,
 unsaefe->unsafe
 unsafae->unsafe
 unsafee->unsafe
@@ -74537,6 +74567,7 @@ utillities->utilities
 utillity->utility
 utillized->utilized
 utilties->utilities
+utiltities->utilities
 utiltity->utility
 utilty->utility
 utilzed->utilized
@@ -75619,6 +75650,7 @@ vissit->visit
 vissualization->visualization
 vissualized->visualized
 vissually->visually
+visted->visited
 visting->visiting
 vistors->visitors
 vist->visit
@@ -75668,6 +75700,7 @@ vizualize->visualize
 vlaues->values
 vlaue->value
 vlues->values
+vlunerability->vulnerability
 vmmware->vmware
 vmwaare->vmware
 vmwaere->vmware
