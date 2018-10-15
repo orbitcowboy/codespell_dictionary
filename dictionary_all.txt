@@ -3918,7 +3918,17 @@ algroithm->algorithm
 algroithms->algorithms
 alguebraic->algebraic
 alguebras->algebras
+alha->alpha
+alhabet->alphabet
+alhabetical->alphabetical
+alhabetically->alphabetically
 alhabeticaly->alphabetically
+alhabets->alphabets
+alhapet->alphabet
+alhapetical->alphabetical
+alhapetically->alphabetically
+alhapeticaly->alphabetically
+alhapets->alphabets
 alheisl->atheist
 alheislic->atheistic
 alheism->atheism
@@ -4323,6 +4333,7 @@ alphanumerik->alphanumeric
 alphanumerric->alphanumeric
 alphanummeric->alphanumeric
 alphanuumeric->alphanumeric
+alphapeticaly->alphabetically
 alphha->alpha
 alphhabetically->alphabetically
 alphhanumeric->alphanumeric
@@ -10311,6 +10322,8 @@ buillding->building
 buillt->built
 buillt by->built by
 built byy->built by
+builter->builder
+builters->builders
 builth by->built by
 builtt by->built by
 buipd->build
@@ -13249,6 +13262,8 @@ churrches->churches
 chuurch->church
 chuurches->churches
 cicrle->circle
+cicruit->circuit
+cicruits->circuits
 cicrular->circular
 cicuitry->circuitry
 ciinciinnatii->cincinnati
@@ -22405,6 +22420,7 @@ dictaionaries->dictionaries
 dictaionary->dictionary
 dicthionary->dictionary
 dictinary->dictionary
+dictioanries->dictionaries
 dictioanry->dictionary
 dictionaary->dictionary
 dictionaery->dictionary
@@ -23057,7 +23073,9 @@ disagrement->disagreement
 disagrreed->disagreed
 disagrreement->disagreement
 disalb->disable
+disalbed->disabled
 disalbe->disable
+disalbes->disables
 disale->disable
 disambigouate->disambiguate
 disambiguaiton->disambiguation
@@ -25958,6 +25976,7 @@ enaebles->enables
 enaemeled->enameled
 enalbed->enabled
 enalbe->enable
+enalbes->enables
 enameld->enameled
 enameledd->enameled
 enameted->enameled
@@ -26069,6 +26088,8 @@ encouraing->encouraging
 encourraging->encouraging
 encoutered->encountered
 encouter->encounter
+encoutner->encounter
+encoutners->encounters
 encouuntered->encountered
 encouunter->encounter
 encouuntering->encountering
@@ -37441,6 +37462,7 @@ initalizer->initializer
 initalizes->initializes
 initalizing->initializing
 initally->initially
+initals->initials
 initated->initiated
 initated->initiated, imitated,
 initate->initiate, imitate,
@@ -38855,6 +38877,9 @@ interesection->intersection
 interesections->intersections
 interesects->intersects
 interesetd->interested
+intereseted->interested
+intereseting->interesting
+intereset->interest
 interesing->interesting
 interesited->interested
 interesiting->interesting
@@ -52901,9 +52926,11 @@ porceeding->proceeding
 porceedings->proceedings
 porceed->proceed
 porceeds->proceeds
+porcessed->processed
 porcesses->processes
 porcessing->processing
 porcessor->processor
+porcessors->processors
 porcess->process
 porclaimed->proclaimed
 porclaiming->proclaiming
@@ -61092,6 +61119,7 @@ rorder->reorder
 rosae->rose
 rosee->rose
 rosse->rose
+rosyln->roslyn
 rotaion->rotation
 rotaions->rotations
 rotaiton->rotation
@@ -63240,6 +63268,8 @@ shorrtcuts->shortcuts
 shorrtly->shortly
 shorrt while->short while
 shortccuts->shortcuts
+short-cicruit->short-circuit
+short-cicruits->short-circuits
 shortcust->shortcuts
 shortcuuts->shortcuts
 shortend->shortened, short end,
@@ -67104,6 +67134,8 @@ subdividaed->subdivided
 subdivideed->subdivided
 subdivisiond->subdivisioned
 subdivvided->subdivided
+subelemets->subelements
+subelemet->subelement
 subexpresssions->subexpressions
 subexpresssion->subexpression
 sub ffolder->sub folder
@@ -74019,6 +74051,7 @@ unrrepentant->unrepentant
 unsaafe->unsafe
 unsable->unusable
 unsable->unusable, usable,
+unsable->unusable, usable, unstable,
 unsaefe->unsafe
 unsafae->unsafe
 unsafee->unsafe
