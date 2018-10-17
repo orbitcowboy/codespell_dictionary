@@ -9658,6 +9658,8 @@ blamee->blame
 blameed->blamed
 blamme->blame
 blammed->blamed
+blanck->blank, black,
+blancked->blanked
 blcok->block
 blcoking->blocking
 blcoks->blocks
@@ -9920,6 +9922,7 @@ bouyant->buoyant
 bouy->buoy
 bowser->browser
 bowsers->browsers
+boxe->boxes, box, boxer,
 boxs->boxes
 boyant->buoyant
 braacket->bracket
@@ -18343,8 +18346,10 @@ corrrrupt->corrupt
 corrrrupted->corrupted
 corrrruptible->corruptible
 corrrupted->corrupted
+corrspond->correspond
 corrspond->corresponds
 corrsponding->corresponding
+corrsponds->corresponds
 corrupl->corrupt
 corrupled->corrupted
 corruplible->corruptible
@@ -21422,6 +21427,9 @@ derrivatives->derivatives
 derrived->derived
 derrogatorry->derogatory
 derviative->derivative
+dervied->derived
+dervie->derive
+dervies->derives
 dervived->derived
 desactivated->deactivated
 desactivate->deactivate
@@ -26992,6 +27000,8 @@ erformance->performance
 erial->aerial
 erials->aerials
 erliear->earlier
+erlier->earlier
+erly->early
 ermergency->emergency
 erodynamics->aerodynamics
 eroneous->erroneous
@@ -31166,7 +31176,10 @@ functionatity->functionality
 functioningg->functioning
 functionining->functioning
 functionionality->functionality
+functionnal->functional
+functionnalities->functionalities
 functionnality->functionality
+functionnaly->functionally
 functionning->functioning
 functionss->functions
 functionst->functions
@@ -41481,6 +41494,7 @@ legitimmate->legitimate
 legitmate->legitimate
 legittimatte->legitimate
 legnth->length
+legth->length
 lehtal->lethal
 leibbniz->leibniz
 leibnitz->leibniz
@@ -43837,6 +43851,7 @@ matcotm->malcolm
 mateerialist->materialist
 mateiral->material
 mateirals->materials
+matemathical->mathematical
 matematically->mathematically
 matematical->mathematical
 matematician->mathematician
@@ -47083,6 +47098,8 @@ nechanism->mechanism
 nedded->needed
 nedd->need
 neded->needed
+nedium->medium
+nediums->mediums
 ned->need
 neeandeerthal->neanderthal
 neear->near
@@ -57742,6 +57759,7 @@ recevies->receives
 receving->receiving
 recgnition->recognition
 rechaargeaable->rechargeable
+rechable->reachable
 rechaergeaeble->rechargeable
 rechargable->rechargeable
 rechargaeble->rechargeable
@@ -58560,6 +58578,7 @@ refernce->reference, references
 refernce->references
 refernces->references
 referncing->referencing
+referneced->referenced
 refernece->reference
 referneces->references
 referraal->referral
@@ -63893,6 +63912,8 @@ sitations->situations
 sitation->station
 sitatisitics->statistics
 sitatus->status
+sitaution->situation
+sitautions->situations
 sitayed->stayed
 sitck->stick
 sitereotypes->stereotypes
@@ -70522,6 +70543,7 @@ thte->the, that,
 tht->the, that,
 thuesday->tuesday
 thuis->thus
+thumbbnail->thumbnail
 thunnel->tunnel
 thurnkey->turnkey
 thurver->further
@@ -73991,6 +74013,7 @@ unreaechaeble->unreachable
 unreakhable->unreachable
 unreasonabily->unreasonably
 unreccognized->unrecognized
+unrechable->unreachable
 unrecoggnized->unrecognized
 unrecogized->unrecognized
 unrecogniized->unrecognized
@@ -76969,6 +76992,7 @@ wittingness->willingness
 witt not work->will not work
 witt observe->will observe
 witt->will
+wit->wit, with,
 wiull->will
 wizaard->wizard
 wizaerd->wizard
