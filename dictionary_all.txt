@@ -27108,6 +27108,9 @@ eruupted->erupted
 ervery->every
 erverything->everything
 esablished->established
+esacaped->escaped
+esacape->escape
+esacapes->escapes
 escaape->escape
 escaepe->escape
 escapeable->escapable
@@ -44456,6 +44459,7 @@ messanging->messaging
 messave->message
 messed some->missed some
 messege->message
+messeges->messages
 messengerr->messenger
 messengger->messenger
 messenging->messaging
