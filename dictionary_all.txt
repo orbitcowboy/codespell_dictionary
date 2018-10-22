@@ -10263,6 +10263,7 @@ btessing->blessing
 btitzkrieg->blitzkrieg
 btoated->bloated
 btog->blog
+btter->better
 btton->button
 buad->baud
 buddah->buddha
@@ -37543,7 +37544,6 @@ initialiaze->initialize
 initialied->initialized
 initialilzing->initializing
 initialisae->initialise
-initialisation->initialization
 initialisatioon->initialisation
 initialisee->initialise
 initialise->initialize
