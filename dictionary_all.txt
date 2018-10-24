@@ -19257,6 +19257,8 @@ customeers->customers
 customerr->customer
 customerrs->customers
 customicable->customizable
+customie->customize
+customied->customized
 customiizatiion->customization
 customiize->customize
 customisable->customizable
@@ -24146,6 +24148,7 @@ doens't->doesn't
 doen't->doesn't
 does does->does
 doesen't->doesn't
+doesing->doing, does, does in, dosing, dozing,
 doesn'l->doesn't
 does nnot->does not
 doesn not->does not
@@ -35841,6 +35844,11 @@ implenment->implement
 implentation->implantation
 implentation->implementation
 implentations->implementations
+implented->implemented
+implent->implement
+implenting->implementing
+implentors->implementers
+implents->implements
 impliccit->implicit
 impliccitly->implicitly
 implicil->implicit
@@ -43696,6 +43704,9 @@ manuufactuured->manufactured
 manuufactuure->manufacture
 manuufactuuring->manufacturing
 manuver->maneuver
+manyally->manually
+manyal->manual
+manyals->manuals
 manyy->many
 mapable->mappable
 maped->mapped
@@ -44153,6 +44164,7 @@ medeival->medieval
 medevial->medieval
 medhod->method
 medhods->methods
+medias->media, mediums,
 medicaal->medical
 medicael->medical
 medicall->medical
@@ -47112,6 +47124,7 @@ nechanism->mechanism
 nedded->needed
 nedd->need
 neded->needed
+nedia->media
 nedium->medium
 nediums->mediums
 ned->need
@@ -49326,8 +49339,13 @@ opeerations->operations
 opeerator->operator
 opeerators->operators
 opeinging->opening
+opemed->opened
+opemess->openness
+opeming->opening
 opemmess->openness
 opemness->openness
+opem->open
+opems->opens
 opended->opened
 opend->opened
 openedd->opened
@@ -50099,6 +50117,7 @@ outpputting->outputting
 outpulling->outputting
 outpulting->outputting
 outpun->output
+outpupt->output
 outpust->outputs
 outputed->outputted
 outputing->outputting
@@ -57843,6 +57862,7 @@ recogniitiion->recognition
 recogniized->recognized
 recogniize->recognize
 recognilion->recognition
+recogninse->recognise
 recognisse->recognise
 recognithion->recognition
 recognittion->recognition
@@ -58933,6 +58953,8 @@ reimplemenation->reimplementation
 reimplemenations->reimplementations
 reimplementaion->reimplementation
 reimplementaions->reimplementations
+reimplented->reimplemented
+reimplents->reimplements
 reimplmentation->reimplementation
 reimplmented->reimplemented
 reimplmenting->reimplementing
@@ -66301,6 +66323,7 @@ statisfies->satisfies
 statisfying->satisfying
 statisfy->satisfy
 statisitics->statistics
+stati->statuses
 statisticcs->statistics
 statistiks->statistics
 statmenmt->statement
@@ -72585,6 +72608,7 @@ typpically->typically
 typpical->typical
 typpograpphical->typographical
 typpo->typo
+typp->type, typo,
 typs->types
 typ->type
 tyraannies->tyrannies
