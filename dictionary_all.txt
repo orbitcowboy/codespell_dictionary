@@ -38117,6 +38117,7 @@ inouts->inputs
 inpeach->impeach
 inpending->impending
 inpenetrable->impenetrable
+inplementation->implementation
 inplemented->implemented
 inplement->implement
 inplicit->implicit
@@ -38155,6 +38156,7 @@ insaectivorous->insectivorous
 insaensitivae->insensitive
 insaeparablae->inseparable
 insaertaed->inserted
+insallation->installation
 insalled->installed
 insall->install
 insance->instance
@@ -38464,6 +38466,7 @@ instituutions->institutions
 instnace->instance
 instnce->instance
 instrace->instance
+instralled->installed
 instrction->instruction
 instread->instead
 instrinsic->intrinsic
@@ -52657,6 +52660,7 @@ polgons->polygons
 polian->polish
 polical->political
 policcy->policy
+policie->policies, policy, police,
 policity->policy
 policyy->policy
 poliicy->policy
@@ -67717,6 +67721,7 @@ suceeded->succeeded
 suceeding->succeeding
 suceeds->succeeds
 suceed->succeed
+sucesfull->successful
 sucesfully->successfully
 sucesful->successful
 sucesfuly->successfully
@@ -70045,6 +70050,7 @@ thendency->tendency
 then end->the end
 then ii->then i
 then installer->the installer
+thenm->then
 thennis player->tennis player
 thenn i->then i
 thenn->then
@@ -75977,16 +75983,29 @@ vry->very
 vulerable->vulnerable
 vullnerabillity->vulnerability
 vulnaerability->vulnerability
+vulnearable->vulnerable
+vulnearbilities->vulnerabilities
+vulnearbility->vulnerability
 vulneerability->vulnerability
 vulneraability->vulnerability
 vulnerabbility->vulnerability
 vulnerabiiliity->vulnerability
+vulnerabilility->vulnerability
 vulnerabilily->vulnerability
+vulnerabilites->vulnerabilities
 vulnerabilithy->vulnerability
+vulnerabilitie->vulnerability
+vulnerabilitis->vulnerabilities
+vulnerabiliti->vulnerability
+vulnerabilitiy->vulnerability
 vulnerabilitty->vulnerability
 vulnerabilityy->vulnerability
+vulnerabillities->vulnerabilities
+vulnerabillity->vulnerability
 vulnerablility->vulnerability
 vulneraebility->vulnerability
+vulnerbilities->vulnerabilities
+vulnerbility->vulnerability
 vulnerrability->vulnerability
 vulnnerability->vulnerability
 vutnerabitity->vulnerability
@@ -76946,6 +76965,7 @@ windoow->window
 windos->windows
 window 7->windows 7
 windo->window
+windowns->windows
 windowss 7->windows 7
 windows saervaer->windows server
 windows seerveer->windows server
