@@ -5459,7 +5459,12 @@ apeends->appends
 apeenninees->apennines
 apemmines->apennines
 apemnines->apennines
+apendage->appendage
+apend->append
 apended->appended
+apender->appender
+apendices->appendices
+apending->appending
 apendix->appendix
 apenines->apennines
 apenines->apennines
@@ -9789,6 +9794,7 @@ bookeeping->bookkeeping
 bookmar->bookmark
 boolaean->boolean
 boolaen->boolean
+boolan->boolean
 boold->bold, bool,
 booleaan->boolean
 booleaen->boolean
@@ -12856,6 +12862,8 @@ charactaeristic->characteristic
 charactaeristics->characteristics
 charactaerizaed->characterized
 charactaers->characters
+charactear->character
+charactears->characters
 characte->character
 characted->character
 characteds->characters
@@ -12864,6 +12872,10 @@ characteeristic->characteristic
 characteeristics->characteristics
 characteerizeed->characterized
 characteers->characters
+characteisation->characterisation
+characteization->characterization
+characteor->character
+characteors->characters
 charactere->character
 characteres->characters
 characteriistiic->characteristic
@@ -12883,6 +12895,16 @@ charactersm->characters
 characterss->characters
 characterstics->characteristics
 charactes->characters
+charactet->character
+characteter->character
+characteteristic->characteristic
+characteteristics->characteristics
+characteters->characters
+charactetistic->characteristic
+charactetistics->characteristics
+charactetr->characters
+charactetrs->characterss
+charactets->characters
 characther->character
 charactheristhic->characteristic
 charactheristhics->characteristics
@@ -15632,6 +15654,8 @@ condennation->condemnation
 condenned->condemned
 condiction->condition
 condictions->conditions
+condident->confident
+condidential->confidential
 condidtion->condition
 condidtions->conditions
 condiitiional->conditional
@@ -18812,6 +18836,9 @@ creepinng->creeping
 creepping->creeping
 cresits->credits
 cretae->create
+cretaed->created
+cretaes->creates
+cretaing->cretaing
 cretated->created
 cricle->circle
 cricles->circles
@@ -28022,6 +28049,7 @@ executablble->executable
 executablle->executable
 executabte->executable
 executaeble->executable
+executation->execution
 executbale->executable
 executeable->executable
 executeables->executables
@@ -28470,6 +28498,8 @@ expidition->expedition
 expiditions->expeditions
 expierence->experience
 expierences->experiences
+expierience->experience
+expieriences->experiences
 expirience->experience
 expiriences->experiences
 expirimental->experimental
@@ -29686,6 +29716,7 @@ fictitiouus->fictitious
 ficttittious->fictitious
 fidality->fidelity
 fidn->find
+fiedls->fields
 fieeld->field
 fieeld namee->field name
 fieelds->fields
@@ -34590,6 +34621,8 @@ hyppocrite->hypocrite
 hyppocrites->hypocrites
 hyppothetical->hypothetical
 hypthetical->hypothetical
+hyptothetical->hypothetical
+hyptothetically->hypothetically
 hyseresis->hysteresis
 hysically->physically
 hysical->physical
@@ -39929,6 +39962,7 @@ issuse->issue
 issuses->issues
 issuue->issue
 issuuing->issuing
+istalling->installing
 istance->instance
 istead->instead
 istener->listeners
@@ -41384,6 +41418,7 @@ launchs->launch
 launchs->launches
 launchs->launch, launches
 launchs->launch, launches,
+launck->launch
 launhed->launched
 launkhed->launched
 launkhes->launches
@@ -48787,6 +48822,8 @@ oclal->octal
 oclock->o'clock
 oclusion->occlusion
 ocntext->context
+ocorrence->ocorrence
+ocorrences->ocorrences
 octaahedraal->octahedral
 octaahedraa->octahedra
 octaahedron->octahedron
@@ -59992,7 +60029,10 @@ requieres->requires
 requiering->requiring
 requierments->requirements
 requies->requires
+requiested->requested
+requiesting->requesting
 requiest->request
+requiests->requests
 requiired->required
 requiirement->requirement
 requiirements->requirements
@@ -64515,6 +64555,7 @@ softwware->software
 softwware tools->software tools
 sofware->software
 sofwares->softwares
+sofwtare->software
 sohw->show
 soiil->soil
 soilders->soldiers
@@ -67488,6 +67529,8 @@ substiitutiion->substitution
 substite->substitute
 substitions->substitutions
 substition->substitution
+substituations->substitutions
+substituation->substitution
 substituded->substituted
 substitudes->substitutes
 substitude->substitute
@@ -72005,6 +72048,7 @@ tring->trying, string, ring,
 triology->trilogy
 tripels->triples
 tripel->triple
+tripleee->triple
 tripple->triple
 tritogy->trilogy
 trivally->trivially
@@ -75886,6 +75930,7 @@ vmwre->vmware
 vmwware->vmware
 vngeance->vengeance
 vnomous->venomous
+voif->void
 volatages->voltages
 volatage->voltage
 volcaano->volcano
@@ -77244,6 +77289,7 @@ workarounnds->workarounds
 workarounnd->workaround
 workarouunds->workarounds
 workarouund->workaround
+workarrounds->workarounds
 workarround->workaround
 workarund->workaround
 workbanch->workbench
