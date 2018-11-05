@@ -22370,6 +22370,7 @@ diaggram->diagram
 diaggrammatic->diagrammatic
 diaggrams->diagrams
 diaglostic->diagnostic
+diagnised->diagnosed
 diagnnostic->diagnostic
 diagnnostics->diagnostics
 diagnoostic->diagnostic
