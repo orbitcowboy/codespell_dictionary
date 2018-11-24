@@ -5227,6 +5227,7 @@ anotation->annotation
 anotations->annotations
 anoter->another
 anothaer->another
+anothe->another
 anotheer->another
 a nother->another
 an other->another
@@ -9673,6 +9674,7 @@ blamee->blame
 blameed->blamed
 blamme->blame
 blammed->blamed
+blanace->balance
 blanck->blank, black,
 blancked->blanked
 blcok->block
@@ -9816,6 +9818,8 @@ boolian->boolean
 boollean->boolean
 bools->boolean
 boolslrap->bootstrap
+boomark->bookmark
+boomarks->bookmarks
 boombardment->bombardment
 boonannoo->bonanno
 boook->book
@@ -13839,6 +13843,7 @@ coffeeee->coffee
 coffffee->coffee
 cofficients->coefficients
 coffie->coffee
+cofidence->confidence
 cofiguration->configuration
 cofigure->configure
 cofigured->configured
@@ -30463,6 +30468,7 @@ fooundries->foundries
 fooundry->foundry
 foourth->fourth
 foppy->floppy
+foppys->floppies
 foraeground->foreground
 foraeign->foreign
 foraemost->foremost
@@ -31584,6 +31590,7 @@ garbague->garbage
 garbbage->garbage
 gardai->gardaí
 garddaí->gardaí
+gard->guard
 garentee->guarantee
 gargage->garbage, garage,
 garison->garrison
@@ -35847,6 +35854,8 @@ implememts->implements
 implemenatation->implementation
 implemenation->implementation
 implemenations->implementations
+implemend->implement
+implemends->implements
 implemenetation->implementation
 implemenetions->implementations
 implemenlalion->implementation
@@ -43355,8 +43364,10 @@ maioriti->majority
 maiority->majority
 maitainability->maintainability
 maitainabilty->maintainability
+maitained->maintained
 maitainers->maintainers
 maitaing->maintaining
+maitain->maintain
 majjority->majority
 majoority->majority
 majoriity->majority
@@ -61974,6 +61985,7 @@ safaety->safety
 safeely->safely
 safee->safe
 safeety->safety
+safeing->saving
 safelly->safely
 safelyy->safely
 safequard->safeguard
@@ -63095,6 +63107,7 @@ seperatly->separately
 seperator->separator
 seperators->separators
 sepina->subpoena
+seporate->separate
 sepparated->separated
 sepparately->separately
 sepparate->separate
@@ -66979,6 +66992,7 @@ strinng patternn->string pattern
 strinngs->strings
 strinngstream->stringstream
 strinng->string
+strinsg->strings
 stript->stripped
 strnad->strand
 stroage->storage
@@ -71889,6 +71903,7 @@ transkribing->transcribing
 transkription->transcription
 translaters->translators
 translater->translator
+translatied->translated
 translatiion->translation
 translatioon->translation
 translatoors->translators
@@ -74668,6 +74683,7 @@ updale->update
 updataed->updated
 updataes->updates
 updatae->update
+updateded->updated
 updateed->updated
 updatees->updates
 updatee->update
@@ -74760,6 +74776,7 @@ upstrream->upstream
 upsttream->upstream
 uptadeable->updatable
 up tho->up to
+uptim->uptime
 uptions->options
 up too->up to
 upto->up to
@@ -75550,6 +75567,8 @@ velidates->validates
 velidate->validate
 vell->well
 vemware->vmware
+venders->vendors
+vender->vendor
 venemous->venomous
 vengaence->vengeance
 vengance->vengeance
@@ -75666,6 +75685,7 @@ veriosns->versions
 veriosn->version
 verious->various
 verison control->version control
+verisoned->versioned
 verisons->versions
 verison->version
 veritcal->vertical
