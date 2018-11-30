@@ -1772,6 +1772,7 @@ activeta->activate
 activete->activate
 activety->actively
 activites->activities
+activiti->activity, activities,
 activitiaes->activities
 activitiees->activities
 activitiess->activities
@@ -13830,6 +13831,8 @@ coefficiet->coefficient
 coeffients->coefficients
 coeffiiciient->coefficient
 coeffiiciients->coefficients
+coeffizient->coefficient
+coeffizients->coefficients
 coeficent->coefficient
 coeficents->coefficients
 coeficient->coefficient
@@ -14514,6 +14517,7 @@ commithmenths->commitments
 commiththed->committed
 commiththee->committee
 commiththing->committing
+commitin->committing
 commiting->committing
 commitled->committed
 commitlee->committee
@@ -22456,6 +22460,8 @@ dialaed->dialed
 dialag->dialog
 dialags->dialogs
 dialeed->dialed
+dialgo->dialog
+dialgos->dialogs
 diall->dial
 dialler->dialer
 diallers->dialers
@@ -24619,6 +24625,7 @@ drivveability->driveability
 drivver->driver
 drnik->drink
 droopped->dropped
+dropabel->droppable
 dropable->droppable
 drop down->drop-down
 droped->dropped
@@ -27069,6 +27076,7 @@ erasabte->erasable
 eraseable->erasable
 erassable->erasable
 erasuer->erasure
+erasuer->erasure, eraser,
 erata->errata
 eratically->erratically
 eratic->erratic
@@ -35502,6 +35510,7 @@ imanent->eminent
 imanent->eminent, imminent
 imanent->eminent, imminent,
 imanent->imminent
+imapct->impact
 imapge->image
 imbaalaanced->imbalanced
 imbaalaance->imbalance
@@ -36931,6 +36940,7 @@ indetify->identify
 indexess->indexes
 indexig->indexing
 indexs->indexes, indices,
+indext->indexed
 indexxes->indexes
 indexx->index
 indiactor->indicator
@@ -38922,7 +38932,13 @@ interactivly->interactively
 interactivve->interactive
 interaective->interactive
 interafce->interface
+interakt->interact
+interaktion->interaction
+interaktions->interactions
 interaktive->interactive
+interaktive->interactively
+interaktively->interactively
+interaktivly->interactively
 interal->integral
 interal->internal
 interal->internal, integral,
@@ -41537,6 +41553,7 @@ leaarns->learns
 leaast->least
 leace->lease
 leace->leave
+leack->leak
 leadds->leads
 leaded->led, lead, leaded,
 leades->leads
@@ -42517,6 +42534,7 @@ loadig->loading
 loadin->loading
 loadly->loudly
 loadning->loading
+loafing->loading, loafing,
 lo allocale->to allocate
 loasing->loosing
 lobacco->tobacco
@@ -42562,6 +42580,7 @@ lockingf->locking
 lo connecl lo->to connect to
 loday's->today's
 loday->today
+loding->loading
 lod->load
 lodo lisl->todo list
 lo do wilh->to do with
@@ -42792,6 +42811,7 @@ low bytte->low byte
 low byyte->low byte
 lowd->load
 lowercased->lowercase
+lowes->lowest
 loww byte->low byte
 lpatform->platform
 lraceabilily->traceability
@@ -45944,6 +45964,8 @@ modet->model
 modets->models
 modetted->modelled
 modetting->modelling
+modeul->module
+modeuls->modules
 modfel->model
 modfiable->modifiable
 modfied->modified
@@ -46611,6 +46633,7 @@ multiplicatorr->multiplicator
 multiplicatro->multiplicator
 multipliccand->multiplicand
 multipliccator->multiplicator
+multiplicites->multiplicities
 multipliedd->multiplied
 multiplieed->multiplied
 multiplieers->multipliers
@@ -46840,6 +46863,7 @@ mutli->multi
 mutliple->multiple
 mutlipler->multiplier
 mutliplexer->multiplexer
+mutliplicites->multiplicities
 mutliply->multiply
 mut->must, mutt, moot,
 muts exits->must exist
@@ -47408,7 +47432,9 @@ neice->niece
 neice->niece, nice
 neice->niece, nice,
 neigborhood->neighborhood
+neigboring->neighboring
 neigbor->neighbor
+neigbors->neighbors
 neigbourhood->neighborhood
 neigbourhood->neighbourhood
 neigbouring->neighboring
@@ -49066,6 +49092,7 @@ offikials->officials
 offred->offered
 offseted->offsetted
 offseting->offsetting
+offsetted->offset
 offsett->offset
 offstets->offsets
 offten->often
@@ -51036,6 +51063,7 @@ parameterical->parametrical
 parameterize->parametrize
 parameterizes->parametrizes
 parameterss->parameters
+parameterts->parmeters
 parametes->parameters
 paramether->parameter
 paramethers->parameters
@@ -51043,6 +51071,7 @@ parametised->parametrised
 paramet->parameter
 parametre->parameter
 parametres->parameters
+parametr->parameter
 parametrs->parameters
 parametter->parameter
 parametters->parameters
@@ -54538,6 +54567,8 @@ prefere->prefer
 prefere->prefer, preferred
 prefere->prefer, preferred,
 prefering->preferring
+prefernce->preference
+prefernces->preferences
 preferraably->preferrably
 preferrabbly->preferrably
 preferrable->preferable
@@ -55981,6 +56012,7 @@ propertiess->properties
 propertiies->properties
 propertise->properties
 propertites->properties
+propertly->properly, property,
 propert->property
 propertties->properties
 propertys->properties
@@ -56166,6 +56198,7 @@ protoganist->protagonist
 protokoll->protocol
 protokol->protocol
 prototpye->prototype
+prototpyes->prototypes
 prototpy->prototype
 prototyes->prototypes
 prototypaed->prototyped
@@ -56348,6 +56381,7 @@ proxximity->proximity
 proxxy->proxy
 proxys->proxies
 proxyy->proxy
+prozess->process
 prpeparations->preparations
 prractically->practically
 prractical->practical
@@ -57545,6 +57579,7 @@ raucouss->raucous
 raukous->raucous
 rauucouus->raucous
 rceating->creating
+rduce->reduce
 reaached->reached
 reaaching->reaching
 reaadaability->readability
@@ -61288,6 +61323,9 @@ rmeote->remote
 rmeoved->removed
 rmeove->remove
 rmeoves->removes
+rmoved->removed
+rmove->remove
+rmoving->removing
 roaadmaap->roadmap
 roaddmap->roadmap
 roadmapp->roadmap
@@ -61398,6 +61436,7 @@ rotaiton->rotation
 rotaitons->rotations
 rotataion->rotation
 rotataions->rotations
+rotatio->rotation
 rothogonal->orthogonal
 rotine->routine
 rouding->rounding
@@ -63212,6 +63251,7 @@ seriialiizatiion->serialization
 seriial->serial
 seriiously->seriously
 serioously->seriously
+serios->serious
 seriouslly->seriously
 seriouslyy->seriously
 seriousty->seriously
@@ -65755,6 +65795,7 @@ squarre->square
 squarres->squares
 squate->squale
 squence->sequence
+squencial->sequential
 squiirrelled->squirrelled
 squirelled->squirrelled
 squirraellaed->squirrelled
@@ -66487,6 +66528,7 @@ starrt->start
 startegic->strategic
 startegies->strategies
 startegy->strategy
+startet->started
 startign->starting
 startiing poiint->starting point
 startiing->starting
@@ -66589,6 +66631,7 @@ steereeotypees->stereotypes
 steeroids->steroids
 stength->strength
 steorids->steroids
+stepst->steps
 steram->stream
 stereootypes->stereotypes
 stereotyppes->stereotypes
@@ -67933,6 +67976,7 @@ succsesfull->successful
 succsessfull->successful
 succsessive->successive
 succsess->success
+succussfully->successfully
 suceeded->succeeded
 suceeding->succeeding
 suceeds->succeeds
@@ -69796,6 +69840,7 @@ temperarily->temporarily
 temperarure->temperature
 temperatues->temperatures
 temperatue->temperature
+temperaturs->temperatures
 temperatur->temperature
 temperatuure->temperature
 temperment->temperament
@@ -72735,6 +72780,8 @@ tukson->tucson
 tummel->tunnel
 tumnel->tunnel
 tuncated->truncated
+tunelled->tunnelled
+tunelling->tunneling
 tunel->tunnel
 tunmel->tunnel
 tunnael->tunnel
@@ -74380,6 +74427,7 @@ unresonable->unreasonable
 unresoved->unresolved
 unroated->unrotated
 unrocognized->unrecognized
+unrounded->not rounded
 unrreachable->unreachable
 unrrecognized->unrecognized
 unrrepentant->unrepentant
