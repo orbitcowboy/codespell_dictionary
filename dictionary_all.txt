@@ -10313,6 +10313,7 @@ buffaer->buffer
 buffeer->buffer
 buffereed->buffered
 bufferent->buffered
+bufferes->buffers
 bufferr->buffer
 bufffer->buffer
 bufffers->buffers
@@ -21233,6 +21234,7 @@ densety->densely
 densly->densely
 denssely->densely
 denstiy->density
+denunerator->denumerator
 deocder->decoder
 deorgatory->derogatory
 depaartmentaal->departmental
@@ -74849,6 +74851,7 @@ usabilithy->usability
 usabilitty->usability
 usabilityy->usability
 usabillity->usability
+usabilty->usability
 usabitity->usability
 usablae->usable
 usablee->usable
