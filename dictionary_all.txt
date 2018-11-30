@@ -47237,6 +47237,7 @@ neccessarry->necessary
 neccessary->neccessary
 neccessary->necessary
 neccessaryy->neccessary
+neccessery->necessary
 neccessitate->necessitate
 neccessitates->necessitates
 neccessities->necessities
@@ -51187,6 +51188,7 @@ parliiament->parliament
 parlilioning->partitioning
 parlilions->partitions
 parliment->parliament
+parllel->parallel
 parlliamentarian->parliamentarian
 parlliament->parliament
 parlly->partly
@@ -66454,6 +66456,7 @@ stack pointeer->stack pointer
 stack pointerr->stack pointer
 stack poointer->stack pointer
 stack ppointer->stack pointer
+stadards->standards
 stadard->standard
 staebility->stability
 staebilize->stabilize
@@ -66626,6 +66629,7 @@ stcokbrush->stockbrush
 stdanard->standard
 std::stirng->std::string
 stdudio->studio
+steadyly->steadily
 steams->streams
 steereeotypees->stereotypes
 steeroids->steroids
