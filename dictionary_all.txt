@@ -21487,6 +21487,7 @@ derivtives->derivatives
 derivvativve->derivative
 derivvativves->derivatives
 derivved->derived
+dermined->determined
 dermine->determine
 dermines->determines
 derogaatory->derogatory
@@ -28088,6 +28089,7 @@ exectuables->executables
 exectued->executed
 exectuted->executed
 exectute->execute
+exectutes->executes
 exectution->execution
 exectutions->executions
 execuable->executable
