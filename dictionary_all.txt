@@ -1953,6 +1953,7 @@ additionat->additional
 additionatty->additionally
 additionial->additional
 additionional->additional
+additionl->additional
 additionn->addition
 additionnal->additional
 additionnally->additionally
@@ -28897,8 +28898,10 @@ extraaterrestriaal->extraterrestrial
 extraaterrestriaals->extraterrestrials
 extraavaagaant->extravagant
 extracct->extract
+extraced->extracted
 extrac->extract
 extracing->extracting
+extracs->extracts
 extracter->extractor
 extractino->extracting
 extractins->extractions
@@ -38240,6 +38243,7 @@ inplemented->implemented
 inplement->implement
 inplicit->implicit
 inpolite->impolite
+inposible->impossible
 inpossible->impossible
 in pprincipple->in principle
 inpput->input
@@ -52996,6 +53000,7 @@ polynomiials->polynomials
 polynommial->polynomial
 polynommials->polynomials
 polynom->polynomial
+polynoms->polynomials
 polyphhonic->polyphonic
 polyphonicc->polyphonic
 polyphoniic->polyphonic
