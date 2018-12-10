@@ -11043,6 +11043,7 @@ callss->calls
 calng->clang
 cals->calls
 calss->calls
+calss->calls, class,
 calsses->classes
 caluclate->calculate
 caluclated->calculated
@@ -28429,7 +28430,9 @@ expandabillity->expandability
 expandabitity->expandability
 expanddability->expandability
 expaning->expanding
+expanion->expansion
 expanions->expansion
+expanions->expansions
 expanndability->expandability
 expannsionn->expansion
 expansiion->expansion
@@ -40436,6 +40439,8 @@ judikiary->judiciary
 judisuary->judiciary
 juducial->judicial
 juge->judge
+jumoed->jumped
+jumo->jump
 jumpt->jumped, jump,
 juniior->junior
 junioor->junior
@@ -55394,6 +55399,8 @@ procllaimed->proclaimed
 procllaiming->proclaiming
 procllamation->proclamation
 proclomation->proclamation
+procoessed->processed
+procoessing->processing
 procoess->process
 proctaimed->proclaimed
 proctaiming->proclaiming
@@ -64176,6 +64183,8 @@ singlae->single
 singlee->single
 singlle->single
 singlton->singleton
+singlularly->singularly
+singlular->singular
 singnalled->signalled
 singnal->signal
 singnals->signals
