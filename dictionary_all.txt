@@ -1877,6 +1877,8 @@ adapttattion->adaptation
 adapttattions->adaptations
 adaptted->adapted
 adaptter->adapter
+adaquate->adequate
+adaquately->adequately
 a data typae->a data type
 a data typee->a data type
 a data typpe->a data type
@@ -36643,6 +36645,8 @@ incoporates->incorporates
 incoporating->incorporating
 incorect->incorrect
 incorectly->incorrectly
+incoropate->incorporate
+incoropates->incorporates
 incoroporated->incorporated
 incorparates->incorporates
 incorperated->incorporated
@@ -52425,6 +52429,7 @@ phsyically->physically
 phy_interace->phy_interface
 phyiscally->physically
 phyiscal->physical
+phyiscs->physics
 phylosophical->philosophical
 physcial->physical
 physicaally->physically
@@ -65030,6 +65035,7 @@ sotitoquy->soliloquy
 sotrage->storage, shortage,
 sotred->sorted
 sotred->sorted, stored,
+sotred->stored
 sotring->storing
 sotring->storing, sorting,
 sotry->story
@@ -75693,6 +75699,8 @@ verbouse->verbose
 verbously->verbosely
 verbous->verbose
 verbse->verbose
+veresions->versions
+veresion->version
 verfications->verifications
 verfication->verification
 verfiy->verify
