@@ -4729,7 +4729,6 @@ analogeous->analogous
 analoggous->analogous
 analogouss->analogous
 analogouus->analogous
-analogue->analog
 analoogoous->analogous
 analsis->analysis
 analsyis->analysis
@@ -62515,6 +62514,8 @@ sclerae->sclera
 sclerra->sclera
 scllera->sclera
 scnanned->scanned
+scneario->scenario
+scnearios->scenarios
 scolling->scrolling
 scoll->scroll
 scorll->scroll
