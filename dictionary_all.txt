@@ -20369,6 +20369,8 @@ decidablle->decidable
 decidabte->decidable
 decidaeble->decidable
 decidated->dedicated
+decidate->dedicate
+decidates->dedicates
 decideable->decidable
 decidedlly->decidedly
 decidedlyy->decidedly
@@ -28640,6 +28642,7 @@ experimment->experiment
 experimments->experiments
 experince->experience
 expermental->experimental
+expermiental->experimental
 experrienced->experienced
 experrience->experience
 experrimental->experimental
@@ -51338,6 +51341,7 @@ parisitic->parasitic
 paritial->partial
 paritioning->partitioning
 parition->partition
+paritition->partition
 parititions->partitions
 parituclar->particular
 parlially->partially
@@ -53670,6 +53674,7 @@ possessingg->possessing
 possessinng->possessing
 possessionn->possession
 possessionns->possessions
+possiable->possible
 possibbe->possible
 possibbilities->possibilities
 possibbility->possibility
@@ -55673,6 +55678,7 @@ profusionn->profusion
 profussion->profusion
 profuusion->profusion
 progamed->programed
+progamed->programmed
 progammable->programmable
 progamm->program
 progam->program
@@ -57766,6 +57772,7 @@ rases->raises
 raspbbian->raspbian
 raspbiann->raspbian
 raspbiian->raspbian
+raspoberry->raspberry
 rasppbian->raspbian
 rasspbian->raspbian
 rasterise->rasterize
@@ -68379,6 +68386,7 @@ suicidat->suicidal
 suiciddal->suicidal
 suicidde->suicide
 suicidee->suicide
+suiete->suite
 suiiciidal->suicidal
 suiiciide->suicide
 suiite of->suite of
@@ -74568,6 +74576,7 @@ unpleasent->unpleasant
 unpleassant->unpleasant
 unpleeasant->unpleasant
 unplesant->unpleasant
+unplesent->unpleasant
 unpllayablle->unplayable
 unplleasant->unpleasant
 unpoortable->unportable
@@ -76939,6 +76948,7 @@ weatther->weather
 webage->web page
 webb page->web page
 webbsite->website
+webiste->website
 web paage->web page
 web paege->web page
 web pagge->web page
