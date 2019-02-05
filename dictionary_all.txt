@@ -6635,6 +6635,7 @@ arrtificial->artificial
 arrtificially->artificially
 arrtillerry->artillery
 arry->array
+arry->array, carry,
 arrys->arrays
 artcile->article
 artefact->artifact
@@ -14804,6 +14805,7 @@ communnicationns->communications
 communnities->communities
 communnity->community
 communticaion->communication
+communuication->communication
 commuunicate->communicate
 commuunicates->communicates
 commuunication->communication
@@ -22111,6 +22113,7 @@ deteced->detected
 detecs->detects, deters, detect,
 detecst->detects
 detectected->detected
+detectedand->detected and
 detecte->detect
 detectes->detects
 detectetd->detected
@@ -26206,6 +26209,7 @@ enameld->enameled
 enameledd->enameled
 enameted->enameled
 enammeled->enameled
+enaugh->enough
 enbaled->enabled
 enbale->enable
 enbales->enables
@@ -39855,6 +39859,7 @@ inverrted->inverted
 inverrting->inverting
 inversing->inverting
 invers->inverse
+invers->inverse, invert,
 invertebbrates->invertebrates
 invertebraates->invertebrates
 invertebraetes->invertebrates
@@ -41404,6 +41409,7 @@ kustomize->customize
 kwno->know
 kwnow->know
 kwnows->knows
+kwoledgebase->knowledge base
 kyan->cyan
 kygwin->cygwin
 kykle->cycle
@@ -42180,6 +42186,7 @@ lieing->lying
 liekd->liked
 liek->like
 lient->client
+lient->client, clients,
 lient->clients
 liesure->leisure
 lieuenant->lieutenant
@@ -48196,6 +48203,7 @@ nonopperational->nonoperational
 nonsaensae->nonsense
 nonseensee->nonsense
 nonsence->nonsense
+nonsens->nonsense
 nonsimultaneous->non simultaneous
 nonssensse->nonsense
 nonte->note
@@ -50775,6 +50783,7 @@ overwhelminng->overwhelming
 overwhelmming->overwhelming
 overwhetming->overwhelming
 overwhhelming->overwhelming
+overwiew->overview
 overwise->otherwise
 overwite->overwrite
 overwites->overwrites
@@ -74335,6 +74344,7 @@ unkonwns->unknowns
 unkonwn->unknown
 unkowns->unknowns
 unkown->unknown
+unkwown->unknown
 unlaess->unless
 unleess->unless
 unlerminaled->unterminated
