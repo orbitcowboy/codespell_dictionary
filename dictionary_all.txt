@@ -9982,6 +9982,7 @@ boostoon->boston
 boostrap->bootstrap
 boosttrap->bootstrap
 bootean->boolean
+booteek->boutique
 boothsthrap->bootstrap
 bootom->bottom
 bootsitrap->bootstrap
@@ -10003,11 +10004,13 @@ boounce->bounce
 booundaries->boundaries
 booundary->boundary
 boout->bout
+boquet->bouquet
 boradcast->broadcast
 boradcasting->broadcasting
 boradly->broadly
 bordreline->borderline
 bordrelines->borderlines
+borgwasy->bourgeoisie
 borke->broke
 borken->broken
 borught->brought
@@ -10044,6 +10047,7 @@ bottlenekk->bottleneck
 bottlenneck->bottleneck
 bottlleneck->bottleneck
 bottlneck->bottleneck
+bottomborde->bottomborder
 bottome->bottom
 bottomm->bottom
 botton->bottom
@@ -10103,6 +10107,7 @@ bowsers->browsers
 boxe->boxes, box, boxer,
 boxs->boxes
 boyant->buoyant
+boycot->boycott
 braacket->bracket
 braackets->brackets
 braain-daamaaged->brain-damaged
@@ -10183,6 +10188,7 @@ brannches->branches
 braodcasted->broadcasted
 brasillian->brazilian
 brasillian->brazilian
+brazeer->brassiere
 braziiliian->brazilian
 braziliann->brazilian
 brazillian->brazilian
@@ -10227,6 +10233,7 @@ breaktrough->breakthrough
 breaktroughs->breakthroughs
 breaktthrough->breakthrough
 breaktthroughs->breakthroughs
+bre->be
 breeak->break
 breeakthrough->breakthrough
 breeakthroughs->breakthroughs
@@ -10310,6 +10317,7 @@ brimstoone->brimstone
 brimsttone->brimstone
 brimtsone->brimstone
 bringin->bringing
+bringtofont->bringtofront
 briningg->brining
 brinninng->brining
 bristish->british
@@ -10365,8 +10373,10 @@ broaedly->broadly
 broblematic->problematic
 broce->broke
 brocen->broken
+brocher->brochure
 brocke->broke
 brocken->broken
+brocolee->broccoli
 brodcast->broadcast
 brokae->broke
 brokaen->broken
@@ -12718,6 +12728,7 @@ centimetre->centimeter
 centimetres->centimeters
 centralise->centralize
 centralised->centralized
+centrifugeable->centrifugable
 centruies->centuries
 centruy->century
 centtennial->centennial
@@ -13827,6 +13838,7 @@ cliient->client
 cliiniical->clinical
 cliiniically->clinically
 cliipboard->clipboard
+clik->click
 clincial->clinical
 clinicaal->clinical
 clinicaally->clinically
@@ -18432,6 +18444,7 @@ copyyable->copyable
 copyy->copy
 copyying->copying
 copyyright->copyright
+corale->chorale
 corcodiles->crocodiles
 corddial->cordial
 cordiaal->cordial
@@ -18442,6 +18455,7 @@ cordiial->cordial
 cordinate->coordinate
 cordinates->coordinates
 cordination->coordination
+cordoroy->corduroy
 corecct->correct
 corecctly->correctly
 corect->correct
@@ -18453,10 +18467,12 @@ corectness->correctness
 corectors->correctors
 coreespond->correspond
 coreesponding->corresponding
+coregated->corrugated
 corelate->correlate
 corelated->correlated
 corelates->correlates
 corelating->correlating
+corellation->correlation
 corener->corner, coroner,
 corerct->correct
 corerctly->correctly
@@ -18470,6 +18486,7 @@ coresponds->corresponds
 corfirms->confirms
 coridal->cordial
 coridors->corridors
+corispond->correspond
 cornmitted->committed
 corodinate->coordinate
 corodinates->coordinates
@@ -18480,6 +18497,7 @@ cororsion->corrosion
 corosbonding->corresponding
 corosion->corrosion
 corossplatform->cross platform
+corousel->carousel
 corparate->corporate
 corperations->corporations
 corporaate->corporate
@@ -18594,6 +18612,8 @@ correespondeent->correspondent
 correespondeents->correspondents
 correesponding->corresponding
 correesponds->corresponds
+correlasion->correlation
+correllate->correlate
 correllation->correlation
 correllations->correlations
 correnspond->correspond
@@ -18603,6 +18623,7 @@ corrensponds->corresponds
 corrent->correct
 corrent->correct, current,
 corrent->current
+correograph->choreograph
 correponding->corresponding
 correponds->corresponds
 correponsing->corresponding
@@ -18735,10 +18756,12 @@ corrupttible->corruptible
 corruupt->corrupt
 corruupted->corrupted
 corruuptible->corruptible
+corse->course
 corss platform->cross platform
 corupt->corrupt
 corupted->corrupted
 coruptible->corruptible
+corus->chorus
 coruse->course
 corwn->crown
 cosiine->cosine
@@ -25195,6 +25218,7 @@ dureing->during
 durig->during
 duriing->during
 duringg->during
+durining->during
 durinng->during
 durning->during
 durring->during
@@ -37115,6 +37139,7 @@ includdedd->included
 includde->include
 includdes->includes
 includding->including
+includea->include
 includeed->included
 includee->include
 includees->includes
@@ -38250,6 +38275,8 @@ inherentlly->inherently
 inherentlyy->inherently
 inherenttly->inherently
 inherentty->inherently
+inheret->inherit
+inherets->inherits
 inherilance->inheritance
 inheritaance->inheritance
 inheritablility->inheritability
@@ -39752,6 +39779,7 @@ intereference->interference
 intereferences->interferences
 interegnum->interregnum
 interelated->interrelated
+interelaved->interleaved
 interepreted->interpreted
 interept->intercept
 interesected->intersected
@@ -44971,6 +44999,7 @@ maxinum->maximum
 maxium->maximum
 maxiumum->maximum
 maxrmal->maximal
+maxumum->maximum
 maxximum->maximum
 mayabe->maybe
 maybae->maybe
@@ -50524,6 +50553,7 @@ operattion->operation
 operattions->operations
 operattor->operator
 operattors->operators
+opereation->operation
 operrands->operands
 operrate->operate
 operrates->operates
@@ -55170,6 +55200,8 @@ praactitioners->practitioners
 praagmaaticaally->pragmatically
 praairie->prairie
 praairies->prairies
+praameter->parameter
+praameters->parameters
 praccticcally->practically
 praccticcal->practical
 praccticce->practice
@@ -64817,6 +64849,7 @@ shotcut->shortcut
 shotcuts->shortcuts
 shotdown->shutdown
 shoucl->should
+shoudle->should
 shoudln->should
 shoudln-> shouldn't
 shoudln->shouldn't
@@ -65579,6 +65612,8 @@ skiping->skipping
 skippd->skipped
 skipp->skip, skipped,
 skipt->skip
+skipt->skip, skype, skipped,
+skipt->skip, skype, skipped,
 skkagerrakk->skagerrak
 skkating->skating
 skkeptical->skeptical
@@ -65593,6 +65628,8 @@ skripts->scripts
 skroll->scroll
 skrutiny->scrutiny
 skulptures->sculptures
+skyp->skip, skype,
+skyp->skip, skype,
 slaashes->slashes
 slaaughterhouses->slaughterhouses
 slabilily->stability
@@ -68027,6 +68064,7 @@ stoppaed->stopped
 stoppedd->stopped
 stoppeed->stopped
 stoppped->stopped
+stoppping->stopping
 stopppped->stopped
 stopps->stops
 stopp->stop
@@ -73315,7 +73353,9 @@ transmissiblae->transmissible
 transmissiblee->transmissible
 transmissiblle->transmissible
 transmissibte->transmissible
+transmissione->transmission
 transmissioon->transmission
+transmist->transmit
 transmited->transmitted
 transmiterd->transmitterd
 transmiters->transmitters
@@ -78752,6 +78792,7 @@ witdh->width
 witdrawal->withdrawal
 witdraw->withdraw
 witd->wild
+wite->write, white,
 witha->with a, with,
 withddrawal->withdrawal
 withddraw->withdraw
@@ -79217,6 +79258,7 @@ writttten->written
 wrods->words
 wrod->word
 wroet->wrote
+wrog->wrong
 wrokarounds->workarounds
 wrokaround->workaround
 wroked->worked
