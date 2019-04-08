@@ -30535,6 +30535,7 @@ filamennt->filament
 filamenth->filament
 filamentt->filament
 filamment->filament
+filedescriptor->file descriptor
 filed name->field name
 fileds->fields
 filee->file
