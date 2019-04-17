@@ -17996,6 +17996,7 @@ conveyyor->conveyor
 conviced->convinced
 convience->convince, convenience,
 convienence->convenience
+convienent->convenient
 convienience->convenience
 convienient->convenient
 convieniently->conveniently
@@ -33310,6 +33311,7 @@ gratuitoous->gratuitous
 gratuitouss->gratuitous
 gratuuitouus->gratuitous
 grawing->drawing
+grawity->gravity
 grayscalae->grayscale
 grayscalee->grayscale
 gray-scale->grayscale
@@ -43435,6 +43437,7 @@ literaeture->literature
 literallyy->literally
 literalss->literals
 literaly->literally
+literaterly->literately
 literatty->literally
 literatuure->literature
 literl->literal
