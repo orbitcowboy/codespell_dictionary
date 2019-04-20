@@ -55686,7 +55686,9 @@ preammble->preamble
 preample->preamble
 preaorocessing->preprocessing
 preapared->prepared
+preapred->prepared
 preapre->prepare
+preapres->prepares
 prebious->previous
 precceded->preceded
 preccedencce->precedence
@@ -78097,6 +78099,7 @@ vngeance->vengeance
 vnomous->venomous
 voif->void
 volatages->voltages
+volatage->volatage
 volatage->voltage
 volcaano->volcano
 volcaeno->volcano
