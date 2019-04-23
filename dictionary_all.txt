@@ -54812,6 +54812,7 @@ posseess->possess
 posseses->possesses
 possesing->possessing
 possesion->possession
+possesive->possessive
 possessedd->possessed
 possessess->possesses
 possessiing->possessing
