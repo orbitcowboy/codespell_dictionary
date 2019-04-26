@@ -30774,6 +30774,7 @@ finalizae->finalize
 finalizee->finalize
 finalizze->finalize
 finalle->finale, finally,
+finall->finally
 finallize->finalize
 finalllly->finally
 finallly->finally
