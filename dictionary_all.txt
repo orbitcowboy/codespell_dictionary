@@ -44388,7 +44388,6 @@ maco->macro
 maco-->macro
 macor->macro
 macors->macros
-macos->macros
 macpakge->package
 macroo->macro
 macroos->macros
