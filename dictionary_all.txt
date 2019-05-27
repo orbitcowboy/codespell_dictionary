@@ -24324,6 +24324,7 @@ directoory->directory
 directoory exists->directory exists
 directores->directories
 directoris->directories
+directort->directory
 directorty->directory
 directory exisits->directory exists
 directory exisst->directory exists
