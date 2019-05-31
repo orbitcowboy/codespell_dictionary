@@ -10573,7 +10573,6 @@ breaktrough->breakthrough
 breaktroughs->breakthroughs
 breaktthrough->breakthrough
 breaktthroughs->breakthroughs
-bre->be
 bre->be, brie,
 breeak->break
 breeakthrough->breakthrough
@@ -11720,8 +11719,11 @@ cancelles->cancels
 cancelling->canceling
 cancellllation->cancellation
 cancettation->cancellation
+cancl->cancel
+cancle->cancel
 cancled->canceled
 candadate->candidate
+candadates->candidates
 canddiddate->candidate
 canddiddates->candidates
 can de performed->can be performed
@@ -11739,8 +11741,11 @@ candidathes->candidates
 candidatte->candidate
 candidattes->candidates
 candidiate->candidate
+candidiates->candidates
 candiidate->candidate
 candiidates->candidates
+candinate->candidate
+candinates->candidates
 canditate->candidate
 canditates->candidates
 cange->change
@@ -15952,6 +15957,13 @@ complaiins->complains
 complaing->complaining
 complainns->complains
 complainss->complains
+complate->complete
+complated->completed
+complates->completes
+complating->completing
+complatly->completely
+complatness->completeness
+complats->completes
 complay->comply
 compleate->complete
 compleated->completed
@@ -26238,6 +26250,7 @@ duall->dual
 duat->dual
 dubios->dubious
 duble->double
+dublicade->duplicate
 dublicat->duplicate
 dublicated->duplicated
 dublicate->duplicate
@@ -28189,6 +28202,7 @@ ennvironnmenntally->environmentally
 ennvironnmennt->environment
 ennvironnmennts->environments
 enocded->encoded
+enogh->enough
 enoght->enough
 enoguh->enough
 enoormoous->enormous
@@ -28351,7 +28365,7 @@ entirelyy->entirely
 entires->entries
 entirety->entirely
 entirey->entirely
-entirity->entirely
+entirity->entirety
 entirly->entirely
 entirrely->entirely
 entist->enlist
@@ -31486,7 +31500,6 @@ ferttilitty->fertility
 fetaure->feature
 fetaures->features
 feture->feature
-fewd->feud, few,
 fewd->few, feud,
 fewg->few, fugue,
 fewsha->fuchsia
@@ -33208,6 +33221,10 @@ funcctionality->functionality
 funcction->function
 funcctioning->functioning
 funcctions->functions
+funchtional->functional
+funchtioned->functioned
+funchtion->function
+funchtions->functions
 funcional->functional
 funcion->function
 funcions->functions
@@ -37804,6 +37821,7 @@ immediaetely->immediately
 immediale->immediate
 immedialely->immediately
 immediantely->immediately
+immediated->immediate, immediately,
 immediated->immediately
 immediatelly->immediately
 immediatelyy->immediately
@@ -42201,6 +42219,7 @@ invidual->individual
 invidually->individually
 invisiable->invisible
 invisibile->invisible
+invisivble->invisible
 invlaid->invalid
 invlisible->invisible
 invloved->involved
@@ -46865,6 +46884,7 @@ mccccarthyist->mccarthyist
 mchanics->mechanics
 mcro->macro
 mcros->macros
+mcrosoft->microsoft
 mdification->modification
 mdifications->modifications
 mdified->modified
@@ -54071,6 +54091,7 @@ paramenets->parameters
 paramenters->parameters
 paramerers->parameters
 paramerters->parameters
+parameteras->parameters
 parametere->parameter
 parametere->parameter, parameters,
 parameterical->parametrical
@@ -67320,7 +67341,6 @@ shnneidermann->shneiderman
 shoftware->software
 shoild->should
 shold->should
-shold->should, hold,
 shold->should, hold, sold,
 shoopkeepers->shopkeepers
 shoortcuts->shortcuts
@@ -72115,6 +72135,7 @@ suggestionns->suggestions
 suggestionn->suggestion
 suggestioons->suggestions
 suggestioon->suggestion
+suggestsed->suggested
 suggestted->suggested
 suggestting->suggesting
 suggesttions->suggestions
@@ -73463,6 +73484,9 @@ syystem->system
 szenario->scenario
 szenarios->scenarios
 szes->sizes
+szied->sized
+szie->size
+szies->sizes
 taable->table
 taakes->takes
 taake->take
@@ -74838,7 +74862,6 @@ thorrough->thorough
 thorughout->throughout
 thorugh->through
 thorugh->through, thorough,
-thorwn->thrown
 thorwn->thrown, thorn,
 thosae->those
 thosee->those
@@ -75077,7 +75100,6 @@ thuus->thus
 thweak->tweak
 thwelfthh->twelfth
 thwo->two
-thw->the
 thw->the, thaw,
 thyat->that
 thypeahead->typeahead
