@@ -22212,6 +22212,7 @@ delecl->detect
 delecled->detected
 delecls->detects
 delect->deselect
+delection->detection, deletion,
 deleet ->delete
 delegaates->delegates
 delegaetes->delegates
@@ -43335,6 +43336,8 @@ knowiing->knowing
 knowingg->knowing
 knowlaedgaeablae->knowledgeable
 knowlaedgae->knowledge
+knowlageable->knowledgeable
+knowlage->knowledge
 knowleddgeable->knowledgeable
 knowleddge->knowledge
 knowledegable->knowledgeable
@@ -43351,6 +43354,7 @@ knowledgue->knowledge
 knowleedgeeablee->knowledgeable
 knowleedgee->knowledge
 knowlegde->knowledge
+knowlegeabel->knowledgeable
 knowlegeable->knowledgeable
 knowlege->knowledge
 knowlledgeablle->knowledgeable
@@ -46697,6 +46701,8 @@ matcing->matching
 matc->match
 matcotm->malcolm
 mateerialist->materialist
+mateial->material, metal,
+mateials->materials, metals,
 mateiral->material
 mateirals->materials
 matemathical->mathematical
@@ -76138,11 +76144,13 @@ transformaed->transformed
 transformated->transformed
 transformatiion->transformation
 transformaton->transformation
+transformatted->transformed
 transformedd->transformed
 transformeed->transformed
 transformmation->transformation
 transformmed->transformed
 transformm->transform
+transfromate->transform, transformed,
 transfromations->transformations
 transfromation->transformation
 transfromed->transformed
@@ -79746,6 +79754,7 @@ vairable->variable
 vairous->various
 vakuum->vacuum
 valagrind->valgrind
+valailable->available
 valdiated->validated
 valdiates->validates
 valdiate->validate
@@ -81983,6 +81992,7 @@ with with->with
 witihn->within
 witing->writing
 witin->within
+witk->with
 witn->with
 wit one->with one
 witout->without
