@@ -7715,7 +7715,9 @@ asyynchronous->asynchronous
 asyynchronouslyy->asynchronously
 atach->attach
 atached->attached
+ataching->attaching
 atachment->attachment
+atachments->attachments
 a taest->a test
 atain->attain
 atainder->attainder
@@ -10578,6 +10580,7 @@ breeak->break
 breeakthrough->breakthrough
 breeakthroughs->breakthroughs
 breef->brief, beef,
+breefly->briefly
 breethreen->brethren
 breevity->brevity
 brehtren->brethren
@@ -18593,6 +18596,9 @@ conviniently->conveniently
 convnience->convenience
 convnient->convenient
 convntional->conventional
+convovle->convolve
+convovled->convolved
+convovling->convolving
 convrsation->conversation
 convrsion->conversion
 convrt->convert
@@ -23010,6 +23016,7 @@ desine->design
 desing->design
 desinged->designed
 desinger->designer
+desinging->designing
 desintegrated->disintegrated
 desintegration->disintegration
 desipite->despite
@@ -32335,8 +32342,13 @@ fomalhautt->fomalhaut
 fomalhauut->fomalhaut
 fomalhhaut->fomalhaut
 fomallhaut->fomalhaut
+fomated->formatted
+fomates->formats
 fomat->format
 fomathaut->fomalhaut
+fomating->formatting
+fomats->formats
+fomatted->formatted
 fomed->formed
 fom->from
 fommalhaut->fomalhaut
@@ -37739,15 +37751,18 @@ imigrant->emigrant
 imigrant->emigrant, immigrant
 imigrant->emigrant, immigrant,
 imigrant->immigrant
+imigrant->immigrant, emigrant,
 imigrants->immigrants
 imigrated->emigrated
 imigrated->emigrated, immigrated
 imigrated->emigrated, immigrated,
 imigrated->immigrated
+imigrated->immigrated, emigrated,
 imigration->emigration
 imigration->emigration, immigration
 imigration->emigration, immigration,
 imigration->immigration
+imigration->immigration, emigration,
 imilaled->imitated
 imilale->imitate
 imilaling->imitating
@@ -37759,6 +37774,7 @@ iminent->eminent, imminent, immanent
 iminent->eminent, imminent, immanent,
 iminent->immanent
 iminent->imminent
+iminent->imminent, immanent, eminent,
 imitaated->imitated
 imitaate->imitate
 imitaating->imitating
@@ -37788,8 +37804,17 @@ imittatte->imitate
 imittatting->imitating
 imittattor->imitator
 imlementation->implementation
+imlemented->implemented
+imlement->implement
+imlementing->implementing
+imlements->implements
 imlicit->implicit
 imlicitly->implicitly
+imlimentation->implementation
+imlimented->implemented
+imliment->implement
+imlimenting->implementing
+imliments->implements
 immaanent->immanent
 immadiate->immediate
 immadiately->immediately
@@ -50544,6 +50569,9 @@ nieke->niece
 niether->neither
 nigghtfall->nightfall
 nigghttime->nighttime
+nighborhood->neighborhood
+nighboring->neighboring
+nighbor->neighbor
 nighhtfall->nightfall
 nighhttime->nighttime
 nighlfall->nightfall
@@ -77153,6 +77181,8 @@ tutoriaal->tutorial
 tutoriael->tutorial
 tutoriall->tutorial
 tutoriat->tutorial
+tutoriels->tutorials
+tutoriel->tutorial
 tutoriial->tutorial
 tutorrial->tutorial
 tutroial->tutorial
@@ -77395,6 +77425,12 @@ ulilily->utility
 ulilized->utilized
 ullimalely->ultimately
 ulltimatelly->ultimately
+ulter->alter
+ulteration->alteration
+ulterations->alterations
+ultered->altered
+ultering->altering
+ulters->alters
 ulthimathely->ultimately
 ultiimately->ultimately
 ultility->utility
@@ -77516,6 +77552,7 @@ unavailablee->unavailable
 unavailible->unavailable
 unavaillablle->unavailable
 unavaitabte->unavailable
+unavaliable->unavailable
 unavaoidable->unavoidable
 unaveailable->unavailable
 unavilable->unavailable
@@ -78916,6 +78953,7 @@ unsed->used, unused, unsaid
 unselect->deselect
 unsellectected->unselected
 unsepcified->unspecified
+unser->under, unset, user,
 unsettin->unsetting
 unsharable->unshareable
 unsiged->unsigned
