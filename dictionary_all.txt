@@ -1883,6 +1883,7 @@ activataed->activated
 activatedd->activated
 activatee->activate
 activateed->activated
+activatied->activated
 activationg->activating
 activeate->activate
 activeated->activated
@@ -29067,6 +29068,7 @@ equivilant->equivalent
 equivilent->equivalent
 equivivalent->equivalent
 equivlalent->equivalent
+equivlent->equivalent
 equivqlent->equivalent
 equivvalence->equivalence
 equivvalent->equivalent
@@ -49036,6 +49038,7 @@ mmyself->myself
 mmysterious->mysterious
 mmystery->mystery
 mmystical->mystical
+mnaged->manged
 moccing->mocking
 moccking->mocking
 moching->mocking
@@ -75725,6 +75728,7 @@ tjpanishad->upanishad
 tkaes->takes
 tkae->take
 tkaing->taking
+tkes->takes
 tlaking->talking
 to aallocaate->to allocate
 to aellocaete->to allocate
