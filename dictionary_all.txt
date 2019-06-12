@@ -46994,6 +46994,7 @@ marrtyred->martyred
 marrtyrred->martyred
 marryied->married
 martch->march
+marter->martyr
 marthin->martin
 marthyred->martyred
 martiin->martin
@@ -47006,14 +47007,20 @@ martyreed->martyred
 martyyred->martyred
 masachusetts->massachusetts
 masaer->maser
+masakist->masochist
 maschine->machine
 maschines->machines
 maseer->maser
 maserr->maser
+mashetty->machete
 mashine->machine
 mashines->machines
+masia->messiah
+masicer->massacre
+masiff->massif
 masiturbation->masturbation
 maskerading->masquerading
+maskeraid->masquerade
 maslurbalion->masturbation
 mas media->mass media
 masos->macos
@@ -47036,7 +47043,9 @@ massachussetts->massachusetts
 massachussetts->massachusetts
 massachuusetts->massachusetts
 massakhusetts->massachusetts
+massectomy->mastectomy
 masser->maser
+massewer->masseur
 mass maedia->mass media
 mass meddia->mass media
 massmedia->mass media
@@ -67715,6 +67724,7 @@ shhriek->shriek
 shhrunken->shrunken
 shhrunk->shrunk
 shiaeld->shield
+shicane->chicane
 shieeld->shield
 shieldd->shield
 shielld->shield
@@ -67750,6 +67760,7 @@ shneiiderman->shneiderman
 shnneidermann->shneiderman
 shoftware->software
 shoild->should
+sholder->shoulder
 shold->should
 shold->should, hold, sold,
 shoopkeepers->shopkeepers
@@ -67824,6 +67835,7 @@ shoudln->should, shouldn\"t
 shoudln't->shouldn't
 shoudlnt->shouldn't
 shoudl->should
+shoudn->shouldn
 shoudn't->shouldn't
 shoud->should
 shoudt->should, shouldn't,
@@ -67907,9 +67919,11 @@ shouuldn't->shouldn't
 shouuld->should
 shouw->show
 shouws->shows
+showfer->chauffeur, shower,
 showhed->showed
 showh->show
 showhs->shows
+showvinism->chauvinism
 showw->show
 shpae->shape
 shpaes->shapes
@@ -67956,6 +67970,7 @@ shystems->systems
 siaegae->siege
 sibiling->sibling
 sice->since
+sicinctly->succinctly
 sicne->since
 sidaeraeal->sidereal
 siddereal->sidereal
@@ -67968,6 +67983,7 @@ sidereael->sidereal
 sidereall->sidereal
 sidereat->sidereal
 siderreal->sidereal
+siduction->seduction
 sieegee->siege
 siegge->siege
 siegue->siege
@@ -69049,6 +69065,7 @@ solublae->soluble
 solublee->soluble
 solulion->solution
 solulions->solutions
+solum->solemn
 soluthion->solution
 soluthions->solutions
 solutiion->solution
@@ -69164,13 +69181,16 @@ somwhere->somewhere
 somwho->somehow
 somwhow->somehow
 sonething->something
+sooaside->suicide
 soocialism->socialism
 soocieties->societies
+soodonim->pseudonym
 sooftlink->softlink
 sooftware prooject->software project
 sooftware->software
 sooftware tooools->software tools
 sooil->soil
+sooit->suet, suit,
 sooldiers->soldiers
 soold->sold
 soolely->solely
@@ -69192,6 +69212,7 @@ soometimes->sometimes
 soomewhere->somewhere
 soophisticated->sophisticated
 soophoomoore->sophomore
+soop->soup, scoop, snoop,
 soorcerer->sorcerer
 soorry->sorry
 soorted->sorted
@@ -69245,6 +69266,7 @@ sorceereer->sorcerer
 sorceror->sorcerer
 sorce->source
 sorces->sources
+sord->sword, sore, sored, sawed,
 sorkerer->sorcerer
 sorl of->sort of
 sor of->sort of
@@ -69467,6 +69489,7 @@ soviiets->soviets
 soving->solving
 sovreign->sovereign
 sovreignty->sovereignty
+sovren->sovereign
 sovvereign->sovereign
 sovvereignty->sovereignty
 sovviets->soviets
@@ -69516,6 +69539,7 @@ spaelling->spelling
 spaell->spell
 spaenish->spanish
 spaermatozoon->spermatozoon
+spageti->spaghetti
 spagetti->spaghetti
 spagghetti->spaghetti
 spaghaetti->spaghetti
@@ -69528,6 +69552,7 @@ spaghetli->spaghetti
 spaghettii->spaghetti
 spaghetttti->spaghetti
 spaghhetti->spaghetti
+spagnum->sphagnum
 spainish->spanish
 spainish->spanish
 spakious->spacious
@@ -69744,6 +69769,7 @@ speciyfing->specifying
 speciyfying->specifying
 speciying->specifying
 speciy->specify
+specktor->specter, spectre,
 speclacular->spectacular
 speclaculars->spectaculars
 speclrum->spectrum
@@ -69892,6 +69918,7 @@ spermatozzoon->spermatozoon
 spermattozoon->spermatozoon
 spermmatozoon->spermatozoon
 sperrmatozoon->spermatozoon
+speshal->special
 spesify->specify
 spetting->spelling
 spett->spell
@@ -69914,6 +69941,7 @@ spheriically->spherically
 spherikally->spherically
 spherrically->spherically
 sphherically->spherically
+spicific->specific
 spiiriitual->spiritual
 spiittiing->spitting
 spilting->spitting
@@ -69996,6 +70024,7 @@ spoonsoored->sponsored
 spoonsoor->sponsor
 spoontaneoous->spontaneous
 spoooonfuls->spoonfuls
+sporatic->sporadic
 sporious->spurious
 spose->suppose
 sppace->space
@@ -70116,6 +70145,8 @@ squence->sequence
 squencial->sequential
 squiirrelled->squirrelled
 squirelled->squirrelled
+squirel->squirrel
+squirl->squirrel
 squirraellaed->squirrelled
 squirreelleed->squirrelled
 squirreled->squirrelled
