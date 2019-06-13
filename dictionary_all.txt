@@ -38055,6 +38055,7 @@ imbalannced->imbalanced
 imbalannce->imbalance
 imballanced->imbalanced
 imballance->imbalance
+imbaress->embarrass
 imbatanced->imbalanced
 imbatance->imbalance
 imbbalanced->imbalanced
@@ -38062,6 +38063,7 @@ imbbalance->imbalance
 imbedded->embedded
 imbedding->embedding
 imbed->embed
+imbrase->embrace
 imcoming->incoming
 imcomming->incoming
 imcomplete->incomplete
@@ -38072,6 +38074,7 @@ imediatelly->immediately
 imediately->immediately
 imediatly->immediately
 imense->immense
+imfamus->infamous
 i m->i am
 im->i am
 imidiately->immediately
@@ -38086,6 +38089,7 @@ imigrated->emigrated, immigrated
 imigrated->emigrated, immigrated,
 imigrated->immigrated
 imigrated->immigrated, emigrated,
+imigrate->immigrate, emigrate,
 imigration->emigration
 imigration->emigration, immigration
 imigration->emigration, immigration,
@@ -38197,6 +38201,7 @@ immeediateely->immediately
 immeensee->immense
 immeidate->immediate
 immeidately->immediately
+immenantly->eminently
 immennse->immense
 immensse->immense
 immidately->immediately
@@ -38245,6 +38250,7 @@ immigrrated->immigrated
 immigrration->immigration
 i'mm->i'm
 imminaent->imminent
+imminant->imminent
 immineent->imminent
 imminenl->imminent
 imminenth->imminent
@@ -38357,6 +38363,7 @@ impedence->impedance
 impeeach->impeach
 impeeccably->impeccably
 impeedancee->impedance
+impeed->impede
 impeerial->imperial
 impekkably->impeccably
 impelementation->implementation
@@ -38552,6 +38559,7 @@ implenting->implementing
 implentors->implementers
 implents->implements
 implermentation->implementation
+impletment->implement
 impliccit->implicit
 impliccitly->implicitly
 implicil->implicit
@@ -38561,6 +38569,7 @@ implicite->implicit, implicitly,
 implicitely->implicitly
 implicith->implicit
 implicithly->implicitly
+implicitley->implicitly
 implicitlyy->implicitly
 implicitt->implicit
 implicittly->implicitly
@@ -41024,6 +41033,7 @@ inpterpreter->interpreter
 inpu->input
 inpul->input
 inpust->input, inputs,
+inputed->imputed, inputted,
 inputh->input
 inputsream->inputstream
 inputted->input
@@ -57987,6 +57997,7 @@ preciou->precious
 preciselly->precisely
 preciselyy->precisely
 precisety->precisely
+precisily->precisely
 precisionn->precision
 precisioon->precision
 precisise->precise
@@ -62712,6 +62723,7 @@ refererd->referred
 refere->refer, referee,
 refererence->reference
 referer->referrer
+referer->referrer, disabled as in http 1.0 spec
 referers->referrer, referrers,
 referes->refers
 referes->refers, referees,
