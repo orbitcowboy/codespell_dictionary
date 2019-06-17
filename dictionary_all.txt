@@ -42688,6 +42688,9 @@ ip-adress->ip-address
 ipadress->ip-address
 ipadress->ipaddress
 iplementation->implementation
+ipmroved->improved
+ipmrove->improve
+ipmroves->improves
 iput->input
 iput->input, put,
 iraascible->irascible
@@ -57106,6 +57109,7 @@ possitivess->positives
 possobily->possibly
 possoble->possible
 possobly->possibly
+possses->possess
 posssibility->possibility
 posssible->possible
 possssessssed->possessed
