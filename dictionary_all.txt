@@ -10139,6 +10139,7 @@ bestiatity->bestiality
 bestiialiity->bestiality
 be sttartted->be started
 besttialitty->bestiality
+besure->be sure
 beteaguered->beleaguered
 beteeen->between
 beteen->between
@@ -10444,6 +10445,7 @@ boddybuildder->bodybuilder
 boder->border
 boders->borders
 bodgy->body
+bodgy->body, disabled because one might want to allow informal spelling
 bodybuiilder->bodybuilder
 bodybuildaer->bodybuilder
 bodybuildeer->bodybuilder
@@ -31782,6 +31784,8 @@ feeeedback->feedback
 feeeel->feel
 feeeel freeee->feel free
 feeeels->feels
+feek->feel
+feeks->feels
 feel frree->feel free
 feell->feel
 feell free->feel free
@@ -48448,6 +48452,7 @@ mirco->micro
 mirconesia->micronesia
 mircorcontorller->mircrocontroller
 mircosoft->microsoft
+mircosoft->microsoft
 mircroconlroller->mircrocontroller
 mircroconntroller->mircrocontroller
 mircroconthroller->mircrocontroller
@@ -57918,6 +57923,10 @@ prcess->process
 preaamble->preamble
 preaemble->preamble
 preallocationg->preallocating
+prealocated->preallocated
+prealocate->preallocate
+prealocates->preallocates
+prealocating->preallocating
 preambble->preamble
 preamblle->preamble
 preambte->preamble
@@ -68421,6 +68430,7 @@ singgle->single
 singgsongg->singsong
 singificand->significand, significant,
 singlae->single
+singlar->singular
 singlee->single
 single-threded->single-threaded
 singlle->single
@@ -69197,6 +69207,11 @@ somwhere->somewhere
 somwho->somehow
 somwhow->somehow
 sonething->something
+songlar->singular
+songled->singled, dongled,
+songle->single, dongle,
+songles->singles, dongles,
+songling->singling, dongling,
 sooaside->suicide
 soocialism->socialism
 soocieties->societies
