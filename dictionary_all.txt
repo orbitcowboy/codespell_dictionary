@@ -8659,6 +8659,12 @@ autocthhonous->autochthonous
 autoctonous->autochthonous
 auto-dependancies->auto-dependencies
 auto-destrcut->auto-destruct
+auto-detet->auto-detect, auto-delete,
+auto-deteted->auto-detected, auto-deleted,
+auto-detetes->auto-deletes, auto-detects,
+auto-deteting->auto-detecting, auto-deleting,
+auto-detetion->auto-detection, auto-deletion,
+auto-detets->auto-detects, auto-deletes,
 autofilt->autofilter
 autofomat->autoformat
 autoformating->autoformatting
@@ -10599,6 +10605,7 @@ bottomm->bottom
 botton->bottom
 botton->bottom, button,
 bottons->bottoms
+bottons->bottoms, buttons,
 bottteneck->bottleneck
 botttom->bottom
 bottttleneck->bottleneck
@@ -11085,6 +11092,8 @@ built-time->build-time
 buipd->build
 buisness->business
 buisnessman->businessman
+buissiness->business
+buissinesses->businesses
 buit->built
 buitd->build
 buitding->building
@@ -13540,6 +13549,8 @@ chack->check, chalk,
 chaeat->cheat
 chaeckaed->checked
 chaeck->check
+chaecked->checked
+chaecker->checker
 chaecking->checking
 chaeckout->checkout
 chaecks->checks
@@ -23726,12 +23737,18 @@ deterrmining->determining
 deterrministically->deterministically
 deterrministic->deterministic
 detet->detect
+detet->detect, delete,
 deteted->deleted
 deteted->detected
+deteted->detected, deleted,
 detete->delete
+detetes->deletes, detects,
 deteting->deleting
+deteting->detecting, deleting,
 detetion->detection
+detetion->detection, deletion,
 detetmine->determine
+detets->detects, deletes,
 dethached->detached
 dethailed->detailed
 dethailedness->detailedness
@@ -24746,6 +24763,8 @@ direccion->direction
 direcctly->directly
 direcctory->directory
 direcctory exists->directory exists
+direcctorys->directories
+direcctries->directories
 direclly->directly
 direclory->directory
 direclory exisls->directory exists
@@ -30384,6 +30403,7 @@ exising->existing
 exisited->existed
 exisitence->existence
 exisitent->existent
+exisit->exist
 exisiting->existing
 exisitng->existing
 exisits->exists
@@ -35473,6 +35493,9 @@ hande->handle
 handeing->handing
 handeld->handled, handheld,
 handeled->handled, handheld,
+handeler->handler
+handeles->handles
+handel->handle
 handeling->handling
 handels->handles
 hander->handler
@@ -40146,6 +40169,7 @@ informaion->information
 informaiton->information
 informalion->information
 informatation->information
+informatations->information
 informathion->information
 informatikon->information
 informatin->information
@@ -43117,6 +43141,7 @@ it supporst->it supports
 it supppports->it supports
 it supprots->it supports
 it suupports->it supports
+ittached->attached
 itt can sttill->it can still
 ittegal->illegal
 ittegat->illegal
@@ -67046,6 +67071,9 @@ seleccted->selected
 selecct->select
 seleced->selected
 selecetd->selected
+selecgted->selected
+selecgting->selecting
+selecgt->select
 selecing->selecting
 selecled->selected
 selecl->select
@@ -79410,6 +79438,15 @@ unsed->unused
 unsed->unused, used
 unsed->unused, used,
 unsed->used, unused, unsaid
+unselcted->unselected
+unselctes->unselects
+unselcting->unselecting
+unselcts->unselects
+unselecgted->unselected
+unselecgtes->unselects
+unselecgting->unselecting
+unselecgts->unselects
+unselecgt->unselect
 unselect->deselect
 unsellectected->unselected
 unsepcified->unspecified
@@ -82638,6 +82675,8 @@ workarrounds->workarounds
 workarround->workaround
 workarund->workaround
 workbanch->workbench
+workbennches->workbenches
+workbennch->workbench
 workboos->workbooks
 workedd->worked
 workeed->worked
