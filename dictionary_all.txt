@@ -5912,6 +5912,7 @@ aplied->applied
 aplies->applies
 apllicatin->application
 apllication->application
+apllications->applications
 apllied->applied
 apllies->applies
 aplly->apply
@@ -15552,6 +15553,7 @@ commmunication->communication
 commmunity->community
 commna->comma
 commnad->command
+commnaded->commanded
 commnad-line->command-line
 commnadline->commandline
 commnads->commands
@@ -21101,6 +21103,7 @@ dangglingg->dangling
 dangliing->dangling
 danglling->dangling
 dangting->dangling
+danial->daniel
 dannglinng->dangling
 daplicating->duplicating
 dara->data
