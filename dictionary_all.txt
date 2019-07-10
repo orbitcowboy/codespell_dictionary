@@ -1177,6 +1177,8 @@ accnowledging->acknowledging
 accocate->allocate
 accoding->according
 accodingly->accordingly
+accoird->accord
+accoirding->according
 a ccollecction->a collection
 accomadate->accommodate
 accomadated->accommodated
@@ -5386,6 +5388,10 @@ annalyze->analyze
 annalyzer->analyzer
 annalyzes->analyzes
 annarchism->anarchism
+annay->annoy, any,
+annayed->annoyed
+annaying->annoying
+annays->annoys, any,
 anncestor->ancestor
 anncestors->ancestors
 anncestral->ancestral
@@ -7850,6 +7856,7 @@ as wwell->as well
 asychronous->asynchronous
 asychronously->asynchronously
 asycronous->asynchronous
+asymetri->assymetry
 asymetrical->asymmetrical
 asymetricaly->asymmetrically
 asymetric->asymmetric
@@ -14130,6 +14137,7 @@ choosee->choose
 choosen->chosen
 choosse->choose
 chopipng->chopping
+chopy->choppy, chop,
 chosae->chose
 chosaen->chosen
 chosaes->choses
@@ -14469,6 +14477,8 @@ clearifies->clarifies
 clearify->clarify
 clearifying->clarifying
 clearlyy->clearly
+clearnance->clearance
+clearnances->clearances
 clearrance->clearance
 clearr->clear
 clearrerr->clearer
@@ -16186,6 +16196,7 @@ complate->complete
 complated->completed
 complates->completes
 complating->completing
+complation->compilation, completion,
 complatly->completely
 complatness->completeness
 complats->completes
@@ -18082,6 +18093,7 @@ constrainst->constraints
 constraintes->constraints
 constrait->constraint
 constraits->constraints
+constrans->constrains
 constrant->constraint
 constrants->constraints
 constrast->contrast
@@ -19406,6 +19418,7 @@ coporations->cooperations
 coppied->copied
 coppyable->copyable
 coppy->copy
+coppy->copy, choppy,
 coppying->copying
 coppyright->copyright
 copright->copyright
@@ -19785,6 +19798,10 @@ cosinae->cosine
 cosinee->cosine
 cosinne->cosine
 cosinus->cosine
+cosntrain->constrain
+cosntrains->constrains, constraints,
+cosntraint->constraint
+cosntraints->constraints
 cosntructed->constructed
 cosntructor->constructor
 cossine->cosine
@@ -30524,6 +30541,8 @@ exmplained->explained
 exmple->example
 exmport->export
 exntry->entry
+exolicit->explicit
+exolicitly->explicitly
 exoneraate->exonerate
 exoneraete->exonerate
 exonerale->exonerate
@@ -30666,6 +30685,11 @@ experession's->expression's
 experessions->expressions
 experianced->experienced
 experiance->experience
+experiances->experiences
+experiancial->experiential
+experiancing->experiencing
+experiansial->experiential
+experiantial->experiential
 experiement->experiment
 experiencced->experienced
 experiencce->experience
@@ -30675,6 +30699,8 @@ experienked->experienced
 experienke->experience
 experiennced->experienced
 experiennce->experience
+experienshial->experiential
+experiensial->experiential
 experiienced->experienced
 experiience->experience
 experiimental->experimental
@@ -31542,6 +31568,8 @@ faills->fails
 faillure->failure
 faillures->failures
 failre->failure
+failsave->fail-safe, failsafe,
+failsaves->fail-safes, failsafes,
 failss->fails
 failt->fail, failed,
 failture->failure
@@ -33332,6 +33360,10 @@ freqeuncy->frequency
 freqquency->frequency
 freqquent->frequent
 freqquently->frequently
+frequancies->frequencies
+frequancy->frequency
+frequant->frequent
+frequantly->frequently
 frequecny->frequency
 frequenccy->frequency
 frequence->frequency
@@ -38358,6 +38390,8 @@ imninent->imminent
 imnocence->innocence
 imnumerable->innumerable
 imnunosuppressant->immunosuppressant
+imolicit->implicit
+imolicitly->implicitly
 imortant->important
 impaeach->impeach
 impaeccably->impeccably
@@ -40216,6 +40250,15 @@ infrasttructture->infrastructure
 infrasttructtures->infrastructures
 infratsructure->infrastructure
 infratsructures->infrastructures
+infreqency->infrequency
+infreqentcy->infrequency
+infreqeuncy->infrequency
+infreqeuntcy->infrequency
+infrequancies->infrequencies
+infrequancy->infrequency
+infrequantcies->infrequencies
+infrequantcy->infrequency
+infrequentcies->infrequencies
 infrigement->infringement
 infringaemaent->infringement
 infringeemeent->infringement
@@ -41063,6 +41106,7 @@ inpsection->inspection
 inpterpreter->interpreter
 inpu->input
 inpul->input
+inpus->inputs
 inpust->input, inputs,
 inputed->imputed, inputted,
 inputh->input
@@ -43577,6 +43621,8 @@ kertifikate->certificate
 kertifikates->certificates
 kertifikation->certification
 kervikal->cervical
+kewword->keyword
+kewwords->keywords
 keybaord->keyboard
 keybboard->keyboard
 keyboaard->keyboard
@@ -47334,7 +47380,12 @@ meaasured->measured
 meaasure->measure
 meaasurement->measurement
 meachanism->mechanism
+meachanisms->mechanisms
+meachinism->mechanism
+meachinisms->mechanisms
+meachnism->mechanism
 meachnisms->mechanism
+meachnisms->mechanisms
 meading->meaning
 meaening->meaning
 meaens->means
@@ -47433,6 +47484,7 @@ mechhanics->mechanics
 mechhanism->mechanism
 mechine->machine
 mechines->machines
+mechinism->mechanism
 mechnanism->mechanism
 mechnism->mechanism
 mechnisms->mechanisms
@@ -53563,6 +53615,9 @@ oscillatro->oscillator
 oscillattor->oscillator
 oscillllator->oscillator
 oscittator->oscillator
+osffset->offset
+osffsets->offsets
+osffsetting->offsetting
 osicllations->oscillations
 oskillator->oscillator
 osscillator->oscillator
@@ -54888,6 +54943,7 @@ passsserssby->passersby
 passssing->passing
 passssphrasse->passphrase
 passssword->password
+passthrought->passthrough
 pass-thru->pass-through, pass through, passthrough,
 passtime->pastime
 passtime->pasttime
@@ -59780,7 +59836,10 @@ properities->properties
 properlies->properties
 properlly->properly
 properlyy->properly
+properries->properties
 properrt->property
+properry->property, properly,
+properrys->properties
 properteis->properties
 propertery->property
 properthies->properties
@@ -61467,6 +61526,7 @@ readapted->re-adapted
 readble->readable
 readby->read, read by,
 readdability->readability
+readded->re-added
 readded->readded, read,
 readdme->readme
 readdmission->readmission
@@ -73618,6 +73678,7 @@ symemetric->symmetric
 symetrically->symmetrically
 symetrical->symmetrical
 symetric->symmetric
+symetri->symmetry
 symetry->symmetry
 symettric->symmetric
 symmaetrically->symmetrically
@@ -73660,6 +73721,7 @@ symmetriic->symmetric
 symmetrikally->symmetrically
 symmetrikal->symmetrical
 symmetrik->symmetric
+symmetri->symmetry
 symmetrrically->symmetrically
 symmetrrical->symmetrical
 symmetrric->symmetric
@@ -74773,6 +74835,8 @@ testin->testing
 testof->test of
 testomony->testimony
 tests's->test's
+testuites->testsuites
+testuite->testsuite
 tetephony->telephony
 tetetype->teletype
 tetevision->television
@@ -78681,6 +78745,10 @@ unidentifiedly->unidentified
 unidimensionnal->unidimensional
 unifiy->unify
 uniformely->uniformly
+unifromed->uniformed
+unifromity->uniformity
+unifroms->uniforms
+unifrom->uniform
 unihabited->uninhabited
 uniilaterally->unilaterally
 uniilateral->unilateral
@@ -78725,6 +78793,11 @@ unil lesls->unit tests
 unimpemented->unimplemented
 unimplemeneted->unimplemented
 unimplimented->unimplemented
+uninfromed->uninformed, uniformed,
+uninfromes->uninforms, uniforms,
+uninfroming->uninforming, uniforming,
+uninfroms->uninforms, uniforms,
+uninfrom->uninform, uniform,
 uninhaabited->uninhabited
 uninhabbited->uninhabited
 uninhabiled->uninhabited
@@ -79489,6 +79562,13 @@ unstablee->unstable
 unstablle->unstable
 unstabte->unstable
 unstaeble->unstable
+unstallation->installation, uninstallation,
+unstalled->installed, uninstalled,
+unstaller->installer, uninstaller,
+unstalles->installs, uninstalls,
+unstalling->installing, uninstalling,
+unstall->install, uninstall,
+unstalls->installs, uninstalls,
 unsthable->unstable
 unsttable->unstable
 unsual->unusual
@@ -80476,6 +80556,11 @@ variuable->variable
 variuos->various
 variuous->various
 varius->various
+varned->warned
+varnings->warnings
+varning->warning
+varns->warns
+varn->warn
 varoius->various
 varriables->variables
 varriable->variable
@@ -80789,8 +80874,10 @@ verificatioon->verification
 verificattion->verification
 verificcation->verification
 verifiedd->verified
+verifie->verify, verified,
 verifikation->verification
 verifing->verifying
+verifi->verify, verified,
 verifiy->verify
 veriftying->verifying
 verifty->verify
@@ -80919,6 +81006,9 @@ vertiical->vertical
 vertiices->vertices
 vertikal->vertical
 vertikes->vertices
+vertixes->vertices
+vertixs->vertices
+vertix->vertex
 verttical->vertical
 verttices->vertices
 veryfieng->verifying
@@ -81390,11 +81480,17 @@ vry->very
 vulerabilities->vulnerabilities
 vulerability->vulnerability
 vulerable->vulnerable
+vulerabuilities->vulnerabilities
+vulerabuility->vulnerability
+vulerabule->vulnerable
 vullnerabillity->vulnerability
 vulnaerability->vulnerability
 vulnearable->vulnerable
+vulnearabule->vulnerable
 vulnearbilities->vulnerabilities
 vulnearbility->vulnerability
+vulnearbuilities->vulnerabilities
+vulnearbuility->vulnerability
 vulneerability->vulnerability
 vulneraability->vulnerability
 vulnerabbility->vulnerability
@@ -81414,9 +81510,25 @@ vulnerabillity->vulnerability
 vulnerabilties->vulnerabilities
 vulnerabilty->vulnerability
 vulnerablility->vulnerability
+vulnerabuilility->vulnerability
+vulnerabuilites->vulnerabilities
+vulnerabuilities->vulnerabilities
+vulnerabuilitie->vulnerability
+vulnerabuilitis->vulnerabilities
+vulnerabuiliti->vulnerability
+vulnerabuilitiy->vulnerability
+vulnerabuility->vulnerability
+vulnerabuillities->vulnerabilities
+vulnerabuillity->vulnerability
+vulnerabuilties->vulnerabilities
+vulnerabuilty->vulnerability
+vulnerabule->vulnerable
+vulnerabulility->vulnerability
 vulneraebility->vulnerability
 vulnerbilities->vulnerabilities
 vulnerbility->vulnerability
+vulnerbuilities->vulnerabilities
+vulnerbuility->vulnerability
 vulnerrability->vulnerability
 vulnnerability->vulnerability
 vutnerabitity->vulnerability
@@ -82199,6 +82311,8 @@ whre->where
 whta->what
 whther->whether
 wht->what
+whythout->without
+whyth->with
 wiaeldaed->wielded
 wiaeld->wield
 wiat->wait
@@ -82549,6 +82663,9 @@ witt observe->will observe
 witt->will
 wit->wit, with,
 wiull->will
+wiyhout->without
+wiyh->with
+wiyth->with
 wizaard->wizard
 wizaerd->wizard
 wizardd->wizard
@@ -83141,6 +83258,8 @@ wysiiwyg->wysiwyg
 wysiwig->wysiwyg
 wysiwygg->wysiwyg
 wyssiwyg->wysiwyg
+wythout->without
+wyth->with
 wyysiwyyg->wysiwyg
 xaenophobia->xenophobia
 xdescribe->describe
