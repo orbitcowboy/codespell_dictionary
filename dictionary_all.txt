@@ -1846,6 +1846,7 @@ acquuisition->acquisition
 acquuitted->acquitted
 acrage->acreage
 acreditation->accreditation
+acrobate->acrobat
 acrooss->across
 acros->across
 acrossss->across
@@ -7545,6 +7546,7 @@ assiming->assuming
 a ssimple->a simple
 assing->assign
 assinged->assigned
+assinging->assigning
 assingment->assignment
 assingments->assignments
 assings->assigns
@@ -13698,6 +13700,7 @@ chanmel->channel
 channael->channel
 channeel->channel
 channell->channel
+channells->channels
 channes->channels, chances, changes,
 channet->channel
 channgeable->changeable
@@ -15273,7 +15276,10 @@ commannds->commands
 commans->commands
 commansd->commands
 commant->command
+commant->command, comment,
+commanted->commanded, commented,
 commants->commands
+commants->commands, comments,
 comma-separeted->comma-separated
 commass->commas
 commata->commas
@@ -31033,6 +31039,11 @@ extarnal->external
 extarnally->externally
 extarnals->externals
 extatic->ecstatic
+extedned->extended
+extedner->extender
+extedners->extenders
+extedn->extend
+extedns->extends
 extemely->extremely
 extenal->external
 extendability->expandability
@@ -31880,6 +31891,7 @@ fertitity->fertility
 ferttilitty->fertility
 fetaure->feature
 fetaures->features
+fetchs->fetches
 feture->feature
 fewd->few, feud,
 fewg->few, fugue,
@@ -41945,6 +41957,8 @@ intereferences->interferences
 interegnum->interregnum
 interelated->interrelated
 interelaved->interleaved
+interepretation->interpretation
+interepretations->interpretations
 interepreted->interpreted
 interept->intercept
 interesected->intersected
@@ -44384,6 +44398,8 @@ lagend->legend
 lagends->legends
 laguage->language
 laguages->languages
+laguague->language
+laguagues->languages
 laidd->laid
 laiid->laid
 laiter->later
@@ -52138,7 +52154,10 @@ obsure->obscure
 obtaiend->obtained
 obtail->obtain
 obtails->obtains
+obtaines->obtains
 obtaion->obtain
+obtianed->obtained
+obtianes->obtains
 obtrained->obtained
 obtrain->obtain
 obtsacle->obstacle
@@ -56399,8 +56418,10 @@ poaems->poems
 poaetry->poetry
 pobularity->popularity
 pobular->popular
+pocessed->processed
 pocessed->processed, possessed,
 pocession->procession, possession,
+pocess->process
 pocess->process, possess,
 podule->module
 poeem->poem
@@ -56492,6 +56513,8 @@ policcy->policy
 policie->policies, policy, police,
 policity->policy
 policyy->policy
+poligon->polygon
+poligons->polygons
 poliicy->policy
 poliish->polish
 poliitiical->political
@@ -56602,6 +56625,8 @@ pollynomiall->polynomial
 pollynomialls->polynomials
 pollyphonic->polyphonic
 pollysaccharide->polysaccharide
+pologon->polygon
+pologons->polygons
 polsdam->potsdam
 poltical->political
 poltry->poultry
@@ -58311,6 +58336,7 @@ preferriing->preferring
 preferringg->preferring
 preferrinng->preferring
 preferr->prefer
+prefetchs->prefetches
 prefferable->preferable
 prefferably->preferably
 preffered->preferred
@@ -59831,6 +59857,7 @@ propeertiees->properties
 propegating->propagating
 propely->properly
 propeoperties->properties
+propergated->propagated
 properies->properties
 properities->properties
 properlies->properties
@@ -64054,6 +64081,7 @@ repreesnt->represent
 repreesnts->represents
 reprensentation->representation
 reprensent->represent
+reprensents->represents
 reprepresents->represents
 represantation->representation
 represantations->representations
@@ -64635,6 +64663,7 @@ resoution->resolution
 resouurce->resource
 resouurces->resources
 resoves->resolves
+resovle->resolve
 respecctively->respectively
 respecctive->respective
 respecitve->respective
@@ -76749,6 +76778,10 @@ transiients->transients
 transiient->transient
 transiitiions->transitions
 transiitiion->transition
+transimts->transmits
+transimtted->transmitted
+transimtter->transmitter
+transimt->transmit
 transisions->transitions
 transision->transition
 transisition->transition
@@ -80133,6 +80166,9 @@ utilzed->utilized
 utitities->utilities
 utitity->utility
 utitized->utilized
+utitlized->utilized
+utitlizes->utilizes
+utitlize->utilize
 utitlty->utility
 utlities->utilities
 utlity->utility
