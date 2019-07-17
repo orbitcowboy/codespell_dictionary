@@ -53359,6 +53359,8 @@ opttimized->optimized
 opttimizing->optimizing
 opttional->optional
 opttions->options
+opweration->operation
+opwerations->operations
 oraally->orally
 oradmap->roadmap
 oraelly->orally
