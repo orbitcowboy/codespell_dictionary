@@ -5091,6 +5091,7 @@ amppersand->ampersand
 ampplitude->amplitude
 amptitude->amplitude
 ampty->empty
+amt->amount
 amtel->atmel
 amuch->much
 amung->among
@@ -5687,6 +5688,12 @@ answeredd->answered
 answerr->answer
 answerred->answered
 answerrs->answers
+answhare->answer
+answhared->answered
+answhareing->answering
+answhares->answers
+answharing->answering
+answhars->answers
 answwer->answer
 answwered->answered
 answwers->answers
@@ -6787,6 +6794,7 @@ archivd->archived
 archivedd->archived
 archiveed->archived
 archiveing->archiving
+archivel->archival
 archivied->archived
 archivingg->archiving
 archivinng->archiving
@@ -6846,6 +6854,8 @@ arguements->arguments
 arguemnt->argument
 arguemnts->arguments
 arguemtns->arguments
+arguent->argument
+arguents->arguments
 argumaent->argument
 argumaents->arguments
 argumant->argument
@@ -8636,7 +8646,12 @@ authroitative->authoritative
 authroities->authorities
 authroity->authority
 authroized->authorized
+authror->author
+authrored->authored
+authrorisation->authorisation
 authrorities->authorities
+authrorization->authorization
+authrors->authors
 authros->authors
 authroship->authorship
 autimatically->automatically
@@ -11301,7 +11316,6 @@ by by->by
 by hte same->by the same
 by lhe same->by the same
 byteoder->byte order
-byteorder->byte order, disabled due to java class
 byteorder->byte order, disabled due to java class
 by te same->by the same
 by thae samae->by the same
@@ -16326,6 +16340,7 @@ compoments->components
 componaent->component
 componaents->components
 componant->component
+componants->components
 componbents->components
 componding->compounding
 componeent->component
@@ -22953,6 +22968,7 @@ depprecating->deprecating
 depracated->deprecated
 depreacted->deprecated
 depreacte->deprecate
+depreacts->deprecates
 deprecaated->deprecated
 deprecaating->deprecating
 deprecaeted->deprecated
@@ -22970,13 +22986,22 @@ deprecatting->deprecating
 depreccated->deprecated
 depreccating->deprecating
 deprectaed->deprecated
+deprectat->deprecate
 deprectated->deprecated
 deprectate->deprecate
 deprectates->deprecates
 deprectating->deprecating
+deprectation->deprecation
+deprectats->deprecates
 deprected->deprecated
 deprekated->deprecated
 deprekating->deprecating
+depretiated->depreciated, deprecated,
+depretiate->depreciate, deprecate,
+depretiates->depreciates, deprecates,
+depretiating->depreciating, deprecating,
+depretiation->depreciation, deprecation,
+depretiats->depreciates, deprecates,
 depricated->deprecated
 depricate->deprecate
 depricates->deprecates
@@ -23178,6 +23203,7 @@ describbe->describe
 describbes->describes
 describbing->describing
 describ->describe
+describibg->describing
 describingg->describing
 describinng->describing
 describng->describing
@@ -29796,6 +29822,10 @@ evnts->events
 evntually->eventually
 evollutionary->evolutionary
 evollvabillity->evolvability
+evoluated->evaluated
+evoluate->evaluate
+evoluates->evaluates
+evoluation->evaluations
 evolulionary->evolutionary
 evoluted->advanced
 evoluthionary->evolutionary
@@ -31230,6 +31260,7 @@ extremiist->extremist
 extremisit->extremist
 extremisst->extremist
 extremits->extremist
+extremitys->extremities
 extremly->extremely
 extremmely->extremely
 extremmist->extremist
@@ -31500,6 +31531,7 @@ facours->favours, favors,
 facth->fact
 facthoring->factoring
 facthory->factory
+factization->factorization
 factooring->factoring
 factoory->factory
 factoral->factorial
@@ -31893,6 +31925,7 @@ fetaure->feature
 fetaures->features
 fetchs->fetches
 feture->feature
+fetures->features
 fewd->few, feud,
 fewg->few, fugue,
 fewsha->fuchsia
@@ -34189,6 +34222,7 @@ generatiion->generation
 generationg->generating
 generatioon->generation
 generatized->generalized
+generatng->generating
 generaton->generation, generator,
 generatted->generated
 generatte->generate
@@ -36494,6 +36528,11 @@ highlightning->highlighting
 highlightted->highlighted
 highlightt->highlight
 highlightting->highlighting
+highligjted->highlighted
+highligjtes->highlights
+highligjt->highlight
+highligjting->highlighting
+highligjts->highlights
 highligted->highlighted
 highligthed->highlighted
 highligth->highlight
@@ -36883,6 +36922,7 @@ hourss->hours
 housae->house
 housand->thousand
 housee->house
+houskeeping->housekeeping
 housr->hours
 housr->hours, house
 housr->hours, house,
@@ -37984,6 +38024,7 @@ il lhen came->it then came
 illiegal->illegal
 illigitament->illegitimate
 i;ll->i'll
+ill->i'll
 i;ll->i'll
 illistrate->illustrate
 illistrates->illustrates
@@ -41187,6 +41228,10 @@ insepsion->inception
 insering->inserting
 inserled->inserted
 inserrted->inserted
+insersected->intersected
+insersecting->intersecting
+insersect->intersect
+insersects->intersects
 insertedd->inserted
 inserthed->inserted
 insertin->inserting
@@ -41869,8 +41914,11 @@ interals->internals
 interaly->internally
 interanl->internal
 interanlly->internally
+interated->iterated, interacted,
 interate->iterate
+interates->iterates, interacts,
 interating->iterating
+interating->iterating, interacting,
 interational->international
 interation->iteration
 interation->iteration, interaction,
@@ -47280,6 +47328,7 @@ mathhematicians->mathematicians
 mathhematics->mathematics
 mathimatical->mathematical
 mathimatic->mathematic
+mathimatic->mathematics
 mathimatics->mathematics
 mathing->matching
 mathmatically->mathematically
@@ -57107,6 +57156,9 @@ positiv->positive
 positivs->positives
 positivve->positive
 positivves->positives
+positoined->positioned
+positoin->position
+positoins->positions
 positoned->positioned
 positon->position
 positon->position, positron
@@ -58031,6 +58083,7 @@ pratice->practice
 prcesses->processes
 prcessing->processing
 prcess->process
+prctiles->percentiles
 preaamble->preamble
 preaemble->preamble
 preallocationg->preallocating
@@ -60477,6 +60530,9 @@ pseuudocode->pseudocode
 pseuudonymouus->pseudonymous
 pseuudonym->pseudonym
 pseuudo->pseudo
+psitoined->positioned
+psitoin->position
+psitoins->positions
 psrameter->parameter
 pssed->passed
 psseudocode->pseudocode
@@ -62148,6 +62204,10 @@ recomnends->recommends
 recompence->recompense
 recomplie->recompile, recomply,
 recomputaion->recomputation
+recompuuted->recomputed
+recompuute->recompute
+recompuutes->recomputes
+recompuuting->recomputing
 reconaissance->reconnaissance
 reconciiliiatiion->reconciliation
 reconcilation->reconciliation
@@ -63391,6 +63451,9 @@ relathionship->relationship
 relathionships->relationships
 relathions->relations
 relathively->relatively
+relatibely->relatively
+relatibe->relative
+relatib->relative, relatable,
 relatievly->relatively
 relatiion->relation
 relatiionshiip->relationship
@@ -63648,6 +63711,10 @@ rememers->remembers
 remenant->remnant
 remenber->remember
 remenicent->reminiscent
+remiander->remainder, reminder,
+remianed->remained
+remian->remain
+remians->remains
 remiinder->reminder
 remiiniiscent->reminiscent
 remindder->reminder
@@ -67816,6 +67883,11 @@ sheat->sheath, sheet, cheat
 sheat->sheath, sheet, cheat,
 sheat->sheet
 sheatth->sheath
+sheck->check, cheque, shuck,
+shecked->checked, shucked,
+shecker->checker, shucker,
+shecking->checking, shucking,
+shecks->checks, cheques, shucks,
 sheduled->scheduled
 shedule->schedule
 shedules->schedules
@@ -68379,6 +68451,7 @@ simpe->simple
 simpification->simplification
 simpifications->simplifications
 simpified->simplified
+simpilifies->simplifies
 simplaer->simpler
 simplae->simple
 simplaest->simplest
@@ -71063,6 +71136,8 @@ startin->starting
 startlisteneing->startlistening
 startp->startup
 startting->starting
+starups->startups
+starup->startup
 stataely->stately
 statae machinae->state machine
 stataemaents->statements
@@ -75231,7 +75306,9 @@ they havve been->they have been
 theyre->they're
 theyre->they're,
 theyre->they\"re
+theyre->they're, their, there,
 they'rre->they're
+theyr->their, there, they're,
 they they->they
 theyy have been->they have been
 theyy're->they're
@@ -81101,6 +81178,8 @@ victroies->victories
 victtories->victories
 videostreamming->videostreaming
 vieew->view
+vieports->viewports
+vieport->viewport
 vietnamesea->vietnamese
 vietnamesea->vietnamese
 vie->via
@@ -82552,6 +82631,7 @@ will will->will
 wil not work->will not work
 wil observe->will observe
 wil->will
+wil->will, well,
 winddows 7->windows 7
 winddows server->windows server
 winddows->windows
@@ -83085,6 +83165,7 @@ writlen->written
 writtable->writable
 writtaen->written
 writteen->written
+writtem->written
 writtenn->written
 writters->writers
 writter->writer
