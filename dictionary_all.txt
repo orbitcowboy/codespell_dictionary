@@ -3306,6 +3306,7 @@ aestthettic->aesthetic
 aestthettical->aesthetical
 aestthettically->aesthetically
 aes well->as well
+aesy->easy
 aesymmetricael->asymmetrical
 aesymmetric->asymmetric
 aesynchronous->asynchronous
@@ -5138,6 +5139,7 @@ analyse->analyze
 analysies->analyzes
 analysiis->analysis
 analyssiss->analysis
+analysus->analysis
 analysy->analysis
 analysys->analysis
 analythic->analytic
@@ -23194,8 +23196,13 @@ descirbes->describes
 descirption->description
 descision->decision
 descisions->decisions
+descized->disguised
 descize->disguise
 descktop->desktop
+descover->discover
+descovered->discovered
+descovering->discovering
+descovery->discovery
 descprition->description
 descrepencies->discrepancies
 describbed->described
@@ -25548,6 +25555,7 @@ dissallowed->disallowed
 dissalow->disallow
 dissalowed->disallowed
 dissapearance->disappearance
+dissapeard->disappeared
 dissapear->disappear
 dissapeared->disappeared
 dissapearing->disappearing
@@ -26512,6 +26520,7 @@ drawiing->drawing
 drawingg->drawing
 drawinng->drawing
 drawm->drawn
+drawng->drawing
 draww->draw
 drawwing->drawing
 dreaam->dream
@@ -28168,6 +28177,7 @@ encounlered->encountered
 encounler->encounter
 encounlering->encountering
 encounted->encountered
+encounted->encountered, encounter,
 encounterd->encountered
 encounteredd->encountered
 encounteriing->encountering
@@ -34666,6 +34676,9 @@ goiing->going
 goind->going
 goin->going
 goinng->going
+golbal->global
+golbally->globally
+golbaly->globally
 golhenburg->gothenburg
 golllieb->gottlieb
 goltlieb->gottlieb
@@ -40420,6 +40433,8 @@ inheritted->inherited
 inherrently->inherently
 inherritance->inheritance
 inhertiance->inheritance
+inhertig->inheriting, inherited,
+inherting->inheriting
 inhhabitants->inhabitants
 inhherently->inherently
 inhheritance->inheritance
@@ -53643,6 +53658,7 @@ orthagnal->orthogonal
 orthagonalize->orthogonalize
 orthagonal->orthogonal
 orthhogonal->orthogonal
+orthoganalize->orthogonalize
 orthoganal->orthogonal
 orthoggonal->orthogonal
 orthognal->orthogonal
@@ -58983,6 +58999,7 @@ priviliges->privileges
 privilleged->privileged
 privillege->privilege
 privilleges->privileges
+priviously->previously
 privious->previous
 priviteged->privileged
 privitege->privilege
@@ -61826,6 +61843,9 @@ rebuildingg->rebuilding
 rebuildinng->rebuilding
 rebuillded->rebuilded
 rebuillding->rebuilding
+rebuillt->rebuilt
+rebuil->rebuild, rebuilt,
+rebuils->rebuilds
 rebuilts->rebuilds, rebuilt, rebuild,
 rebuitded->rebuilded
 rebuitding->rebuilding
@@ -63736,6 +63756,7 @@ remmainder->remainder
 remmaining->remaining
 remmant->remnant
 remmber->remember
+remmebered->remembered
 remmeber->remember
 remmebers->remembers
 remmemmber->remember
@@ -77273,8 +77294,12 @@ trivias->trivia
 triviat->trivial
 trivvial->trivial
 triyed->tried
+trnasmited->transmitted
+trnasmits->transmits
 trnasmit->transmit
 trnsfered->transferred
+trnsfers->transfers
+trnsfer->transfer
 trnslation->translation
 troch->torch
 troling->trolling
@@ -82860,6 +82885,7 @@ woould noot->would not
 woouldn't->wouldn't
 woould->would
 worarounds->workarounds
+woraround->workaround
 worcarounds->workarounds
 worcaround->workaround
 worced->worked
@@ -82886,6 +82912,7 @@ wordds->words
 wordd->word
 wordlwide->worldwide
 wordss->words
+worfklows->workflows
 worfklow->workflow
 woring->working
 workaarounds->workarounds
@@ -82911,7 +82938,10 @@ workarouunds->workarounds
 workarouund->workaround
 workarrounds->workarounds
 workarround->workaround
+workarunds->workarounds
 workarund->workaround
+workbanches->workbenches
+workbanchs->workbenches
 workbanch->workbench
 workbennches->workbenches
 workbennch->workbench
@@ -83083,6 +83113,8 @@ woulld have->would have
 woulld not->would not
 woulldn't->wouldn't
 woulld->would
+wounderful->wonderful
+wounder->wonder
 wouold->would
 woutd have->would have
 woutd not->would not
