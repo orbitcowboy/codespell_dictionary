@@ -10589,6 +10589,9 @@ boquet->bouquet
 boradcast->broadcast
 boradcasting->broadcasting
 boradly->broadly
+bord->board, bored,
+borded->boarded, border,
+bording->boarding
 bordreline->borderline
 bordrelines->borderlines
 borgwasy->bourgeoisie
