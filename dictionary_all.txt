@@ -4036,6 +4036,7 @@ alegorical->allegorical
 alerady->already
 a lesl->a test
 aleviate->alleviate
+aleviates->alleviates
 aleviating->alleviating
 alfa->alpha
 algaebraic->algebraic
@@ -5203,6 +5204,8 @@ anceestor->ancestor
 anceestors->ancestors
 anceestral->ancestral
 anceestry->ancestry
+ancesetor->ancestor
+ancesetors->ancestors
 ancesitor->ancestor
 ancesitors->ancestors
 ancesitral->ancestral
@@ -10654,11 +10657,13 @@ boooolean->boolean
 booootstrap->bootstrap
 boostoon->boston
 boostrap->bootstrap
+boostrapping->bootstrapping
 boosttrap->bootstrap
 bootean->boolean
 booteek->boutique
 boothsthrap->bootstrap
 bootom->bottom
+bootraping->bootstrapping
 bootsitrap->bootstrap
 bootsrap->bootstrap
 bootsstrap->bootstrap
@@ -15102,6 +15107,11 @@ collumns->columns
 colmn->column
 colmns->columns
 colmuned->columned
+coloeration->coloration
+coloer->color
+coloered->colored
+coloering->coloring
+coloers->colors
 colommade->colonnade
 colomnade->colonnade
 colomns->columns
@@ -15217,6 +15227,7 @@ combinalions->combinations
 combinathions->combinations
 combinatins->combinations
 combinationss->combinations
+combinaton->combination
 combinatorical->combinatorial
 combinattions->combinations
 combinbe->combined
@@ -24275,6 +24286,7 @@ diagnnostics->diagnostics
 diagnol->diagonal
 diagnoostic->diagnostic
 diagnoostics->diagnostics
+diagnosics->diagnostics
 diagnositc->diagnostic
 diagnositic->diagnostic
 diagnositics->diagnostics
@@ -24295,6 +24307,7 @@ diagnotics->diagnostics
 diagnotsic->diagnostic
 diagnotsics->diagnostics
 diagonale->diagonal
+diagonales->diagonals
 diagostic->diagnostic
 diagostics->diagnostics
 diagramas->diagrams
@@ -24403,6 +24416,7 @@ dictoinaries->dictionaries
 dicttionary->dictionary
 dicuss->discuss
 dicussed->discussed
+dicussions->discussions
 didn'l->didn't
 did nnot->did not
 didnn't->didn't
@@ -29147,6 +29161,7 @@ environmmentalist->environmentalist
 environmmentally->environmentally
 environmment->environment
 environmments->environments
+environmnet->environment
 environnement->environment
 environnental->environmental
 environnentalist->environmentalist
@@ -34027,6 +34042,7 @@ furure->future
 furuther->further
 furutre->future
 furzzer->fuzzer
+fuschia->fuchsia
 fushed->flushed
 fushing->flushing
 futark->futhark
@@ -36031,7 +36047,9 @@ harassssment->harassment
 harassssmentss->harassments
 harcoded->hardcoded
 harcode->hardcode
+harcode->hardcode, charcode,
 harcodes->hardcodes
+harcodes->hardcodes, charcodes,
 harcoding->hardcoding
 hardare->hardware
 harddware->hardware
@@ -36856,6 +36874,7 @@ higlighting->highlighting
 higlights->highlights
 higligting->highlighting
 higliting->highlighting
+higly->highly
 higth->height
 higway->highway
 hihglighted->highlighted
@@ -39307,6 +39326,7 @@ inactivee->inactive
 inactiv->inactive
 inactivve->inactive
 inacttive->inactive
+inacurate->inaccurate
 inacurracies->inaccuracies
 inacurrate->inaccurate
 inadaequatae->inadequate
@@ -43045,6 +43065,7 @@ inverttebrattes->invertebrates
 invertted->inverted
 invertting->inverting
 inverval->interval
+inveryed->inverted
 invesigating->investigating
 invesitgated->investigated
 invesitgating->investigating
@@ -63491,6 +63512,7 @@ referenc e->reference
 referencers->references
 referencess->references
 referencially->referentially
+referencial->referential
 referencies->references
 referenc->reference
 referencs->references
@@ -63628,7 +63650,11 @@ refrenced->referenced
 refrence->reference
 refrences->references
 refrencing->referencing
+refrerenced->referenced
+refrerenceing->referencing
 refrerence->reference
+refrerences->references
+refrerencial->referential
 refrers->refers
 refreshedd->refreshed
 refreshhed->refreshed
@@ -65090,6 +65116,7 @@ repllicablle->replicable
 repllies->replies
 replys->replies
 repoen->reopen
+reponding->responding
 reponse->response
 reponses->responses
 reponsibilities->responsibilities
@@ -65264,6 +65291,7 @@ repressent->represent
 repressents->represents
 repressentss->represents
 reprociblbe->reproducible
+reprocible->reproducible
 reprocuced->reproduced, reprocured,
 reprocuce->reproduce, reprocure,
 reprocuces->reproduces, reprocures,
@@ -70951,6 +70979,7 @@ speciffiers->specifiers
 speciffying->specifying
 speciffy->specify
 specifiaclly->specifically
+specifially->specifically
 specificaally->specifically
 specificaation->specification
 specificaelly->specifically
@@ -73746,6 +73775,7 @@ successivve->successive
 successoor->successor
 successorr->successor
 successro->successor
+successsfully->successfully
 successsion->succession
 successs->success
 succes->success
@@ -75015,6 +75045,7 @@ synchronizae->synchronize
 synchronizaetion->synchronization
 synchronizalion->synchronization
 synchronizathion->synchronization
+synchronizaton->synchronization
 synchronizattion->synchronization
 synchronizee->synchronize
 synchronizzation->synchronization
@@ -80081,6 +80112,7 @@ unintelligable->unintelligible
 unintented->unintended
 unintentially->unintentionally
 uninteressting->uninteresting
+uninterpretted->uninterpreted
 uninterrrrupted->uninterrupted
 uninterruped->uninterrupted
 uninterruppted->uninterrupted
@@ -80163,6 +80195,7 @@ univeersities->universities
 univeersity->university
 univerally->universally
 univeral->universal
+univeriality->universality
 univerisity->university
 univeristies->universities
 univeristy->university
@@ -80175,6 +80208,8 @@ universaal->universal
 universael->universal
 universall->universal
 universat->universal
+universiality->universality
+universial->universal
 universilies->universities
 universily->university
 universirty->university
@@ -81579,6 +81614,7 @@ vaguaries->vagaries
 vaiables->variables
 vaiable->variable
 vaiants->variants
+vaiant->variant
 vaid->valid, void,
 vaieties->varieties
 vaild->valid
@@ -82160,11 +82196,14 @@ versatilityy->versatility
 versatillity->versatility
 versatitity->versatility
 versattilitty->versatility
+vershin->version
 versiion control->version control
 versiions->versions
 versiion->version
 versins->versions
 versin->version
+versioed->versioned
+versioing->versioning
 versiom->version
 version ccontrol->version control
 version conlrol->version control
@@ -82185,6 +82224,7 @@ versionn->version
 versioon coontrool->version control
 versioons->versions
 versioon->version
+versios->versions
 versitilaty->versatility
 versitlity->versatility
 versoin->version
