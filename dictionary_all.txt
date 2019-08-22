@@ -59121,6 +59121,10 @@ prediictor->predictor
 prediktable->predictable
 prediktions->predictions
 prediktor->predictor
+pre-directve->pre-directive
+predirectve->pre-directive
+pre-directves->pre-directives
+predirectves->pre-directives
 predomiantly->predominately
 predomiinately->predominately
 predominaately->predominately
