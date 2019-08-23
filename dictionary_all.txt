@@ -47075,6 +47075,7 @@ maintan->maintain
 maintans->maintains
 mainteenancee->maintenance
 maintenace->maintenance
+maintenacne->maintenance
 maintenancce->maintenance
 maintenanke->maintenance
 maintenence->maintenance
@@ -50394,6 +50395,7 @@ mulithread->multi-thread
 mulithread->multithread
 mulithread->multi-thread, multi thread,
 mulitimedia->multimedia
+mulitiplied->multiplied
 mulitline->multiline
 mulitmeter->multimeter
 mulit->multi
