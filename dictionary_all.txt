@@ -21470,6 +21470,7 @@ data typpe->data type
 datatytpe->datatype
 datatytpes->datatypes
 data tyype->data type
+dataum->datum
 dat->data
 datea->date, data,
 dathabase->database
@@ -31141,6 +31142,7 @@ explicate->explicit
 explicat->explicate
 expliccit->explicit
 expliccitly->explicitly
+explicidly->explicitly
 explicil->explicit
 explicilly->explicitly
 explicilt->explicit
@@ -34532,6 +34534,7 @@ generathe->generate
 generathes->generates
 generathing->generating
 generathion->generation
+generatign->generating
 generatiing->generating
 generatiion->generation
 generationg->generating
@@ -59180,6 +59183,7 @@ preemminence->preeminence
 preemonstrateensians->premonstratensians
 preemphasised->preemphasized
 pre-empt->preempt
+preemtive->preemptive
 preeoccupation->preoccupation
 preeparation->preparation
 preeparations->preparations
@@ -80576,6 +80580,7 @@ unknonwn->unknown
 unknonws->unknowns
 unknonw->unknown
 unknoown->unknown
+unknowningly->unknowingly
 unknows->unknowns, unknows,
 unknow->unknown
 unknow->unknown, unknow,
@@ -83948,6 +83953,8 @@ widgit->widget
 widhtpoints->widthpoints
 widhtpoint->widthpoint
 widht->width
+widigts->widgets
+widigt->widget
 widlcarded->wildcarded
 widnows->windows
 widows 7->windows 7
