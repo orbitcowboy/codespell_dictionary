@@ -22828,6 +22828,7 @@ delermining->determining
 delerminislically->deterministically
 delerminislic->deterministic
 delet->delete
+deletedd->deleted
 delete'd->deleted
 deleteed->deleted
 delete'ing->deleting
