@@ -23621,6 +23621,7 @@ deselekt->deselect
 desellect->deselect
 deserializazion->deserialization
 deserialze->deserialize
+desesperate->desperate
 desetect->deselect
 desgin->design
 desgined->designed
