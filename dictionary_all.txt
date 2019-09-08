@@ -19606,7 +19606,6 @@ coloums->columns
 colourd->coloured
 colourpsace->colourspace
 colourpsaces->colourspaces
-colours->colors
 colroings->colorings
 colsed->closed
 colubmia->columbia
