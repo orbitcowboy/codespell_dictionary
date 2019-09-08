@@ -1877,6 +1877,9 @@ acths->acts
 acthual->actual
 acthually->actually
 actibity->activity
+acticate->activate
+acticated->activated
+acticates->activates
 acticles->articles
 actiivate->activate
 actiivated->activated
@@ -4895,6 +4898,7 @@ alvorithmically->algorithmically
 alvorithms->algorithms
 alwais->always
 alwas->always
+alwas->always, alias,
 alwast->always
 alwasy->always
 alwasys->always
@@ -39319,6 +39323,7 @@ implmenetations->implementations
 implmenetd->implemented
 implmeneted->implemented
 implmeneter->implementer
+implmenetes->implements
 implmenet->implement
 implmeneting->implementing
 implmenets->implements
@@ -51254,6 +51259,7 @@ navagate->navigate
 navagating->navigating
 navagation->navigation
 navagitation->navigation
+navite->native
 nazaraeth->nazareth
 nazareeth->nazareth
 nazareht->nazareth
@@ -62849,6 +62855,7 @@ rebuliding->rebuilding
 rebulid->rebuild
 rebulids->rebuilds
 rebulit->rebuilt
+rebustness->robustness
 rebuuilded->rebuilded
 rebuuilding->rebuilding
 recaalculaate->recalculate
