@@ -62293,7 +62293,6 @@ mantisa->mantissa
 mantisas->mantissas
 mantise->mantissa
 mantissssa->mantissa
-mant->many
 manttissa->mantissa
 manuales->manuals
 manualllly->manually
@@ -88338,7 +88337,6 @@ romanitcally->romantically
 romanmania->romanian
 romanna->romanian
 romanticaly->romantically
-rom->from
 rommate->roommate
 rondayvoo->rendezvous
 rooadmap->roadmap
