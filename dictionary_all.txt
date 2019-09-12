@@ -2596,7 +2596,6 @@ addmit->admit
 addmittedd->admitted
 addmitteddly->admittedly
 addolescent->adolescent
-addon->add on
 add onn->add on
 add oon->add on
 addopt->adopt
