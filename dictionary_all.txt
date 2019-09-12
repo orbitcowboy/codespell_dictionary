@@ -7226,6 +7226,7 @@ anyywayys->anyways
 anyywhere->anywhere
 aond->and
 a option->an option
+aorigin->origin
 aorse->arose
 aorund->around
 aother->another, other, mother,
@@ -46414,7 +46415,6 @@ ground sppeed->ground speed
 ground sspeed->ground speed
 grounnd speed->ground speed
 groupd->grouped
-groupid->group id
 groupiing->grouping
 groupinng->grouping
 groupp->group
@@ -71503,7 +71503,6 @@ originallyy->originally
 originalt->originality
 originalty->originality
 originaly->originally
-origin->aorigin
 originas->origins
 originathion->origination
 originat->original
