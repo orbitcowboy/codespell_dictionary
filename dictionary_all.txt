@@ -102365,7 +102365,6 @@ totalitarion->totalitarian
 totalitarni->totalitarian
 totalitatian->totalitarian
 totall->total
-total->ttotal
 totation->rotation
 totat->total
 totday->today
@@ -104164,6 +104163,7 @@ ttornado->tornado
 ttoroidal->toroidal
 ttorpedoes->torpedoes
 tto sttraightten->to straighten
+ttotal->total
 tto->to
 ttottal->total
 tto tthe->to the
