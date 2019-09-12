@@ -6215,7 +6215,6 @@ analyitcs->analytics
 analyized->analyzed
 analylic->analytic
 analysator->analyzer
-analyse->analyze
 analyseas->analyses
 analysees->analyses
 analyseles->analyses
