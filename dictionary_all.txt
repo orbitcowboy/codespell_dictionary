@@ -71129,8 +71129,6 @@ optimial->optimal
 optimier->optimizer, optimiser,
 optimim->optimism
 optimisation->optimization
-optimisations->optimizations
-optimise->optimize
 optimisim->optimism
 optimisitc->optimistic
 optimisitic->optimistic
