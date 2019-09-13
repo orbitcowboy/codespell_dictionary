@@ -6514,6 +6514,13 @@ anid->and
 anihilation->annihilation
 aniimatiions->animations
 an iinternal->an internal
+animaite->animate
+animaiter->animator
+animaiters->animators
+animaiton->animation
+animaitons->animations
+animaitor->animator
+animaitors->animators
 animalions->animations
 animathions->animations
 animatie->animate
@@ -17601,6 +17608,8 @@ chaning->changing
 chaninging->changing
 chanisaw->chainsaw
 chanlder->chandler
+chanllenge->challenge
+chanllenging->challenging
 chanmel->channel
 channael->channel
 channeel->channel
@@ -19024,6 +19033,8 @@ closley->closely
 clossed->closed
 clossing->closing
 cloudd->cloud
+cloude->cloud
+cloudes->clouds
 cloumn->column
 cloumns->columns
 cloure->closure
@@ -22044,6 +22055,8 @@ condesend->condensed
 condesned->condensed
 condfiguration->configuration
 condicional->conditional
+condict->conduct
+condicted->conducted
 condiction->condition
 condictions->conditions
 condidate->candidate
@@ -27079,6 +27092,7 @@ crtical->critical
 crticised->criticised
 cruasder->crusader
 cruciaal->crucial
+crucialy->crucially
 crucibe->crucible
 crucibel->crucible
 cruciffixion->crucifixion
@@ -27111,6 +27125,9 @@ crutchers->crutches
 crutchetts->crutches
 crutchs->crutches
 cruthces->crutches
+crutial->crucial
+crutially->crucially
+crutialy->crucially
 cruucifixion->crucifixion
 cruuises->cruises
 cruze->cruise
@@ -34406,6 +34423,7 @@ documantary->documentary
 documantation->documentation
 documant->document
 documants->documents
+documation->documentation
 documeentablee->documentable
 documeentary->documentary
 documeentation->documentation
@@ -41074,6 +41092,10 @@ exsiting->existing
 exsits->exists, exist,
 exspected->expected
 exspect->expect
+exspects->expects
+exspensed->expensed
+exspense->expense
+exspenses->expenses
 exstacy->ecstasy
 exsting->existing
 exstream->extreme
@@ -41751,6 +41773,7 @@ fahhrenhheit->fahrenheit
 fahraenhaeit->fahrenheit
 fahreenheeit->fahrenheit
 fahrenheight->fahrenheit
+fahrenheight->fahrenheit
 fahrenheiit->fahrenheit
 fahrenheil->fahrenheit
 fahrenheith->fahrenheit
@@ -41972,6 +41995,8 @@ faour->favor
 faptastically->fantastically
 farcking->fracking
 farehnheit->fahrenheit
+farenheight->fahrenheit
+farenheight->fahrenheit
 farenheit->fahrenheit
 farenheit->fahrenheit
 farest->fairest, farthest,
@@ -46990,6 +47015,7 @@ hadd been->had been
 hadding->adding
 hadding->adding, having,
 hadding->having
+hade->had, hate,
 haders->headers, haters,
 hadling->handling
 haeadaer->header
@@ -57997,6 +58023,7 @@ justificstion->justifications
 justifiy->justify
 justifyable->justifiable
 justiifcation->justifications
+justs->just
 justt->just
 juudaism->judaism
 juudicial->judicial
@@ -60518,6 +60545,7 @@ litaerals->literals
 litaeraturae->literature
 litaers->liters
 litature->literature
+liteautrue->literature
 litecion->litecoin
 litecon->litecoin
 liteeral->literal
@@ -64767,7 +64795,9 @@ mirsa->misra
 misaassignment->misassignment
 misaerablae->miserable
 misaessignment->misassignment
+mis-alignement->misalignment
 misalignement->misalignment
+mis-alignment->misalignment
 misanderstood->misunderstood
 misandrony->misandry
 misandy->misandry
@@ -79006,7 +79036,9 @@ priveliges->privileges
 privelleges->privileges
 privetized->privatized
 priviate->private
+privided->provided
 privide->provide
+prividing->providing
 priview->preview
 priviges->privileges
 privilaegaed->privileged
@@ -79047,6 +79079,9 @@ privillege->privilege
 privilleges->privileges
 priviously->previously
 privious->previous
+privisional->provisional
+privision->provision
+privisions->provisions
 privitazed->privatized
 priviteged->privileged
 privitege->privilege
@@ -79107,6 +79142,7 @@ probabillities->probabilities
 probabillity->probability
 probabilty->probability
 probabily->probability
+probabily->probability, probably,
 probabitistic->probabilistic
 probabitities->probabilities
 probabitity->probability
@@ -80483,6 +80519,8 @@ proprietyy->propriety
 propriietary->proprietary
 propriiety->propriety
 propriotary->proprietary
+proproable->probable
+proproably->probably
 proprocessed->preprocessed
 proprocessor->preprocessor
 proprose->propose
@@ -86252,6 +86290,7 @@ reposilory->repository
 reposiotory->repository
 repositary->repository
 reposithory->repository
+repositiories->repositories
 repositiory->repository
 repositiroes->repositories
 reposititioning->repositioning
@@ -110763,6 +110802,7 @@ wizaerd->wizard
 wizardd->wizard
 wizarrd->wizard
 wizzard->wizard
+wjat->what
 wlacott->walcott
 wlll->will
 wll->will
