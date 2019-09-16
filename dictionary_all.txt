@@ -27375,7 +27375,6 @@ currentley->currently
 currentlly->currently
 currentlys->currents
 currentlyy->currently
-currentpos->currents
 currentry->currently
 currentt->current
 currenttly->currently
