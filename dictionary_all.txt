@@ -105334,6 +105334,8 @@ undefinaeble->undefinable
 undefineded->undefined
 undefinined->undefined
 undefinitely->indefinitely
+undeflowed->underflow
+undeflows->underflow
 undeflows->underflows
 undeflow->underflow
 undefuned->undefined
@@ -107912,6 +107914,7 @@ vallue->value
 valnecia->valencia
 valnetines->valentines
 valoue->value
+vals->values
 valuabble->valuable
 valuabe->valuable
 valuablae->valuable
