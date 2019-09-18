@@ -17138,6 +17138,8 @@ cemmeteries->cemeteries
 cemmetery->cemetery
 cenario->scenario
 cencus->census
+cendiate->candidate
+cenditate->candidate
 ceneration->generation
 cenitpede->centipede
 cenlennial->centennial
@@ -22054,6 +22056,7 @@ condescensing->condescension
 condesend->condensed
 condesned->condensed
 condfiguration->configuration
+condiate->candidate
 condicional->conditional
 condict->conduct
 condicted->conducted
@@ -72135,7 +72138,9 @@ overloooked->overlooked
 overlorded->overloaded
 overlordes->overlords
 overlordess->overlords
+overlowed->overflowed
 overlow->overflow
+overlows->overflows
 overmapping->overlapping
 overnurfed->overturned
 overpad->overpaid
