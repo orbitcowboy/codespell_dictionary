@@ -62965,8 +62965,6 @@ mathematicianss->mathematicians
 mathematicion->mathematician
 mathematicks->mathematics
 mathematicly->mathematical
-mathematic->mathematical
-mathematics->mathematical
 mathematicss->mathematics
 mathematiically->mathematically
 mathematiical->mathematical
