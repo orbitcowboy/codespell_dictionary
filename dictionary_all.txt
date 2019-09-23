@@ -66733,7 +66733,6 @@ multiplicannd->multiplicand
 multiplicativo->multiplication
 multiplicaton->multiplication
 multiplicatoor->multiplicator
-multiplicator->multiplicand
 multiplicatorr->multiplicator
 multiplicatro->multiplicator
 multipliccand->multiplicand
@@ -66744,8 +66743,7 @@ multiplicty->multiplicity
 multipliedd->multiplied
 multiplieed->multiplied
 multiplieers->multipliers
-multiplie->multiple
-multiplie->multiply
+multiplie->multiply, multiple,
 multiplierrs->multipliers
 multiplierss->multipliers
 multiplikand->multiplicand
@@ -66778,7 +66776,6 @@ multipy->multiply
 multisitring->multistring
 multisstring->multistring
 multistringg->multistring
-multistring->multistring
 multistrinng->multistring
 multistrring->multistring
 multitaksing->multitasking
