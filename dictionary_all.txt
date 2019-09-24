@@ -2656,7 +2656,7 @@ addrsses->addresses
 addtion->addition
 addtional->additional
 addtionally->additionally
-addtionaly->additionalyy
+addtionaly->additionally
 addvance->advance
 addvancedd->advanced
 addventurous->adventurous
@@ -106347,7 +106347,6 @@ unmatch->mismatch
 unmecessarily->unnecessarily
 unmecessary->unnecessary
 unmeeded->unneeded
-unmerged->unmerge
 unmiistakably->unmistakably
 unmisitakably->unmistakably
 unmislakably->unmistakably
