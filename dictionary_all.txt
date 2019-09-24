@@ -76414,8 +76414,8 @@ popullation->population
 popullations->populations
 populos->populous
 popultaion->populations
-popup->pop up
-popups->pop ups
+popup->pop up, disabled due to common spelling
+popups->pop ups, disabled due to common spelling
 pop upss->pop ups
 poputarity->popularity
 poputar->popular
