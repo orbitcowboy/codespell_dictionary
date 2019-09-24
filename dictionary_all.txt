@@ -53867,7 +53867,7 @@ initiaitve->initiatives
 initiales->initialize, initializes, initials, initialise, initialises,
 initialialized->initialized
 initialialize->initialize
-initialiase->initialise, initialize,
+initialiase->initialise
 initialiation->initialization
 initialiazed->initialized
 initialiaze->initialize
@@ -53877,9 +53877,9 @@ initialing->initializing
 initialisae->initialise
 initialisatioon->initialisation
 initialisee->initialise
-initialise->initialize
+initialise->initialise
 initialisiert->initialised, initialized,
-initialising->initializing
+initialising->initialising
 initialissation->initialisation
 initialisse->initialise
 initialitation->initialization
