@@ -21523,7 +21523,6 @@ compresseed->compressed
 compresser->compressor
 compressiability->compressibility
 compressiion->compression
-compressing->compression
 compressio->compressor
 compressionn->compression
 compresson->compression
@@ -31706,7 +31705,7 @@ developmetn->developments
 developming->developing
 developmment->development
 developmnet->developments
-developors->develops
+developors->developers, develops
 developp->develop
 developped->developed
 developpe->develop
@@ -31719,20 +31718,19 @@ developpment->development
 developps->develops
 developres->develops
 developrs->develops
-develops->developers
 developss->develops
 develp->develop
 develped->developed
 develper->developer
 develpers->developers
 develpment->development
-develpoment->developments
+develpoment->development
 develpoments->developments
 devels->delves
 devensive->defensive
 deveolpment->development
 deveopers->developers
-deveploment->developments
+deveploment->development
 deverloper->developer
 deverlopers->developers
 devestated->devastated
@@ -41163,7 +41161,6 @@ extedns->extends
 extemely->extremely
 extenal->external
 extendability->expandability
-extendable->expendable
 extenddedd->extended
 extendded->extended
 extende->extended
@@ -53877,7 +53874,6 @@ initialing->initializing
 initialisae->initialise
 initialisatioon->initialisation
 initialisee->initialise
-initialise->initialise
 initialisiert->initialised, initialized,
 initialising->initialising
 initialissation->initialisation
@@ -68944,8 +68940,6 @@ normaized->normalized
 normale->normal
 normales->normals
 normaliizatiion->normalization
-normalisation->normalization
-normalisations->normalizations
 normalis->normals
 normalizalion->normalization
 normalizathion->normalization
@@ -81933,7 +81927,6 @@ quarther->quarter
 quartically->quadratically
 quartlery->quarterly
 quartter->quarter
-quartz->quarz
 quaruntine->quarantine
 quarzz->quarz
 quatation->quotation
@@ -82052,7 +82045,6 @@ quicck->quick
 quiccly->quickly
 quicc->quick
 quicjkly->quickly
-quicker->quickly
 quicket->quickest
 quickets->quickest
 quickier->quicker
@@ -89541,7 +89533,6 @@ satisfactorilyy->satisfactorily
 satisfactority->satisfactorily
 satisfactorly->satisfactory
 satisfactorrily->satisfactorily
-satisfactory->satisfaction
 satisfactroily->satisfactorily
 satisfaktion->satisfaction
 satisfaktorily->satisfactorily
@@ -109915,7 +109906,6 @@ wearr->wear
 weas->was
 weater->weather
 weatherr->weather
-weather->whether
 weathher->weather
 weathliest->wealthiest
 weatther->weather
