@@ -38099,7 +38099,6 @@ entireity->entirety
 entirelly->entirely
 entirelyy->entirely
 entires->entries
-entirety->entirely
 entirey->entirely
 entirity->entirety
 entirley->entirely
