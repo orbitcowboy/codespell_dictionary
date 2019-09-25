@@ -38475,6 +38475,9 @@ epissode->episode
 epissodess->episodes
 epitamy->epitome
 epitomie->epitome
+eplicite->explicit
+eplicitely->explicitly
+eplicit->explicit
 epliepsy->epilepsy
 epliogue->epilogue
 eploit->exploit
