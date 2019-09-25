@@ -4781,12 +4781,9 @@ akquaintanke->acquaintance
 akquaintankes->acquaintances
 akquainted->acquainted
 akquire->acquire
-akquire->akquire
 akquired->acquired
-akquired->akquired
 akquirer->acquirer
 akquires->acquires
-akquires->akquires
 akquiring->acquiring
 akquisition->acquisition
 akquitted->acquitted
@@ -9738,7 +9735,6 @@ assymmetric->asymmetric
 assyncchronous->assynchronous
 assynchhronous->assynchronous
 assynchornous->assynchronous
-assynchronous->assynchronous
 assynchronouss->asynchronous
 assynchronoussly->asynchronously
 assynchronouus->assynchronous
@@ -10646,7 +10642,6 @@ austrain->austrian
 australa->australian
 australain->australians
 australiaan->australians
-australia->australia
 australiams->australians
 australianas->australians
 australianess->australians
@@ -14942,7 +14937,6 @@ cahdidate->candidate
 cahdidates->candidates
 cahe->cache
 cahes->caches
-cahgne->cahgne
 cahhel->channel
 cahhels->channels
 cahined->chained
@@ -26789,7 +26783,6 @@ cretae->create
 cretaed->created
 cretaes->creates
 cretaing->creating
-cretaing->cretaing
 cretated->created
 cretates->creates
 creted->created
@@ -28032,7 +28025,6 @@ data-strcuture->data-structure
 datastrcuture->datastructure
 data-strcutures->data-structures
 datastrcutures->datastructures
-data stream->data stream
 data streamm->data stream
 data streeam->data stream
 datastrem->data stream
@@ -29437,7 +29429,6 @@ defined aas globaals->defined as globals
 defined aes globaels->defined as globals
 defined as gglobals->defined as globals
 defined as glloballs->defined as globals
-defined as globals->defined as globals
 defined as globbals->defined as globals
 defined as gloobals->defined as globals
 defined as gtobats->defined as globals
@@ -31198,7 +31189,6 @@ destinned->destined
 destinntaionn->destintaion
 destintaaion->destintaion
 destintaeion->destintaion
-destintaion->destintaion
 destintaioon->destintaion
 destintation->destination
 destinty->destiny
@@ -43748,7 +43738,6 @@ formaththing->formatting
 formatiing->formating
 formatiing->formatting
 formatin->formation
-formating->formating
 formating->formatting
 formatingg->formating
 formatings->formations
@@ -44470,7 +44459,6 @@ frustaating->frustating
 frustaeting->frustating
 frustartion->frustrations
 frustatiing->frustating
-frustating->frustating
 frustating->frustrating
 frustatingg->frustating
 frustatinng->frustating
@@ -45721,7 +45709,6 @@ gingam->gingham
 gioen->given
 girafffe->giraffe
 girdcols->gridcols
-gird->gird
 gird->grid, gird,
 gird->grids
 girds->grids, girds,
@@ -57650,7 +57637,6 @@ it ten came->it then came
 itterate->iterate
 itterates->iterates
 itteration->iteration
-itteration->itteration
 itterations->iterations
 itterator->iterator
 itterators->iterators
@@ -66445,11 +66431,9 @@ mout->mount
 moutned->mounted
 moutning->mounting
 moutn->mount
-moutn->moutn
 moutnpoint->mountpoint
 moutnpoints->mountpoints
 moutns->mounts
-moutns->moutns
 moutpoint->mountpoint
 mouuntainouus->mountainous
 mouuntains->mountains
@@ -66795,7 +66779,6 @@ multipy->multiply
 multisitring->multistring
 multisstring->multistring
 multistringg->multistring
-multistring->multistring
 multistrinng->multistring
 multistrring->multistring
 multitaksing->multitasking
@@ -67616,7 +67599,6 @@ neccessaery->neccessary
 neccessarily->necessarily
 neccessarry->neccessary
 neccessarry->necessary
-neccessary->neccessary
 neccessary->necessary
 neccessaryy->neccessary
 neccessery->necessary
@@ -69823,7 +69805,6 @@ obsfucaator->obsfucator
 obsfucaetor->obsfucator
 obsfucalor->obsfucator
 obsfucathor->obsfucator
-obsfucator->obsfucator
 obsfucatorr->obsfucator
 obsfucatro->obsfucator
 obsfucattor->obsfucator
@@ -70003,7 +69984,6 @@ occasionnal->occasional
 occasionned->occasioned
 occasionn->occasion
 occasionns->occasions
-occasion->occasion
 occassionally->occasionally
 occassional->occasional
 occassionaly->occasionally
@@ -70131,9 +70111,7 @@ oclock->o'clock
 oclusion->occlusion
 ocntext->context
 ocorrence->occurrence
-ocorrence->ocorrence
 ocorrences->occurrences
-ocorrences->ocorrences
 ocotber->october
 ocotober->october
 ocotpus->octopus
@@ -76554,7 +76532,6 @@ porper->proper
 porperthy->porperty
 porperties->properties
 porpertty->porperty
-porperty->porperty
 porperty->property
 porpertyy->porperty
 porphecy->prophecy
@@ -78197,7 +78174,6 @@ preferrabbly->preferrably
 preferrable->preferable
 preferrablly->preferrably
 preferrably->preferably
-preferrably->preferrably
 preferrablyy->preferrably
 preferrabty->preferrably
 preferraebly->preferrably
@@ -78815,7 +78791,6 @@ previlege->privilege
 previoously->previously
 previoous->previous
 previosly->previously
-previos->previos
 previos->previous
 previosuly->previously
 previoulsy->previously
@@ -80275,7 +80250,6 @@ proofessioon->profession
 proofessoor->professor
 proofiling->profiling
 proofnes->proofness
-proofness->proofness
 proofusioon->profusion
 proogrammable->programmable
 proogrammatically->programmatically
@@ -86325,7 +86299,6 @@ replubic->republic
 replusive->repulsive
 replys->replies
 repoen->reopen
-repogroup->repogroup
 repoistory->repository
 repoitories->repositories
 reponding->responding
@@ -87719,7 +87692,6 @@ resuse->reuse
 resuthls->resutls
 resuting->resulting
 resutlls->resutls
-resutls->resutls
 resuts->results
 resuttls->resutls
 resutts->results
@@ -93270,7 +93242,6 @@ softliink->softlink
 softlinck->softlink
 softlinc->softlink
 softlinkk->softlink
-softlink->softlink
 softlinnk->softlink
 softllink->softlink
 softtink->softlink
@@ -94082,7 +94053,6 @@ specfications->specifications
 specfic->specific
 specfied->specified
 specfies->specifies
-specfific->specfific
 specfific->specific
 specfifier->specifier
 specfifiers->specifiers
@@ -103086,7 +103056,6 @@ transfeerring->transferring
 transfeer->transfer
 transfender->transgender
 transferd->transferred
-transfered->transfered
 transfered->transferred
 transferers->transfers
 transferer->transferred
@@ -105176,11 +105145,9 @@ uncknown->unknown
 unclude->include
 uncludes->includes
 uncnown->unknown
-uncomented->uncomented
 uncomented->uncommented
 uncomenting->uncommenting
 uncoments->uncomments
-uncoment->uncoment
 uncoment->uncomment
 uncomfertable->uncomfortable
 uncomfertably->uncomfortably
@@ -108040,7 +108007,6 @@ valueble->valuable
 valuees->values
 valuee->value
 valuess->values
-valuess->valuess
 value-to-pack->value to pack
 valuie->value
 valules->values
@@ -109256,7 +109222,6 @@ voilating->violating
 voilation->violation
 voilently->violently
 volatages->voltages
-volatage->volatage
 volatage->voltage
 volatge->voltage
 volatiliy->volatility
