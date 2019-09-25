@@ -1905,6 +1905,8 @@ achitecture->architecture
 achitectures->architectures
 achival->archival
 achiveable->achievable
+achive->achieve
+achive->achieve, archive
 achive->achieve, archive,
 achived->achieved
 achived->achieved, archived
@@ -2654,7 +2656,7 @@ addrsses->addresses
 addtion->addition
 addtional->additional
 addtionally->additionally
-addtionaly->additionally
+addtionaly->additionalyy
 addvance->advance
 addvancedd->advanced
 addventurous->adventurous
@@ -9266,6 +9268,7 @@ assembe->assemble
 assembeld->assembled
 assember->assembler
 assemblare->assemble
+assemble->assembly
 assembledd->assembled
 assembleing->assembling
 assemblerr->assembler
@@ -16066,6 +16069,7 @@ casaulties->casualties
 casaulty->casualty
 cascace->cascade
 cascad->cascade
+cascade->casade
 cas->case
 casea->case
 cased->caused
@@ -21515,6 +21519,7 @@ compresseed->compressed
 compresser->compressor
 compressiability->compressibility
 compressiion->compression
+compressing->compression
 compressio->compressor
 compressionn->compression
 compresson->compression
@@ -22473,6 +22478,7 @@ conformaence->conformance
 conformancae->conformance
 conformancee->conformance
 conformane->conformance
+conform->confirm
 conformiitiies->conformities
 conformiity->conformity
 conformilies->conformities
@@ -23800,6 +23806,7 @@ constraeints->constraints
 constraiins->constrains
 constraiint->constraint
 constraiints->constraints
+constrain->constraint
 constraing->constraining, constraint,
 constraing->constraint
 constrainst->constraints
@@ -31693,7 +31700,7 @@ developmetn->developments
 developming->developing
 developmment->development
 developmnet->developments
-developors->developers, develops
+developors->develops
 developp->develop
 developped->developed
 developpe->develop
@@ -31706,19 +31713,20 @@ developpment->development
 developps->develops
 developres->develops
 developrs->develops
+develops->developers
 developss->develops
 develp->develop
 develped->developed
 develper->developer
 develpers->developers
 develpment->development
-develpoment->development
+develpoment->developments
 develpoments->developments
 devels->delves
 devensive->defensive
 deveolpment->development
 deveopers->developers
-deveploment->development
+deveploment->developments
 deverloper->developer
 deverlopers->developers
 devestated->devastated
@@ -38087,6 +38095,7 @@ entireity->entirety
 entirelly->entirely
 entirelyy->entirely
 entires->entries
+entirety->entirely
 entirey->entirely
 entirity->entirety
 entirley->entirely
@@ -40464,6 +40473,7 @@ expalin->explain
 expalining->explaining
 expalins->explains
 expalriale->expatriate
+expanation->expatiation
 expanation->explanation, expansion,
 expanations->explanations, expansions,
 expanatory->explanatory
@@ -41151,6 +41161,7 @@ extedns->extends
 extemely->extremely
 extenal->external
 extendability->expandability
+extendable->expendable
 extenddedd->extended
 extendded->extended
 extende->extended
@@ -43879,6 +43890,7 @@ for thae->for the
 forthcominng->forthcoming
 forthcomming->forthcoming
 for thee->for the
+forth->fourth
 for thhe->for the
 for thhis->for this
 forthies->forties
@@ -46286,6 +46298,7 @@ graphicall->graphical
 graphicaly->graphically
 graphicat->graphical
 graphiccal->graphical
+graphic->graphical
 graphiclly->graphically
 graphie->graphite
 graphiical->graphical
@@ -53854,7 +53867,7 @@ initiaitve->initiatives
 initiales->initialize, initializes, initials, initialise, initialises,
 initialialized->initialized
 initialialize->initialize
-initialiase->initialise
+initialiase->initialise, initialize,
 initialiation->initialization
 initialiazed->initialized
 initialiaze->initialize
@@ -53864,8 +53877,9 @@ initialing->initializing
 initialisae->initialise
 initialisatioon->initialisation
 initialisee->initialise
+initialise->initialize
 initialisiert->initialised, initialized,
-initialising->initialising
+initialising->initializing
 initialissation->initialisation
 initialisse->initialise
 initialitation->initialization
@@ -62950,6 +62964,8 @@ mathematicianss->mathematicians
 mathematicion->mathematician
 mathematicks->mathematics
 mathematicly->mathematical
+mathematic->mathematical
+mathematics->mathematical
 mathematicss->mathematics
 mathematiically->mathematically
 mathematiical->mathematical
@@ -65817,7 +65833,8 @@ modulles->modules
 modullo->modulo
 modul->module
 modulues->modules
-modulu->modulus, modulo, module,
+modulu->modulo
+modulus->modulo
 modute->module
 modutes->modules
 moduto->modulo
@@ -66717,6 +66734,7 @@ multiplicannd->multiplicand
 multiplicativo->multiplication
 multiplicaton->multiplication
 multiplicatoor->multiplicator
+multiplicator->multiplicand
 multiplicatorr->multiplicator
 multiplicatro->multiplicator
 multipliccand->multiplicand
@@ -66727,7 +66745,8 @@ multiplicty->multiplicity
 multipliedd->multiplied
 multiplieed->multiplied
 multiplieers->multipliers
-multiplie->multiply, multiple,
+multiplie->multiple
+multiplie->multiply
 multiplierrs->multipliers
 multiplierss->multipliers
 multiplikand->multiplicand
@@ -68927,6 +68946,8 @@ normaized->normalized
 normale->normal
 normales->normals
 normaliizatiion->normalization
+normalisation->normalization
+normalisations->normalizations
 normalis->normals
 normalizalion->normalization
 normalizathion->normalization
@@ -76391,8 +76412,8 @@ popullation->population
 popullations->populations
 populos->populous
 popultaion->populations
-popup->pop up, disabled due to common spelling
-popups->pop ups, disabled due to common spelling
+popup->pop up
+popups->pop ups
 pop upss->pop ups
 poputarity->popularity
 poputar->popular
@@ -81906,6 +81927,7 @@ quarther->quarter
 quartically->quadratically
 quartlery->quarterly
 quartter->quarter
+quartz->quarz
 quaruntine->quarantine
 quarzz->quarz
 quatation->quotation
@@ -82024,6 +82046,7 @@ quicck->quick
 quiccly->quickly
 quicc->quick
 quicjkly->quickly
+quicker->quickly
 quicket->quickest
 quickets->quickest
 quickier->quicker
@@ -89510,6 +89533,7 @@ satisfactorilyy->satisfactorily
 satisfactority->satisfactorily
 satisfactorly->satisfactory
 satisfactorrily->satisfactorily
+satisfactory->satisfaction
 satisfactroily->satisfactorily
 satisfaktion->satisfaction
 satisfaktorily->satisfactorily
@@ -106319,6 +106343,7 @@ unmatch->mismatch
 unmecessarily->unnecessarily
 unmecessary->unnecessary
 unmeeded->unneeded
+unmerged->unmerge
 unmiistakably->unmistakably
 unmisitakably->unmistakably
 unmislakably->unmistakably
@@ -109885,6 +109910,7 @@ wearr->wear
 weas->was
 weater->weather
 weatherr->weather
+weather->whether
 weathher->weather
 weathliest->wealthiest
 weatther->weather
