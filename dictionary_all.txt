@@ -1905,8 +1905,6 @@ achitecture->architecture
 achitectures->architectures
 achival->archival
 achiveable->achievable
-achive->achieve
-achive->achieve, archive
 achive->achieve, archive,
 achived->achieved
 achived->achieved, archived
