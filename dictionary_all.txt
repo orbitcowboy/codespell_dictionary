@@ -18457,6 +18457,8 @@ civvilian->civilian
 cjoice->choice
 cjoices->choices
 ckeckbox->checkbox
+ckecked->checked
+ckeckes->checks
 ckeckpoint->checkpoint
 ckecks->checks
 ckernel->kernel
@@ -37961,6 +37963,7 @@ envvironmentalist->environmentalist
 envvironmentally->environmentally
 envvironment->environment
 envvironments->environments
+enxtend->extend
 enxt->next
 eny->any
 eode->code
@@ -39365,6 +39368,7 @@ exciitiing->exciting
 exciled->excited
 exciling->exciting
 excisted->existed
+excistent->existent
 excist->exist
 excisting->existing
 excitedd->excited
@@ -75729,6 +75733,7 @@ possibble->possible
 possibbly->possibly
 possibe->possible
 possibile->possible
+possibilies->possibilities
 possibililies->possibilities
 possibilily->possibility
 possibilites->possibilities
@@ -85467,6 +85472,7 @@ reqeust->request
 reqeusts->requests
 reqired->required
 reqirement->requirement
+reqires->requires
 reqiuem->requiem
 reqiure->require
 reqiures->requires
@@ -92880,6 +92886,7 @@ specifiction->specification
 specificy->specify, specificity, specifically,
 specifid->specified
 specifiedd->specified
+specifiees->specifies
 specifieing->specifying
 specifierr->specifier
 specifierrs->specifiers
@@ -100699,6 +100706,7 @@ togarithmic->logarithmic
 togeather->together
 togeetheer->together
 togehter->together
+togehther->together
 togeter->together
 togetherr->together
 togethher->together
