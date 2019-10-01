@@ -34028,6 +34028,7 @@ docucument->document
 docucuments->documents
 docuement->document
 docuements->documents
+docuemntation->documentation
 docuemnt->document
 docuemnts->documents
 docuemts->documents
@@ -86658,6 +86659,7 @@ retrievval->retrieval
 retrievved->retrieved
 retrievve->retrieve
 retrievving->retrieving
+retrigger->re-trigger
 retriieval->retrieval
 retriieved->retrieved
 retriieve->retrieve
@@ -89694,6 +89696,8 @@ sepina->subpoena
 seplicural->sepulchral
 seplling->spelling
 seporate->separate
+seporator->separator
+seporators->separators
 sepparated->separated
 sepparately->separately
 sepparate->separate
@@ -106434,6 +106438,8 @@ vaibility->viability
 vaid->valid, void,
 vaieties->varieties
 vaildated->validated
+vaildates->validates
+vaildate->validate
 vaild->valid
 vailidity->validity
 vailidty->validity
