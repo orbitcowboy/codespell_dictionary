@@ -631,7 +631,7 @@ abbreviathe->abbreviate
 abbreviathed->abbreviated
 abbreviathion->abbreviation
 abbreviathions->abbreviations
-abbreviatin->abbreviation
+abbreviatin->abbreviation, abbreviating,
 abbreviationn->abbreviation
 abbreviationns->abbreviations
 abbreviationss->abbreviations
@@ -783,7 +783,7 @@ abosrbs->absorbs
 abosrption->absorption
 abosulte->absolute
 abosulute->absolute
-abot->about
+abot->about, abort,
 abotu->about
 aboul->about
 abourt->abort, about,
@@ -893,7 +893,7 @@ absolutaely->absolutely
 absolutee->absolute
 absoluteely->absolutely
 absolutelly->absolutely
-absolutelys->absolutes
+absolutelys->absolutely
 absolutelyy->absolutely
 absolutey->absolutely
 absoluth->absolute
@@ -910,7 +910,7 @@ absolutte->absolute
 absoluttely->absolutely
 absoluute->absolute
 absoluutely->absolutely
-absoluve->absolute
+absoluve->absolve, absolute,
 absoluvely->absolutely
 absolvte->absolve
 absoolute->absolute
@@ -2133,7 +2133,7 @@ acquiantence->acquaintance
 acquiantences->acquaintances
 acquiesence->acquiescence
 acquiess->acquiesce
-acquifer->acquire
+acquifer->aquifer, acquire,
 acquiire->acquire
 acquiired->acquired
 acquiirer->acquirer
@@ -2282,7 +2282,7 @@ activelyy->actively
 activeta->activate
 activete->activate
 activetedevice->activatedevice
-activety->actively, activity,
+activety->activity, actively,
 activiates->activist
 activies->activities
 activiites->activist
@@ -2332,18 +2332,18 @@ actuaal->actual
 actuaally->actually
 actuak->actual
 actuakly->actually
-actualey->actualy
+actualey->actually
 actualiy->actuality
-actualky->actualy
+actualky->actually
 actuall->actual, actually,
 actuallin->actually
 actualllly->actually
 actuallly->actually
 actuallyy->actually
-actualmy->actualy
-actualoy->actualy
-actualpy->actualy
-actualty->actualy
+actualmy->actually
+actualoy->actually
+actualpy->actually
+actualty->actually
 actualy->actually
 actualyl->actually
 actuat->actual
@@ -2351,7 +2351,7 @@ actuatty->actually
 actuell->actual
 actuionable->actionable
 actuion->action
-actulay->actualy
+actulay->actually
 actullay->actually
 actully->actually
 actural->actual
@@ -2375,8 +2375,11 @@ acuqire->acquire
 acuracy->accuracy
 acurate->accurate
 acusation->causation
-acused->accused
-acusing->causing
+acuse->accuse, cause,
+acused->accused, caused,
+acuses->accuses, causes,
+acusing->accusing, causing,
+acusation->accusation, causation,
 acustom->accustom
 acustomed->accustomed
 acustommed->accustomed
@@ -2397,7 +2400,7 @@ adament->adamant
 adapated->adapted
 adapater->adapter
 adapaters->adapters
-adapation->adaption
+adapation->adaptation, adoption,
 adapative->adaptive
 adapd->adapted, adopt, adapt, adopted,
 adapdive->adaptive
@@ -2436,8 +2439,8 @@ adapthathion->adaptation
 adapthathions->adaptations
 adapthed->adapted
 adapther->adapter
-adaption->adaptation
-adaptions->adaptations
+adaption->adaptation, adoption,
+adaptions->adaptations, adoptions,
 adaptt->adapt
 adapttattion->adaptation
 adapttattions->adaptations
@@ -7432,7 +7435,7 @@ appearrances->appearances
 appearr->appear
 appearrs->appears
 appearss->appears
-appeas->appears
+appeas->appease, appears,
 appeating->appealing
 appeciate->appreciate
 appedn->append
@@ -7443,7 +7446,7 @@ appeear->appear
 appeears->appears
 appeendeed->appended
 appeendix->appendix
-appen->append
+appen->append, happen,
 appenddedd->appended
 appenddix->appendix
 appendent->appended
@@ -7454,7 +7457,7 @@ appendiix->appendix
 appendixx->appendix
 appened->appended, append, happened,
 appeneded->appended
-appenines->apennines, apennines,
+appenines->apennines, happenings,
 appennded->appended
 appenndix->appendix
 appennines->apennines
@@ -7494,12 +7497,12 @@ appied->applied
 appies->applies
 applaiction->application
 applainces->appliances
-applaudes->applause
-applaued->applaud
+applaudes->applauded, applause,
+applaued->applauded, applaud,
 applay->apply
 applcation->application
 applcations->applications
-appled->applet
+appled->applied, applet,
 appliable->applicable
 appliaction->application
 appliactions->applications
@@ -8879,8 +8882,8 @@ arument->argument
 arund->around
 arv studio->avr studio
 asapragus->asparagus
-as as->as
-asas->as
+as as->as, as is, 
+asas->as, as is, 
 asasin->assassin
 asasinate->assassinate
 asasinated->assassinated
@@ -9191,8 +9194,8 @@ assembledd->assembled
 assembleing->assembling
 assemblerr->assembler
 assembley->assembly
-assemblie->assemble
-assemblied->assembled
+assemblie->assembly, assemble,
+assemblied->assembled, assembly,
 assemblle->assemble
 assemblled->assembled
 assembller->assembler
@@ -9838,13 +9841,12 @@ atchach->attach
 atcohot->alcohol
 atcohotic->alcoholic
 atcually->actually
-atcualy->actualy
-ate->eight
+atcualy->actually
 a teest->a test
 ateism->atheism
 ateist->atheist
 ateistic->atheistic
-atelast->at least
+atelast->at least, at last, ate last,
 atemel->atmel
 atemga128a->atmega128a
 atemga128->atmega128
@@ -9997,7 +9999,6 @@ atlainder->attainder
 atlained->attained
 atlantc->atlantic
 atlantia->atlanta
-atlantis->atlantic
 at leas->at least
 at lease->at least
 at leasit->at least
@@ -10006,7 +10007,7 @@ atleast->at least
 atleaste->at least
 at leat->at least
 at leats->at least
-atleats->at least
+atleats->at least, athletes,
 at leeast->at least
 atlempt->attempt
 atlempted->attempted
@@ -31323,9 +31324,8 @@ developpers->developers
 developping->developing
 developpment->development
 developps->develops
-developres->develops
-developrs->develops
-develops->developers
+developres->developers, develops
+developrs->developers, develops,
 developss->develops
 develp->develop
 develped->developed
@@ -97750,7 +97750,7 @@ sxl->xsl
 syarcuse->syracuse
 syas->says
 syatems->systems
-syatem->sypport, system,
+syatem->system
 sybsystems->subsystems
 sybsystem->subsystem
 sycall->syscall
@@ -100715,13 +100715,12 @@ togeter->together
 togetherr->together
 togethher->together
 togethor->together
-togged->toggled
+togged->toggled, tagged,
 toggeling->toggling
 toggel->toggle
 togger->logger
 toggether->together
 togggglingg->toggling
-togglefullscreen->dotogglefullscreen
 toggleing->toggling
 toggleling->toggling
 toggliing->toggling
@@ -100772,6 +100771,7 @@ toklenization->tokenization
 toklenized->tokenized
 toklenizer->tokenizer
 to konnekt to->to connect to
+tok->took
 tolaerancae->tolerance
 tolarable->tolerable
 tolarances->tolerances
@@ -100813,7 +100813,7 @@ tomae->tome
 tomatoaes->tomatoes
 tomatoees->tomatoes
 tomatoess->tomatoes
-tomatoe->tomato
+tomatoe->tomato, tomatoes,
 tomatos->tomatoes
 tomee->tome
 tommatoes->tomatoes
@@ -100862,7 +100862,6 @@ too doo with->to do with
 tood->todo
 toogether->together
 tooggling->toggling
-tooglecomparetwocheckbox->togglecomparetwocheckbox
 toogle->toggle
 toogling->toggling
 tookenizatioon->tokenization
@@ -100962,8 +100961,8 @@ torchilght->torchlight
 torchlgiht->torchlight
 torchligth->torchlight
 torchligt->torchlight
-tored->stored
-torelable->tolerable
+tored->toured, toward, stored,
+torelable->tolerable, storable,
 torerable->tolerable
 torhclight->torchlight
 toriodal->toroidal
@@ -101011,9 +101010,9 @@ torrentbig->torrenting
 torrenters->torrents
 torrentes->torrents
 torrentking->torrenting
-torrentors->torrents
+torrentors->torrenters
 torrentting->torrenting
-torrest->torrents
+torrest->tourist, torrents, forests,
 torrmentorrs->tormentors
 torrnado->tornado
 torroidal->toroidal
@@ -101252,7 +101251,7 @@ tracebale->traceable
 tracebility->traceability
 traceeability->traceability
 traceeablee->traceable
-trackes->trackers
+trackes->tracks, trackers,
 trackign->tracking
 trackling->tracking
 trackres->trackers
@@ -108756,9 +108755,9 @@ whethe->whether
 whethher->whether
 whethter->whether
 whetther->whether
+whever->wherever, whenever,
+whe->when, we,
 whet->what, wet, when,
-whever->whenever
-whe->we, when,
 whhat's->what's
 whhat->what
 whheel->wheel
@@ -108886,7 +108885,7 @@ whoes->whose
 whoknows->who knows
 wholae raeport->whole report
 wholae->whole
-whold->whole
+whold->whole, would,
 wholee reeport->whole report
 wholee->whole
 wholeheartadly->wholeheartedly
@@ -109217,7 +109216,7 @@ wintesses->witnesses
 wintson->winston
 wioth->with
 wipoing->wiping
-wirded->weird, wired,
+wirded->wired, weird, weirded,
 wiredest->weirdest
 wireles->wireless
 wirelss->wireless
@@ -109227,7 +109226,7 @@ wirters->writers
 wirter->writer
 wirtes->writes
 wirte->write
-wirth->with, worth,
+wirth->worth, with, writhe,
 wirting->writing
 wirtten->written
 wirtual->virtual
@@ -109241,14 +109240,14 @@ wishpers->whispers
 wisnton->winston
 wisper->whisper
 wissle->whistle
-witable->writeable
+witable->writable, writeable,
 witdcarded->wildcarded
 witdcard->wildcard
 witdh->width
 witdrawal->withdrawal
 witdraw->withdraw
 witd->wild
-wite->white, write,
+wite->write, white, rite,
 witha->with a, with,
 withces->witches
 withcstring->withcastring
@@ -109522,7 +109521,7 @@ workboos->workbooks
 workding->working
 workedd->worked
 workeed->worked
-worken->woken
+worken->working, woken, awoken,
 workes->works
 workfore->workforce
 workfroce->workforce
@@ -109596,7 +109595,6 @@ worksthathion->workstation
 workststion->workstation
 worksttattions->workstations
 worksttattion->workstation
-worktrees->worktree
 worktsations->workstations
 worktsation->workstation
 work uniits->work units
@@ -109627,7 +109625,7 @@ worldwiide->worldwide
 worled->worked, world,
 worlldwide->worldwide
 worlld->world
-worls->world
+worls->world, worlds,
 worlwide->worldwide
 worngly->wrongly
 worng->wrong
@@ -109655,7 +109653,7 @@ worsenned->worsened
 worser->worse
 worshippig->worshipping
 worshippping->worshipping
-worshoping->worshiping
+worshoping->worshipping
 worshopping->worshipping
 worssened->worsened
 worstened->worsened
@@ -109669,8 +109667,8 @@ worthing->meriting, worth,
 worthwile->worthwhile
 worying->worrying
 wothout->without
-woudlnt->wouldnt
-woudlve->wouldve
+woudlnt->wouldn't
+woudlve->would've
 woudl->would
 woudn't->wouldn't
 woud->would
@@ -109691,18 +109689,19 @@ wouldnn't->wouldn't
 would nol->would not
 would noth->would not
 would nott->would not
-wouldnot->wouldnt
+wouldnot->would not, wouldn't,
 wouldn'th->wouldn't
 wouldn'tt->wouldn't
 wouldnt->would not, wouldn't,
 would'nt->wouldn't
 wouldn;t->wouldn't
-wouldnt'->wouldn't
+wouldnt->wouldn't
 wouldnt;->wouldn't
-would of->would have
+wouldnt'->wouldn't
+would of->would've, would have,
 would't->wouldn't
 woulkd->would
-woulld have->would have
+woulld have->would have, would've,
 woulld not->would not
 woulldn't->wouldn't
 woulld->would
@@ -109719,7 +109718,6 @@ wouuld not->would not
 wouuldn't->wouldn't
 wouuld->would
 wo->who
-wpb->wpdb
 wpdialod->wpdialog
 wqs->was
 wraapping->wrapping
@@ -109776,14 +109774,12 @@ writablae->writable
 writablee->writable
 writablle->writable
 writabte->writable
-writaeble->writable
+writaeble->writable, writeable,
 writaers->writers
 writaer->writer
 writae->write
-writeable->writable
-writeble->writable
+writeble->writable, writeable,
 writebufer->writebuffer
-writechan->writetchan
 writeers->writers
 writeer->writer
 writee->write
@@ -109791,7 +109787,7 @@ writeing->writing
 writen->written
 writerss->writers
 writesq->writesql
-writet->writes
+writet->writes, wrote,
 writewr->writer
 writhable->writable
 writhers->writers
@@ -109849,9 +109845,9 @@ wrosened->worsened
 wrotae->wrote
 wrotee->wrote
 wroten->wrote
-wrothe->wrote
-wrotte->wrote
-wrottn->wrote
+wrothe->wrote, writhe,
+wrotte->wrote, rotten,
+wrottn->wrote, rotten,
 wrrapping->wrapping
 wrrestlerrs->wrestlers
 wrritable->writable
@@ -110048,7 +110044,7 @@ xenophibic->xenophobic
 xenophobbia->xenophobia
 xenophobiaa->xenophobia
 xenophobiae->xenophobia
-xenophobical->xenophobia
+xenophobical->xenophobic, xenophobia,
 xenophobiia->xenophobia
 xenophoblic->xenophobic
 xenophoby->xenophobia
@@ -110174,7 +110170,7 @@ yiield->yield
 ymaha->yamaha
 ymbols->symbols
 yoesmite->yosemite
-yoman->yeoman
+yoman->woman
 yon->you
 yoou are at->you are at
 yoou're->you're
@@ -110352,7 +110348,7 @@ zoinist->zionist
 zomebie->zombie
 zookeenee->zucchini
 zoon->zoom
-zoro->zero
+zoro->zero, zorro,
 zuric->zurich
 zuser->user
 zylophone->xylophone
