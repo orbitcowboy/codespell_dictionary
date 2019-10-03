@@ -15643,7 +15643,7 @@ carbohyrdate->carbohydrates
 carbohyrdates->carbohydrates
 carboyhdrates->carbohydrates
 carbus->cardbus
-carcas->carcass, caracas, caracas,
+carcas->carcass, caracas,
 carcassss->carcass
 carciature->caricature
 carcus->carcass
@@ -15744,7 +15744,7 @@ carnavor->carnivore
 carnberry->cranberry
 carneegiee->carnegie
 carneegiee-meellon->carnegie-mellon
-carnege->carnegie, carnage, carnegie,
+carnege->carnage, carnegie,
 carneggie->carnegie
 carneggie-mellon->carnegie-mellon
 carnegie-mellllon->carnegie-mellon
@@ -15753,7 +15753,7 @@ carnegie-melon->carnegie-mellon
 carnegie-metton->carnegie-mellon
 carnegiie->carnegie
 carnegiie-mellon->carnegie-mellon
-carnige->carnegie, carnage, carnegie,
+carnige->carnage, carnegie,
 carnigie->carnegie
 carnigie-mellon->carnegie-mellon
 carniivorous->carnivorous
@@ -27585,7 +27585,7 @@ damague->damage
 damanged->damaged
 dam->damn
 damenor->demeanor
-dameon->damien, demon, daemon, damien,
+dameon->daemon, demon, damien,
 damge->damage
 dammage->damage
 dammages->damages
@@ -44378,7 +44378,7 @@ gaauguin->gauguin
 gadged->gadget, gauged,
 gadgest->gadgets
 gaeel->gael
-gae->gale, gael, gael, game,
+gae->gale, gael, game,
 gaelaectic->galactic
 gaelaetiaens->galatians
 gaelaexies->galaxies
@@ -45346,7 +45346,7 @@ goegraphy->geography
 goemetries->geometries
 goergia->georgia
 gogether->together
-gogin->going, gauguin, gauguin,
+gogin->going, gauguin,
 gohtenburg->gothenburg
 goign->going
 goiing->going
@@ -46584,8 +46584,7 @@ halloowe'en->hallowe'en
 hallooween->halloween
 hallowae'aen->hallowe'en
 hallowaeaen->halloween
-hallowean->hallowe'en, halloween,
-hallowean->hallowe\"en, hallowe'en, halloween,
+hallowean->halloween, hallowe'en,
 hallowee'een->hallowe'en
 halloweeeen->halloween
 halloweeen->halloween
@@ -47342,7 +47341,7 @@ hepler->helper
 heplp->help
 heraa->hera
 herader->header
-herad->hera, heard, hera,
+herad->heard, herald, hera,
 herae->hera
 herathstone->hearthstone
 heratige->heritage
@@ -57016,7 +57015,7 @@ jewellllery->jewellery
 jewelrey->jewelry
 jewerly->jewelry
 jewettery->jewellery
-jewl->jewel, jew, jew,
+jewl->jewel, jew,
 jewllery->jewellery
 jewwellery->jewellery
 jist->gist
@@ -66081,7 +66080,7 @@ mutlitasking->multitasking
 mutli-threaded->multi-threaded
 mutlitude->multitude
 mutliverse->multiverse
-mut->mutt, disabled because of rust keyword, must, moot
+mut->mutt, must, moot, disabled because of rust keyword
 muts exits->must exist
 muttichar->multichar
 mutticutturalism->multiculturalism
@@ -91471,7 +91470,7 @@ skiping->skipping
 skippd->skipped
 skippped->skipped
 skipp->skip, skipped,
-skipt->skipped, skype, skip, skype,
+skipt->skipped, skype, skip,
 skirmiches->skirmish
 skitsofrinic->schizophrenic
 skkagerrakk->skagerrak
@@ -91500,7 +91499,7 @@ skulptures->sculptures
 skurge->scourge
 skwyard->skyward
 skylaye->skylake
-skyp->skype, skip, skype,
+skyp->skype, skip,
 skywalkr->skywalker
 slaashes->slashes
 slaaughterhouses->slaughterhouses
