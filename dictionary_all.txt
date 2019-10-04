@@ -31334,11 +31334,14 @@ develpers->developers
 develpment->development
 develpoment->development
 develpoments->developments
-devels->delves
+devels->delves, developers, devils,
 devensive->defensive
+devensively->defensively
 deveolpment->development
+deveoper->developer
 deveopers->developers
 deveploment->development
+deveploments->developments
 deverloper->developer
 deverlopers->developers
 devestated->devastated
@@ -31383,8 +31386,8 @@ devider->divider
 deviders->dividers
 devides->divides
 deviding->dividing
-devied->device
-devie->device
+devied->divide, device,
+devie->device, divide,
 deviiatiion->deviation
 deviiatiions->deviations
 deviice->device
