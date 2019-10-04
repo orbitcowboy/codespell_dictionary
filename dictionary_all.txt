@@ -107188,7 +107188,7 @@ versatilityy->versatility
 versatiliy->versatility
 versatille->versatile
 versatillity->versatility
-versatilte->versatile
+versatilte->versatility, versatile,
 versatilty->versatility
 versatily->versatility
 versatitity->versatility
@@ -107202,6 +107202,9 @@ versin->version
 versioed->versioned
 versioing->versioning
 versiom->version
+versioms->versions
+versiomed->versioned
+versioming->versioning
 versionaddded->versionadded
 version ccontrol->version control
 version conlrol->version control
@@ -107236,8 +107239,8 @@ versons->versions
 verson->version
 verssatility->versatility
 verssion control->version control
-verssionss->versions
 verssion->version
+verssionss->versions
 verstaile->versatile
 versu->versus
 vertabim->verbatim
@@ -107250,9 +107253,8 @@ verthices->vertices
 vertial->vertical
 verticaal->vertical
 verticael->vertical
-vertical align->vertically align
 verticale->vertical
-verticallity->vertically
+verticallity-> verticality, vertically,
 verticall->vertical
 verticaly->vertically
 verticat->vertical
@@ -107406,7 +107408,7 @@ vigilancee->vigilance
 vigilane->vigilante
 vigilanke->vigilance
 vigilannce->vigilance
-vigilanties->vigilante
+vigilanties->vigilantes
 vigilantie->vigilante
 vigilanty->vigilante
 vigilence->vigilance
@@ -107460,7 +107462,7 @@ viisiit->visit
 viisualiizatiion->visualization
 viisualiized->visualized
 viisually->visually
-vike versa->vice versa
+vike->vice, bike,
 vikigns->vikings
 vikingos->vikings
 vikinity->vicinity
@@ -107499,6 +107501,7 @@ villlli->villi
 vill->will
 viloently->violently
 vinal->vinyl
+vinals->vinyls
 vincinity->vicinity
 vindicitve->vindictive
 vindictave->vindictive
@@ -107565,14 +107568,14 @@ virtualy->virtually
 virtuatty->virtually
 virtuat->virtual
 virtuell->virtual
-virtuels->virtues
-virtuose->virtues
+virtuels->virtues, virtual,
+virtuose->virtuous
 virtural->virtual
 virture->virtue
 virtuually->virtually
 virtuual->virtual
 virualization->visualization
-virual->viral, virtual,
+virual->virtual, viral,
 virusaes->viruses
 virusees->viruses
 virussess->viruses
@@ -107609,11 +107612,11 @@ visibale->visible
 visibble->visible
 visibbly->visibly
 visibile->visible
-visibiliy->visibility
+visibiliy->visibility, visibly,
 visibillity->visibility
 visibiltiy->visibility
 visibilty->visibility
-visibily->visibility
+visibily->visibly, visibility,
 visiblae->visible
 visibleable->visible
 visiblee->visible
@@ -108908,14 +108911,14 @@ wholle report->whole report
 wholle->whole
 wholllly->wholly
 whollyy->wholly
-wholy->holy, wholly,
+wholy->wholly, holy,
 whoole repoort->whole report
 whoole->whole
 whoolly->wholly
 whoose->whose
 whoo->who
 whoses->whose
-whos->whose, who's,
+whos->whose, who's, who is,
 whote report->whole report
 whote->whole
 whotty->wholly
@@ -108940,7 +108943,7 @@ wiat->wait
 wiavers->waivers
 wiazrds->wizards
 wiazrd->wizard
-wichid->whichid
+wichid->wicked
 wich->which, witch,
 wicipedia->wikipedia
 wickipedia->wikipedia
@@ -108999,9 +109002,9 @@ wierd->weird
 wietded->wielded
 wietd->wield
 wieth->width
-wieving->viewing
-wievs->view
-wiev->view
+wieving->viewing, weaving,
+wievs->views, weaves,
+wiev->view, weave,
 wiew->view
 wifae->wife
 wifee->wife
@@ -109097,7 +109100,7 @@ wilhhold->withhold
 wilhin->within
 wilh one->with one
 wilhoul->without
-wilh->will, with,
+wilh->with, will,
 wilingness->willingness
 willaims->williams
 will bae traeataed->will be treated
@@ -109277,7 +109280,7 @@ withdrraw->withdraw
 withd->width
 witheld->withheld
 withelist->whitelist
-wither->weather, whether, either,
+wither->wither, either, whether, weather,
 withespace->whitespace
 withe->with
 withhaeld->withheld
@@ -109318,7 +109321,7 @@ withoud->without
 withought->without
 withough->without
 withoug->without
-withour->with our, without,
+withour->without, with our,
 withouth->without
 with out->without
 withouut->without
@@ -109328,7 +109331,7 @@ witho->with
 withrdawal->withdrawals
 withrdawing->withdrawing
 withspace->whitespace
-withs->widths, with,
+withs->with, widths,
 wit hthe->with the
 withthe->with the
 withtin->within
@@ -109359,7 +109362,6 @@ wittingness->willingness
 witt not work->will not work
 witt observe->will observe
 witt->will
-wit->with
 wiull->will
 wiyhout->without
 wiyh->with
@@ -109412,10 +109414,10 @@ wonderfut->wonderful
 wonderfuul->wonderful
 wonderig->wondering
 wonderlad->wonderland
-wonderous->wondrous
+wonderous->wonderous, wondrous,
 wonderred->wondered
 wonderrful->wonderful
-wonderus->wonders
+wonderus->wonderous, wondrous, wonders,
 wonderwand->wonderland
 wondow->window
 won'l->won't
@@ -109426,7 +109428,7 @@ won'th->won't
 won'tt->won't
 wont't->won't
 won;t->won't
-wont->won't
+wont->won't, wont,
 woodowrking->woodworking
 woodworkign->woodworking
 woondered->wondered
@@ -109727,9 +109729,9 @@ wraapping->wrapping
 wraepping->wrapping
 wraestlaers->wrestlers
 wranlger->wrangler
-wraped->warped, wrapped,
+wraped->wrapped, warped,
 wraper->wrapper
-wraping->warping, wrapping,
+wraping->wrapping, warping,
 wrappiing->wrapping
 wrappingg->wrapping
 wrappinng->wrapping
@@ -109810,7 +109812,7 @@ writters->writers
 writter->writer
 writte->write
 writting->writing
-writtin->writing, written,
+writtin->written, writing,
 writtten->written
 writttten->written
 wrnagler->wrangler
@@ -110145,7 +110147,6 @@ yemenitte->yemenite
 yemennite->yemenite
 yemenni->yemeni
 yementite->yemenite, yemeni,
-yementite->yemeni, yemenite,
 yemmenite->yemenite
 yemmeni->yemeni
 yeras->years
@@ -110255,7 +110256,7 @@ you'v->you've
 you you->you
 ypes->types
 yrea->year
-yse->use, yes, nyse, nyse,
+yse->yes, use, nyse,
 ytou->you
 yuforic->euphoric
 yugoslac->yugoslav
