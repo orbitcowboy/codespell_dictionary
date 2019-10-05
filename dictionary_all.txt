@@ -80629,7 +80629,7 @@ qqualification->qualification
 qquantity->quantity
 qquarantine->quarantine
 qquarter->quarter
-qquarz->quarz
+qquarz->quartz
 qquestionable->questionable
 qquestion->question
 qquestions->questions
