@@ -100132,7 +100132,6 @@ thouggh->though
 thougght->thought
 thoughout->throughout
 thoughs->thoughts
-thought->though
 thougths->thoughts
 thougth->thought
 thougt->though, thought,
