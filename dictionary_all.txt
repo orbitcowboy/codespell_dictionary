@@ -5110,7 +5110,7 @@ alienatting->alienating
 alienet->alienate
 aliennatinng->alienating
 alientating->alienating
-alievating->alienating
+alievating->alleviating
 aliged->aligned
 aligement->alignment
 aliggn->align
@@ -11781,7 +11781,7 @@ basaelinae->baseline
 basband->baseband
 bascially->basically
 basci->basic
-bascily->basicly
+bascily->basically
 bascktrack->backtrack
 basedd on->based on
 based onn->based on
@@ -11800,16 +11800,14 @@ basicallyy->basically
 basicaly->basically
 basicatty->basically
 basiccally->basically
-basiclay->basicly
-basicley->basicly
-basicliy->basicly
+basiclay->basically
+basicley->basically
+basicliy->basically
 basiclly->basically
 basicly->basically
-basicmanger->basicmanager
-basidide->basicide
 basiically->basically
 basikally->basically
-basilcy->basicly
+basilcy->basically
 basiton->bastion
 basix->basic
 baskteball->basketball
@@ -11820,7 +11818,6 @@ bassed->passed
 basseline->baseline
 bassically->basically
 bassic->basic
-bastane->bastante
 bastardes->bastards
 bastardos->bastards
 bastardous->bastards
@@ -11870,9 +11867,9 @@ battlefiled->battlefield
 battlefont->battlefront
 battlefornt->battlefront
 battlehips->battleship
-battlehsips->battleship
-battlesaur->battlestar
-battlescar->battlestar
+battlehsips->battleships
+battlesaur->battlestar, battle scar,
+battlescar->battle scar
 battleshhip->battleship
 battleshiip->battleship
 battleshipp->battleship
@@ -11897,7 +11894,7 @@ bayliwick->bailiwick
 baynoet->bayonet
 bayoent->bayonet
 bayonent->bayonet
-bazare->bazaar
+bazare->bazaar, bizarre,
 bazerk->berserk
 bback->back
 bbackground->background
@@ -12044,9 +12041,8 @@ bbusinessman->businessman
 bbusy->busy
 bbutterfly->butterfly
 bbutton->button
-bby 10 microseconds->by 10 microseconds
-bby->by
-bby the same->by the same
+bby->by, bye-bye,
+bbyte->byte
 bcak->back
 bcause->because
 bceuase->because
@@ -12138,7 +12134,7 @@ becaeuse of->because of
 becahse->because
 becaise->because
 becamae->became
-becames->became, becomes,
+becames->becomes, became,
 becamme->became
 becaouse->because
 becase->because
@@ -12199,7 +12195,7 @@ be doone->be done
 bedore->before
 bee ablee->be able
 beeachheead->beachhead
-beeak->break
+beeak->break, beak,
 beean->been
 bee applieed->be applied
 beeautifieer->beautifier
@@ -12210,7 +12206,8 @@ beecausee i->because i
 beecausee of->because of
 beecomees->becomes
 beecoming->becoming
-beed->been
+beed->been, bead, beet, beer, bees,
+bee done->be done
 bee donee->be done
 beeep->beep
 beeforee->before
@@ -47744,7 +47741,7 @@ highaer->higher
 highaest->highest
 high-affort->high-effort
 highalnder->highlander
-high bbyte->high byte
+highbyte->high byte
 high byle->high byte
 high bytae->high byte
 high bytee->high byte
@@ -60248,7 +60245,7 @@ loogical->logical
 lookasize->lookaside
 lookback->loopback
 lookes->looks
-lookin->looking
+lookin->looking, look in, lookin',
 looknig->looking
 loolkils->toolkits
 loolkil->toolkit
@@ -60288,7 +60285,7 @@ loosy->lossy
 loothringen->lothringen
 looudly->loudly
 loove->love
-loow byte->low byte
+loow->low
 lopback->loopback
 lopics->topics
 lopic->topic
@@ -108590,7 +108587,7 @@ well knoown->well known
 wellknown->well known
 wellll known->well known
 wellll->well
-well-reknowned->well renowned, well-renowned,
+well-reknowned->well-renowned, well renowned,
 well-reknown->well-renowned, well renown,
 welp->whelp
 welšsky->velšsky
@@ -108609,10 +108606,10 @@ we mustt pointt->we must point
 we muts point->we must point
 we muust point->we must point
 wendesdays->wednesdays
-wendesday->wednesday, wednesday,
-wendsay->wednesday, wednesday,
+wendesday->wednesday
+wendsay->wednesday
 wendsday->wednesday
-wensday->wednesday, wednesday,
+wensday->wednesday
 wents->went
 wen->we, when,
 wepbage->webpage
@@ -108620,7 +108617,7 @@ weppon->weapon
 wereabouts->whereabouts
 wereas->whereas
 weree->were
-were'nt->wasn't, weren't,
+were'nt->weren't, wasn't,
 werent->weren't
 were're->we're
 werever->wherever
@@ -108690,7 +108687,7 @@ whataver->whatever
 whatchdog->watchdog
 whatepsaces->whitespaces
 whatepsace->whitespace
-whather->weather, whether,
+whather->whether, weather,
 whath's->what's
 whath->what
 whatosever->whatsoever
@@ -108882,7 +108879,7 @@ whitspace->whitespace
 whittelistt->whitelist
 whittespace->whitespace
 whitte->white
-whit->white, with,
+whit->with, white, whit,
 whlch->which
 whle->while
 whlie->while
@@ -109060,7 +109057,6 @@ wiith one->with one
 wiithout->without
 wiith->with
 wiizard->wizard
-wikileakers->wikileaks
 wikileakes->wikileaks
 wikipaedia->wikipedia
 wikipeadia->wikipedia
