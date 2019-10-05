@@ -105349,7 +105349,6 @@ unregistred->unregistered
 unregistrs->unregisters
 unregiters->unregisters
 unregiter->unregister
-varianz->variant
 unregluated->unregulated
 unregnized->unrecognized
 unregognised->unrecognised
@@ -106633,6 +106632,7 @@ varianth->variant
 variantions->variations
 variantt->variant
 varian->variant
+varianz->variant
 varias->various
 variathions->variations
 variatinos->variations
