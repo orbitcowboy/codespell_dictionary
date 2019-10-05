@@ -2374,12 +2374,12 @@ acumulator->accumulator
 acuqire->acquire
 acuracy->accuracy
 acurate->accurate
+acusation->accusation, causation,
 acusation->causation
 acuse->accuse, cause,
 acused->accused, caused,
 acuses->accuses, causes,
 acusing->accusing, causing,
-acusation->accusation, causation,
 acustom->accustom
 acustomed->accustomed
 acustommed->accustomed
@@ -8882,8 +8882,8 @@ arument->argument
 arund->around
 arv studio->avr studio
 asapragus->asparagus
-as as->as, as is, 
-asas->as, as is, 
+as as->as, as is,
+asas->as, as is,
 asasin->assassin
 asasinate->assassinate
 asasinated->assassinated
@@ -107201,10 +107201,10 @@ versins->versions
 versin->version
 versioed->versioned
 versioing->versioning
-versiom->version
-versioms->versions
 versiomed->versioned
 versioming->versioning
+versioms->versions
+versiom->version
 versionaddded->versionadded
 versionccontrol->version control
 versionconlrol->version control
@@ -107239,9 +107239,9 @@ versons->versions
 verson->version
 verssatility->versatility
 verssioncontrol->version control
-verssion->version
-verssions->versions
 verssionss->versions
+verssions->versions
+verssion->version
 verstaile->versatile
 versu->versus
 vertabim->verbatim
@@ -107501,8 +107501,8 @@ villllein->villein
 villlli->villi
 vill->will
 viloently->violently
-vinal->vinyl
 vinals->vinyls
+vinal->vinyl
 vincinity->vicinity
 vindicitve->vindictive
 vindictave->vindictive
@@ -108761,9 +108761,9 @@ whethe->whether
 whethher->whether
 whethter->whether
 whetther->whether
+whet->what, wet, when,
 whever->wherever, whenever,
 whe->when, we,
-whet->what, wet, when,
 whhat's->what's
 whhat->what
 whheel->wheel
@@ -109700,9 +109700,9 @@ wouldn'tt->wouldn't
 wouldnt->would not, wouldn't,
 would'nt->wouldn't
 wouldn;t->wouldn't
+wouldnt'->wouldn't
 wouldnt->wouldn't
 wouldnt;->wouldn't
-wouldnt'->wouldn't
 would of->would've, would have,
 would't->wouldn't
 woulkd->would
