@@ -22171,7 +22171,9 @@ confilct->conflict
 confilcting->conflicting
 confilcts->conflicts
 confim->confirm
+confimed->confirmed
 confimred->confirmed
+confims->confirms
 confing->config
 confins->confines
 confirguration->configuration
