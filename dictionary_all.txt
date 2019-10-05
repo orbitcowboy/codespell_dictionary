@@ -971,7 +971,6 @@ abstaction->abstraction
 abstactions->abstractions
 abstactly->abstractly
 abstanence->abstinence
-abstante->bastante
 abstenance->abstinence
 abstenince->abstinence
 abstinense->abstinence
@@ -2506,7 +2505,6 @@ addess->address
 addessed->addressed
 addesses->addresses
 addessing->addressing
-addexportlocation->addexportedlocation
 addherence->adherence
 addhering->adhering
 addicitons->addictions
@@ -5359,7 +5357,6 @@ allocted->allocated
 allocting->allocating
 alloction->allocation
 alloctor->allocator
-allocxtstdevice->allocxtestdevice
 allodating->allocating
 alloed->allowed
 alloes->allows
@@ -6382,9 +6379,7 @@ androgyynous->androgynous
 androgyynyy->androgyny
 androiders->androids
 androides->androids
-androidextra->androidextras
 androidos->androids
-androidsplices->androidsplice
 androidtvs->androids
 androiid->android
 androind->android
