@@ -60280,7 +60280,6 @@ loopbcck->loopback
 looppback->loopback
 loopup->lookup
 looseley->loosely
-loose->lose
 loosing->losing
 loosley->loosely
 loos->loose, lose,
