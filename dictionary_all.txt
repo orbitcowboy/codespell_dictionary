@@ -106632,7 +106632,7 @@ varianth->variant
 variantions->variations
 variantt->variant
 varian->variant
-varianz->variant
+varianz->variance, variants, variant,
 varias->various
 variathions->variations
 variatinos->variations
