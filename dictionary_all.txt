@@ -2380,6 +2380,7 @@ acuse->accuse, cause,
 acused->accused, caused,
 acuses->accuses, causes,
 acusing->accusing, causing,
+acusation->accusation, causation,
 acustom->accustom
 acustomed->accustomed
 acustommed->accustomed
@@ -11772,6 +11773,7 @@ barrer->barrier
 barriors->barriers
 barrles->barrels
 barsita->barista
+bartendar->bartender
 bartendars->bartenders
 barvery->bravery
 barycentic->barycentric
@@ -60295,6 +60297,7 @@ lormenlors->tormentors
 lornado->tornado
 loroidal->toroidal
 lorpedoes->torpedoes
+los->lose, loss,
 losae->lose
 losee->lose
 losely->loosely
