@@ -2687,7 +2687,7 @@ adherring->adhering
 adhevise->adhesive
 adhherence->adherence
 adhhering->adhering
-a-diaerers->a-diaereses
+diaerers->diaereses
 adiditon->addition
 adilionally->additionally
 adilionaly->additionally
@@ -4742,7 +4742,6 @@ akkustomed->accustomed
 aknowledged->acknowledged
 aknowledges that->acknowledges that
 aknowledging->acknowledging
-a kollektion->a collection
 akoustik->acoustic
 akquaintanke->acquaintance
 akquaintankes->acquaintances
