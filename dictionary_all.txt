@@ -407,7 +407,6 @@ aascending->ascending
 aascension->ascension
 aascetic->ascetic
 aascii->ascii
-faar->far
 aasiaan->asian
 aaside->aside
 aaspect->aspect
@@ -495,11 +494,11 @@ aauthority->authority
 aauthorized->authorized
 aauthors->authors
 aauthorship->authorship
+aauto->auto
 aautobiograaphic->autobiographic
 aautobiograaphy->autobiography
 aautochthonous->autochthonous
 aautoincrement->autoincrement
-aauto->auto
 aautomaagicaally->automagically
 aautomaated->automated
 aautomaaticaally->automatically
@@ -2354,7 +2353,6 @@ acuse->accuse, cause,
 acused->accused, caused,
 acuses->accuses, causes,
 acusing->accusing, causing,
-acusation->accusation, causation,
 acustom->accustom
 acustomed->accustomed
 acustommed->accustomed
@@ -2664,7 +2662,6 @@ adherring->adhering
 adhevise->adhesive
 adhherence->adherence
 adhhering->adhering
-diaerers->diaereses
 adiditon->addition
 adilionally->additionally
 adilionaly->additionally
@@ -3183,6 +3180,7 @@ advvised->advised
 advvising->advising
 advvisory->advisory
 adwances->advances
+ae->a
 aeach->each
 aeactivate->deactivate, activate,
 aeaels->eels
@@ -3270,7 +3268,6 @@ aecknowledges thaet->acknowledges that
 aecknowledging->acknowledging
 aeclaectic->eclectic
 aeclipsae->eclipse
-ae->a
 aeconomic->economic
 aeconomy->economy
 aecoustic->acoustic
@@ -3788,6 +3785,7 @@ aertificiael->artificial
 aertificiaelly->artificially
 aertillery->artillery
 aeruptaed->erupted
+aes->as
 aescapae->escape
 aescending->ascending
 aescension->ascension
@@ -3897,7 +3895,6 @@ aestimation->estimation
 aestthettic->aesthetic
 aestthettical->aesthetical
 aestthettically->aesthetically
-aes->as
 aesy->easy
 aesymmetricael->asymmetrical
 aesymmetric->asymmetric
@@ -11579,8 +11576,8 @@ balanse->balances
 balaster->baluster
 balcanes->balances
 balch monilor->batch monitor
-balck->black, balk,
 balckberry->blackberry
+balck->black, balk,
 balcked->blacked
 balckhawks->blackhawks
 balckjack->blackjack
@@ -14361,23 +14358,29 @@ by by->by
 bycicle->bicycle
 bycicles->bicycles
 by hte same->by the same
+byle->bile, byte,
 by lhe same->by the same
+bytae->byte
 bytebufer->bytebuffer
 bytebufers->bytebuffers
+bytee->byte
 byteoder->byte order
 byteorder->byte order, disabled due to java class,
 by te same->by the same
 by thae samae->by the same
 by the ame->by the same
+bythe->byte, by the,
 by thee samee->by the same
 by the saame->by the same
 by the saeme->by the same
 by the samme->by the same
 by the ssame->by the same
 by thhe same->by the same
+bytte->byte
 by tthe same->by the same
 byy 10 microseconds->by 10 microseconds
 byy->by
+byyte->byte
 byy the same->by the same
 caached->cached
 caaching->caching
@@ -31403,6 +31406,7 @@ diaegraems->diagrams
 diael->dial
 diaeled->dialed
 diaemonds->diamonds
+diaerers->diaereses
 diaganol->diagonal
 diaggnostic->diagnostic
 diaggnostics->diagnostics
@@ -41030,6 +41034,7 @@ faamous->famous
 faanaaticism->fanaticism
 faantaastic->fantastic
 faantaasy->fantasy
+faar->far
 faascinaated->fascinated
 faascist->fascist
 faaster->faster
@@ -47614,13 +47619,12 @@ hierroglyphics->hieroglyphics
 hierroglyphs->hieroglyphs
 hiesman->heisman
 hietus->hiatus
-hig->high, gig, jig, big,
 higeine->hygiene
 higer->higher
 higest->highest
-higgh->high
 higgher->higher
 higghest->highest
+higgh->high
 higgh-level->high-level
 higghligghted->highlighted
 higghligght->highlight
@@ -47631,12 +47635,6 @@ highaest->highest
 high-affort->high-effort
 highalnder->highlander
 highbyte->high byte
-byle->bile, byte,
-bytae->byte
-bytee->byte
-bythe->byte, by the,
-bytte->byte
-byyte->byte
 higheer->higher
 higheest->highest
 highe->high
@@ -47649,6 +47647,7 @@ highesth->highest
 highestt->highest
 highets->highest
 highhest->highest
+hig->high, gig, jig, big,
 highjack->hijack
 high-laevael->high-level
 highlane->highlander
@@ -54050,6 +54049,7 @@ instalement->installment
 instaling->installing
 instal->install
 installaed->installed
+installaer->installer
 installa->install a
 installaion->installation
 installataion->installation
@@ -59342,7 +59342,6 @@ likelly->likely
 likelyhood->likelihood
 likelyy->likely
 like maany paarts->like many parts
-paerts->parts
 like manny parts->like many parts
 like many parls->like many parts
 like many parrts->like many parts
@@ -59350,7 +59349,6 @@ like many parst->like many parts
 like many parths->like many parts
 like many partss->like many parts
 like many partts->like many parts
-pparts->parts
 like may parts->like many parts
 like mmany parts->like many parts
 likenke->licence
@@ -60168,7 +60166,6 @@ lormenlors->tormentors
 lornado->tornado
 loroidal->toroidal
 lorpedoes->torpedoes
-los->lose, loss,
 losae->lose
 losee->lose
 losely->loosely
@@ -60177,6 +60174,7 @@ losen->loosen
 losiing->losing
 losingg->losing
 losinng->losing
+los->lose, loss,
 lo slraighlen->to straighten
 losse->lose
 lossess->lossless
@@ -60211,8 +60209,8 @@ lovae->love
 lovee->love
 lov->love
 lovve->love
-lo wail for lhe->to wait for the
 low-affort->low-effort
+lo wail for lhe->to wait for the
 lowards->towards
 loward->toward
 lowd->load
@@ -69356,8 +69354,8 @@ once nice->one nice
 onces->ounces, ones, once,
 ond->one
 onece->once
-onee->one
 onee nicee->one nice
+onee->one
 oneerous->onerous
 one hting i->one thing i
 one lhing i->one thing i
@@ -71451,6 +71449,7 @@ paertiell->partiell
 paertitioning->partitioning
 paertitions->partitions
 paertly->partly
+paerts->parts
 paerturbation->perturbation
 paerturbations->perturbations
 paerty->party
@@ -75904,6 +75903,7 @@ ppartiell->partiell
 ppartitioning->partitioning
 ppartitions->partitions
 ppartly->partly
+pparts->parts
 pparty->party
 ppassed->passed
 ppassengers->passengers
@@ -88976,8 +88976,8 @@ seensee->sense
 seensitiveeneess->sensitiveness
 seensitivee->sensitive
 seensor->sensor
-seent->seen, sent, scent, scene,
 seenteencee->sentence
+seent->seen, sent, scent, scene,
 seeparateed->separated
 seeparateely->separately
 seeparatee->separate
@@ -99282,11 +99282,9 @@ thaan->than
 thaat's->that's
 thaat->that
 thable->table
-thae->the
 thae aeasae of->the ease of
 thae aend->the end
 thaeataer->theater
-installaer->installer
 thaeir->their
 thae lataest->the latest
 thaemsaelvaes->themselves
@@ -99305,6 +99303,7 @@ thaermostat->thermostat
 thaesae raequiraemaents->these requirements
 thaesae->these
 thaeter->theater
+thae->the
 thaet's->that's
 thaet->that
 thaey havae baeaen->they have been
@@ -99706,8 +99705,6 @@ thherefrom hhere->therefrom here
 thhere->there
 thhermostat->thermostat
 thhermosthath->thermostat
-requiremenths->requirements
-requirements->requirements
 thhese->these
 thhe->the
 thhey hhave been->they have been
@@ -108442,8 +108439,8 @@ weppon->weapon
 wereabouts->whereabouts
 wereas->whereas
 weree->were
-were'nt->weren't, wasn't,
 werent->weren't
+were'nt->weren't, wasn't,
 were're->we're
 werever->wherever
 were'->we're
