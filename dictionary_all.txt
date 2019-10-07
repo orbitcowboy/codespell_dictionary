@@ -774,7 +774,7 @@ abotu->about
 aboul->about
 abourt->abort, about,
 abouta->about a
-a bout->about
+a bout->about, a bout,
 abouth->about
 aboutit->about it
 aboutt->about
@@ -1238,7 +1238,6 @@ accessibiliity->accessibility
 accessibiliy->accessibility, accessible,
 accessibilty->accessibility
 accessibily->accessibility
-accessiblerolte->accessiblerole
 accessiblility->accessibility
 accessiblilty->accessibility
 accessiblity->accessibility
@@ -1270,7 +1269,7 @@ accessssess->accesses
 accessssible->accessible
 accessssing->accessing
 accessssion->accession
-accestor->accessor
+accestor->accessor, ancestor,
 accetable->acceptable
 accet->accept
 acceterated->accelerated
@@ -12186,7 +12185,6 @@ beehind->behind
 beehtoven->beethoven
 beeing->been, being,
 beeings->beings
-beeing seent->being sent
 beeleeagueereed->beleaguered
 beelgium->belgium
 beelieef->belief
@@ -89079,6 +89077,7 @@ seensee->sense
 seensitiveeneess->sensitiveness
 seensitivee->sensitive
 seensor->sensor
+seent->seen, sent, scent, scene,
 seenteencee->sentence
 seeparateed->separated
 seeparateely->separately
