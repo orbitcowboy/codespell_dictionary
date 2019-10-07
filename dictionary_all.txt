@@ -1,6 +1,7 @@
 1990ss->1990s
 1nd->1st
 a a->a
+aa->a
 aabaandon->abandon
 aabaandoned->abandoned
 aabaandoning->abandoning
@@ -77,7 +78,6 @@ aack->ack
 aacknowledged->acknowledged
 aacknowledges thaat->acknowledges that
 aacknowledging->acknowledging
-aa collection->a collection
 aacoustic->acoustic
 aacquaaintaance->acquaintance
 aacquaaintaances->acquaintances
@@ -104,7 +104,6 @@ aadaaptaations->adaptations
 aadaapt->adapt
 aadaapted->adapted
 aadaapter->adapter
-aa daataa type->a data type
 aadd->add
 aadded->added
 aadding->adding
@@ -206,7 +205,6 @@ aalienaating->alienating
 aalign->align
 aaligned->aligned
 aalignment->alignment
-aa linux->a linux
 aall->all
 aallege->allege
 aalleged->alleged
@@ -228,7 +226,6 @@ aallright->allright
 aall-time->all-time
 aallusion->allusion
 aalmost->almost
-aa lot->a lot
 aalphaa->alpha
 aalphaabeticaally->alphabetically
 aalphaanumeric->alphanumeric
@@ -364,7 +361,6 @@ aapproximaate->approximate
 aapproximaated->approximated
 aapproximaately->approximately
 aapproximaation->approximation
-aa professionaal look->a professional look
 aapron->apron
 aaqueduct->aqueduct
 aarbitraarily->arbitrarily
@@ -422,8 +418,6 @@ aascii->ascii
 aas faar->as far
 aasiaan->asian
 aaside->aside
-aa simple->a simple
-aa specific->a specific
 aaspect->aspect
 aaspects->aspects
 aasphyxiaation->asphyxiation
@@ -471,7 +465,6 @@ aasymmetricaal->asymmetrical
 aasymmetric->asymmetric
 aasynchronous->asynchronous
 aasynchronously->asynchronously
-aa test->a test
 aatheism->atheism
 aatheist->atheist
 aatheistic->atheistic
@@ -503,8 +496,6 @@ aattributed->attributed
 aattributes->attributes
 aaudience->audience
 aaudits->audits
-aa uniform level->a uniform level
-aa unique->a unique
 aauthenticaate->authenticate
 aauthenticaation->authentication
 aauthor->author
@@ -530,19 +521,15 @@ aauxiliaary->auxiliary
 aavaailaability->availability
 aavaailaable->available
 aavaalaanche->avalanche
-aa vaariaable->a variable
 aavaataar->avatar
 aavaataars->avatars
-aa vengeaance->a vengeance
 aaveraaged->averaged
 aaviaation->aviation
-aa view->a view
 aavoid->avoid
 aavoids->avoids
 aawaarded->awarded
 aawaay->away
 aawful->awful
-aa while->a while
 aawkwaard->awkward
 abaerration->aberration
 abailable->available
@@ -4015,7 +4002,6 @@ aevaent->event
 aevaen though->even though
 aevaents->events
 aevaentually->eventually
-ae vaeriaeble->a variable
 aevaerybody->everybody
 aevaery->every
 aevaerything->everything
@@ -11190,14 +11176,7 @@ avarage->average
 avarageing->averaging
 avare->aware
 avarege->average
-a variabble->a variable
-a variablae->a variable
-a variablee->a variable
 a variables->a variable
-a variablle->a variable
-a variabte->a variable
-a variiable->a variable
-a varriable->a variable
 avary->aviary, every,
 avatanche->avalanche
 avataras->avatars
@@ -11218,7 +11197,6 @@ avdisory->advisory
 aveailability->availability
 aveailable->available
 avealanche->avalanche
-a veariable->a variable
 aveatar->avatar
 aveatars->avatars
 a veengeance->a vengeance
@@ -11308,7 +11286,6 @@ avtomaton->automation
 avvailability->availability
 avvailable->available
 avvalanche->avalanche
-a vvariable->a variable
 avvatar->avatar
 avvatars->avatars
 a vvengeance->a vengeance
@@ -48422,26 +48399,19 @@ htan->than
 htat's->that's
 htat->that
 hteater->theater
-hte ease of->the ease of
-hte end->the end
-hte installer->the installer
 hteir->their
-hte latest->the latest
 htemselves->themselves
-hten i->then i
-hten->the, hen, then,
+hten->then, the, hen,
 hteorem->theorem
 hteory->theory
-hte rationale->the rationale
 htereafter->thereafter
 htereby->thereby
 hterefore->therefore
 hterefrom here->therefrom here
-htere->here, there,
+htere->there, here,
 htermostat->thermostat
-htese requirements->these requirements
 htese->these
-hte->that, the,
+hte->the, that,
 htey have been->they have been
 htey're->they're
 htey->they
@@ -60709,7 +60679,6 @@ maelicious->malicious
 maeltese->maltese
 maemaento->memento
 maembaer->member
-maembaer variablae->member variable
 maembranophonae->membranophone
 maemmaeliaen->mammalian
 maemmael->mammal
@@ -62527,13 +62496,12 @@ meechanics->mechanics
 meechanism->mechanism
 meedical->medical
 meedicinee->medicine
-meediciny->mediciny
+meediciny->medicinal
 meedieeval->medieval
 meediteerraneean->mediterranean
 meeds->needs
 meeeerkat->meerkat
 meembeer->member
-meembeer variablee->member variable
 meembranophonee->membranophone
 meemeento->memento
 meemorablee->memorable
@@ -62634,18 +62602,9 @@ melrics->metrics
 meltodwn->meltdown
 memacess->memaccess
 membber->member
-membber variabble->member variable
 membbranophone->membranophone
 memberr->member
-memberr varriable->member variable
-member vaariaable->member variable
-member vaeriaeble->member variable
 membervariabel->member variable
-member variablle->member variable
-member variabte->member variable
-member variiable->member variable
-member veariable->member variable
-member vvariable->member variable
 membraanophone->membranophone
 membraenophone->membranophone
 membranaphone->membranophone
