@@ -213,7 +213,6 @@ aallegiaance->allegiance
 aalleviaate->alleviate
 aallocaate->allocate
 aallocaation->allocation
-aall of->all of
 aallophone->allophone
 aallophones->allophones
 aallotted->allotted
@@ -266,15 +265,10 @@ aancestors->ancestors
 aancestraal->ancestral
 aancestry->ancestry
 aancillaary->ancillary
-aand aall->and all
 aand->and
-aand its->and its
 aandrogynous->androgynous
 aandrogyny->androgyny
 aandroid->android
-aand so->and so
-aand the->and the
-aand then->and then
 aanginaa->angina
 aangled->angled
 aanimaations->animations
@@ -412,9 +406,8 @@ aas->as
 aascending->ascending
 aascension->ascension
 aascetic->ascetic
-aas checked->as checked
 aascii->ascii
-aas faar->as far
+faar->far
 aasiaan->asian
 aaside->aside
 aaspect->aspect
@@ -459,17 +452,16 @@ aassuraance->assurance
 aassynchronous->assynchronous
 aasterisk->asterisk
 aasteroid->asteroid
-aas well->as well
 aasymmetricaal->asymmetrical
 aasymmetric->asymmetric
 aasynchronous->asynchronous
 aasynchronously->asynchronously
+aat->at
 aatheism->atheism
 aatheist->atheist
 aatheistic->atheistic
 aatheniaan->athenian
 aatheniaans->athenians
-aat leaast->at least
 aatomicaally->atomically
 aatrocities->atrocities
 aattaach->attach
@@ -487,7 +479,6 @@ aattendaant->attendant
 aattendaants->attendants
 aattended->attended
 aattention->attention
-aat the->at the
 aattitude->attitude
 aattorney->attorney
 aattribute->attribute
@@ -508,7 +499,7 @@ aautobiograaphic->autobiographic
 aautobiograaphy->autobiography
 aautochthonous->autochthonous
 aautoincrement->autoincrement
-aauto login->auto login
+aauto->auto
 aautomaagicaally->automagically
 aautomaated->automated
 aautomaaticaally->automatically
@@ -3279,7 +3270,7 @@ aecknowledges thaet->acknowledges that
 aecknowledging->acknowledging
 aeclaectic->eclectic
 aeclipsae->eclipse
-ae collection->a collection
+ae->a
 aeconomic->economic
 aeconomy->economy
 aecoustic->acoustic
@@ -3309,7 +3300,6 @@ aedaeptaetion->adaptation
 aedaeptaetions->adaptations
 aedaepted->adapted
 aedaepter->adapter
-ae daetae type->a data type
 aedded->added
 aedding->adding
 aeddition->addition
@@ -3449,7 +3439,6 @@ aeligned->aligned
 aelignment->alignment
 aeliminataed->eliminated
 aeliminating->eliminating
-ae linux->a linux
 aell->all
 aellege->allege
 aelleged->alleged
@@ -3471,7 +3460,6 @@ aellright->allright
 aell-time->all-time
 aellusion->allusion
 aelmost->almost
-ae lot->a lot
 aelphae->alpha
 aelphaebeticaelly->alphabetically
 aelphaenumeric->alphanumeric
@@ -3564,19 +3552,14 @@ aencryption->encryption
 aencyclopaedia->encyclopedia
 aendaeavors->endeavors
 aendaeavour->endeavour
-aend aell->and all
-aend->and
+aend->and, end,
 aendiannaess->endianness
 aending->ending
-aend its->and its
 .aendmacro->.endmacro
 aendoliths->endoliths
 aendrogynous->androgynous
 aendrogyny->androgyny
 aendroid->android
-aend so->and so
-aend the->and the
-aend then->and then
 aenforcae->enforce
 aenforcing->enforcing
 aengagaemaent->engagement
@@ -3588,7 +3571,6 @@ aengled->angled
 aenhancaemaent->enhancement
 aenhancaemaents->enhancements
 aenimaetions->animations
-aen internael->an internal
 aenlargaemaent->enlargement
 aenlargaemaents->enlargements
 aenlist->enlist
@@ -3615,7 +3597,6 @@ aenomaelous->anomalous
 aenomaely->anomaly
 aenonymity->anonymity
 aenonymous->anonymous
-aen option->an option
 aenormous->enormous
 aenormously->enormously
 aenother->another
@@ -3711,7 +3692,6 @@ aepproximaete->approximate
 aepproximaeted->approximated
 aepproximaetely->approximately
 aepproximaetion->approximation
-ae professionael look->a professional look
 aepron->apron
 aequal->equal
 aequatorial->equatorial
@@ -3812,9 +3792,7 @@ aescapae->escape
 aescending->ascending
 aescension->ascension
 aescetic->ascetic
-aes checked->as checked
 aescii->ascii
-aes faer->as far
 aeshtetic->aesthetic
 aeshtetical->aesthetical
 aeshtetically->aesthetically
@@ -3822,7 +3800,6 @@ aesiaen->asian
 aeside->aside
 aesier->easier
 aesily->easily
-ae simple->a simple
 aesithetic->aesthetic
 aesithetical->aesthetical
 aesithetically->aesthetically
@@ -3830,7 +3807,6 @@ aeslhelic->aesthetic
 aeslhelical->aesthetical
 aeslhelically->aesthetically
 aespaecially->especially
-ae specific->a specific
 aespect->aspect
 aespects->aspects
 aesphyxiaetion->asphyxiation
@@ -3921,7 +3897,7 @@ aestimation->estimation
 aestthettic->aesthetic
 aestthettical->aesthetical
 aestthettically->aesthetically
-aes well->as well
+aes->as
 aesy->easy
 aesymmetricael->asymmetrical
 aesymmetric->asymmetric
@@ -3929,7 +3905,6 @@ aesynchronous->asynchronous
 aesynchronously->asynchronously
 aetc->etc
 aetc.->etc.
-ae test->a test
 aetheism->atheism
 aetheist->atheist
 aetheistic->atheistic
@@ -3968,8 +3943,6 @@ aettributed->attributed
 aettributes->attributes
 aeudience->audience
 aeudits->audits
-ae uniform level->a uniform level
-ae unique->a unique
 aeuthenticaete->authenticate
 aeuthenticaetion->authentication
 aeuthor->author
@@ -4011,11 +3984,9 @@ aevaluatae->evaluate
 aevaluataes->evaluates
 aevaluation->evaluation
 aevaluations->evaluations
-ae vengeaence->a vengeance
 aeveraeged->averaged
 aeviaetion->aviation
 aevidaently->evidently
-ae view->a view
 aevil->evil
 aevoid->avoid
 aevoids->avoids
@@ -4024,7 +3995,6 @@ aevolvability->evolvability
 aewaerded->awarded
 aewaey->away
 aewful->awful
-ae while->a while
 aewkwaerd->awkward
 aexacaerbataed->exacerbated
 aexacaerbatae->exacerbate
@@ -6374,7 +6344,6 @@ and thee->and the
 and theen->and then
 and then and then->and then
 and thhe->and the
-and thhen->and then
 and tthe->and the
 and tthen->and then
 and und->and
@@ -11873,9 +11842,7 @@ bbasically->basically
 bbatch monitor->batch monitor
 bbattleship->battleship
 bbaud rate->baud rate
-bbe abble->be able
 bbeachhead->beachhead
-bbe applied->be applied
 bbeautifier->beautifier
 bbeautiful->beautiful
 bbe->be
@@ -11885,7 +11852,6 @@ bbecause i->because i
 bbecause of->because of
 bbecomes->becomes
 bbecoming->becoming
-bbe done->be done
 bbefore->before
 bbegging->begging
 bbegin->begin
@@ -11923,9 +11889,7 @@ bbergamot->bergamot
 bbesiege->besiege
 bbesieged->besieged
 bbesieging->besieging
-bbe started->be started
 bbestiality->bestiality
-bbe treated->be treated
 bbetter->better
 bbetter than->better than
 bbetween->between
@@ -12737,7 +12701,6 @@ bethesa->bethesda
 be threathed->be treated
 bethseda->bethesda
 bethther->better
-bethther thhan->better than
 bethween->between
 betief->belief
 betiefs->beliefs
@@ -12761,20 +12724,15 @@ be trreated->be treated
 betrween->between
 be tsarted->be started
 betsiality->bestiality
-better htan->better than
 betterr->better
 betterr than->better than
 better tan->better than
-better thaan->better than
 better thaen->better than
-better thann->better than
 better then->better than
-better thhan->better than
 bettery->battery, better,
 bettigerent->belligerent
 be ttreatted->be treated
 betttter->better
-betttter tthan->better than
 bettween->between
 bettwether->bellwether
 betvreen->between
@@ -14619,8 +14577,6 @@ caemerae->camera
 caemouflaege->camouflage
 caempaeign->campaign
 caempaeigns->campaigns
-caen be->can be
-caen be performed->can be performed
 caen->can
 caencellaetion->cancellation
 caendidaete->candidate
@@ -15289,8 +15245,6 @@ cannabil->cannibal
 cannabile->cannibal
 cannabilism->cannibalism
 cannabolism->cannibalism
-cann be->can be
-cann be performed->can be performed
 cannbial->cannibal
 cann->can
 canncellationn->cancellation
@@ -15321,15 +15275,14 @@ cannonicalize->canonicalize
 cannonnical->canonical
 cannonnicalize->canonicalize
 cannonnicalized->canonicalized
-cann onnly have->can only have
 cannont->cannot
 cannoot->cannot
 cannotation->connotation
 cannotations->connotations
 can not->cannot
-cannote->cannot
-cannoth->cannot
-cannott->cannot
+cannote->connote, cannot,
+cannoth->cannot, connote,
+cannott->cannot, connote,
 cann't->can't
 canocalized->canonicalized
 canonalize->canonicalize
@@ -22139,7 +22092,6 @@ confirmaed by->confirmed by
 confirmaed->confirmed
 confirmas->confirms
 confirmd->confirmed
-confirmed bby->confirmed by
 confirmed byy->confirmed by
 confirmedd by->confirmed by
 confirmedd->confirmed
@@ -27789,7 +27741,6 @@ ddeferredd->deferred
 ddefiance->defiance
 ddeficiencies->deficiencies
 ddeficiency->deficiency
-ddefinedd as globals->defined as globals
 ddefinedd->defined
 ddefine->define
 ddefining->defining
@@ -28918,7 +28869,6 @@ deffers->defers, differs,
 deffiance->defiance
 defficiencies->deficiencies
 defficiency->deficiency
-deffined as globals->defined as globals
 deffined->defined
 deffine->define
 deffining->defining
@@ -28969,7 +28919,6 @@ defiened->defined
 defiiance->defiance
 defiiciienciies->deficiencies
 defiiciiency->deficiency
-defiined as globals->defined as globals
 defiined->defined
 defiine->define
 defiiniing->defining
@@ -29012,8 +28961,6 @@ definded->defined, defunded,
 defin->define
 defineable->definable
 defineatly->definately
-defined aas globaals->defined as globals
-defined aes globaels->defined as globals
 defined as gglobals->defined as globals
 defined as glloballs->defined as globals
 defined as globbals->defined as globals
@@ -41085,7 +41032,7 @@ faantaastic->fantastic
 faantaasy->fantasy
 faascinaated->fascinated
 faascist->fascist
-faaster thaan->faster than
+faaster->faster
 faavor->favor
 faavouraable->favourable
 fabilous->fabulous
@@ -41553,16 +41500,11 @@ fassinate->fascinate
 fasster than->faster than
 fastaer than->faster than
 fasteer than->faster than
-faster htan->faster than
 fasterr than->faster than
 faster tan->faster than
-faster thann->faster than
 faster then->faster than
-faster thhan->faster than
 fastes->fastest
-fasther thhan->faster than
 fastr->faster
-fastter tthan->faster than
 fatalaties->fatalities
 fatalitites->fatalities
 fatc->fact
@@ -42285,7 +42227,6 @@ findout->find out
 find outh more->find out more
 find out mmore->find out more
 find out morae->find out more
-find out moree->find out more
 find out morre->find out more
 find out mroe->find out more
 find outt more->find out more
@@ -45754,7 +45695,6 @@ grbber->grabber
 grcypt->gcrypt
 grdient->gradient
 greaater->greater
-greaater thaan->greater than
 greaat->great
 greaeter->greater
 greaeter thaen->greater than
@@ -45768,22 +45708,16 @@ grean->green
 greated->greater
 greate->grate, create, great, greater,
 greately->greatly
-greater htan->greater than
 greater tan->greater than
-greater thann->greater than
 greater the->greater than
 greater then->greater than
-greater thhan->greater than
 greatful->grateful
 greatfully->gratefully
 greather->greater
-greather thhan->greater than
 greath->great
 greatter->greater
-greatter tthan->greater than
 greatt->great
 greeateer->greater
-greeateer than->greater than
 greeat->great
 greeeen->green
 greenalnd->greenland
@@ -46504,14 +46438,11 @@ haes not->has not
 haesn't->hasn't
 haetaerogaenaeous->heterogeneous
 haethen->heathen
-haeve been->have been
 haeve->have
-haeve not->have not
 haeven't->haven't
-haeve written->have written
 haev->have, heave,
 haeviest->heaviest
-haeving->having
+haeving->having, heaving,
 haevyweight->heavyweight
 haexadaecimal->hexadecimal
 haezaerdous->hazardous
@@ -47481,11 +47412,8 @@ hhas been->has been
 hhas->has
 hhas not->has not
 hhasn't->hasn't
-hhave been->have been
 hhave->have
-hhave not->have not
 hhaven't->haven't
-hhave written->have written
 hhaving->having
 hhazardous->hazardous
 hheader->header
@@ -47686,10 +47614,11 @@ hierroglyphics->hieroglyphics
 hierroglyphs->hieroglyphs
 hiesman->heisman
 hietus->hiatus
+hig->high, gig, jig, big,
 higeine->hygiene
 higer->higher
 higest->highest
-higgh byte->high byte
+higgh->high
 higgher->higher
 higghest->highest
 higgh-level->high-level
@@ -47702,12 +47631,12 @@ highaest->highest
 high-affort->high-effort
 highalnder->highlander
 highbyte->high byte
-high byle->high byte
-high bytae->high byte
-high bytee->high byte
-high bythe->high byte
-high bytte->high byte
-high byyte->high byte
+byle->bile, byte,
+bytae->byte
+bytee->byte
+bythe->byte, by the,
+bytte->byte
+byyte->byte
 higheer->higher
 higheest->highest
 highe->high
@@ -54082,7 +54011,6 @@ insstrument->instrument
 insstrumentss->instruments
 inssurance->insurance
 inssurmountable->insurmountable
-instaall aa->install a
 instaallaation->installation
 instaalled->installed
 instaall->install
@@ -56651,8 +56579,6 @@ italianess->italians
 italianos->italians
 italias->italians
 it caan still->it can still
-it caen still->it can still
-it cann still->it can still
 it can sitill->it can still
 it can sstill->it can still
 it can stil->it can still
@@ -56739,10 +56665,6 @@ i thing->i think
 i thinkk->i think
 i thinnk->i think
 ith is->it is
-i thried->i tried
-ith supporths->it supports
-it hten came->it then came
-ith thhen came->it then came
 it huge->is huge
 ith will->it will
 ith->with, disabled because of ordinal form of i like nth
@@ -56815,7 +56737,6 @@ it then camme->it then came
 it then ccame->it then came
 it then kame->it then came
 it thenn came->it then came
-it thhen came->it then came
 i tthink->i think
 itt is->it is
 itt->it
@@ -59421,7 +59342,7 @@ likelly->likely
 likelyhood->likelihood
 likelyy->likely
 like maany paarts->like many parts
-like maeny paerts->like many parts
+paerts->parts
 like manny parts->like many parts
 like many parls->like many parts
 like many parrts->like many parts
@@ -59429,8 +59350,7 @@ like many parst->like many parts
 like many parths->like many parts
 like many partss->like many parts
 like many partts->like many parts
-like many pparts->like many parts
-like manyy parts->like many parts
+pparts->parts
 like may parts->like many parts
 like mmany parts->like many parts
 likenke->licence
@@ -60292,21 +60212,15 @@ lovee->love
 lov->love
 lovve->love
 lo wail for lhe->to wait for the
+low-affort->low-effort
 lowards->towards
 loward->toward
-low bbyte->low byte
-low byle->low byte
-low bytae->low byte
-low bytee->low byte
-low bythe->low byte
-low bytte->low byte
-low byyte->low byte
 lowd->load
 lowercased->lowercase
-lowere->lower
+lowere->lower, lowered,
 lower then->lower than
 lowes->lowest
-loww byte->low byte
+loww->low
 lozonya->lasagna
 lpatform->platform
 lraceabilily->traceability
@@ -65209,8 +65123,6 @@ mopdule->module
 mopre->more
 moprhine->morphine
 morae->more
-morae so->more so
-morae than->more than
 moratlity->mortality
 morbidley->morbidly
 morbidy->morbidly
@@ -65218,19 +65130,13 @@ morbildy->morbidly
 mordern->modern
 mordibly->morbidly
 moree->more
-moree so->more so
-moree than->more than
-more htan->more than
 more lhan->more than
 moreso->more, more so,
 more sso->more so
 more tan->more than
 more thaan->more than
 more thaen->more than
-more thann->more than
 more then->more than
-more thhan->more than
-more tthan->more than
 morever->moreover
 morevoer->moreover
 morgage->mortgage
@@ -69287,7 +69193,6 @@ ogranisation->organisation
 ogrilla->gorilla
 ogting->ogling
 oherwise->otherwise
-ohter htan->other than
 ohter->other
 ohters->others
 ohterwise->otherwise
@@ -69435,10 +69340,8 @@ ompiler->compiler
 omplementaion->implementation
 omplementation->implementation
 omre->more
-onae nicae->one nice
-onae or morae->one or more
+onae->one
 onaerous->onerous
-onae thing i->one thing i
 onatrio->ontario
 onbaord->onboard
 onborad->onboard
@@ -69450,13 +69353,12 @@ once agaiin->once again
 once aggain->once again
 oncee again->once again
 once nice->one nice
-onces->ones, once, ounces,
+onces->ounces, ones, once,
 ond->one
 onece->once
+onee->one
 onee nicee->one nice
-onee or moree->one or more
 oneerous->onerous
-onee thing i->one thing i
 one hting i->one thing i
 one lhing i->one thing i
 oneliners->one-liners
@@ -70680,7 +70582,6 @@ otherr than->other than
 otherrwise->otherwise
 other thaan->other than
 other thaen->other than
-other thann->other than
 other then->other than
 othertise->otherwise
 otherwhise->otherwise
@@ -70699,7 +70600,6 @@ othewice->otherwise
 othewise->otherwise
 othewize->otherwise
 othher->other
-othher thhan->other than
 othherwise->otherwise
 otho->otoh
 othrodox->orthodox
@@ -70716,7 +70616,6 @@ otpion->option
 otpions->options
 otput->output
 otther->other
-otther tthan->other than
 ottherwise->otherwise
 oublisher->publisher
 ouevre->oeuvre
@@ -90010,7 +89909,6 @@ sgadow->shadow
 sh1sum->sha1sum
 shaadaaloo->shadaloo
 shaadow->shadow
-shaall be defined globaal->shall be defined global
 shaall->shall
 shaamaan->shaman
 shaamaans->shamans
@@ -90031,7 +89929,6 @@ shaeaet->sheet
 shaeath->sheath
 shaedaeloo->shadaloo
 shaedow->shadow
-shaell be defined globael->shall be defined global
 shaell->shall
 shaemaen->shaman
 shaemaens->shamans
@@ -90045,13 +89942,8 @@ shakespeer->shakespeare
 shakesperean->shakespeare
 shakespere->shakespeare
 shakesphere->shakespeare
-shal be defined global->shall be defined global
 shall bae daefinaed global->shall be defined global
 shall bbe defined globbal->shall be defined global
-shall be ddefinedd global->shall be defined global
-shall be deffined global->shall be defined global
-shall be defiined global->shall be defined global
-shall be defined as globals->shall be defined global
 shall be defined gglobal->shall be defined global
 shall be defined gloobal->shall be defined global
 shall be definned global->shall be defined global
@@ -92044,9 +91936,6 @@ solvvable->solvable
 solvved->solved
 solvving->solving
 solwed->solved
-so maany->so many
-somae morae->some more
-so maeny->so many
 somaeonae->someone
 somae othaer->some other
 somae->some
@@ -92057,7 +91946,6 @@ somaila->somalia
 somalija->somalia
 so manny->so many
 somany->so many
-so manyy->so many
 sombody->somebody
 some another->some other
 someboby->somebody
@@ -99394,17 +99282,17 @@ thaan->than
 thaat's->that's
 thaat->that
 thable->table
+thae->the
 thae aeasae of->the ease of
 thae aend->the end
 thaeataer->theater
-thae installaer->the installer
+installaer->installer
 thaeir->their
 thae lataest->the latest
 thaemsaelvaes->themselves
-thaen i->then i
 thaenks->thanks
 thaenk->thank
-thaen->than
+thaen->than, then, thank,
 thaeoraem->theorem
 thaeory->theory
 thaeraeaftaer->thereafter
@@ -99449,7 +99337,7 @@ thankyu->thankyou
 thannks->thanks
 thannk->thank
 thanns->thanks
-thann->than, thank,
+thann->than, thank, then,
 thanskgiving->thanksgiving
 thansk->thanks
 thansparent->transparent
@@ -99801,20 +99689,14 @@ thhat's->that's
 thhat->that
 thheater->theater
 thheather->theater
-thhe ease of->the ease of
-thhe end->the end
-thhe installer->the installer
 thhe insthaller->the installer
 thheir->their
-thhe latest->the latest
 thhe lathesth->the latest
 thhemselves->themselves
-thhen i->then i
 thhen->then
 thheorem->theorem
 thheory->theory
 thhe rathionale->the rationale
-thhe rationale->the rationale
 thhereafter->thereafter
 thhereafther->thereafter
 thhereby->thereby
@@ -99824,11 +99706,10 @@ thherefrom hhere->therefrom here
 thhere->there
 thhermostat->thermostat
 thhermosthath->thermostat
-thhese requiremenths->these requirements
-thhese requirements->these requirements
+requiremenths->requirements
+requirements->requirements
 thhese->these
 thhe->the
-thhey have been->they have been
 thhey hhave been->they have been
 thhey're->they're
 thhey->they
