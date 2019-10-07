@@ -107632,6 +107632,7 @@ volounteered->volunteered
 volounteering->volunteering
 volounteers->volunteers
 volounteer->volunteer
+voltag->voltage
 volumae->volume
 volumee->volume
 volumen->volume
