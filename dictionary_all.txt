@@ -32139,6 +32139,7 @@ diminutivve->diminutive
 diminuttive->diminutive
 diminuutive->diminutive
 dimissed->dismissed
+dimm->dim, dims,
 dimmensional->dimensional
 dimmension->dimension
 dimmensioned->dimensioned
