@@ -1353,7 +1353,6 @@ accoding->according
 accodingly->accordingly
 accoird->accord
 accoirding->according
-a ccollecction->a collection
 accomadate->accommodate
 accomadated->accommodated
 accomadates->accommodates
@@ -1471,8 +1470,8 @@ accompliish->accomplish
 accompliished->accomplished
 accompliishment->accomplishment
 accompliishments->accomplishments
-accomplise->accomplishes
-accomplises->accomplishes
+accomplise->accomplish, accomplice,
+accomplises->accomplishes, accomplices,
 accomplishaed->accomplished
 accomplishedd->accomplished
 accomplisheed->accomplished
@@ -1480,7 +1479,7 @@ accomplishements->accomplishments
 accomplishemnt->accomplishment
 accomplishemnts->accomplishments
 accomplishent->accomplishment
-accomplishents->accomplishes
+accomplishents->accomplishes, accomplishments,
 accomplishh->accomplish
 accomplishhed->accomplished
 accomplishhment->accomplishment
@@ -1499,7 +1498,7 @@ accomplishmenths->accomplishments
 accomplishmentt->accomplishment
 accomplishmentts->accomplishments
 accomplishs->accomplishes
-accompliss->accomplishes
+accompliss->accomplice, accomplices, accomplish,
 accomplissh->accomplish
 accomplisshed->accomplished
 accomplisshment->accomplishment
@@ -1598,7 +1597,7 @@ accounst->accounts
 accountabillity->accountability
 accountabilty->accountability
 accountas->accountants
-accountat->accountants
+accountat->accountant
 accountatns->accountants
 accountent->accountant
 accountents->accountants
@@ -1607,7 +1606,7 @@ accounths->accounts
 accountss->accounts
 accountt->account, accountant,
 accountts->accounts
-accourding->according
+accourding->according, occurring,
 accour->occur
 accoustic->acoustic
 accousticc->acoustic
@@ -8438,6 +8437,7 @@ ariithmetiic->arithmetic
 arilhmelic->arithmetic
 ariplane->airplane
 ariplanes->airplanes
+ariport->airport
 ariports->airports
 arisaes->arises
 arised->arose
@@ -8531,7 +8531,7 @@ armatuure->armature
 armchar->armchair
 armegaddon->armageddon
 armenain->armenian
-armenina->armenian
+armenina->armenian, armenia,
 armiistiice->armistice
 armisitice->armistice
 armislice->armistice
@@ -15812,10 +15812,10 @@ case-insenstive->case-insensitive
 caseinsenstive->case-insensitive
 case-insesitive->case-insensitive
 caseinsesitive->case-insensitive
-caselessely->caselessly
+caselessely->ceaselessly, carelessly,
 casem->case
 case off->case of
-case oof->case of
+oof->of
 case-sensitve->case-sensitive
 casesensitve->case-sensitive
 case-sesitive->case-sensitive
@@ -15825,7 +15825,7 @@ case-unsensitive->case-insensitive
 cashe->cache
 casheir->cashier
 casheirs->cashiers
-cashes->caches
+cashes->caches, cashes,
 cashieer->cashier
 cashieres->cashiers
 cashies->cashiers
