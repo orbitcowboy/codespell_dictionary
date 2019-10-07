@@ -2037,12 +2037,12 @@ acommodate->accommodate
 acommodated->accommodated
 acommodates->accommodates
 acommodating->accommodating
-acommodation->accommodation, accomodation,
+acommodation->accommodation
 acommodations->accommodations
 acommpany->accompany
 acommpanying->accompanying
 acomodate->accommodate
-acomodation->accommodation, accomodation,
+acomodation->accommodation
 acompanied->accompanied
 acompanying->accompanying
 acomplish->accomplish
@@ -2703,6 +2703,7 @@ aditionnal->additional
 adivce->advice, advise,
 adivisory->advisory
 adivser->adviser
+adivsers->advisers
 adivsor->advisor
 adivsories->advisories
 adivsors->advisors
@@ -2837,7 +2838,7 @@ administhrathion->administration
 administhrathive->administrative
 administhrathor->administrator
 administor->administrator
-administored->administer
+administored->administered
 administr->administer
 administraion->administration
 administrar->administrator
@@ -2849,7 +2850,7 @@ administraters->administrators
 administratief->administrative
 administratiei->administrative
 administratieve->administrative
-administratio->administrator
+administratio->administration, administrator,
 administratioon->administration
 administratior->administrator
 administratiors->administrators
@@ -2857,17 +2858,17 @@ administrativ->administrative
 administrativae->administrative
 administrativee->administrative
 administrativne->administrative
-administrativo->administration
+administrativo->administrative, administration,
 administrativve->administrative
 administraton->administration
 administratoor->administrator
 administratos->administrators
 administratro->administrator
 administre->administer
-administren->administer
-administrer->administer
-administres->administer
-administrez->administer
+administren->administer, administering,
+administrer->administer, administrator,
+administres->administers, administrators,
+administrez->administer, administrators,
 administro->administer
 administrrate->administrate
 administrration->administration
@@ -2878,7 +2879,7 @@ administtratte->administrate
 administtrattion->administration
 administtrattive->administrative
 administtrattor->administrator
-adminition->admonition
+adminition->admonition, admission,
 adminitsered->administered
 adminitsrate->administrate
 adminitsration->administration
@@ -3178,8 +3179,9 @@ advisingg->advising
 advisinng->advising
 advisoory->advisory
 advisorry->advisory
-advisorys->advisors
+advisorys->advisories, advisors,
 advisoryy->advisory
+advisroies->advisories
 advisroy->advisory
 advissed->advised
 advissing->advising
@@ -3206,7 +3208,7 @@ advvising->advising
 advvisory->advisory
 adwances->advances
 aeach->each
-aeactivate->activate, deactivate,
+aeactivate->deactivate, activate,
 aeaels->eels
 aeaglae->eagle
 aearliaer->earlier
@@ -4407,14 +4409,14 @@ aggregatess->aggregates
 aggregatet->aggregated
 aggregathe->aggregate
 aggregathes->aggregates
-aggregatore->aggregate
+aggregatore->aggregator
 aggregatte->aggregate
 aggregattes->aggregates
 aggreggate->aggregate
 aggregious->egregious
-aggregtion->aggregation
+aggregtion->aggregation, aggression,
 aggresion->aggression
-aggresions->aggression
+aggresions->aggressions
 aggresive->aggressive
 aggresively->aggressively
 aggresor->aggressor
@@ -4431,7 +4433,7 @@ aggressivelyy->aggressively
 aggressivety->aggressively
 aggressivley->aggressively
 aggressivly->aggressively
-aggressivo->aggression
+aggressivo->aggressive, aggression,
 aggressivve->aggressive
 aggressivvely->aggressively
 aggressoor->aggressor
@@ -5133,7 +5135,9 @@ alignements->alignments
 alignemnt->alignment
 alignemnts->alignments
 alignemt->alignment
+alignemts->alignments
 alignent->alignment
+alignents->alignments
 alignes->aligns
 alignmaent->alignment
 alignmant->alignment
@@ -5227,7 +5231,7 @@ allegged->alleged
 alleggedly->allegedly
 alleggiance->allegiance
 allegiancce->allegiance
-allegiancies->allegiance
+allegiancies->allegiances
 allegianke->allegiance
 allegiannce->allegiance
 allegience->allegiance
@@ -5239,7 +5243,7 @@ allegued->alleged
 alleguedly->allegedly
 allegues->alleges
 alleigance->allegiance
-alleigances->allegiance
+alleigances->allegiances
 alleivate->alleviate
 allempl->attempt
 allempled->attempted
