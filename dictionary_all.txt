@@ -170,7 +170,6 @@ aaficionaados->aficionados
 aaforementioned->aforementioned
 aafricaan->african
 aafter->after
-aafter receiving->after receiving
 aagaain->again
 aagaainst->against
 aagain->again
@@ -3393,7 +3392,6 @@ aeficionaedos->aficionados
 aeforementioned->aforementioned
 aefricaen->african
 aefter->after
-aefter receiving->after receiving
 aegaein->again
 aegaeinst->against
 aeg->arg
@@ -4222,7 +4220,6 @@ affrimative->affirmative
 affrod->afford
 affrods->affords
 affter->after
-affter receiving->after receiving
 affulent->affluent
 afgahnistan->afghanistan
 afganhistan->afghanistan
@@ -4249,7 +4246,6 @@ afircan->african
 afircans->africans
 afjust->adjust
 afler->after
-afler receiving->after receiving
 afoorementiooned->aforementioned
 aforaemaentionaed->aforementioned
 aford->afford
@@ -4284,9 +4280,7 @@ afrikan->african
 afroementioned->aforementioned
 afrrican->african
 aftaer->after
-aftaer raecaeiving->after receiving
 afteer->after
-afteer reeceeiving->after receiving
 afterall->after all
 afterh->after
 afterhtought->afterthought
@@ -4295,25 +4289,14 @@ afternarket->aftermarket
 afternon->afternoon
 afternooon->afternoon
 afterr->after
-after recceiving->after receiving
-after receiiviing->after receiving
-after receiveing->after receiving
-after receivingg->after receiving
-after receivinng->after receiving
-after receivving->after receiving
-after reception->after receiving
-after rekeiving->after receiving
-afterr rreceiving->after receiving
 aftert->after
 afterthougt->afterthought
 afterthougth->afterthought
 afterw->after
 afterwords->afterwards
 afther->after
-afther receiving->after receiving
 aftrer->after
 aftter->after
-aftter receiving->after receiving
 aftzer->after
 a functions->functions
 afwully->awfully
