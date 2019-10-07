@@ -521,6 +521,7 @@ aawaay->away
 aawful->awful
 aawkwaard->awkward
 abaerration->aberration
+abailability->availability
 abailable->available
 abanddon->abandon
 abanddonedd->abandoned
