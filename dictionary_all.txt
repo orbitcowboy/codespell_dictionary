@@ -10487,8 +10487,8 @@ austraeliaen->australian
 austrai->austria
 austrailan->australian
 austrailans->australians
-austrailia->australia, australia,
-austrailian->australian, australian,
+austrailia->australia
+austrailian->australian
 austrain->austrian
 australa->australian
 australain->australians
@@ -11048,7 +11048,7 @@ availabe->available
 availabed->available
 availabel->available
 availabele->available
-availabelity->abailability, availability,
+availabelity->abailability
 availabilily->availability
 availabilithy->availability
 availabilitty->availability
@@ -11445,8 +11445,8 @@ backwardss->backwards
 backware->backward
 backwarrd->backward
 backwarrds->backwards
-backword->backward
-backwords->backwards
+backword->backward, backword,
+backwords->backwards, backwords,
 backwrad->backward
 backwward->backward
 backwwards->backwards
@@ -11579,7 +11579,7 @@ balanse->balances
 balaster->baluster
 balcanes->balances
 balch monilor->batch monitor
-balck->balk, black,
+balck->black, balk,
 balckberry->blackberry
 balcked->blacked
 balckhawks->blackhawks
@@ -12147,7 +12147,7 @@ beehavior->behavior
 beehaviour->behaviour
 beehind->behind
 beehtoven->beethoven
-beeing->been, being,
+beeing->being, been,
 beeings->beings
 beeleeagueereed->beleaguered
 beelgium->belgium
