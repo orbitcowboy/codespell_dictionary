@@ -18664,28 +18664,12 @@ cloacks->cloaks
 cloberring->clobbering
 clocc->clock
 clocck->clock
-clocck speed->clock speed
-clocck speeds->clock speeds
-clocc speed->clock speed
-clocc speeds->clock speeds
 clock_getttime->clock_gettime
 clockk->clock
-clockk speed->clock speed
-clockk speeds->clock speeds
-clock spaeaed->clock speed
-clock spaeaeds->clock speeds
 clock sped->clock speed
-clock speds->clock speeds
 clockspeed->clock speed
-clock speedd->clock speed
-clock speedds->clock speeds
 clockspeeds->clock speeds
-clock speeeed->clock speed
-clock speeeeds->clock speeds
-clock sppeed->clock speed
-clock sppeeds->clock speeds
-clock sspeed->clock speed
-clock sspeedss->clock speeds
+clockvise->clockwise
 clockwíse->clockwise
 clocl->clock
 cloded->closed
@@ -18728,7 +18712,6 @@ cloure->closure
 clousre->closure
 clouud->cloud
 clrl->ctrl
-clrl-f->ctrl-f
 clsoe->close
 clsss->class
 cltr->ctrl
@@ -45767,23 +45750,20 @@ groshury->grocery
 groth->growth
 groubdbreaking->groundbreaking
 groudnbreaking->groundbreaking
-groundd speedd->ground speed
-ground spaeaed->ground speed
+groundd->ground
+groundded->grounded
+groundspeed->ground speed
 ground sped->ground speed
-ground speeeed->ground speed
-ground sppeed->ground speed
-ground sspeed->ground speed
-grounnd speed->ground speed
+grounnd->ground
 groupd->grouped
 groupiing->grouping
 groupinng->grouping
 groupp->group
-groupp id->group id
 groupping->grouping
 groupt->grouped
-grouund speed->ground speed
+grouund->ground
+grouunded->grounded
 grouup->group
-grouup id->group id
 grouuping->grouping
 growtesk->grotesque
 groww->grow
@@ -45807,12 +45787,11 @@ grratefully->gratefully
 grratuitous->gratuitous
 grrayscale->grayscale
 grreaterr->greater
-grreaterr than->greater than
 grreat->great
 grreen->green
 grriddles->griddles
 grrief->grief
-grround speed->ground speed
+grround->ground
 grroup->group
 grroup id->group id
 grrouping->grouping
@@ -68079,16 +68058,8 @@ nouveaau->nouveau
 nouveaeu->nouveau
 nouveeau->nouveau
 nouvveau->nouveau
-no vaalue->no value
-no vaelue->no value
 novaembaer->november
-no vallue->no value
-no valuae->no value
-no valuee->no value
 novalue->no value
-no valuue->no value
-no vatue->no value
-no vealue->no value
 noveau->nouveau
 noveembeer->november
 noveember->november
@@ -68099,7 +68070,6 @@ novemmber->november
 novermber->november
 novmber->november
 novmeber->november
-no vvalue->no value
 novvember->november
 nowaadaays->nowadays
 nowadayss->nowadays
@@ -82818,7 +82788,6 @@ reeturneed->returned
 reeturning->returning
 reeturn->return
 reeturns->returns
-reeturn valuee->return value
 reeusability->reusability
 reeusee->reuse
 reevaaluaated->reevaluated
@@ -86590,14 +86559,7 @@ returnning->returning
 returnninng->returning
 returnn->return
 returnns->returns
-returnn value->return value
 returnss->returns
-return vaalue->return value
-return vaelue->return value
-return vallue->return value
-return vatue->return value
-return vealue->return value
-return vvalue->return value
 retur->return
 retursn->returns
 returs->returns
@@ -86608,7 +86570,6 @@ retuurned->returned
 retuurning->returning
 retuurn->return
 retuurns->returns
-retuurn valuue->return value
 retying->retrying
 retyurn->return
 reuasble->reusable
@@ -92433,6 +92394,7 @@ spaciouus->spacious
 spaeaechaes->speeches
 spaeaech->speech
 spaeaed->speed
+spaeaeds->speeds
 spaece->space
 spaecfific->specfific
 spaeciaes->species
@@ -92839,6 +92801,7 @@ spedific->specific
 spedified->specified
 spedify->specify
 sped value->speed value
+speds->speeds
 speeaking->speaking
 speeak->speak
 speecches->speeches
@@ -92868,26 +92831,20 @@ speecimeen->specimen
 speectacular->spectacular
 speectaculars->spectaculars
 speectrum->spectrum
-speedd value->speed value
-speed vaalue->speed value
-speed vaelue->speed value
-speed vallue->speed value
+speedd->speed, speeded,
+speedds->speeds
 speedvalue->speed value
-speed valuue->speed value
-speed vatue->speed value
-speed vealue->speed value
-speed vvalue->speed value
 speeeechees->speeches
 speeeech->speech
-speeeed valuee->speed value
-speekhes->speeches
-speekh->speech
+speeeed->speed
+speeeeds->speeds
+speekhes->speeches, speaks,
+speekh->speech, speak,
 speelling->spelling
 speell->spell
-speeped->sped
+speeped->peeped, speeded, sped,
 speeping->sleeping
-speep->sleep
-speep-up->speed-up
+speep->sleep, speed, peep,
 speermatozoon->spermatozoon
 spefically->specifically
 speficically->specifically
@@ -93183,7 +93140,8 @@ sppectaculars->spectaculars
 sppectrum->spectrum
 sppeeches->speeches
 sppeech->speech
-sppeed value->speed value
+sppeed->speed
+sppeeds->speeds
 sppelling->spelling
 sppell->spell
 sppermatozoon->spermatozoon
@@ -93665,7 +93623,9 @@ sspectacularss->spectaculars
 sspectrum->spectrum
 sspeechess->speeches
 sspeech->speech
-sspeed value->speed value
+sspeed->speed
+sspeeds->speeds
+sspeedss->speeds
 sspelling->spelling
 sspell->spell
 sspermatozoon->spermatozoon
@@ -106117,13 +106077,12 @@ uupload->upload
 uupon->upon
 uupper->upper
 uupstream->upstream
-uup to->up to
+uup->up
 uusability->usability
 uusable->usable
 uusage->usage
 uusefuully->usefully
 uusefuul->useful
-uuser accouunt->user account
 uusers->users
 uuser->user
 uuse->use
@@ -106193,6 +106152,7 @@ vaellettae->valletta
 vaeluaeble->valuable
 vaelues->values
 vaelue->value
+vaelue->valued
 vaengaeancae->vengeance
 vaenomous->venomous
 vaeranda->veranda
@@ -106336,6 +106296,7 @@ valloc->vmalloc
 valluablle->valuable
 vallues->values
 vallue->value
+vallued->valued
 valnecia->valencia
 valnetines->valentines
 valoue->value
@@ -106363,6 +106324,7 @@ valult->vault
 valuse->values, value,
 valuuable->valuable
 valuues->values
+valuued->valued
 valuue->value
 valu->value
 valykrie->valkyrie
@@ -106549,9 +106511,10 @@ vatid->valid
 vattetta->valletta
 vatuabte->valuable
 vatues->values
+vatued->valued
 vatue->value
 vaues->values
-vaue->value
+vaue->value, vague,
 vaugely->vaguely
 vaulable->valuable
 vauled->valued
@@ -107824,6 +107787,7 @@ vvalid->valid
 vvalletta->valletta
 vvaluable->valuable
 vvalues->values
+vvalued->valued
 vvalue->value
 vvariables->variables
 vvariable->variable
