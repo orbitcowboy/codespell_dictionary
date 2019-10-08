@@ -6840,8 +6840,8 @@ an pother->another
 anrachist->anarchist
 anroid->android
 ansalisation->nasalisation, nasalization, analisation,
-ansalization->nasalization, analyzation,
 ansalisations->nasalisations, nasalizations, analisations,
+ansalization->nasalization, analyzation,
 ansalizations->nasalizations, analyzations,
 ansamble->ensemble
 ans->and
@@ -8088,7 +8088,7 @@ archatype->archetype
 archatypes->archetypes
 archeaologist->archaeologist, archeologist,
 archeaologists->archaeologists, archeologists,
-archeaology->archaeology, archeology, 
+archeaology->archaeology, archeology,
 archeeologist->archeologist
 archeeologists->archeologists
 archeeology->archeology
@@ -10023,9 +10023,9 @@ atributed->attributed
 atributes->attributes
 atriculate->articulate
 atriculated->articulated
+atriculates->articulates
 atriculating->articulating
 atriculation->articulation
-atriculates->articulates
 atrifact->artifact
 atrifacts->artifacts
 atrillery->artillery
@@ -10392,6 +10392,12 @@ auditts->audits
 audomoderator->automoderator
 auguest->august
 augument->argument
+auhenticate->authenticate
+auhenticated->authenticated
+auhenticates->authenticates
+auhenticating->authenticating
+auhentication->authentication
+auhenticator->authenticator
 auhor->author
 auhors->authors
 auhtenticate->authenticate
@@ -10407,12 +10413,6 @@ auidobook->audiobook
 auidobooks->audiobooks
 aulhenlicale->authenticate
 aulhenlicalion->authentication
-auhenticator->authenticator
-auhenticate->authenticate
-auhenticated->authenticated
-auhenticates->authenticates
-auhenticating->authenticating
-auhentication->authentication
 aulhor->author
 aulhorilalive->authoritative
 aulhorilies->authorities
@@ -15810,7 +15810,6 @@ caseinsesitive->case-insensitive
 caselessely->ceaselessly, carelessly,
 casem->case
 case off->case of
-oof->of
 case-sensitve->case-sensitive
 casesensitve->case-sensitive
 case-sesitive->case-sensitive
@@ -16680,8 +16679,8 @@ ccounccilor->councilor
 ccounccilors->councilors
 ccounselor->counselor
 ccounselors->counselors
-ccountries->countries
 ccountries'->countries'
+ccountries->countries
 ccountry->country
 ccountry's->country's
 ccourier->courier
@@ -59918,8 +59917,8 @@ lockacreen->lockscreen
 lockingf->locking
 lockscreeen->lockscreen
 lockscren->lockscreen
-locl->local, lock,
 locla->local
+locl->local, lock,
 lo connecl lo->to connect to
 loday's->today's
 loday->today
@@ -59990,7 +59989,6 @@ logwritter->logwriter
 lohtringen->lothringen
 loiusiana->louisiana
 loiusville->louisville
-lok->look, lock,
 lokale->locale
 lokal->local
 lokally->locally
@@ -60000,6 +59998,7 @@ lokation->location
 lokenizalion->tokenization
 lokenized->tokenized
 lokenizer->tokenizer
+lok->look, lock,
 lolal->total
 lolerance->tolerance
 lo lhe->to the
@@ -60094,19 +60093,19 @@ loocally->locally
 loocated->located
 loocatioon->location
 loocking->locking
+loock->lock, look,
+looc->look
 lood->lewd
 loogarithmic->logarithmic
 looged->logged
 loogger->logger
 loogging->logging
 loogical->logical
-looc->look
-loock->lock, look,
-lookk->look
 lookasize->lookaside
 lookback->loopback
 lookes->looks
 lookin->looking, look in, lookin',
+lookk->look
 looknig->looking
 loolkils->toolkits
 loolkil->toolkit
@@ -63089,7 +63088,6 @@ miccro->micro
 miccrosccopy->microscopy
 miccrosoft->microsoft
 mices->mice
-mich->much
 michagan->michigan
 michelline->michelle
 michellle->michelle
@@ -63101,6 +63099,7 @@ michigaen->michigan
 michigann->michigan
 michiggan->michigan
 michina->michigan
+mich->much
 micocode->microcode
 micocontroler->microcontroller
 micocontrolers->microcontrollers
@@ -64492,8 +64491,8 @@ mmountains->mountains
 mmount->mount
 mmovemment->movement
 mmovie->movie
-mmucous->mucous
 mmuch->much
+mmucous->mucous
 mmultichar->multichar
 mmulticulturalismm->multiculturalism
 mmultidimmensional->multidimensional
@@ -65526,16 +65525,16 @@ multifunctioon->multifunction
 multifunictional->multi-functional
 multifunktion->multifunction
 multifunnctionn->multifunction
+multihreading->multithreading, multi-threading, multi threading,
 multihread->multithread, multi-thread, multi thread,
 multihtreaded->multithreaded, multi-threaded, multi threaded,
-multihreading->multithreading, multi-threading, multi threading,
-multihtreads->multithreads, multi-threads, multi threads,
 multi htread->multi thread
 multi-htread->multi-thread
 multihtread->multithread
 multi htreads->multi threads
 multi-htreads->multi-threads
 multihtreads->multithreads
+multihtreads->multithreads, multi-threads, multi threads,
 multiichar->multichar
 multiiculturaliism->multiculturalism
 multiidiimensiional->multidimensional
@@ -69478,6 +69477,7 @@ oofficially->officially
 oofficial->official
 oofficials->officials
 oof having->of having
+oof->of
 ooften->often
 oof the->of the
 oogling->ogling
@@ -92050,7 +92050,6 @@ songled->dongled, singled,
 songle->dongle, single,
 songles->dongles, singles,
 songling->dongling, singling,
-soo->so, sew,
 sooaside->suicide
 soocialism->socialism
 soocieties->societies
@@ -92087,6 +92086,7 @@ soorted->sorted
 soort oof->sort of
 soort->sort
 soorts->sorts
+soo->so, sew,
 soought->sought
 soound->sound
 soounds->sounds
@@ -92431,8 +92431,8 @@ spaciious->spacious
 spacioous->spacious
 spaciouus->spacious
 spaeaechaes->speeches
-spaeaed->speed
 spaeaech->speech
+spaeaed->speed
 spaece->space
 spaecfific->specfific
 spaeciaes->species
@@ -93595,7 +93595,6 @@ ssneeze->sneeze
 ssnippet->snippet
 ssnippetss->snippets
 ssnugly->snugly
-sso->so
 ssocialissm->socialism
 ssocietiess->societies
 ssoftlink->softlink
@@ -93623,6 +93622,7 @@ ssophomore->sophomore
 ssorcerer->sorcerer
 ssorry->sorry
 ssort of->sort of
+sso->so
 ssought->sought
 ssound->sound
 ssoundss->sounds
@@ -100701,8 +100701,8 @@ toolkkits->toolkits
 toolkkit->toolkit
 toollkits->toolkits
 toollkit->toolkit
-toolss->tools
 toolsbox->toolbox
+toolss->tools
 toomatooes->tomatoes
 toome->tome
 too mich->too much
