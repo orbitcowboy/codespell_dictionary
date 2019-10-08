@@ -10022,6 +10022,10 @@ atribute->attribute
 atributed->attributed
 atributes->attributes
 atriculate->articulate
+atriculated->articulated
+atriculating->articulating
+atriculation->articulation
+atriculates->articulates
 atrifact->artifact
 atrifacts->artifacts
 atrillery->artillery
@@ -10403,6 +10407,12 @@ auidobook->audiobook
 auidobooks->audiobooks
 aulhenlicale->authenticate
 aulhenlicalion->authentication
+auhenticator->authenticator
+auhenticate->authenticate
+auhenticated->authenticated
+auhenticates->authenticates
+auhenticating->authenticating
+auhentication->authentication
 aulhor->author
 aulhorilalive->authoritative
 aulhorilies->authorities
