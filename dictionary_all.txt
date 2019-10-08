@@ -18724,8 +18724,8 @@ clullered->cluttered
 clultered->cluttered
 clummpy->clumpy
 clumn->column
-clumppy->clumpy
-clumpsy->clumpy
+clumppy->clumpy, clumsy,
+clumpsy->clumpy clumsy,
 clumpyy->clumpy
 clumsly->clumsily
 cluprit->culprit
@@ -46140,7 +46140,7 @@ guidellines->guidelines
 guidence->guidance
 guidetine->guideline
 guidetines->guidelines
-guid->guide
+guid->guide, disabled because of name clash with database jargon
 guidline->guideline
 guidlines->guidelines
 guielines->guidelines
@@ -46161,8 +46161,7 @@ guinnes->guinness
 guinnessss->guinness
 guinnnness->guinness
 guiseppe->giuseppe
-gui's->guis
-guiss->guis
+guiss->guis, gui's,
 guitards->guitars
 guitares->guitars
 guitarit->guitarist
@@ -46239,7 +46238,7 @@ gziped->gzipped
 haabaanero->habanero
 haabeaas->habeas
 haabsburg->habsburg
-haad been->had been
+haad->had
 haaemorrhaage->haemorrhage
 haaemorrhagae->haemorrhage
 haa->has
@@ -90933,7 +90932,7 @@ since te->since the
 sinc ethe->since the
 since thhe->since the
 since tthe->since the
-sinc->since, sync, disabled due to valid mathematical concept, sink, synch,
+sinc->since, sync, sink, synch, disabled due to valid mathematical concept
 sincs->sinks, since, syncs,
 sinees->sines
 singal->signal, single,
@@ -106091,7 +106090,7 @@ uusuually->usually
 uutilities->utilities
 uutility->utility
 uutilized->utilized
-uv->of
+uv->of, disabled due to false positives (abbr. Ultra-Violet)
 vaacuum->vacuum
 vaagaaries->vagaries
 vaalgrind->valgrind
@@ -106335,6 +106334,7 @@ vampries->vampires
 vanadlism->vandalism
 vandalisim->vandalism
 vandalsim->vandalism
+vangruad->vanguard
 vanguad->vanguard
 vangurad->vanguard
 vanillia->vanilla
