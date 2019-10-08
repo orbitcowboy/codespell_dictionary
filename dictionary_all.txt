@@ -6329,10 +6329,7 @@ androoid->android
 andrrogynous->androgynous
 andrrogyny->androgyny
 andrroid->android
-and soo->and so
 and sso->and so
-and te->and the
-and ten->and then
 and thae->and the
 and thaen->and then
 and the all->and all
@@ -6340,8 +6337,6 @@ andthe->and the
 and thee->and the
 and theen->and then
 and then and then->and then
-and thhe->and the
-and tthe->and the
 and tthen->and then
 and und->and
 ane->and
@@ -7881,15 +7876,6 @@ aproch->approach
 aproched->approached
 aproches->approaches
 aproching->approaching
-a profaessional look->a professional look
-a profeessional look->a professional look
-a profesional look->a professional look
-a professiional look->a professional look
-a professionall llook->a professional look
-a professional lok->a professional look
-a professional looc->a professional look
-a professional loock->a professional look
-a professional lookk->a professional look
 a professionat took->a professional look
 a profession look->a professional look
 a professionnal look->a professional look
@@ -9806,7 +9792,6 @@ a tesit->a test
 a tesst->a test
 a tet->a test
 a tets->a test
-atevents->atevent
 at ever->at every
 atgebraic->algebraic
 atgebras->algebras
@@ -14378,8 +14363,6 @@ by the samme->by the same
 by the ssame->by the same
 by thhe same->by the same
 bytte->byte
-by tthe same->by the same
-byy 10 microseconds->by 10 microseconds
 byy->by
 byyte->byte
 byy the same->by the same
@@ -15327,7 +15310,6 @@ can onty have->can only have
 canoonical->canonical
 canoonicalize->canonicalize
 canoonicalized->canonicalized
-can oonly have->can only have
 canot->cannot
 canrage->carnage
 canse->cause
@@ -16191,8 +16173,6 @@ ccamera->camera
 ccamouflage->camouflage
 ccampaign->campaign
 ccampaigns->campaigns
-ccan be->can be
-ccan be performed->can be performed
 ccan->can
 ccanccellation->cancellation
 ccandidate->candidate
@@ -16203,7 +16183,6 @@ ccannot->cannot
 ccanoniccal->canonical
 ccanoniccalize->canonicalize
 ccanoniccalized->canonicalized
-ccan only have->can only have
 ccan't->can't
 ccapabilities->capabilities
 ccapability->capability
@@ -16353,7 +16332,6 @@ ccluttered->cluttered
 ccoast->coast
 ccoccktail->cocktail
 ccoccoa->cocoa
-ccode and->code and
 ccode->code
 ccoded->coded
 ccodespell->codespell
@@ -18853,19 +18831,14 @@ coctail->cocktail
 cocumentation->documentation
 cocument->document
 cocuments->document
-codae and->code and
 codae->code
 codaed->coded
 codaespaell->codespell
-codde andd->code and
 codde->code, coddle, coded,
 coddedd->coded
 coddespell->codespell
-code aand->code and
 code aend->code and
 codeand->code and
-code annd->code and
-codee and->code and
 codee->code
 codeed->coded
 codeen->codeine
@@ -65106,8 +65079,6 @@ moontserrat->montserrat
 moorccan->moroccan
 moorcco->morocco
 moore->more
-moore soo->more so
-moore than->more than
 moorissette->morissette
 moorooccan->moroccan
 moorooccoo->morocco
@@ -65187,8 +65158,6 @@ morphen->morphine
 morphie->morphine
 morphinate->morphine
 morre->more
-morre so->more so
-morre than->more than
 morriosn->morrison
 morrisette->morissette
 morrisound->morrison
@@ -92081,8 +92050,6 @@ soolutioons->solutions
 soolvable->solvable
 soolved->solved
 soolving->solving
-soo many->so many
-soome moore->some more
 soomeoone->someone
 soome oother->some other
 soome->some
@@ -93609,7 +93576,6 @@ ssnugly->snugly
 ssocialissm->socialism
 ssocietiess->societies
 ssoftlink->softlink
-ssoftware project->software project
 ssoftware->software
 ssoftware toolss->software tools
 ssoil->soil
@@ -93624,10 +93590,7 @@ ssolutionss->solutions
 ssolvable->solvable
 ssolved->solved
 ssolving->solving
-sso many->so many
-ssome more->some more
 ssomeone->someone
-ssome other->some other
 ssome->some
 ssomething->something
 ssometimess->sometimes
@@ -100718,8 +100681,6 @@ toolsbox->toolbox
 toomatooes->tomatoes
 toome->tome
 too mich->too much
-too mmuch timme->too much time
-too mmuch->too much
 toomoorroow->tomorrow
 toom->tomb
 too mucch time->too much time
@@ -102580,8 +102541,6 @@ tthat->that
 tthatt's->that's
 tthatt->that
 ttheatter->theater
-tthe ease of->the ease of
-tthe end->the end
 tthe insttaller->the installer
 ttheir->their
 tthe lattestt->the latest
@@ -102600,7 +102559,6 @@ tthermosttatt->thermostat
 tthese requirementts->these requirements
 tthese->these
 tthe->the
-tthey have been->they have been
 tthey're->they're
 tthey->they
 tthickening->thickening
@@ -102612,7 +102570,6 @@ tthinking->thinking
 tthinks->thinks
 tthink->think
 tthird->third
-tthis is->this is
 tthis->this
 tthoroughly->thoroughly
 tthorough->thorough
