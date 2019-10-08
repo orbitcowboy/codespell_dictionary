@@ -1101,8 +1101,8 @@ acccessibility->accessibility
 acccessible->accessible
 acccessing->accessing
 acccession->accession
-acccessor->accessor, accessors,
-acccessors->accessors
+acccessor->assessor, assessors,
+acccessors->assessors
 acccount->account
 acccounts->accounts
 acccumulate->accumulate
@@ -1209,9 +1209,9 @@ accesible->accessible
 accesing->accessing
 accesion->accession
 accesnt->accent
-accesor->accessor
+accesor->assessor
 accesories->accessories
-accesors->accessors
+accesors->assessors, accessories,
 accesory->accessory
 accessability->accessibility
 accessable->accessible
@@ -1250,17 +1250,17 @@ accessoire->accessories
 accessoires->accessories
 accessoirs->accessories
 accessores->accessories
-accessort->accessor
+accessort->assessor
 accesss->access
 accesssing->accessing
-accesssor->accessor
-accesssors->accessors
+accesssor->assessor
+accesssors->assessors
 accessss->access
 accessssess->accesses
 accessssible->accessible
 accessssing->accessing
 accessssion->accession
-accestor->accessor, ancestor,
+accestor->ancestor, assessor,
 accetable->acceptable
 accet->accept
 acceterated->accelerated
@@ -1666,7 +1666,7 @@ accsess->access
 accss->access
 accssed->accessed
 accssible->accessible
-accssor->accessor
+accssor->assessor
 acctimatization->acclimatization
 acctivate->activate
 acctivated->activated
@@ -1771,15 +1771,15 @@ acept->accept
 aceptance->acceptance
 acepts->accepts
 acerage->acreage
-acesors->accessors
+acesors->assessors
 acessable->accessible
 acess->access
 acesses->accesses
 acessible->accessible
 acessing->accessing
 acession->accession
-acessor->accessor
-acessors->accessor, accessors,
+acessor->assessor
+acessors->assessor, assessors,
 acesss->access
 acftually->factually
 acheeve->achieve
