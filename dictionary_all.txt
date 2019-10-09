@@ -23801,7 +23801,7 @@ contemproaneous->contemporaneous
 contemproaries->contemporaries
 contemproary->contemporary
 contemt->contempt
-conten->contain, content,
+conten->contain, content, contend,
 contenants->continents
 contence->contents
 contencion->contention
@@ -23824,11 +23824,11 @@ contenl->content
 contenls->contents
 contenplate->contemplate
 contenplating->contemplating
-contens->content, contains, contents,
-contense->contenders
+contens->contains, contents, content,
+contense->contains, contents,
 contension->contention
 contensious->contentious
-contenst->contents
+contenst->contents, contains,
 content-negatiotiation->content-negotiation
 content-negoatiation->content-negotiation
 content-negoation->content-negotiation
