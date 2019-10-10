@@ -88651,6 +88651,8 @@ scritpts->scripts
 scritpures->scriptures
 scroates->socrates
 scrol->scroll
+scrolbar->scrollbar
+scrolbars->scrollbars
 scrollablbe->scrollable
 scrollade->scrolled
 scrolld->scrolled
