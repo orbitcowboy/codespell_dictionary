@@ -71836,7 +71836,6 @@ parammeter->parameter
 parammeters->parameters
 paramormal->paranormal
 parampath->parampaths
-params->parameters
 paramss->params
 paramter->parameter
 paramteres->parameters
@@ -71850,8 +71849,8 @@ paraniac->paranoiac
 paranioa->paranoia
 paraniod->paranoid
 paranoa->paranoia
-paranoica->paranoia
-paranoicas->paranoia
+paranoica->paranoiac
+paranoicas->paranoiacs
 paranoida->paranoia
 paranomral->paranormal
 paranornal->paranormal
