@@ -45571,7 +45571,7 @@ graphcis->graphics
 graphh->graph
 graphhical->graphical
 graphhviz->graphviz
-graphic->graphical
+graphica->graphical, graphics,
 graphicall->graphical
 graphicaly->graphically
 graphicat->graphical
