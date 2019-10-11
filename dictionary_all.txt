@@ -55006,6 +55006,8 @@ internaal->internal
 internaationaal->international
 internacional->international
 internael->internal
+internaely->internally
+internaelly->internally
 internaetionael->international
 internall->internal, internally,
 internaly->internally
