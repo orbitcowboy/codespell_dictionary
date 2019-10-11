@@ -105834,7 +105834,7 @@ useracount->user account
 userapace->userspace
 usere->user
 userful->useful
-userid->user id
+userid->user id, disabled due to false positives
 userpace->userspace
 userpsace->userspace
 userr account->user account
@@ -105871,6 +105871,7 @@ ussefully->usefully
 usser account->user account
 usser id->user id
 usser->user
+ussers->users
 usserss->users
 ussing->using
 ussual->usual
@@ -105884,7 +105885,7 @@ usuage->usage
 usuall->usually, usual,
 usualllly->usually
 usuallly->usually
-usuallmente->usualmente
+usuallmente->usually
 usuallyy->usually
 usualy->usually
 usuatty->usually
