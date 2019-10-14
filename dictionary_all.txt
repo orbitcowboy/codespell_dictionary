@@ -77,9 +77,6 @@ a speecific->a specific
 a spekifik->a specific
 a sppecific->a specific
 a ssimple->a simple
-a sspecific->a specific
-a taest->a test
-a teest->a test
 a tet->a test
 a tets->a test
 a the->the
@@ -72387,8 +72384,6 @@ patestinian->palestinian
 patestinians->palestinians
 patethic->pathetic
 patette->palette
-path to taest->path to test
-path to teest->path to test
 path to tets->path to test
 path too test->path to test
 pathalogical->pathological
@@ -98232,11 +98227,13 @@ taerritory->territory
 taerrorist->terrorist
 taesk->task
 taest's->test's
-taest->test
-taestaed->tested
-taeste->taste
+taest->test, taste,
+taestaed->tested, tasted,
+taeste->taste, test,
 taesticular->testicular
 taesting->testing
+taests->tests, tastes,
+taestss->tests, tastes,
 taettoo->tattoo
 taettoos->tattoos
 taeught->taught
@@ -98646,7 +98643,13 @@ teest->test
 teesteed->tested
 teesticular->testicular
 teesting->testing
-teext box->text box
+teests->tests
+teestss->tests
+teext->text
+teexted->texted
+teexting->texting
+teexts->texts
+teextss->texts
 teft->left
 tegacy->legacy
 tegitimate->legitimate
@@ -99235,7 +99238,6 @@ thaat->that
 thable->table
 thae aeasae of->the ease of
 thae aend->the end
-thae lataest->the latest
 thae rationalae->the rationale
 thae->the
 thaeataer->theater
@@ -99370,7 +99372,6 @@ thedious->tedious
 thee eeasee of->the ease of
 thee eend->the end
 thee installeer->the installer
-thee lateest->the latest
 thee rationalee->the rationale
 thee->three
 theeateer->theater
@@ -104439,8 +104440,6 @@ unisntall->uninstall
 unisntalled->uninstalled
 unisntalling->uninstalling
 unistalled->uninstalled
-unit taests->unit tests
-unit teests->unit tests
 unitaedstataes->unitedstates
 unitaterat->unilateral
 unitateratty->unilaterally
