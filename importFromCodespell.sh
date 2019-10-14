@@ -10,4 +10,4 @@ git pull
 make sort-dictionary
 cat ${WORKINGDIR}/codespell_git/codespell/codespell_lib/data/dictionary.txt >> ${WORKINGDIR}/dictionary_tmp.txt
 cd ${WORKINGDIR}
-cat ${WORKINGDIR}/dictionary_tmp.txt | sort | uniq > ${WORKINGDIR}/dictionary_all.txt
+cat ${WORKINGDIR}/dictionary_tmp.txt | LC_ALL=en_US sort | uniq > ${WORKINGDIR}/dictionary_all.txt
