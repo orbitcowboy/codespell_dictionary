@@ -88742,11 +88742,9 @@ seahakws->seahawks
 seahawkers->seahawks
 seahaws->seahawks
 seahwaks->seahawks
-seam->seem
 seamlessley->seamlessly
 seamlessy->seamlessly
 seamphore->semaphore
-seams->seems
 seantor->senator
 seantors->senators
 searaches->searches
