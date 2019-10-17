@@ -27139,7 +27139,6 @@ daefiancae->defiance
 daeficiaenciaes->deficiencies
 daeficiaency->deficiency
 daefinae->define
-daefinaed as globals->defined as globals
 daefinaed->defined
 daefinaes->defines
 daefining->defining
