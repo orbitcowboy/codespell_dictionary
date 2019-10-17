@@ -20700,11 +20700,12 @@ compinsate->compensate
 compinsated->compensated
 compinsating->compensating
 compinsation->compensation
+compinsations->compensations
 compire->compiler
-compise->comprise
+compise->compose, comprise,
 compitability->compatibility
-compitable->compatible
-compitabte->compilable
+compitable->compatible, compilable,
+compitabte->compilable, compatible,
 compitance->competence, compliance,
 compitation->computation, competition, compilation,
 compite->compile
@@ -22400,15 +22401,20 @@ connditionnal->conditional
 connditionned->conditioned
 connditionns of->conditions of
 connditionns->conditions
+connec->connect
 conneccticcut->connecticut
 conneced->connected
 connecitcut->connecticut
 conneciton->connection
 connecitons->connections
+connecl->connect
 connecled->connected
+connecles->connects
 conneclicul->connecticut
+connecling->connecting
 conneclion->connection
 conneclix->connectix
+connecls->connects
 connecotr->connector
 connecs->connects
 connectctate->connectstate
@@ -49445,6 +49451,7 @@ iiteratiion->iteration
 iiteratiions->iterations
 iiterator->iterator
 iiterators->iterators
+iits->its, it's,
 ikbuild->kbuild
 ikonoklastik->iconoclastic
 il can slill->it can still
@@ -49649,6 +49656,7 @@ illuustrated->illustrated
 illuustrates->illustrates
 ilness->illness
 ilogical->illogical
+ils->its, it's, ills,
 ilterate->literate
 iluminated->illuminated
 ilumination->illumination
@@ -53816,7 +53824,10 @@ insitution->institution
 insitutions->institutions
 inslall->install
 inslallalion->installation, insulation,
+inslallation->installation, insulation,
 inslalled->installed
+inslaller->installer
+inslalling->installing
 inslance->instance
 inslanlialed->instantiated
 inslanlialion->instantiation
@@ -54042,6 +54053,7 @@ insthall a->install a
 insthall->install
 insthallathion->installation
 insthalled->installed
+insthaller->installer
 insthance->instance
 insthanthiathed->instantiated
 insthanthiathion->instantiation
@@ -56576,6 +56588,7 @@ itherathions->iterations
 itherathor->iterator
 itherathors->iterators
 ithhaca->ithaca
+iths->its, it's,
 itialise->initialise, initialize,
 itialised->initialised, initialized,
 itialises->initialises
@@ -56597,6 +56610,7 @@ itselfs->itself
 itselt->itself
 itsems->items
 itslef->itself
+itss->its, it's,
 itt can sttill->it can still
 itt is->it is
 itt supportts->it supports
@@ -58652,6 +58666,7 @@ lesl->test
 lesled->tested
 leslicular->testicular
 lesling->testing
+lesls->tests
 lesstiff->lesstif
 letal->lethal
 leter->later
@@ -58744,6 +58759,7 @@ lhal's->that's
 lhal->that
 lhan->than
 lhank->thank
+lhanked->thanked
 lhanks->thanks
 lhe->the
 lhealer->theater, healer,
@@ -59078,6 +59094,7 @@ lighthning->lightening
 lighthorse->lighthouse
 lighthosue->lighthouse
 lighthours->lighthouse
+lighths->lights
 lightining->lighting
 lightinng->lighting
 lightly->slightly
@@ -59714,6 +59731,7 @@ lloudlly->loudly
 llove->love
 llow byte->low byte
 llying->lying
+lmit->limit
 lmits->limits
 lnowledgable->knowledgable
 lo allocale->to allocate
@@ -62945,6 +62963,8 @@ micchigan->michigan
 miccro->micro
 miccroccontroller->microcontroller
 miccrosccopy->microscopy
+miccroseccond->microsecond
+miccrosecconds->microseconds
 miccrosoft->microsoft
 mices->mice
 mich->much
@@ -62974,6 +62994,8 @@ micorcontroller->microcontroller
 micorcontrollers->microcontrollers
 micorphones->microphones
 micorscopy->microscopy
+micorsecond->microsecond
+micorseconds->microseconds
 micorsoft->microsoft
 micortransactions->microtransactions
 micorwave->microwave
@@ -63007,12 +63029,16 @@ microntrollers->microcontrollers
 microo->micro
 microocoontrooller->microcontroller
 microoscoopy->microscopy
+microosecoond->microsecond
+microosecoonds->microseconds
 microosooft->microsoft
 microphen->microphone
 microphonies->microphones
 microporcessor->microprocessor
 microporcessors->microprocessors
 microprocesspr->microprocessor
+microsaecond->microsecond
+microsaeconds->microseconds
 microscoop->microscope
 microscophic->microscopic
 microscopice->microscope
@@ -63020,6 +63046,12 @@ microscoppy->microscopy
 microscoptic->microscopic
 microscopyy->microscopy
 microscrope->microscope
+microsecondd->microsecond
+microsecondds->microseconds
+microseconnd->microsecond
+microseconnds->microseconds
+microseecond->microsecond
+microseeconds->microseconds
 microsft->microsoft
 microship->microchip
 microsof->microsoft
@@ -63029,6 +63061,7 @@ microsofot->microsoft
 microsofth->microsoft
 microsoftt->microsoft
 microsscopy->microscopy
+microssecondss->microseconds
 microssoft->microsoft
 microstansactions->microtransactions
 microtax->microatx
@@ -63060,6 +63093,8 @@ micrpohone->microphones
 micrro->micro
 micrrocontrrollerr->microcontroller
 micrroscopy->microscopy
+micrrosecond->microsecond
+micrroseconds->microseconds
 micrrosoft->microsoft
 micrsft->microsoft
 micrsoft->microsoft
@@ -63135,6 +63170,8 @@ miichiigan->michigan
 miicro->micro
 miicrocontroller->microcontroller
 miicroscopy->microscopy
+miicrosecond->microsecond
+miicroseconds->microseconds
 miicrosoft->microsoft
 miidliine->midline
 miidwiives->midwives
@@ -63198,6 +63235,8 @@ mikrokontroller->microcontroller
 mikronesia->micronesia
 mikrosecond->microsecond
 mikroseconds->microseconds
+mikrosekond->microsecond
+mikrosekonds->microseconds
 mikroskopy->microscopy
 mikrosoft->microsoft
 milaes->miles
@@ -64253,6 +64292,8 @@ mmetrics->metrics
 mmicro->micro
 mmicrocontroller->microcontroller
 mmicroscopy->microscopy
+mmicrosecond->microsecond
+mmicroseconds->microseconds
 mmidline->midline
 mmidwives->midwives
 mmigrate->migrate
@@ -81067,6 +81108,7 @@ raissed->raised
 raissess->raises
 ralation->relation
 ralify->ratify
+ralionale->rationale
 ramdom->random
 ramificaitons->ramifications
 randayvoo->rendezvous
@@ -81138,10 +81180,12 @@ rathar->rather
 rathcet->ratchet
 rathern->rather
 rathify->ratify
+rathionale->rationale
 ratiffy->ratify
 ratifyy->ratify
 ratiify->ratify
 ratino->ratio
+rationalae->rationale
 rationalizaiton->rationalization
 rationalizating->rationalization
 rationalizaton->rationalization
@@ -90031,8 +90075,10 @@ shorcut->shortcut
 shorcuts->shortcuts
 shorl->short
 shorlculs->shortcuts
+shorled->shorted
 shorlly->shortly
 shorls->shorts
+shorly->shortly, surely,
 shorrt while->short while
 shorrtcuts->shortcuts
 shorrtly->shortly
@@ -91271,7 +91317,12 @@ slralegy->strategy
 slrand->strand
 slrange->strange
 slranger->stranger
+slream->stream
+slreamed->streamed
+slreames->streams
+slreaming->streaming
 slreamlining->streamlining
+slreams->streams
 slrelched->stretched
 slrenglh->strength
 slrenglhen->strengthen
@@ -94237,7 +94288,12 @@ sthrathegic->strategic
 sthrathegically->strategically
 sthrathegies->strategies
 sthrathegy->strategy
+sthream->stream
+sthreamed->streamed
+sthreames->streams
+sthreaming->streaming
 sthreamlining->streamlining
+sthreams->streams
 sthrengthh->strength
 sthrengthhen->strengthen
 sthrengthhened->strengthened
@@ -94416,7 +94472,12 @@ stradegies->strategies
 stradegy->strategy
 straeamlining->streamlining
 straeightforwaerd->straightforward
+straem->stream
+straemed->streamed
+straemes->streams
+straeming->streaming
 straemlining->streamlining
+straems->streams
 straend->strand
 straenge->strange
 straenger->stranger
@@ -94592,9 +94653,18 @@ strectch->stretch
 strecthed->stretched
 strecthes->stretches
 strecthing->stretching
+streeam->stream
+streeamed->streamed
+streeames->streams
+streeaming->streaming
 streeamlining->streamlining
+streeams->streams
 streem->stream
+streemed->streamed
+streemes->streams
+streeming->streaming
 streemlining->streamlining
+streems->streams
 streength->strength
 streengtheen->strengthen
 streengtheeneed->strengthened
@@ -94811,7 +94881,12 @@ strrategic->strategic
 strrategically->strategically
 strrategies->strategies
 strrategy->strategy
+strream->stream
+strreamed->streamed
+strreames->streams
+strreaming->streaming
 strreamlining->streamlining
+strreams->streams
 strrength->strength
 strrengthen->strengthen
 strrengthened->strengthened
@@ -94966,7 +95041,12 @@ sttrattegic->strategic
 sttrattegically->strategically
 sttrattegies->strategies
 sttrattegy->strategy
+sttream->stream
+sttreamed->streamed
+sttreames->streams
+sttreaming->streaming
 sttreamlining->streamlining
+sttreams->streams
 sttrengtth->strength
 sttrengtthen->strengthen
 sttrengtthened->strengthened
@@ -102280,7 +102360,12 @@ tsrategic->strategic
 tsrategically->strategically
 tsrategies->strategies
 tsrategy->strategy
+tsream->stream
+tsreamed->streamed
+tsreames->streams
+tsreaming->streaming
 tsreamlining->streamlining
+tsreams->streams
 tsrength->strength
 tsrengthen->strengthen
 tsrengthened->strengthened
@@ -102372,6 +102457,7 @@ ttestt->test
 ttestted->tested
 ttestticular->testicular
 ttestting->testing
+ttestts->tests
 ttextt box->text box
 tthan->than
 tthank->thank
@@ -104324,6 +104410,7 @@ unitss->units
 unitt->unit
 unittedsttattes->unitedstates
 unittests->unit tests
+unitts->units
 unitttest->unittest
 univaersal->universal
 univaersitiaes->universities
