@@ -25,77 +25,11 @@ a loth->a lot
 a lott->a lot
 a nother->another
 a option->an option
-a porfessional look->a professional look
-a pprofessional look->a professional look
-a profession look->a professional look
-a professionat took->a professional look
-a professionnal look->a professional look
-a professssional look->a professional look
-a proffessional look->a professional look
-a proofessioonal looook->a professional look
-a prrofessional look->a professional look
-a siimple->a simple
-a simmple->a simple
-a simplae->a simple
-a simplee->a simple
-a simplle->a simple
-a simply->a simple
-a simpple->a simple
-a simpte->a simple
-a spaecific->a specific
-a speccificc->a specific
-a speciffic->a specific
 a specify->a specific
-a speciifiic->a specific
-a speecific->a specific
-a spekifik->a specific
-a sppecific->a specific
-a ssimple->a simple
 a tet->a test
-a tets->a test
 a the->the
-a thesth->a test
-a tinux->a linux
 a tot->a lot
-a ttestt->a test
-a unifform level->a uniform level
-a unifoorm level->a uniform level
-a uniform laevael->a uniform level
-a uniform leeveel->a uniform level
-a uniform leveel->a uniform level
-a uniform levl->a uniform level
-a uniform levvel->a uniform level
-a uniform llevell->a uniform level
-a uniform tevet->a uniform level
-a uniformm level->a uniform level
-a uniforrm level->a uniform level
-a unifrom level->a uniform level
-a uniiform level->a uniform level
-a uniique->a unique
-a uniqque->a unique
-a uniquae->a unique
-a uniquee->a unique
-a unniform level->a uniform level
-a unnique->a unique
-a uuniform level->a uniform level
-a uuniquue->a unique
-a vaengaeancae->a vengeance
 a variables->a variable, a variable's,
-a veengeance->a vengeance
-a veengeeancee->a vengeance
-a veiew->a view
-a vengaence->a vengeance
-a vengeancce->a vengeance
-a vengeanke->a vengeance
-a venggeance->a vengeance
-a vengueance->a vengeance
-a venngeannce->a vengeance
-a viaew->a view
-a vieew->a view
-a vieww->a view
-a viiew->a view
-a vngeance->a vengeance
-a vvengeance->a vengeance
 a'ready->already
 aa->a
 aabaandon->abandon
@@ -786,6 +720,7 @@ abitrarily->arbitrarily
 abitrary->arbitrary
 abitrate->arbitrate
 abizmal->abysmal
+ablae->able
 ablity->ability
 ablocks->blocks
 ablout->about, absolute,
@@ -2084,6 +2019,7 @@ aclhemist->alchemist
 aclimatization->acclimatization
 aclivale->activate
 aclivaled->activated
+aclive->active
 aclively->actively
 aclivilies->activities
 aclivily->activity
@@ -2284,6 +2220,7 @@ actauly->actualy
 acter->actor
 acthivathe->activate
 acthivathed->activated
+acthive->active
 acthively->actively
 acthivithies->activities
 acthivithy->activity
@@ -2375,8 +2312,13 @@ activw->active
 actresess->actresses
 actresss->actresses
 actss->acts
+acttivate->activate
+acttivated->activated
+acttivates->activates
+acttivating->activating
 acttivatte->activate
 acttivatted->activated
+acttive->active
 acttively->actively
 acttivitties->activities
 acttivitty->activity
@@ -6368,15 +6310,8 @@ and sso->and so
 and thaen->and then
 and the all->and all
 and thee->and the
-and theen->and then
 and then and then->and then
-and tthen->and then
 and und->and
-andd all->and all
-andd its->and its
-andd so->and so
-andd the->and the
-andd then->and then
 andd->and
 anddrogynous->androgynous
 anddrogyny->androgyny
@@ -6561,11 +6496,6 @@ anncestors->ancestors
 anncestral->ancestral
 anncestry->ancestry
 anncillary->ancillary
-annd all->and all
-annd its->and its
-annd so->and so
-annd the->and the
-annd thenn->and then
 annd->and
 anndrogynnous->androgynous
 anndrogynny->androgyny
@@ -11415,14 +11345,9 @@ badnits->bandits
 badnwagon->bandwagon
 badnwidth->bandwidth
 badsigature->badsignature
-bae ablae->be able
-bae appliaed->be applied
-bae donae->be done
-bae raefaeraencaed by->be referenced by
-bae startaed->be started
-bae traeataed->be treated
 bae->base, be,
 baeachhaead->beachhead
+baeaen->been
 baeautifiaer->beautifier
 baeautiful->beautiful
 baecamae->became
@@ -11807,6 +11732,7 @@ bbecause of->because of
 bbecause->because
 bbecomes->becomes
 bbecoming->becoming
+bbeen->been
 bbefore->before
 bbegging->begging
 bbegin->begin
@@ -12118,6 +12044,7 @@ beecausee->because
 beecomees->becomes
 beecoming->becoming
 beed->been, bead, beet, beer, bees,
+beeeen->been
 beeep->beep
 beeforee->before
 beegging->begging
@@ -12153,6 +12080,7 @@ beeneeficial->beneficial
 beeneeficiary->beneficiary
 beeneefit->benefit
 beeneefits->benefits
+beenn->been
 beergamot->bergamot
 beernoulli->bernoulli
 beesieegee->besiege
@@ -12575,6 +12503,7 @@ benig->being
 benine->benign
 benj->binge
 benkhmark->benchmark
+benn->been
 bennchmark->benchmark
 benneficial->beneficial
 benneficiary->beneficiary
@@ -14320,7 +14249,6 @@ byteoder->byte order
 byteorder->byte order, disabled due to java class,
 bythe->byte, by the,
 bytte->byte
-byy the same->by the same
 byy->by
 byyte->byte
 ca nbe->can be
@@ -14352,9 +14280,6 @@ caameraa->camera
 caamouflaage->camouflage
 caampaaign->campaign
 caampaaigns->campaigns
-caan be performed->can be performed
-caan be->can be
-caan only haave->can only have
 caan't->can't
 caan->can
 caancellaation->cancellation
@@ -14522,7 +14447,6 @@ caemerae->camera
 caemouflaege->camouflage
 caempaeign->campaign
 caempaeigns->campaigns
-caen only haeve->can only have
 caen't->can't
 caen->can
 caencellaetion->cancellation
@@ -15081,14 +15005,6 @@ can bee peerformeed->can be performed
 can bee->can be
 can de performed->can be performed
 can have only->can only have
-can not->cannot
-can onlly have->can only have
-can only hav->can only have
-can only havae->can only have
-can only havee->can only have
-can only hhave->can only have
-can onlyy have->can only have
-can onty have->can only have
 can'l->can't
 can'th->can't
 can'tt->can't
@@ -18777,7 +18693,6 @@ codaespaell->codespell
 codde->code, coddle, coded,
 coddedd->coded
 coddespell->codespell
-code aend->code and
 codeand->code and
 codee->code
 codeed->coded
@@ -20862,6 +20777,7 @@ complicance->compliance
 complicances->compliances
 complicare->complicate
 complicarte->complicate
+complicateed->complicated
 complicati->complicit
 complicatie->complicit
 complicatied->complicate
@@ -22416,10 +22332,13 @@ connectctate->connectstate
 connecte->connected
 connectedd->connected
 connectes->connects
+connecth->connect
 connecthed->connected
+connecthes->connects
 connecthicuth->connecticut
 connecthion->connection
 connecthix->connectix
+connecths->connects
 connectibity->connectivity
 connecticon->connection
 connecticuit->connecticut
@@ -22435,7 +22354,7 @@ connectins->connects
 connectionas->connections
 connectiong->connecting
 connectiontimeout->connecttimeout
-connectit->connecticut
+connectit->connect it, connecticut,
 connectivety->connectivity
 connectivitiy->connectivity
 connectivty->connectivity
@@ -22445,10 +22364,12 @@ connecton->connection
 connectos->connectors
 connectpro->connector
 connectr->connector
+connectt->connect
 connectted->connected
 connectticutt->connecticut
 connecttion->connection
 connecttix->connectix
+connectts->connects
 conneecteed->connected
 conneecticut->connecticut
 conneection->connection
@@ -25756,12 +25677,6 @@ cought->caught
 couinter->counter
 coul'd->could
 coul->could
-could haave->could have
-could haeve->could have
-could hav->could have
-could havae->could have
-could havee->could have
-could hhave->could have
 could nnot->could not
 could nol->could not
 could noth->could not
@@ -27226,6 +27141,7 @@ daeficiaency->deficiency
 daefinae->define
 daefinaed as globals->defined as globals
 daefinaed->defined
+daefinaes->defines
 daefining->defining
 daefinitae->definite
 daefinitaely->definitely
@@ -27943,6 +27859,10 @@ deactived->deactivated
 deactives->deactivates
 deactiving->deactivating
 deactivvated->deactivated
+deacttivate->deactivate
+deacttivated->deactivated
+deacttivates->deactivates
+deacttivating->deactivating
 deacttivatted->deactivated
 deadlfit->deadlift
 deadlfits->deadlifts
@@ -34455,7 +34375,7 @@ draculea->dracula
 draculla->dracula
 draeam->dream
 draeams->dreams
-draeg aend drop->drag and drop
+draeg->drag
 draegging->dragging
 draeined->drained
 draem->dram
@@ -35267,11 +35187,14 @@ eencrypt->encrypt
 eencrypteed->encrypted
 eencryption->encryption
 eencyclopeedia->encyclopedia
+eend->end
+eended->ended
 eendeeavors->endeavors
 eendeeavour->endeavour
 eendianneess->endianness
 eending->ending
 eendoliths->endoliths
+eends->ends
 eenforcee->enforce
 eenforcing->enforcing
 eengageemeent->engagement
@@ -36800,11 +36723,14 @@ endanged->endangered
 endangerd->endangered
 endcoded->encoded
 endcoding->encoding
+endd->end
 enddeavors->endeavors
 enddeavour->endeavour
+endded->ended
 enddianness->endianness
 endding->ending
 enddoliths->endoliths
+endds->ends
 ende->end
 endeaavors->endeavors
 endeaavour->endeavour
@@ -37133,11 +37059,15 @@ enncrypt->encrypt
 enncrypted->encrypted
 enncryptionn->encryption
 enncyclopedia->encyclopedia
+ennd->end
 enndeavors->endeavors
 enndeavour->endeavour
+ennded->ended
 enndiannnness->endianness
+ennding->ending
 enndinng->ending
 enndoliths->endoliths
+ennds->ends
 ennforce->enforce
 ennforcinng->enforcing
 enngagemennt->engagement
@@ -41713,8 +41643,6 @@ ffollows->follows
 ffontier->fontier
 ffoolprooff->foolproof
 ffootball->football
-ffor the->for the
-ffor this->for this
 ffor->for
 fforbade->forbade
 fforbid->forbid
@@ -43594,9 +43522,6 @@ fronlier->frontier
 fronnt ennd->front end
 fronnt->front
 fronntier->frontier
-front aend->front end
-front eend->front end
-front endd->front end
 frontapge->frontpage
 fronteir->frontier
 frontend->front end
@@ -46172,13 +46097,8 @@ haaraassing->harassing
 haaraassment->harassment
 haaraassments->harassments
 haardwaare->hardware
-haas been->has been
-haas not->has not
 haas->has
 haasn't->hasn't
-haave been->have been
-haave not->have not
-haave written->have written
 haave->have
 haaven't->haven't
 haaving->having
@@ -46212,12 +46132,7 @@ hace->have
 hacen->hace
 hach->hatch, hash, hack,
 hacthing->hatching
-had baeaen->had been
-had bbeen->had been
-had beeeen->had been
-had beenn->had been
 had ben->had been
-had benn->had been
 hadd been->had been
 hadding->adding, having,
 hade->had, hate,
@@ -46285,7 +46200,6 @@ haeppening->happening
 haeppens->happens
 haeppily->happily
 haera->hera
-haerae is->here is
 haerae->here
 haeraedity->heredity
 haeraess->harass
@@ -46300,8 +46214,7 @@ haeritagae->heritage
 haero->hero
 haeroaes->heroes
 haertz->hertz
-haes been->has been
-haes not->has not
+haes->has
 haesitant->hesitant
 haesitatae->hesitate
 haesitataed->hesitated
@@ -46651,20 +46564,15 @@ harvasting->harvesting
 harvestgain->harvesting
 harware->hardware
 harzardous->hazardous
-has baeaen->has been
-has bbeen->has been
-has beeeen->has been
-has beenn->has been
 has ben->has been
-has benn->has been
 has has->has
 has nnot->has not
 has nol->has not
-has noot->has not
+has noot->has nots
 has noth->has not
 has nott->has not
 has'nt->hasn't
-hases->hashes
+hases->hashes, has,
 hashi->hash
 hashreference->hash reference
 hashs->hashes
@@ -46678,8 +46586,6 @@ hasn;t->hasn't
 hasnn't->hasn't
 hasnt'->hasn't
 hasnt->hasn't, has not, hasn\"t,
-hass been->has been
-hass not->has not
 hass->hash, has,
 hassn't->hasn't
 hastable->hashtable
@@ -46692,23 +46598,13 @@ hattowe'en->hallowe'en
 hattoween->halloween
 hauntig->haunting
 hauty->haughty
-hav been->have been
-hav not->have not
-hav written->have written
 hav->have
 hava->have, have a,
-havae baeaen->have been
-havae not->have not
-havae writtaen->have written
 havae->have
 havaen't->haven't
-have bbeen->have been
-have beenn->have been
 have ben->have been
 have have->have
 have meen->have been
-have nnot->have not
-have nol->have not
 have noot->have not
 have noth->have not
 have nott->have not
@@ -46726,11 +46622,6 @@ have wrritten->have written
 have wwritten->have written
 have'nt->haven't
 havea->have, have a,
-havee beeeen->have been
-havee been->have been
-havee not->have not
-havee writteen->have written
-havee written->have written
 havee->have, have a,
 haveen't->haven't
 haveing->having
@@ -46948,7 +46839,6 @@ heemorrhagee->hemorrhage
 heen->hen
 heencee->hence
 heera->hera
-heeree is->here is
 heeree->here
 heereedity->heredity
 heeritagee->heritage
@@ -47275,8 +47165,6 @@ hharassing->harassing
 hharassment->harassment
 hharassments->harassments
 hhardware->hardware
-hhas been->has been
-hhas not->has not
 hhas->has
 hhasn't->hasn't
 hhave->have
@@ -48653,19 +48541,12 @@ i am dooing->i am doing
 i amm doing->i am doing
 i amm->i am
 i ddidd not->i did not
-i did nnot->i did not
 i did nol->i did not
 i did noot->i did not
 i did noth->i did not
 i did nott->i did not
 i dnt->i did not
 i fond->i found
-i haave->i have
-i haeve->i have
-i hav->i have
-i havae->i have
-i havee->i have
-i hhave->i have
 i htink->i think
 i i->i
 i lhink->i think
@@ -50808,6 +50689,7 @@ inactivate->deactivate
 inactivee->inactive
 inactivve->inactive
 inacttive->inactive
+inacttively->inactively
 inacuraccies->inaccuracies
 inacurate->inaccurate
 inacurracies->inaccuracies
@@ -54224,6 +54106,7 @@ insttall a->install a
 insttall->install
 insttallattion->installation
 insttalled->installed
+insttaller->installer
 insttance->instance
 insttanttiatted->instantiated
 insttanttiattion->instantiation
@@ -56265,8 +56148,6 @@ irrrritated->irritated
 irrrritates->irritates
 is aable to->is able to
 is abble to->is able to
-is ablae to->is able to
-is able lo->is able to
 is able tho->is able to
 is able to able to->is able to
 is able too->is able to
@@ -56324,10 +56205,8 @@ is is->is it, is, it is,
 is khekked for->is checked for
 is khekked that->is checked that
 is konfigured->is configured
-is nnot->is not
 is nol->is not
 is noot->is not
-is noth->is not
 is nott->is not
 is saet->is set
 is seet->is set
@@ -56484,17 +56363,14 @@ it suupports->it supports
 it ten came->it then came
 it thaen camae->it then came
 it than came->it then came
-it theen camee->it then came
 it then caame->it then came
 it then caeme->it then came
 it then camme->it then came
 it then ccame->it then came
 it then kame->it then came
-it thenn came->it then came
 it wil->it will
 it willll->it will
 it withstand->it withstands
-it witt->it will
 it wwill->it will
 it you want->if you want
 itaca->ithaca
@@ -56609,7 +56485,6 @@ itss->its, it's,
 itt can sttill->it can still
 itt is->it is
 itt supportts->it supports
-itt tthen came->it then came
 itt will->it will
 itt->it
 ittached->attached
@@ -58735,6 +58610,7 @@ levle->level
 levleing->leveling
 levleling->levelling
 levles->levels
+levls->levels
 levvel->level
 levvitate->levitate
 levvitated->levitated
@@ -60001,6 +59877,7 @@ loongitude->longitude
 loongitudinal->longitudinal
 loook->look
 loookup->lookup
+looook->look
 loooopback->loopback
 looop->loop
 looopback->loopback
@@ -60303,7 +60180,6 @@ maatrices->matrices
 maatter->matter
 maattered->mattered
 maaximum->maximum
-maay haave been->may have been
 maay->may
 maaybe->maybe
 mabe->maybe
@@ -60527,7 +60403,6 @@ maethemaeticaelly->mathematically
 maethemaeticiaen->mathematician
 maethemaeticiaens->mathematicians
 maethemaetics->mathematics
-maethod daefinaes how->method defines how
 maethod->method
 maethodaes->methodes
 maethodology->methodology
@@ -60538,7 +60413,6 @@ maetrics->metrics
 maetter->matter
 maettered->mattered
 maeximum->maximum
-maey haeve been->may have been
 maey->may
 maeybe->maybe
 magainzes->magazines
@@ -61919,16 +61793,8 @@ maxosx->macosx
 maxrmal->maximal
 maxumum->maximum
 maxximum->maximum
-may be->maybe
 may has been->may have been
-may hav been->may have been
-may havae baeaen->may have been
-may have bbeen->may have been
-may have beenn->may have been
 may have ben->may have been
-may havee beeeen->may have been
-may havee been->may have been
-may hhave been->may have been
 mayabe->maybe
 mayalsia->malaysia
 mayalsian->malaysian
@@ -67358,8 +67224,6 @@ nnormally->normally
 nnorth->north
 nnortheasternn->northeastern
 nnorthernn->northern
-nnot active->not active
-nnot nnecessarily->not necessarily
 nnot->not
 nnotable->notable
 nnotably->notably
@@ -67420,9 +67284,7 @@ nofity->notify
 nohypen->nohyphen
 noice->noise, nice, notice,
 noitceably->noticeably
-nol aclive->not active
-nol necessarily->not necessarily
-nol->not
+nol->not, null,
 nolable->notable
 nolably->notably
 nolalion->notation
@@ -67634,8 +67496,6 @@ noormally->normally
 noorth->north
 noortheastern->northeastern
 noorthern->northern
-noot active->not active
-noot necessarily->not necessarily
 noot->not
 nootable->notable
 nootably->notably
@@ -67833,8 +67693,6 @@ noteworty->noteworthy
 notfication->notification
 notfications->notifications
 notfied->notified
-noth acthive->not active
-noth necessarily->not necessarily
 noth->north, not,
 nothable->notable
 nothably->notably
@@ -67942,8 +67800,6 @@ notorriety->notoriety
 notpad->notepad
 notroiety->notoriety
 notse->note, notes,
-nott acttive->not active
-nott necessarily->not necessarily
 nott->not
 nottable->notable
 nottably->notably
@@ -69224,8 +69080,8 @@ onaerous->onerous
 onatrio->ontario
 onbaord->onboard
 onborad->onboard
-oncae again->once again
-oncce again->once again
+oncae->once
+oncce->once
 once aagaain->once again
 once aegaein->once again
 once agaiin->once again
@@ -69261,7 +69117,7 @@ onerus->onerous
 oneyway->oneway
 ongewild->gonewild
 ongly->only
-onke again->once again
+onke->once
 onl->only
 onlice->online
 onlie->online, only,
@@ -69270,15 +69126,10 @@ onliine->online
 onlinae->online
 onlinee->online
 onlline->online
-onlly once->only once
 onlly->only
 onlsaught->onslaught
-only oncae->only once
-only oncce->only once
 only oncee->only once
-only onke->only once
 onlyonce->only once
-onlyy once->only once
 onlyy->only
 onmipotent->omnipotent
 onmiscient->omniscient
@@ -69310,7 +69161,6 @@ onthe->on the
 ontine->online
 ontraio->ontario
 ontrolled->controlled
-onty once->only once
 onty->only
 onw->own
 onwership->ownership
@@ -69978,15 +69828,6 @@ oputput->output
 opweration->operation
 opwerations->operations
 or or->or
-or wihtout->or without
-or wiithout->or without
-or wilhoul->or without
-or withhout->or without
-or withhouth->or without
-or withouut->or without
-or witout->or without
-or witthoutt->or without
-or wwithout->or without
 oraally->orally
 oracels->oracles
 oradmap->roadmap
@@ -70688,7 +70529,7 @@ ouutpuutting->outputting
 ouutside->outside
 ouutstanding->outstanding
 ovaer complicataed->over complicated
-ovaer thaerae->over there
+ovaer->over
 ovaerflow->overflow
 ovaerhaead->overhead
 ovaerlaid->overlaid
@@ -70701,10 +70542,7 @@ ovaerrun->overrun
 ovaershadowaed->overshadowed
 ovaerusae->overuse
 ovaerwhaelming->overwhelming
-oveer complicated->over complicated
-oveer complicateed->over complicated
-oveer theeree->over there
-oveer there->over there
+oveer->over
 oveerflow->overflow
 oveerhead->overhead
 oveerheead->overhead
@@ -72444,10 +72282,10 @@ peacefuland->peaceful and
 peacefull and->peaceful and
 peacefullly->peacefully
 peacefuly->peacefully
-peacefut and->peaceful and
-peacefuul and->peaceful and
+peacefut->peaceful
+peacefuul->peaceful
 peacify->pacify
-peaeceful aend->peaceful and
+peaeceful->peaceful
 peageant->pageant
 peakeful and->peaceful and
 peanuckle->pinochle
@@ -80786,6 +80624,7 @@ radnom->random
 rae-aexaecutaed->re-executed
 rae-daetaerminae->re-determine
 rae-throw->re-throw
+raeachablae->reachable
 raeachaed->reached
 raeaching->reaching
 raead->read
@@ -80829,6 +80668,7 @@ raecalculatae->recalculate
 raecalculation->recalculation
 raecalculations->recalculations
 raecall->recall
+raechable->reachable
 raechargaeablae->rechargeable
 raeched->reached
 raeching->reaching
@@ -81186,6 +81026,7 @@ ratifyy->ratify
 ratiify->ratify
 ratino->ratio
 rationalae->rationale
+rationalee->rationale
 rationalizaiton->rationalization
 rationalizating->rationalization
 rationalizaton->rationalization
@@ -82633,6 +82474,7 @@ reduundant->redundant
 ree-deeteerminee->re-determine
 ree-eexeecuteed->re-executed
 ree-throw->re-throw
+reeachablee->reachable
 reeacheed->reached
 reeaching->reaching
 reead->read
@@ -87123,6 +86965,7 @@ rray->array
 rre-deterrmine->re-determine
 rre-executed->re-executed
 rre-thrrow->re-throw
+rreachable->reachable
 rreached->reached
 rreaching->reaching
 rread->read
@@ -87688,7 +87531,6 @@ saergaeant->sergeant
 saerial->serial
 saerialization->serialization
 saeriously->seriously
-saervaer not raeachablae->server not reachable
 saervaer->server
 saerval->serval
 saervicae->service
@@ -88863,7 +88705,6 @@ seerial->serial
 seerialization->serialization
 seeriously->seriously
 seerval->serval
-seerveer not reeachablee->server not reachable
 seerveer->server
 seervicee->service
 seervilee->servile
@@ -89569,7 +89410,6 @@ serrial->serial
 serrialization->serialization
 serriously->seriously
 serrval->serval
-serrverr not rreachable->server not reachable
 serrverr->server
 serrvice->service
 serrvile->servile
@@ -89585,16 +89425,12 @@ servat->serval
 servce->service
 servces->services
 serveal->serval
-serveer not reachable->server not reachable
 serveer->server
 servehs->serves
 serveice->service
 serveile->servile
 serveillance->surveillance
-server nnot reachable->server not reachable
 server nol reachable->server not reachable
-server noot reachable->server not reachable
-server not raechable->server not reachable
 server not reaachaable->server not reachable
 server not reacchable->server not reachable
 server not reachabble->server not reachable
@@ -89603,8 +89439,6 @@ server not reachabte->server not reachable
 server not reachhable->server not reachable
 server not reaechaeble->server not reachable
 server not reakhable->server not reachable
-server noth reachable->server not reachable
-server nott reachable->server not reachable
 serveral->several
 serverite->severity
 serverites->severities
@@ -89977,10 +89811,6 @@ shhopkeepers->shopkeepers
 shhort->short
 shhortcuts->shortcuts
 shhortly->shortly
-shhould hhave->should have
-shhould not hhave hhappened->should not have happened
-shhould not hhave->should not have
-shhould not->should not
 shhould->should
 shhouldn't->shouldn't
 shhow->show
@@ -90047,15 +89877,12 @@ shoing->showing
 shold->should, hold, sold,
 sholder->shoulder
 shoopkeepers->shopkeepers
-shoort while->short while
+shoort->short
 shoortcuts->shortcuts
 shoortly->shortly
+shoorts->shorts
 shootdown->shutdown
 shootdowns->shutdowns
-shoould have->should have
-shoould noot have happened->should not have happened
-shoould noot have->should not have
-shoould noot->should not
 shoould->should
 shoouldn't->shouldn't
 shoow->show
@@ -90117,55 +89944,21 @@ shoucl->should
 shoud->should
 shoudl->should
 shoudld->should
-shoudle->should
+shoudle->should, shoulder,
 shoudlers->shoulders
 shoudln't->shouldn't
-shoudln->shouldn't, should, shouldn\"t,
+shoudln->shouldn't, should,
 shoudlnt->shouldn't
 shoudn't->shouldn't
 shoudn->shouldn
 shoudt->should, shouldn't,
 shoul->should
-should haave->should have
-should haeve->should have
-should hav->should have
-should havae->should have
 should have not->should not have
-should havee->should have
-should nnot have happenned->should not have happened
-should nnot have->should not have
-should nnot->should not
-should nol have happened->should not have happened
-should nol have->should not have
-should nol->should not
-should not haave haappened->should not have happened
-should not haave->should not have
-should not haeve haeppened->should not have happened
-should not haeve->should not have
-should not hav happened->should not have happened
-should not hav->should not have
-should not havae happaenaed->should not have happened
-should not havae->should not have
-should not have hapened->should not have happened
 should not have happen->should not have happened
-should not have happppened->should not have happened
-should not havee happeeneed->should not have happened
-should not havee happened->should not have happened
-should not havee->should not have
-should noth have happened->should not have happened
-should noth have->should not have
-should noth->should not
-should nott have happened->should not have happened
-should nott have->should not have
-should nott->should not
-should of->should have
+should of->should have, should've,
 should'nt->shouldn't
 should't->shouldn't
 shouldbe->should, should be,
-shouldd have->should have
-shouldd not have happenedd->should not have happened
-shouldd not have->should not have
-shouldd not->should not
 shouldd->should
 shoulddn't->shouldn't
 shouldes->shoulders
@@ -90176,14 +89969,10 @@ shouldn;t->shouldn't
 shouldnn't->shouldn't
 shouldnot->shouldn't
 shouldnt'->shouldn't
-shouldnt->shouldn't, should not, shouldn\"t,
+shouldnt->shouldn't, should not,
 shouldnt;->shouldn't
 shouldt->shouldn't
 shoule->should
-shoulld have->should have
-shoulld not have happened->should not have happened
-shoulld not have->should not have
-shoulld not->should not
 shoulld->should
 shoulldn't->shouldn't
 shouln't->shouldn't
@@ -90198,10 +89987,6 @@ shoutd not->should not
 shoutd->should
 shoutdn't->shouldn't
 shoutot->shoutout
-shouuld have->should have
-shouuld not have happened->should not have happened
-shouuld not have->should not have
-shouuld not->should not
 shouuld->should
 shouuldn't->shouldn't
 shouw->show
@@ -93363,7 +93148,6 @@ sserial->serial
 sserialization->serialization
 sserioussly->seriously
 sserval->serval
-sserver not reachable->server not reachable
 sserver->server
 sservice->service
 sservile->servile
@@ -94015,6 +93799,7 @@ starnation->starvation
 starrt->start
 starrting point->starting point
 starrting->starting
+startaed->started
 startd->started
 startde->startled
 startegic->strategic
@@ -94279,6 +94064,7 @@ sthops->stops
 sthore->store
 sthories->stories
 sthory->story
+sthraighthen->straighten
 sthraighthforward->straightforward
 sthrand->strand
 sthrange->strange
@@ -95032,6 +94818,7 @@ sttops->stops
 sttore->store
 sttories->stories
 sttory->story
+sttraightten->straighten
 sttraighttforward->straightforward
 sttrand->strand
 sttrange->strange
@@ -99137,7 +98924,9 @@ tetrahedrans->tetrahedrons
 tetry->retry
 tets's->test's
 tets->test
+tetsable->testable
 tetsed->tested
+tetser->tester
 tetsicular->testicular
 tetsing->testing
 tetss->tests
@@ -99197,14 +98986,12 @@ thaerae->there
 thaeraeaftaer->thereafter
 thaeraeby->thereby
 thaeraeforae->therefore
-thaeraefrom haerae->therefrom here
+thaeraefrom->therefrom
 thaermostat->thermostat
-thaesae raequiraemaents->these requirements
 thaesae->these
 thaet's->that's
 thaet->that
 thaeter->theater
-thaey havae baeaen->they have been
 thaey'rae->they're
 thaey->they
 thais->thai
@@ -99271,7 +99058,6 @@ the ease off->the ease of
 the ease oof->the ease of
 the easse of->the ease of
 the easy of->the ease of
-the endd->the end
 the ennd->the end
 the iinstaller->the installer
 the innstaller->the installer
@@ -99316,29 +99102,24 @@ thechnology->technology
 thedious->tedious
 thee eeasee of->the ease of
 thee eend->the end
-thee installeer->the installer
-thee rationalee->the rationale
 thee->three
 theeateer->theater
 theef->thief
 theeir->their
 theemseelvees->themselves
-theen i->then i
 theen->then
 theeoreem->theorem
 theeory->theory
 theer->there
-theeree->there
+theeree->there, their,
 theereeafteer->thereafter
 theereeby->thereby
 theereeforee->therefore
-theereefrom heeree->therefrom here
+theereefrom->therefrom
 theermostat->thermostat
 theery->theory
 theese->these
-theesee reequireemeents->these requirements
 theesee->these
-theey havee beeeen->they have been
 theey'ree->they're
 theey->they
 thefore->therefore
@@ -99394,7 +99175,6 @@ thendencies->tendencies
 thendency->tendency
 thenes->themes
 thenm->then
-thenn i->then i
 thenn->then
 thennis player->tennis player
 thenthacle->tentacle
@@ -99556,13 +99336,8 @@ thev->the
 theves->thieves
 thex->the, then,
 thexth box->text box
-they haave been->they have been
-they haeve been->they have been
 they hav been->they have been
-they have bbeen->they have been
-they have beenn->they have been
 they have ben->they have been
-they havee been->they have been
 they they->they
 they'rre->they're
 theyr->there, their, they're,
@@ -99596,7 +99371,6 @@ thherefrom hhere->therefrom here
 thhermostat->thermostat
 thhermosthath->thermostat
 thhese->these
-thhey hhave been->they have been
 thhey're->they're
 thhey->they
 thhickening->thickening
@@ -99751,14 +99525,6 @@ thnig->thing
 thnigs->things
 thnks->thanks
 thnx->thanks
-tho allocathe->to allocate
-tho be developed->to be developed
-tho be->to be
-tho connecth tho->to connect to
-tho do withh->to do with
-tho sthraighthen->to straighten
-tho thhe->to the
-tho waith for thhe->to wait for the
 tho->to, though, thou,
 thobacco->tobacco
 thoday's->today's
@@ -100276,6 +100042,7 @@ tinguistic->linguistic
 tinguistics->linguistics
 tinnaean->linnaean
 tinterrupts->interrupts
+tinux->linux
 tinymcs->tinymce
 tiolets->toilets
 tiome->time, tome,
@@ -100369,7 +100136,6 @@ to developed->to be developed
 to do wiht->to do with
 to do wiith->to do with
 to do wit->to do with
-to do withh->to do with
 to do wwith->to do with
 to from->to form
 to konnekt to->to connect to
@@ -100391,12 +100157,7 @@ to straiighten->to straighten
 to strraighten->to straighten
 to te->to the
 to thee->to the
-to thhe->to the
 to to->to, to do,
-to tsraighten->to straighten
-to waait for the->to wait for the
-to waeit for the->to wait for the
-to waiit for the->to wait for the
 to wait ffor the->to wait for the
 to wait for te->to wait for the
 to wait for the to wait for the->to wait for the
@@ -100990,6 +100751,7 @@ traditioonally->traditionally
 traditition->tradition
 tradtional->traditional
 tradtionally->traditionally
+traeataed->treated
 traeatmaent->treatment
 traeceaebility->traceability
 traeceaeble->traceable
@@ -102351,6 +102113,7 @@ tsops->stops
 tsore->store
 tsories->stories
 tsory->story
+tsraighten->straighten
 tsraightforward->straightforward
 tsrand->strand
 tsrange->strange
@@ -102465,13 +102228,10 @@ tthanks->thanks
 tthat->that
 tthatt's->that's
 tthatt->that
-tthe insttaller->the installer
-tthe lattestt->the latest
 tthe->the
 ttheatter->theater
 ttheir->their
 tthemselves->themselves
-tthen i->then i
 tthen->then
 ttheorem->theorem
 ttheory->theory
@@ -102479,9 +102239,8 @@ tthere->there
 tthereaftter->thereafter
 tthereby->thereby
 ttherefore->therefore
-ttherefrom here->therefrom here
+ttherefrom->therefrom
 tthermosttatt->thermostat
-tthese requirementts->these requirements
 tthese->these
 tthey're->they're
 tthey->they
@@ -102521,19 +102280,11 @@ ttimesttamps->timestamps
 ttiming->timing
 ttittle->title
 ttittlebar->titlebar
-tto allocatte->to allocate
-tto be developed->to be developed
-tto be->to be
-tto connectt tto->to connect to
-tto do witth->to do with
-tto sttraightten->to straighten
-tto tthe->to the
-tto waitt for tthe->to wait for the
 tto->to
 ttobacco->tobacco
 ttoday's->today's
 ttoday->today
-ttodo listt->todo list
+ttodo->todo
 ttogetther->together
 ttoggling->toggling
 ttokenizattion->tokenization
@@ -102545,8 +102296,7 @@ ttome->tome
 ttomorrow->tomorrow
 ttongue->tongue
 ttonightt->tonight
-ttoo much ttime->too much time
-ttoo much->too much
+ttoo->too
 ttook->took
 ttoolkitt->toolkit
 ttoolkitts->toolkits
@@ -102799,11 +102549,6 @@ typahead->typeahead
 typcial->typical
 typcially->typically
 typdef->typedef
-type haas aa->type has a
-type haes ae->type has a
-type hass a->type has a
-type have a->type has a
-type hhas a->type has a
 typeaaheaad->typeahead
 typeaeheaed->typeahead
 typeaheadd->typeahead
@@ -104168,16 +103913,26 @@ unicors->unicorns
 unicrons->unicorns
 unidentifiedly->unidentified
 unidimensionnal->unidimensional
+unifform->uniform
+unifforms->uniforms
 unifiy->unify
 unifnished->unfinished
+unifoorm->uniform
+unifoorms->uniforms
 uniformely->uniformly
 uniformes->uniforms
+uniformm->uniform
+uniformms->uniforms
+uniforrm->uniform
+uniforrms->uniforms
 unifrom->uniform
 unifromed->uniformed
 unifromity->uniformity
 unifroms->uniforms
 unigned->unsigned
 unihabited->uninhabited
+uniiform->uniform
+uniiforms->uniforms
 uniilateral->unilateral
 uniilaterally->unilaterally
 uniinhabiited->uninhabited
@@ -104187,8 +103942,9 @@ uniinstantiiated->uninstantiated
 uniinterrupted->uninterrupted
 uniique->unique
 uniiquely->uniquely
-uniit tests->unit tests
+uniit->unit
 uniitedstates->unitedstates
+uniits->units
 uniiversal->universal
 uniiversiitiies->universities
 uniiversiity->university
@@ -104221,6 +103977,7 @@ uniledslales->unitedstates
 uniliterally->unilaterally
 unillaterall->unilateral
 unillateralllly->unilaterally
+unils->units
 unimpemented->unimplemented
 unimplemeneted->unimplemented
 unimplimented->unimplemented
@@ -104380,6 +104137,7 @@ uniquness->uniqueness
 unisntall->uninstall
 unisntalled->uninstalled
 unisntalling->uninstalling
+unist->units
 unistalled->uninstalled
 unitaedstataes->unitedstates
 unitaterat->unilateral
@@ -104392,6 +104150,7 @@ uniteedstatees->unitedstates
 unitesstates->unitedstates
 unith->unit
 unithedsthathes->unitedstates
+uniths->units
 unitialize->uninitialize
 unitialized->uninitialized
 unitilisable->inutilisable
@@ -104743,6 +104502,8 @@ unnforgettable->unforgettable
 unnforgivable->unforgivable
 unnfortunnately->unfortunately
 unnhappy->unhappy
+unniform->uniform
+unniforms->uniforms
 unnilateral->unilateral
 unnilaterally->unilaterally
 unning->running
@@ -104757,8 +104518,9 @@ unnistakably->unmistakably
 unnistall->uninstall
 unnistalled->uninstalled
 unnistalling->uninstalling
-unnit tests->unit tests
+unnit->unit
 unnitedstates->unitedstates
+unnits->units
 unniversal->universal
 unniversities->universities
 unniversity->university
@@ -105944,6 +105706,8 @@ uunforgettable->unforgettable
 uunforgivable->unforgivable
 uunfortuunately->unfortunately
 uunhappy->unhappy
+uuniform->uniform
+uuniforms->uniforms
 uunilateral->unilateral
 uunilaterally->unilaterally
 uuninhabited->uninhabited
@@ -105953,7 +105717,8 @@ uuninstantiated->uninstantiated
 uuninterruupted->uninterrupted
 uuniquue->unique
 uuniquuely->uniquely
-uunit tests->unit tests
+uunit->unit
+uunits->units
 uuniversal->universal
 uuniversities->universities
 uuniversity->university
@@ -108008,8 +107773,6 @@ was ignroed->was ignored
 was iignored->was ignored
 was nnot->was not
 was nol->was not
-was noot->was not
-was noth->was not
 was nott->was not
 was occured->has occurred
 was occurred->has occurred
@@ -108810,7 +108573,6 @@ wilhhold->withhold
 wilhin->within
 wilhoul->without
 wilingness->willingness
-will bae traeataed->will be treated
 will bbe treated->will be treated
 will be lrealed->will be treated
 will be threathed->will be treated
@@ -108822,12 +108584,8 @@ will be treatedd->will be treated
 will be trreated->will be treated
 will be ttreatted->will be treated
 will bee treeateed->will be treated
-will nnot work->will not work
 will no work->will not work
-will nol work->will not work
 will noot woork->will not work
-will not worc->will not work
-will not worck->will not work
 will not workk->will not work
 will not worrk->will not work
 will not wrok->will not work
@@ -108997,7 +108755,6 @@ witheld->withheld
 withelist->whitelist
 wither->wither, either, whether, weather,
 withespace->whitespace
-withh one->with one
 withh->with
 withhaeld->withheld
 withhdraw->withdraw
@@ -109054,11 +108811,7 @@ witnesss->witnesses
 witnesssing->witnessing
 witnissing->witnessing
 witout->without
-witt be treated->will be treated
-witt not work->will not work
-witt observe->will observe
 witt->will
-witth one->with one
 witth->with
 witthdraw->withdraw
 witthdrawal->withdrawal
@@ -109156,21 +108909,15 @@ woorkstatioons->workstations
 woorld->world
 woorldwide->worldwide
 woorsened->worsened
-woould have->would have
-woould noot->would not
 woould->would
 woouldn't->wouldn't
 woraround->workaround
 worarounds->workarounds
-worc unit->work unit
-worc units->work units
 worc->work
 worcaround->workaround
 worcarounds->workarounds
 worced->worked
 worcing->working
-worck unit->work unit
-worck units->work units
 worck->work
 worckaround->workaround
 worckarounds->workarounds
@@ -109197,19 +108944,6 @@ worhsipping->worshipping
 worhtless->worthless
 woring->working
 work sheets->worksheets
-work uniit->work unit
-work uniits->work units
-work unil->work unit
-work unils->work units
-work unist->work units
-work unith->work unit
-work uniths->work units
-work unitt->work unit
-work unitts->work units
-work unnit->work unit
-work unnits->work units
-work uunit->work unit
-work uunits->work units
 work-around->workaround
 work-arounds->workarounds
 workaaround->workaround
@@ -109259,8 +108993,6 @@ workingest->workings
 workingg->working
 workinng->working
 workins->workings
-workk unit->work unit
-workk units->work units
 workk->work
 workkaround->workaround
 workkarounds->workarounds
@@ -109341,8 +109073,6 @@ worng->wrong
 worngly->wrongly
 worrd->word
 worrds->words
-worrk unit->work unit
-worrk units->work units
 worrk->work
 worrkarround->workaround
 worrkarrounds->workarounds
@@ -109382,12 +109112,6 @@ woudl->would
 woudlnt->wouldn't
 woudlve->would've
 woudn't->wouldn't
-would haave->would have
-would haeve->would have
-would hav->would have
-would havae->would have
-would havee->would have
-would hhave->would have
 would nnot->would not
 would nol->would not
 would noth->would not
@@ -109410,20 +109134,14 @@ wouldnt->would not, wouldn't,
 wouldnt->wouldn't
 wouldnt;->wouldn't
 woulkd->would
-woulld have->would have, would've,
-woulld not->would not
 woulld->would
 woulldn't->wouldn't
 woulndt->wouldn't
 wounder->wonder
 wounderful->wonderful
 wouold->would
-woutd have->would have
-woutd not->would not
 woutd->would
 woutdn't->wouldn't
-wouuld have->would have
-wouuld not->would not
 wouuld->would
 wouuldn't->wouldn't
 wpdialod->wpdialog
@@ -109523,8 +109241,6 @@ wrod->word
 wrods->words
 wroet->wrote
 wrog->wrong
-wrok unit->work unit
-wrok units->work units
 wrok->work
 wrokaround->workaround
 wrokarounds->workarounds
@@ -109597,8 +109313,6 @@ wwarrant->warrant
 wwarranty->warranty
 wwarriors->warriors
 wwarship->warship
-wwas ignored->was ignored
-wwas not->was not
 wwas->was
 wwasn't->wasn't
 wwasteful->wasteful
@@ -109606,24 +109320,22 @@ wwatchdog timer->watchdog timer
 wwatchdog->watchdog
 wway->way
 wwaywward->wayward
-wwe must point->we must point
-wwe speak->we speak
+wwe'd->we'd
 wwe're->we're
+wwe->we
 wweaponry->weaponry
 wwear->wear
 wweather->weather
-wweb page->web page
+wweb->web
 wwebsite->website
 wwednesday->wednesday
 wweekend->weekend
 wweighed->weighed
-wweight loss->weight loss
 wweight->weight
 wweighter->weighter
 wweird->weird
 wweirdly->weirdly
 wweirdness->weirdness
-wwell knowwn->well known
 wwell->well
 wwhat's->what's
 wwhat->what
@@ -109641,10 +109353,9 @@ wwhite->white
 wwhitelist->whitelist
 wwhitespace->whitespace
 wwho->who
-wwhole report->whole report
 wwhole->whole
 wwholly->wholly
-wwider range->wider range
+wwider->wider
 wwidespread->widespread
 wwield->wield
 wwielded->wielded
@@ -109652,15 +109363,11 @@ wwife->wife
 wwild->wild
 wwildcard->wildcard
 wwildcarded->wildcarded
-wwill be treated->will be treated
-wwill not wwork->will not work
-wwill observe->will observe
 wwill->will
 wwillingness->willingness
 wwindoww->window
 wwindowws xp->windows xp
 wwindowws->windows
-wwith one->with one
 wwith->with
 wwithdraww->withdraw
 wwithdrawwal->withdrawal
@@ -109674,8 +109381,6 @@ wwondered->wondered
 wwonderful->wonderful
 wword->word
 wwords->words
-wwork unit->work unit
-wwork units->work units
 wwork->work
 wworkaround->workaround
 wworkarounds->workarounds
@@ -109688,8 +109393,6 @@ wworkstations->workstations
 wworld->world
 wworldwwide->worldwide
 wworsened->worsened
-wwould have->would have
-wwould not->would not
 wwould->would
 wwouldn't->wouldn't
 wwrapping->wrapping
