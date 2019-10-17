@@ -16,29 +16,8 @@
 a a->a
 a any->any
 a bout->about, a bout,
-a colection->a collection
-a collaection->a collection
-a colleclion->a collection
-a collecthion->a collection
-a collectiion->a collection
-a collectionn->a collection
-a collections->a collection
-a collecttion->a collection
-a colleection->a collection
-a collllection->a collection
-a coollectioon->a collection
-a cottection->a collection
-a dala lype->a data type
-a data typae->a data type
-a data typee->a data type
-a data typpe->a data type
-a data tyype->a data type
-a datha thype->a data type
-a datta ttype->a data type
-a ddata type->a data type
 a functions->functions
 a internal->an internal
-a lesl->a test
 a liinux->a linux
 a linnux->a linux
 a linuux->a linux
@@ -122,14 +101,6 @@ a vieww->a view
 a viiew->a view
 a vngeance->a vengeance
 a vvengeance->a vengeance
-a vview->a view
-a whhile->a while
-a whiile->a while
-a whilae->a while
-a whilee->a while
-a whille->a while
-a white->a while
-a wwhile->a while
 a'ready->already
 aa->a
 aabaandon->abandon
@@ -5349,9 +5320,7 @@ allinace->alliance
 allitude->attitude
 alliviate->alleviate
 alll->all
-allll of->all of
 allll->all
-allll-time->all-time
 allllege->allege
 alllleged->alleged
 allllegedlly->allegedly
@@ -6396,21 +6365,11 @@ ancinets->ancients
 ancittary->ancillary
 anction->action
 and al->and all
-and allll->and all
 and and->and
 and att->and all
-and hte->and the
-and hten->and then
-and iits->and its
-and ils->and its
 and ist->and its
-and iths->and its
-and itss->and its
 and itts->and its
-and lhe->and the
-and lhen->and then
 and sso->and so
-and thae->and the
 and thaen->and then
 and the all->and all
 and thee->and the
@@ -9816,7 +9775,6 @@ asyymmetrical->asymmetrical
 asyynchronous->asynchronous
 asyynchronouslyy->asynchronously
 at ever->at every
-at hte->at the
 at laeast->at least
 at laest->at least
 at leas->at least
@@ -9830,7 +9788,6 @@ at lleast->at least
 at not charge->at no charge
 at te->at the
 at teast->at least
-at thae->at the
 at thee->at the
 at thhe->at the
 atach->attach
@@ -14347,23 +14304,8 @@ buutton->button
 buxfixes->bugfixes
 bwloe->below
 bwtween->between
-by 10 miccrosecconds->by 10 microseconds
-by 10 micorseconds->by 10 microseconds
-by 10 microosecoonds->by 10 microseconds
-by 10 microsaeconds->by 10 microseconds
-by 10 microsecondds->by 10 microseconds
-by 10 microseconnds->by 10 microseconds
-by 10 microseeconds->by 10 microseconds
-by 10 microssecondss->by 10 microseconds
-by 10 micrroseconds->by 10 microseconds
-by 10 miicroseconds->by 10 microseconds
-by 10 mikrosekonds->by 10 microseconds
-by 10 mmicroseconds->by 10 microseconds
-by by->by
-by hte same->by the same
-by lhe same->by the same
+by by->by, bye-bye,
 by te same->by the same
-by thae samae->by the same
 by the ame->by the same
 by the saame->by the same
 by the saeme->by the same
@@ -15149,7 +15091,6 @@ can onlly have->can only have
 can only hav->can only have
 can only havae->can only have
 can only havee->can only have
-can only havve->can only have
 can only hhave->can only have
 can onlyy have->can only have
 can onty have->can only have
@@ -20779,8 +20720,8 @@ complable->compilable
 complacant->complacent
 complacient->complacent
 complaeins->complains
-complaemaent naess->complement ness
-complaetaed thae->completed the
+complaemaent->complement
+complaetaed->completed
 complaetaely->completely
 complaetaes->completes
 complaetion->completion
@@ -20848,7 +20789,6 @@ complession->compression
 complet->complete
 completaste->completes
 completd->completed
-completed hte->completed the
 completed te->completed the
 completed thhe->completed the
 completedd the->completed the
@@ -25820,7 +25760,6 @@ could haeve->could have
 could hav->could have
 could havae->could have
 could havee->could have
-could havve->could have
 could hhave->could have
 could nnot->could not
 could nol->could not
@@ -27447,9 +27386,6 @@ daiquuiri->daiquiri
 daita->data
 dake->take
 daknet->darknet
-dala file->data file
-dala files->data files
-dala lype->data type
 dala slream->data stream
 dala->data
 dalabase->database
@@ -27534,15 +27470,6 @@ data fites->data files
 data sitream->data stream
 data sstream->data stream
 data straeam->data stream
-data straem->data stream
-data streamm->data stream
-data streeam->data stream
-data strream->data stream
-data tsream->data stream
-data typae->data type
-data typee->data type
-data typpe->data type
-data tyype->data type
 data-strcuture->data-structure
 data-strcutures->data-structures
 databae->database
@@ -27603,17 +27530,9 @@ datefiled->datefilled
 dateimes->datetimes
 dateset->dataset
 datesets->datasets
-datha file->data file
-datha files->data files
-datha sthream->data stream
-datha thype->data type
 datha->data
 dathabase->database
 datmatian->dalmatian
-datta file->data file
-datta files->data files
-datta sttream->data stream
-datta ttype->data type
 datta->data
 dattabase->database
 daty->data, date,
@@ -27663,10 +27582,6 @@ ddaiquiri->daiquiri
 ddalmatian->dalmatian
 ddamage->damage
 ddangling->dangling
-ddata file->data file
-ddata files->data files
-ddata stream->data stream
-ddata type->data type
 ddata->data
 ddatabase->database
 ddaub->daub
@@ -42829,14 +42744,10 @@ foppy->floppy
 foppys->floppies
 for consistence->for consistency
 for for->for
-for hte->for the
 for htis->for this
-for lhe->for the
 for lhis->for this
 for te->for the
-for thae->for the
 for thee->for the
-for thhe->for the
 for thhis->for this
 for thiis->for this
 for thiss->for this
@@ -46841,9 +46752,6 @@ havinng->having
 havn't->haven't
 havnt->have not, haven't,
 havt->have
-havve been->have been
-havve not->have not
-havve written->have written
 havve->have
 havven't->haven't
 havving->having
@@ -48274,7 +48182,6 @@ hterefore->therefore
 hterefrom here->therefrom here
 htermostat->thermostat
 htese->these
-htey have been->they have been
 htey're->they're
 htey->they
 htiboxes->hitboxes
@@ -48757,7 +48664,6 @@ i haeve->i have
 i hav->i have
 i havae->i have
 i havee->i have
-i havve->i have
 i hhave->i have
 i htink->i think
 i i->i
@@ -49542,8 +49448,6 @@ iiterators->iterators
 ikbuild->kbuild
 ikonoklastik->iconoclastic
 il can slill->it can still
-il is->it is
-il lhen came->it then came
 il supporls->it supports
 il will->it will
 iland->island
@@ -50822,11 +50726,9 @@ in futurae->in future
 in futuree->in future
 in futurre->in future
 in fuutuure->in future
-in hte->in the
 in in->in
 in kase of->in case of
 in kase->in case
-in lhe->in the
 in pprincipple->in principle
 in princciple->in principle
 in principal->in principle
@@ -50845,7 +50747,6 @@ in sppite->in spite
 in sspite->in spite
 in stead->instead
 in te->in the
-in thae->in the
 in the future->in future
 in thee->in the
 in thhe->in the
@@ -53913,9 +53814,8 @@ insitsence->insistence
 insitute->institute
 insitution->institution
 insitutions->institutions
-inslall a->install a
 inslall->install
-inslallalion->installation
+inslallalion->installation, insulation,
 inslalled->installed
 inslance->instance
 inslanlialed->instantiated
@@ -58845,16 +58745,10 @@ lhal->that
 lhan->than
 lhank->thank
 lhanks->thanks
-lhe ease of->the ease of
-lhe end->the end
-lhe inslaller->the installer
-lhe lalesl->the latest
-lhe ralionale->the rationale
 lhe->the
-lhealer->theater
+lhealer->theater, healer,
 lheir->their
 lhemselves->themselves
-lhen i->then i
 lhen->then
 lheorem->theorem
 lheory->theory
@@ -58864,9 +58758,7 @@ lhereby->thereby
 lherefore->therefore
 lherefrom here->therefrom here
 lhermoslal->thermostat
-lhese requiremenls->these requirements
 lhese->these
-lhey have been->they have been
 lhey're->they're
 lhey->they
 lhickening->thickening
@@ -59176,8 +59068,7 @@ lightenning->lightening
 lightenting->lightening
 lightergas->lighters
 lightes->lighters
-lighth year->light year
-lighth years->light years
+lighth->light
 lighthearded->lighthearted
 lightheared->lighthearted
 lighthearthed->lighthearted
@@ -59826,13 +59717,10 @@ llying->lying
 lmits->limits
 lnowledgable->knowledgable
 lo allocale->to allocate
-lo be developed->to be developed
 lo be->to be
 lo connecl lo->to connect to
-lo do wilh->to do with
-lo lhe->to the
+lo do->to do
 lo slraighlen->to straighten
-lo wail for lhe->to wait for the
 loaader->loader
 loacal->local
 loacality->locality
@@ -60296,7 +60184,7 @@ lybia->libya
 lyiing->lying
 lyingg->lying
 lyinng->lying
-lype has a->type has a
+lype->type
 lypeahead->typeahead
 lypedef->typedef
 lypical->typical
@@ -62022,7 +61910,6 @@ may have beenn->may have been
 may have ben->may have been
 may havee beeeen->may have been
 may havee been->may have been
-may havve been->may have been
 may hhave been->may have been
 mayabe->maybe
 mayalsia->malaysia
@@ -68998,14 +68885,11 @@ of havingg->of having
 of havinng->of having
 of havving->of having
 of hhaving->of having
-of hte->of the
 of kourse->of course
 of lhe->of the
 of of->of
 of te->of the
-of thae->of the
 of thee->of the
-of thhe->of the
 of tthe->of the
 ofcoruse->ofcourse
 ofcource->of course
@@ -70519,7 +70403,6 @@ oter->other, otter,
 oterwice->otherwise
 oterwise->otherwise
 oterwize->otherwise
-othaer than->other than
 othaer->other
 othaerwisae->otherwise
 othat->that
@@ -71577,7 +71460,6 @@ paletle->palette
 paletsinian->palestinian
 paletsinians->palestinians
 paletttte->palette
-palh lo lesl->path to test
 palh->path
 palhs->paths
 paliamentarian->parliamentarian
@@ -74625,9 +74507,6 @@ pobularity->popularity
 pocess->possess, process,
 pocessed->possessed, processed,
 pocession->possession, procession,
-podb->poda
-podemso->podemos
-podmeos->podemos
 podule->module
 poeem->poem
 poeems->poems
@@ -90051,7 +89930,7 @@ shhipped->shipped
 shhipping->shipping
 shhneiderman->shneiderman
 shhopkeepers->shopkeepers
-shhort whhile->short while
+shhort->short
 shhortcuts->shortcuts
 shhortly->shortly
 shhould hhave->should have
@@ -90150,19 +90029,13 @@ shorctut->shortcut
 shorctuts->shortcuts
 shorcut->shortcut
 shorcuts->shortcuts
-shorl while->short while
+shorl->short
 shorlculs->shortcuts
 shorlly->shortly
-shorly->shortly
+shorls->shorts
 shorrt while->short while
 shorrtcuts->shortcuts
 shorrtly->shortly
-short whiile->short while
-short whilae->short while
-short whilee->short while
-short whille->short while
-short white->short while
-short wwhile->short while
 short-cicruit->short-circuit
 short-cicruits->short-circuits
 shortcat->shortcut
@@ -90213,7 +90086,6 @@ should hav->should have
 should havae->should have
 should have not->should not have
 should havee->should have
-should havve->should have
 should nnot have happenned->should not have happened
 should nnot have->should not have
 should nnot->should not
@@ -90234,8 +90106,6 @@ should not have happppened->should not have happened
 should not havee happeeneed->should not have happened
 should not havee happened->should not have happened
 should not havee->should not have
-should not havve happened->should not have happened
-should not havve->should not have
 should noth have happened->should not have happened
 should noth have->should not have
 should noth->should not
@@ -90900,14 +90770,11 @@ sinagpore->singapore
 sinature->signature
 sinc ethe->since the
 sinc->since, sync, sink, synch, disabled due to valid mathematical concept
-sincae thae->since the
 sincae->since
 sincaeraely->sincerely
 sincce the->since the
 sincce->since
 sinccerely->sincerely
-since hte->since the
-since lhe->since the
 since te->since the
 since thhe->since the
 since tthe->since the
@@ -99237,8 +99104,7 @@ thaat->that
 thable->table
 thae aeasae of->the ease of
 thae aend->the end
-thae rationalae->the rationale
-thae->the
+thae->the, they, than,
 thaeataer->theater
 thaeir->their
 thaemsaelvaes->themselves
@@ -99617,12 +99483,10 @@ they have bbeen->they have been
 they have beenn->they have been
 they have ben->they have been
 they havee been->they have been
-they havve been->they have been
 they they->they
 they'rre->they're
 theyr->there, their, they're,
 theyre->there, their, they're, they\"re,
-theyy have been->they have been
 theyy're->they're
 theyy->they
 thgat->that
@@ -99634,9 +99498,6 @@ thhat's->that's
 thhat->that
 thhath's->that's
 thhath->that
-thhe insthaller->the installer
-thhe lathesth->the latest
-thhe rathionale->the rationale
 thhe->the
 thheater->theater
 thheather->theater
@@ -100171,7 +100032,7 @@ thwo->two
 thy->they
 thyat->that
 thyorid->thyroid
-thype has a->type has a
+thype->type
 thypeahead->typeahead
 thypedef->typedef
 thypical->typical
@@ -100431,7 +100292,6 @@ to do wit->to do with
 to do withh->to do with
 to do wwith->to do with
 to from->to form
-to hte->to the
 to konnekt to->to connect to
 to much time->too much time
 to much->too much
@@ -100450,7 +100310,6 @@ to straigthen->to straighten
 to straiighten->to straighten
 to strraighten->to straighten
 to te->to the
-to thae->to the
 to thee->to the
 to thhe->to the
 to to->to, to do,
@@ -100459,9 +100318,7 @@ to waait for the->to wait for the
 to waeit for the->to wait for the
 to waiit for the->to wait for the
 to wait ffor the->to wait for the
-to wait for hte->to wait for the
 to wait for te->to wait for the
-to wait for thae->to wait for the
 to wait for the to wait for the->to wait for the
 to wait for thee->to wait for the
 to wait for thhe->to wait for the
@@ -102697,7 +102554,7 @@ ttuttorial->tutorial
 ttweak->tweak
 ttwelftth->twelfth
 ttwo->two
-ttype has a->type has a
+ttype->type
 ttypeahead->typeahead
 ttypedef->typedef
 ttypes->types
@@ -102846,10 +102703,9 @@ tyies->tries
 tying->trying
 tylenool->tylenol
 tyo->typo
-tyope->type
-typ of->type of
-typ->type
-typae has a->type has a
+tyope->type, typo,
+typ->type, tip,
+typae->type
 typaeahaead->typeahead
 typaedaef->typedef
 typaehaed->typeahead
@@ -102870,7 +102726,7 @@ typechek->typecheck
 typecheking->typechecking
 typeddef->typedef
 typedeff->typedef
-typee has a->type has a
+typee>type
 typeeaheead->typeahead
 typeedeef->typedef
 typess->types
@@ -102911,7 +102767,7 @@ typogrraphical->typographical
 typoo->typo
 typoographical->typographical
 typp->type, typo,
-typpe has a->type has a
+typpe->type
 typpeahead->typeahead
 typpedef->typedef
 typpical->typical
@@ -102945,7 +102801,7 @@ tyrranies->tyrannies
 tyrrannies->tyrannies
 tyrranny->tyranny
 tyrrany->tyranny
-tyype has a->type has a
+tyype->type
 tyypeahead->typeahead
 tyypedef->typedef
 tyypical->typical
@@ -104251,7 +104107,7 @@ uniiversal->universal
 uniiversiitiies->universities
 uniiversiity->university
 uniixes->unixes
-unil lesls->unit tests
+unil->unit
 unilaateraal->unilateral
 unilaateraally->unilaterally
 unilaeterael->unilateral
@@ -104465,7 +104321,7 @@ unitinitialized->uninitialized
 unititialized->uninitialized
 unitl->until
 unitss->units
-unitt ttestts->unit tests
+unitt->unit
 unittedsttattes->unitedstates
 unittests->unit tests
 unitttest->unittest
@@ -108859,7 +108715,6 @@ wildkard->wildcard
 wildkarded->wildcarded
 wildreness->wilderness
 wile->while
-wilh one->with one
 wilh->with, will,
 wilhdraw->withdraw
 wilhdrawal->withdrawal
@@ -109262,7 +109117,6 @@ work unils->work units
 work unist->work units
 work unith->work unit
 work uniths->work units
-work unitss->work units
 work unitt->work unit
 work unitts->work units
 work unnit->work unit
@@ -109446,7 +109300,6 @@ would haeve->would have
 would hav->would have
 would havae->would have
 would havee->would have
-would havve->would have
 would hhave->would have
 would nnot->would not
 would nol->would not
