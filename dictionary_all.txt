@@ -18,11 +18,6 @@ a any->any
 a bout->about, a bout,
 a functions->functions
 a internal->an internal
-a liinux->a linux
-a linnux->a linux
-a linuux->a linux
-a linuxx->a linux
-a llinux->a linux
 a llot->a lot
 a lol->a lot
 a loot->a lot
@@ -59169,6 +59164,7 @@ liink->link
 liinked->linked
 liinks->links
 liinnaean->linnaean
+liinux->linux
 liipiizzaner->lipizzaner
 liiquefy->liquefy
 liist->list
@@ -59417,10 +59413,13 @@ linnk->link
 linnked->linked
 linnks->links
 linnnnaeann->linnaean
+linnux->linux
 linodee->linode
 linpde->linode
 lintain->lintian
 linueps->lineups
+linuux->linux
+linuxx->linux
 linz->lines
 liode->linode
 lionde->linode
@@ -59696,6 +59695,7 @@ llink->link
 llinked->linked
 llinks->links
 llinnaean->linnaean
+llinux->linux
 llipizzaner->lipizzaner
 lliquefy->liquefy
 llist->list
