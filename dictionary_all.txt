@@ -1373,7 +1373,7 @@ acclimattizattion->acclimatization
 acclimitization->acclimatization
 acclimmatization->acclimatization
 accllimatization->acclimatization
-accnowledged->acknowledged
+accnowledged->acknnowledged
 accnowledges that->acknowledges that
 accnowledging->acknowledging
 accocate->allocate
@@ -14246,7 +14246,7 @@ bytebufer->bytebuffer
 bytebufers->bytebuffers
 bytee->byte
 byteoder->byte order
-byteorder->byte order, disabled due to java class,
+byteorder->byte order, disabled due to java class
 bythe->byte, by the,
 bytte->byte
 byy->by
@@ -28770,7 +28770,7 @@ definaty->definately
 definayely->definately
 defind->defined, defund,
 definded->defined, defunded,
-define'd->defined, disabled due to #define,
+define'd->defined, disabled due to #define
 defineable->definable
 defineatly->definately
 defined as gglobals->defined as globals
@@ -31415,9 +31415,6 @@ dicttionary->dictionary
 dicuss->discuss
 dicussed->discussed
 dicussions->discussions
-did nnot->did not
-did nol->did not
-did noot->did not
 did noth->did not
 did nott->did not
 did'nt->didn't
@@ -31428,7 +31425,7 @@ didn;t->didn't
 didnn't->didn't
 didnt'->didn't
 didnt't->didn't
-didnt->didn't, did not, didn\"t,
+didnt->didn't, did not,s
 didnt;->didn't
 didplayed->displayed
 didsapointed->dissapointed
@@ -33705,8 +33702,6 @@ dloating->floating
 dmesge->dmesg
 dne->done
 do do->do
-do nnot->do not
-do nol->do not
 do noth->do not
 do nott->do not
 do'nt->don't
@@ -33920,8 +33915,6 @@ doens't->doesn't
 doens->does
 doensn't->doesn't
 does does->does
-does nnot->does not
-does nol->does not
 does noth->does not
 does nott->does not
 does'nt->doesn't
@@ -33944,14 +33937,14 @@ doesnn't->doesn't
 doesnot->does not, doesn't,
 doesnt'->doesn't
 doesnt't->doesn't
-doesnt->doesn't, does not, doesn\"t,
+doesnt->doesn't, does not,
 doesnt;->doesn't
 doess not->does not
 doess->does
 doessn't->doesn't
 doestn't->doesn't
 doestroyed->destroyed
-dof->doff, disabled because it's a common abbreviation, of
+dof->ofm, doff, disabled because it's a common abbreviation
 dogamtic->dogmatic
 dogdammit->goddammit
 dogders->dodgers
@@ -34035,36 +34028,29 @@ dommination->domination
 don'l lhink->don't think
 don'l->don't
 don't htink->don't think
-don't thhink->don't think
-don't thiink->don't think
 don't thinc->don't think
 don't thinck->don't think
 don't thing->don't think
 don't thinkk->don't think
 don't tink->don't think
-don'th thhink->don't think
 don'th->don't
-don'tt tthink->don't think
 don'tt->don't
-don->don't
-don;t->do not
+don->don, don't,
+don;t->don't, do not,
 donae->done
 doned->done
 donejun->dungeon
 donejuns->dungeons
-donesn't->does not
+donesn't->doesn't, does not,
 donesticated->domesticated
 donig->doing
 donlink->downlink
-donlt->do not
-donn't thinnk->don't think
+donlt->don't, do not,
 donn't->don't
 donn->don, done,
-donnot knnow->donot know
 donnot->do not
-donol know->donot know
-donot cknow->donot know
-donot cnow->donot know
+donol->don't, do not,
+donot->don't, do not,s
 donot kknow->donot know
 donot knoww->donot know
 donoth know->donot know
@@ -34086,7 +34072,7 @@ donwvoted->downvoted
 donwvoters->downvoters
 donwvotes->downvotes
 donwvoting->downvoting
-doo noot->do not
+doo->do
 dooctrines->doctrines
 doocument->document
 doocumentable->documentable
@@ -34096,7 +34082,6 @@ doocumentatioon->documentation
 doocumented->documented
 doocumenting->documenting
 doocuments->documents
-dooes noot->does not
 dooes->does
 dooesn't->doesn't
 dooing->doing
@@ -34108,12 +34093,10 @@ doomsdaily->doomsday
 doon't think->don't think
 doon't->don't
 doone->done
-doonoot knoow->donot know
+doonoot->do not, don't,
 doorjam->doorjamb
 doosmday->doomsday
-doouble clicking->double clicking
 doouble->double
-doouble-clicking->double-clicking
 dooubles->doubles
 dooubt->doubt
 doownlooad->download
@@ -34134,14 +34117,14 @@ dortmud->dortmund
 dortumnd->dortmund
 dosen't->doesn't
 dosen;t->doesn't
-dosen\"t->doesn\"t
+dosen\"t->doesn\'t
 dosens->dozens
 dosent'->doesn't
 dosent->doesn't
 dosent;->doesn't
 dosn't->doesn't
 dosn;t->doesn't
-dosnt->does not, doesn't,
+dosnt->doesn't, does not,
 dosposing->disposing
 dossapointed->dissapointed
 dosument->document
@@ -46584,7 +46567,7 @@ hasn'tt->hasn't
 hasn;t->hasn't
 hasnn't->hasn't
 hasnt'->hasn't
-hasnt->hasn't, has not, hasn\"t,
+hasnt->hasn't, has not,
 hass->hash, has,
 hassn't->hasn't
 hastable->hashtable
@@ -48551,20 +48534,16 @@ i i->i
 i lhink->i think
 i lried->i tried
 i m->i am
-i thhink->i think
-i thiink->i think
 i thinc->i think
 i thinck->i think
 i thing->i think
 i thinkk->i think
-i thinnk->i think
-i tink->i think
+tink->think
 i triaed->i tried
 i triedd->i tried
 i trieed->i tried
 i tries->i tried
 i trried->i tried
-i tthink->i think
 i ttried->i tried
 i waas trying->i was trying
 i wad trying->i was trying
@@ -56261,7 +56240,7 @@ isn;t->isn't
 isnn't->isn't
 isnpiron->inspiron
 isnt'->isn't
-isnt->isn't, is not, isn\"t,
+isnt->isn't, is not,
 isnt;->isn't
 isntallation->installation
 isntallations->installations
@@ -99958,7 +99937,7 @@ tikud->likud
 tilling->telling
 tillt->tilt
 tilte->title
-tim->time, disabled due to being a person's name, tim,
+tim->tim,  time, disabled due to being a person's name
 timae->time
 timae-critical->time-critical
 timaeout->timeout
@@ -108070,11 +108049,6 @@ wel->well
 welathier->wealthier
 welathiest->wealthiest
 welathy->wealthy
-well cknown->well known
-well cnown->well known
-well kknown->well known
-well knnownn->well known
-well knoown->well known
 well-reknown->well-renowned, well renown,
 well-reknowned->well-renowned, well renowned,
 wellformed->well formed
