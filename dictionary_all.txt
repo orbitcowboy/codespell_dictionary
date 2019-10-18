@@ -335,8 +335,6 @@ aanthropology->anthropology
 aanthropomorphizaation->anthropomorphization
 aantiaaliaased->antialiased
 aantiaaliaasing->antialiasing
-aany chaance->any chance
-aany other->any other
 aany->any
 aanybody->anybody
 aanyone->anyone
@@ -3228,6 +3226,7 @@ aearliaer->earlier
 aearliaest->earliest
 aearly->early
 aearnaed->earned
+aeasae->ease
 aeasiaer->easier
 aeasily->easily
 aebaendon->abandon
@@ -3828,6 +3827,7 @@ aescending->ascending
 aescension->ascension
 aescetic->ascetic
 aescii->ascii
+aese->ease
 aeshtetic->aesthetic
 aeshtetical->aesthetical
 aeshtetically->aesthetically
@@ -16894,6 +16894,8 @@ chaallenge->challenge
 chaallenged->challenged
 chaallenging->challenging
 chaampaagne->champagne
+chaance->chance
+chaances->chances
 chaange->change
 chaangeaable->changeable
 chaanged->changed
@@ -34667,6 +34669,7 @@ eaarlier->earlier
 eaarliest->earliest
 eaarly->early
 eaarned->earned
+eaase->ease
 eaasier->easier
 eaasily->easily
 eabled->enabled
@@ -34687,6 +34690,7 @@ eaerlier->earlier
 eaerliest->earliest
 eaerly->early
 eaerned->earned
+eaese->ease, easy,
 eaesier->easier
 eaesily->easily
 eagel->eagle
@@ -34769,6 +34773,7 @@ easilty->easily
 easilyy->easily
 easity->easily
 easly->easily
+easse->ease, easy,
 eassert->assert
 eassier->easier
 eassily->easily
@@ -38383,7 +38388,6 @@ eveen though->even though
 eveent->event
 eveents->events
 eveentually->eventually
-eveery time->every time
 eveery->every
 eveerybody->everybody
 eveerything->everything
@@ -38393,22 +38397,14 @@ eveil->evil
 evelation->elevation
 evelope->envelope, envelop,
 evelutionary->evolutionary
-even htough->even though
-even lhough->even though
-even thhough->even though
-even thhoughh->even though
-even thoough->even though
-even thouggh->even though
-even thouugh->even though
 even tough->even though
-even tthough->even though
 evengalical->evangelical
 evenhtually->eventually
 evenl->event
 evenlopes->envelopes
 evenls->events
 evenlually->eventually
-evenn though->even though
+evenn->even
 evennt->event
 evennts->events
 evenntually->eventually
@@ -38417,7 +38413,7 @@ evenst->events
 eventally->eventually
 eventaully->eventually
 eventh->event
-eventhanders->event handlers
+eventhanders->event handlers, event handlers,
 eventhogh->even though
 eventhough->even though
 evenths->events
@@ -38447,7 +38443,6 @@ everets->everest
 evereytime->everytime
 everithing->everything
 everone->everyone
-everry time->every time
 everry->every
 everrybody->everybody
 everrything->everything
@@ -46885,7 +46880,6 @@ heroo->hero
 herooes->heroes
 heros->heroes
 herra->hera
-herre is->here is
 herre->here
 herredity->heredity
 herritage->heritage
@@ -47036,7 +47030,6 @@ hhemisphhere->hemisphere
 hhemorrhhage->hemorrhage
 hhen->hen
 hhence->hence
-hhere is->here is
 hhere->here
 hheredity->heredity
 hheritage->heritage
@@ -58305,6 +58298,7 @@ lhoroughly->thoroughly
 lhose->those
 lhough->though
 lhoughl->thought
+lhought->thought
 lhousand->thousand
 lhousands->thousands
 lhrealened->threatened
@@ -71871,7 +71865,7 @@ peacceful->peaceful
 peacd->peace
 peacefful->peaceful
 peacefuland->peaceful and
-peacefull and->peaceful and
+peacefull->peaceful
 peacefullly->peacefully
 peacefuly->peacefully
 peacefut->peaceful
@@ -71879,7 +71873,7 @@ peacefuul->peaceful
 peacify->pacify
 peaeceful->peaceful
 peageant->pageant
-peakeful and->peaceful and
+peakeful->peaceful
 peanuckle->pinochle
 peaple->people
 peaples->peoples
@@ -71949,7 +71943,7 @@ pedophille->pedophile
 pedophilles->pedophile
 pedophils->pedophiles
 pedopholia->pedophilia
-peeaceeful and->peaceful and
+peeaceeful ->peaceful
 peeculiar->peculiar
 peedantic->pedantic
 peedeestrian->pedestrian
@@ -75249,7 +75243,7 @@ ppaths->paths
 ppatience->patience
 ppattern->pattern
 ppavilion->pavilion
-ppeaceful and->peaceful and
+ppeaceful->peaceful
 ppeculiar->peculiar
 ppedantic->pedantic
 ppedestrian->pedestrian
@@ -98517,8 +98511,6 @@ thaanks->thanks
 thaat's->that's
 thaat->that
 thable->table
-thae aeasae of->the ease of
-thae aend->the end
 thae->the, they, than,
 thaeataer->theater
 thaeir->their
@@ -98537,8 +98529,8 @@ thaermostat->thermostat
 thaesae->these
 thaet's->that's
 thaet->that
-thaets->that's
 thaeter->theater
+thaets->that's
 thaey'rae->they're
 thaey->they
 thais->thai
@@ -98598,12 +98590,6 @@ thaxonomy->taxonomy
 thay->they
 thck->thick
 the a->a
-the aese of->the ease of
-the eaase of->the ease of
-the eaese of->the ease of
-the ease off->the ease of
-the easse of->the ease of
-the easy of->the ease of
 the the->the
 theaater->theater
 theads->threads
@@ -98815,7 +98801,7 @@ therre->there
 therreafterr->thereafter
 therreby->thereby
 therreforre->therefore
-therrefrrom herre->therefrom here
+therrefrrom->therefrom
 therresthrial->terrestrial
 therrific->terrific
 therrithories->territories
@@ -98824,20 +98810,12 @@ therrmostat->thermostat
 therroristh->terrorist
 therwise->otherwise
 thes->these, this,
-these reqquirements->these requirements
-these requiirements->these requirements
-these requiremennts->these requirements
-these requiremenst->these requirements
-these requiremments->these requirements
-these requuirements->these requirements
-these rrequirrements->these requirements
 theses->these, thesis,
 theshold->threshold
 thesholds->thresholds
 thesitic->theistic
 thesits->theists
 thess->these, this,
-thesse requirementss->these requirements
 thesse->these
 thest->test
 thesth's->test's
@@ -98855,7 +98833,6 @@ thev->the
 theves->thieves
 thex->the, then,
 thexth box->text box
-they hav been->they have been
 they have ben->they have been
 they they->they
 they'rre->they're
@@ -98885,8 +98862,7 @@ thhereafter->thereafter
 thhereafther->thereafter
 thhereby->thereby
 thherefore->therefore
-thherefrom here->therefrom here
-thherefrom hhere->therefrom here
+thherefrom->therefrom
 thhermostat->thermostat
 thhermosthath->thermostat
 thhese->these
@@ -98976,9 +98952,10 @@ thikning->thickening, thinking,
 thikns->thinks
 thiks->thinks
 thilth->tilt
-thime->time
+thime->time, thyme,
 thime-crithical->time-critical
 thimeouth->timeout
+thimer->timer
 thimesorth->timesort
 thimesthamp->timestamp
 thimesthamps->timestamps
@@ -99022,7 +98999,7 @@ this requirements->these requirements
 this this->this, this is, is this,
 this'd->this would
 thise->these, this,
-thisis->this is
+thisis->this is, thesis,
 thisle->thistle
 thiss->this
 thist->this
@@ -99071,8 +99048,7 @@ thomspon->thompson
 thongue->tongue
 thonic->chthonic
 thonighth->tonight
-thoo much thime->too much time
-thoo much->too much
+thoo->too, to,
 thook->took
 thoolkith->toolkit
 thoolkiths->toolkits
@@ -101775,6 +101751,7 @@ tthorough->thorough
 tthoroughly->thoroughly
 tthose->those
 tthough->though
+tthought->thought
 tthoughtt->thought
 tthousand->thousand
 tthousands->thousands
@@ -107346,7 +107323,6 @@ waterprooof->waterproof
 wath->what
 wathc->watch
 wathcer->watcher
-wathchdog thimer->watchdog timer
 wathchdog->watchdog
 wathcing->watching
 wathcmen->watchmen
@@ -107354,7 +107330,6 @@ wathever->whatever
 waths->whats
 watiers->waiters
 wating->waiting
-watkhdog timer->watchdog timer
 watkhdog->watchdog
 watkings->watkins
 watn->want
