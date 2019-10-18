@@ -105,7 +105,7 @@ aachieves->achieves
 aachieving->achieving
 aack->ack
 aacknowledged->acknowledged
-aacknowledges thaat->acknowledges that
+aacknowledges->acknowledges
 aacknowledging->acknowledging
 aacoustic->acoustic
 aacquaaintaance->acquaintance
@@ -1359,7 +1359,7 @@ accindentally->accidentally
 accissible->accessible
 accitently->accidentally
 accknowledged->acknowledged
-accknowledges that->acknowledges that
+accknowledges->acknowledges
 accknowledging->acknowledging
 acclamied->acclaimed
 acclerated->accelerated
@@ -1376,8 +1376,9 @@ acclimattizattion->acclimatization
 acclimitization->acclimatization
 acclimmatization->acclimatization
 accllimatization->acclimatization
+accnowledge->acknnowledge
 accnowledged->acknnowledged
-accnowledges that->acknowledges that
+accnowledges->acknowledges
 accnowledging->acknowledging
 accocate->allocate
 accociated->associated
@@ -1908,6 +1909,9 @@ achives->achieves
 achivevement->achievement
 achiving->achieving
 achknowledge->acknowledge
+achknowledged->acknowledged
+achknowledges->acknowledges
+achknowledging->acknowledging
 achor->anchor
 achored->anchored
 achoring->anchoring
@@ -1935,10 +1939,11 @@ acivate->activate
 acive->active
 ackknowledge->acknowledge
 ackknowledged->acknowledged
-ackknowledges that->acknowledges that
+ackknowledges->acknowledges
 ackknowledging->acknowledging
+acknnowledge->acknowledge
 acknnowledged->acknowledged
-acknnowledges that->acknowledges that
+acknnowledges->acknowledges
 acknnowledginng->acknowledging
 acknoledge->acknowledge
 acknoledged->acknowledged
@@ -1949,9 +1954,11 @@ acknolwedged->acknowledged
 acknolwedgement->acknowledgement
 acknolwedges->acknowledges
 acknolwedging->acknowledging
+acknolwledge->acknowledge
+acknolwledged->acknowledged
 acknolwledges->acknowledges
 acknoowledged->acknowledged
-acknoowledges that->acknowledges that
+acknoowledges->acknowledges that
 acknoowledging->acknowledging
 acknowedge->acknowledge
 acknoweldge->acknowledge
@@ -1960,38 +1967,45 @@ acknoweldgement->acknowledgement
 acknoweldges->acknowledges
 acknowiedged->acknowledged
 acknowladges->acknowledges
+acknowlaedgae->acknowledge
 acknowlaedgaed->acknowledged
-acknowlaedgaes that->acknowledges that
+acknowlaedgaes->acknowledges
 acknowlaedging->acknowledging
 acknowldeged->acknowledged
 acknowldegement->acknowledgement
 acknowldge->acknowledge
+acknowldged->acknowledged
+acknowldgement->acknowledgement
+acknowldges->acknowledges
+acknowldging->acknowledging
+acknowleddge->acknowledge
 acknowleddgedd->acknowledged
-acknowleddges that->acknowledges that
+acknowleddges->acknowledges
 acknowleddging->acknowledging
+acknowleddgement->acknowledgement
 acknowlede->acknowledge
 acknowleded->acknowledged
+acknowledes->acknowledges
 acknowledgeing->acknowledging
 acknowledgement->acknowledgment
 acknowledgemnt->acknowledgement
-acknowledges htat->acknowledges that
-acknowledges lhal->acknowledges that
-acknowledges tat->acknowledges that
-acknowledges thhat->acknowledges that
-acknowledges thhath->acknowledges that
-acknowledges tthatt->acknowledges that
-acknowledgess that->acknowledges that
+acknowledgess->acknowledges
 acknowledgesthat->acknowledges that
 acknowledget->acknowledgement
+acknowledgge->acknowledge
 acknowledgged->acknowledged
-acknowledgges that->acknowledges that
+acknowledgges->acknowledges
+acknowledggment->acknowledgment
+acknowledgging->acknowledging
 acknowledggingg->acknowledging
 acknowledgiing->acknowledging
+acknowledgue->acknowledge
 acknowledgued->acknowledged
-acknowledgues that->acknowledges that
+acknowledgues->acknowledges
 acknowleding->acknowledging
+acknowleedge->acknowledge
 acknowleedgeed->acknowledged
-acknowleedgees that->acknowledges that
+acknowleedgees->acknowledges
 acknowleedging->acknowledging
 acknowlegde->acknowledge
 acknowlegded->acknowledged
@@ -2004,15 +2018,21 @@ acknowlegement->acknowledgement
 acknowleges->acknowledges
 acknowleging->acknowledging
 acknowlegment->acknowledgment
+acknowlledge->acknowledge
 acknowlledged->acknowledged
-acknowlledges that->acknowledges that
+acknowlledges->acknowledges
 acknowlledging->acknowledging
+acknowlledgment->acknowledgment
+acknowtedge->acknowledge
 acknowtedged->acknowledged
-acknowtedges that->acknowledges that
+acknowtedges->acknowledges
 acknowtedging->acknowledging
+acknowtedgment->acknowledgment
+acknowwledge->acknowledge
 acknowwledged->acknowledged
-acknowwledges that->acknowledges that
+acknowwledges->acknowledges
 acknowwledging->acknowledging
+acknowwledgment->acknowledgment
 acknwoledge->acknowledges
 ackowledge->acknowledge
 ackowledged->acknowledged
@@ -8762,28 +8782,11 @@ arugments->arguments
 arugument->argument
 arument->argument
 arund->around
-arv studio->avr studio
 as as->as, as is,
-as ccheccked->as checked
-as chaeckaed->as checked
-as checced->as checked
-as checcked->as checked
 as check->as checked
-as checkedd->as checked
-as checkked->as checked
-as checkled->as checked
-as cheeckeed->as checked
-as cheked->as checked
-as chhecked->as checked
-as farr->as far
-as ffar->as far
-as khekked->as checked
-as waell->as well
-as weell->as well
-as wel->as well
-as wellll->as well
+farr->far
+ffar->far
 as wett->as well
-as wwell->as well
 asapragus->asparagus
 asas->as, as is,
 asasin->assassin
@@ -13370,6 +13373,7 @@ brakkets->brackets
 brakley->barkley
 brakpoint->breakpoint
 brakpoints->breakpoints
+bramaged->damaged
 branc->branch
 brancch->branch
 brancches->branches
@@ -25232,7 +25236,6 @@ correciton->corrections
 correcl->correct
 correcled->corrected
 correclion->correction
-correclly formalled->correctly formatted
 correclly->correctly
 correclness->correctness
 correclors->correctors
@@ -25260,18 +25263,7 @@ correctionn->correction
 correctivo->correction
 correctivos->corrections
 correctl->correctly
-correctlly formatted->correctly formatted
 correctlly->correctly
-correctly fformatted->correctly formatted
-correctly formaatted->correctly formatted
-correctly formaetted->correctly formatted
-correctly formalled->correctly formatted
-correctly formalted->correctly formatted
-correctly formated->correctly formatted
-correctly formatled->correctly formatted
-correctly formattedd->correctly formatted
-correctly formmatted->correctly formatted
-correctlyy formatted->correctly formatted
 correctlyy->correctly
 correctnes->correctness
 correctnessss->correctness
@@ -25282,11 +25274,9 @@ correctorss->correctors
 correctt->correct
 correctted->corrected
 correcttion->correction
-correcttly formatttted->correctly formatted
 correcttly->correctly
 correcttness->correctness
 correcttors->correctors
-correctty formatted->correctly formatted
 correctty->correctly
 correctures->correctors
 correcty->correctly
@@ -25295,7 +25285,6 @@ correcxt->correct
 correect->correct
 correecteed->corrected
 correection->correction
-correectly formatteed->correctly formatted
 correectly->correctly
 correectneess->correctness
 correectors->correctors
@@ -25442,7 +25431,6 @@ corrresponds->corresponds
 corrrrect->correct
 corrrrected->corrected
 corrrrection->correction
-corrrrectly forrmatted->correctly formatted
 corrrrectly->correctly
 corrrrectness->correctness
 corrrrectorrs->correctors
@@ -25500,7 +25488,6 @@ corse->course
 corsiar->corsair
 corsor->cursor
 corspes->corpses
-corss platform->cross platform
 corss->cross
 corssfire->crossfire
 corsshair->crosshair
@@ -25604,13 +25591,11 @@ coudn't->couldn't
 coudnt->couldn't
 cought->caught
 couinter->counter
-coul'd->could
+coul'd->could, couldn't,
 coul->could
 could of->could have
 could'nt->couldn't
 could't->couldn't
-couldd have->could have
-couldd not->could not
 couldd->could
 coulddn't->couldn't
 couldn'l->couldn't
@@ -25624,8 +25609,6 @@ couldnt'->couldn't
 couldnt->couldn't
 couldnt;->couldn't
 couldron->cauldron
-coulld have->could have
-coulld not->could not
 coulld->could
 coulldn't->couldn't
 coulmns->columns
@@ -25747,7 +25730,7 @@ counterfiets->counterfeit
 counterfit->counterfeit
 counterfited->counterfeit
 counteries->counters
-counterintuive->counter intuitive
+counterintuive->counter-intuitive, counter intuitive,
 countermsw->counterlsw
 counterpaly->counterplay
 counterpar->counterpart
@@ -25765,9 +25748,9 @@ countert->counteract
 countertrap->counterpart
 countertraps->counterparts
 countes->counters
-counthries'->countries'
+counthries'->countries', countries,
 counthries->countries
-counthry's->country's
+counthry's->country's, countries,
 counthry->country
 countires->countries
 countoring->countering
@@ -25775,10 +25758,12 @@ countour->contour, counter,
 countours->contours, counters,
 countr->counter, contour, country,
 countres->counters
-countriaes'->countries'
+countriaes'->countries', countries,
 countriaes->countries
-countrie's->countries', countries, country's,
-countrie\"s->countries\", country\"s, countries,
+countrie"s->country's, countries,
+countrie's->country's, countries,
+countrie\"s->country's, countries,
+countrie\'s->country's, countries,
 countried->countries
 countriees'->countries'
 countriees->countries
@@ -25835,8 +25820,6 @@ cousines->cousins
 cousing->cousin
 cousings->cousins
 cousnelors->counselors
-coutd have->could have
-coutd not->could not
 coutd->could
 coutdn't->couldn't
 couted->counted
@@ -25860,8 +25843,6 @@ couturiaer->couturier
 couturieer->couturier
 couturiier->couturier
 couturrierr->couturier
-couuld have->could have
-couuld not->could not
 couuld->could
 couuldn't->couldn't
 couuncil->council
@@ -26340,7 +26321,7 @@ crocodites->crocodiles
 crodial->cordial
 cronological->chronological
 croocoodiles->crocodiles
-crooss platfoorm->cross platform
+crooss->cross
 croown->crown
 croporation->corporation
 croporations->corporations
@@ -26351,7 +26332,6 @@ cropses->corpses
 crorect->correct
 crorected->corrected
 crorection->correction
-crorectly fromatted->correctly formatted
 crorectly->correctly
 crorectness->correctness
 crorectros->correctors
@@ -26429,7 +26409,7 @@ crriticizes->criticizes
 crriticizing->criticizing
 crritics->critics
 crrocodiles->crocodiles
-crross platforrm->cross platform
+crross->cross
 crrown->crown
 crrucifixion->crucifixion
 crruises->cruises
@@ -26521,10 +26501,11 @@ cryystallisation->crystallisation
 crèchae->crèche
 crèchee->crèche
 crèchhe->crèche
-csr->crt
 ctaims->claims
 ctass->class
 ctassic->classic
+ctassical->classical
+ctassically->classically
 ctassicat->classical
 ctassicatty->classically
 cteaned->cleaned
@@ -26546,8 +26527,6 @@ ctificates->certificates
 ctinicat->clinical
 ctinicatty->clinically
 ctipboard->clipboard
-ctock speed->clock speed
-ctock speeds->clock speeds
 ctock->clock
 ctoud->cloud
 ctr-f->ctrl-f
@@ -27204,7 +27183,7 @@ daevastating->devastating
 daeviation->deviation
 daeviations->deviations
 daevicae->device
-daeys laeter->days later
+daeys->days
 dafault->default
 dafaults->defaults
 dafaut->default
@@ -27219,15 +27198,13 @@ daht->dahl
 daiiquiirii->daiquiri
 daimond->diamond
 daimonds->diamonds
-dain bramaged->brain-damaged
-dain-bramaged->brain-damaged
+dain->brain
 daiqquiri->daiquiri
 daiquirri->daiquiri
 daiquuiri->daiquiri
 daita->data
 dake->take
 daknet->darknet
-dala slream->data stream
 dala->data
 dalabase->database
 dalay->delay
@@ -42875,8 +42852,6 @@ fornt->front
 forntier->frontier
 forntline->frontline
 forntpage->frontpage
-forr the->for the
-forr this->for this
 forr->for
 forrbade->forbade
 forrbid->forbid
@@ -47955,7 +47930,6 @@ htink->think
 htinking->thinking
 htinks->thinks
 htird->third
-htis is->this is
 htis->this
 htlm->html
 htmll->html
@@ -49050,6 +49024,7 @@ iinstall a->install a
 iinstall->install
 iinstallatiion->installation
 iinstalled->installed
+iinstaller->installer
 iinstance->instance
 iinstantiiated->instantiated
 iinstantiiatiion->instantiation
@@ -53144,6 +53119,7 @@ innstall a->install a
 innstall->install
 innstallationn->installation
 innstalled->installed
+innstaller->installer
 innstannce->instance
 innstanntiated->instantiated
 innstanntiationn->instantiation
@@ -53508,6 +53484,7 @@ insitall a->install a
 insitall->install
 insitallation->installation
 insitalled->installed
+insitaller->installer
 insitance->instance
 insitantiated->instantiated
 insitantiation->instantiation
@@ -53602,6 +53579,7 @@ insstall a->install a
 insstall->install
 insstallation->installation
 insstalled->installed
+insstaller->installer
 insstance->instance
 insstantiated->instantiated
 insstantiation->instantiation
@@ -53623,6 +53601,7 @@ inssurmountable->insurmountable
 instaall->install
 instaallaation->installation
 instaalled->installed
+instaaller->installer
 instaance->instance
 instaantiaated->instantiated
 instaantiaation->instantiation
@@ -53646,6 +53625,7 @@ instaell ae->install a
 instaell->install
 instaellaetion->installation
 instaelled->installed
+instaeller->installer
 instaence->instance
 instaentiaeted->instantiated
 instaentiaetion->instantiation
@@ -53657,6 +53637,7 @@ instalation->installation
 instalations->installations
 instaled->installed
 instalement->installment
+instaler->installer
 instaling->installing
 installa->install a
 installaed->installed
@@ -53677,6 +53658,7 @@ installeer->installer
 installeert->installer
 installemnt->installment
 installent->installment
+installerr->installer
 installes->installs
 installesd->installs
 installion->installing
@@ -53685,6 +53667,7 @@ installll a->install a
 installll->install
 installllation->installation
 installlled->installed
+installller-installer
 installmant->installment
 installtion->installation
 installus->installs
@@ -53737,6 +53720,7 @@ instatt a->install a
 instatt->install
 instattation->installation
 instatted->installed
+instatter->installer
 instatutionalized->institutionalized
 insteaad->instead
 insteadd->instead
@@ -55348,6 +55332,7 @@ intsall a->install a
 intsall->install
 intsallation->installation
 intsalled->installed
+intsaller->installer
 intsance->instance
 intsantiated->instantiated
 intsantiation->instantiation
@@ -55976,41 +55961,10 @@ irrrritable->irritable
 irrrritated->irritated
 irrrritates->irritates
 is able to able to->is able to
-is ablee to->is able to
-is ccheccked for->is checked for
-is ccheccked that->is checked that
-is cconfigured->is configured
-is chaeckaed for->is checked for
-is chaeckaed that->is checked that
-is checced for->is checked for
-is checced that->is checked that
-is checcked for->is checked for
-is checcked that->is checked that
 is check for->is checked for
 is check that->is checked that
-is checked ffor->is checked for
 is checked foor->is checked for
-is checked forr->is checked for
-is checked fro->is checked for
-is checked htat->is checked that
-is checked lhal->is checked that
-is checked tat->is checked that
-is checked thaat->is checked that
 is checked thaet->is checked that
-is checked thhath->is checked that
-is checked tthatt->is checked that
-is checkedd for->is checked for
-is checkedd that->is checked that
-is checkked for->is checked for
-is checkked that->is checked that
-is checkled for->is checked for
-is checkled that->is checked that
-is cheeckeed for->is checked for
-is cheeckeed that->is checked that
-is cheked for->is checked for
-is cheked that->is checked that
-is chhecked for->is checked for
-is chhecked thhat->is checked that
 is conffigured->is configured
 is configgured->is configured
 is configuraed->is configured
@@ -56022,8 +55976,6 @@ is configuured->is configured
 is connfigured->is configured
 is coonfigured->is configured
 is is->is it, is, it is,
-is khekked for->is checked for
-is khekked that->is checked that
 is konfigured->is configured
 is seet->is set
 is sel->is set
@@ -57748,6 +57700,7 @@ laerns->learns
 laerry->larry
 laervaee->larvae
 laest->last, least,
+laeter->later
 laetest->latest
 laetex->latex
 laethal->lethal
@@ -79884,9 +79837,8 @@ puublicly->publicly
 puublished->published
 puublisher->publisher
 puuccini->puccini
-puuerto rican->puerto rican
-puuerto ricans->puerto ricans
-puull down->pull down
+puuerto->puerto
+puull->pull
 puumpkin->pumpkin
 puurchasing->purchasing
 puuritanical->puritanical
@@ -80352,6 +80304,7 @@ raapid->rapid
 raarefied->rarefied
 raaspbiaan->raspbian
 raatify->ratify
+raationaale->rationale
 raaucous->raucous
 rabbbbinical->rabbinical
 rabbiiniical->rabbinical
@@ -80431,6 +80384,7 @@ raeal->real
 raealisaed->realised
 raealisation->realisation
 raealistic->realistic
+raeality->reality
 raealizaed->realized
 raeallocation->reallocation
 raeally->really
@@ -80499,11 +80453,9 @@ raedioaective->radioactive
 raedistributablae->redistributable
 raedme->readme
 raedmission->readmission
-raedundancy chaeck->redundancy check
 raedundancy->redundancy
 raedundant->redundant
 raefactoring->refactoring
-raefaer to->refer to
 raefaer->refer
 raefaeraencae->reference
 raefaeraencaed->referenced
@@ -80696,6 +80648,7 @@ raetargaetablae->retargetable
 raetargaetaed->retargeted
 raethink->rethink
 raetify->ratify
+raetionaele->rationale
 raetriaevae->retrieve
 raetriaevaed->retrieved
 raetriaeval->retrieval
@@ -80816,6 +80769,7 @@ rathionale->rationale
 ratiffy->ratify
 ratifyy->ratify
 ratiify->ratify
+ratiionale->rationale
 ratino->ratio
 rationalae->rationale
 rationalee->rationale
@@ -80825,7 +80779,10 @@ rationalizaton->rationalization
 rationalle->rationale
 rationallity->rationally
 rationaly->rationally
+rationate->rationale
 rationel->rationale
+rationnale->rationale
+ratioonale->rationale
 ratpure->rapture
 rattify->ratify
 rattionale->rationale
@@ -86756,6 +86713,7 @@ rrapid->rapid
 rrarrefied->rarefied
 rrase->erase
 rratify->ratify
+rrationale->rationale
 rraucous->raucous
 rray->array
 rre-deterrmine->re-determine
@@ -97879,6 +97837,7 @@ tast->taste
 tastae->taste
 tastee->taste
 tat's->that's
+tat->that
 tatest->latest
 tatex->latex
 tath->that
@@ -98790,32 +98749,6 @@ the ease oof->the ease of
 the easse of->the ease of
 the easy of->the ease of
 the ennd->the end
-the iinstaller->the installer
-the innstaller->the installer
-the insitaller->the installer
-the insstaller->the installer
-the instaaller->the installer
-the instaeller->the installer
-the instaler->the installer
-the installerr->the installer
-the installller->the installer
-the instatter->the installer
-the intsaller->the installer
-the laatest->the latest
-the laetest->the latest
-the latesit->the latest
-the latesst->the latest
-the latets->the latest
-the llatest->the latest
-the raationaale->the rationale
-the raetionaele->the rationale
-the ratiionale->the rationale
-the rationalle->the rationale
-the rationate->the rationale
-the rationnale->the rationale
-the ratioonale->the rationale
-the rrationale->the rationale
-the tatest->the latest
 the the->the
 theaater->theater
 theads->threads
@@ -99886,12 +99819,6 @@ to straiighten->to straighten
 to strraighten->to straighten
 to thee->to the
 to to->to, to do,
-to wait ffor the->to wait for the
-to wait for the to wait for the->to wait for the
-to wait for thee->to wait for the
-to wait forr the->to wait for the
-to wait fro the->to wait for the
-to wwait for the->to wait for the
 toally->totally
 toatal->total
 tobaacco->tobacco
@@ -107332,7 +107259,6 @@ waeb pagae->web page
 waebsitae->website
 waednaesday->wednesday
 waeighaed->weighed
-waeight loss->weight loss
 waeight->weight
 waeightaer->weighter
 waeird->weird
@@ -107340,9 +107266,7 @@ waeirdly->weirdly
 waeirdnaess->weirdness
 waeit->wait
 waeiting->waiting
-waell known->well known
 waell->well
-waent to->want to
 waent->want
 waented->wanted
 waents->wants
@@ -107355,12 +107279,9 @@ waerraent->warrant
 waerraenty->warranty
 waerriors->warriors
 waership->warship
-waes ignored->was ignored
-waes not->was not
 waes->was
 waesn't->wasn't
 waesteful->wasteful
-waetchdog timer->watchdog timer
 waetchdog->watchdog
 waether->weather
 waey->way
@@ -107380,14 +107301,14 @@ waitting->waiting
 wakeus->wakeups
 waktins->watkins
 wakup->wakeup
-walchdog limer->watchdog timer
+limer->timer, limber,
 walchdog->watchdog
-walkong->walkon
+walkong->walk on
 walkthough->walkthrough
 wallpapaers->wallpapers
 wallpapes->wallpapers
 wallpappers->wallpapers
-wallpapr->wallpapers
+wallpapr->wallpaper
 wallthickness->wall thickness
 wan't->want, wasn't,
 wan->want
@@ -107722,7 +107643,6 @@ weekendd->weekend
 weekennd->weekend
 weekkend->weekend
 weeklend->weekend
-weell known->well known
 weell->well
 weerd->weird
 weev->weave
@@ -107793,7 +107713,6 @@ weirrdly->weirdly
 weirrdness->weirdness
 weitght->weight
 wekend->weekend
-wel known->well known
 wel->well
 welathier->wealthier
 welathiest->wealthiest
@@ -107806,7 +107725,6 @@ wellingotn->wellington
 wellingston->wellington
 wellingtion->wellington
 wellknown->well known
-wellll known->well known
 wellll->well
 welp->whelp
 welšsky->velšsky
@@ -107853,7 +107771,6 @@ westmnister->westminster
 westmonster->westminster
 westrbook->westbrook
 wether->weather, whether,
-wett known->well known
 wett->well
 wettet->wetted
 wew->we
