@@ -1980,9 +1980,9 @@ acknowldges->acknowledges
 acknowldging->acknowledging
 acknowleddge->acknowledge
 acknowleddgedd->acknowledged
+acknowleddgement->acknowledgement
 acknowleddges->acknowledges
 acknowleddging->acknowledging
-acknowleddgement->acknowledgement
 acknowlede->acknowledge
 acknowleded->acknowledged
 acknowledes->acknowledges
@@ -1995,9 +1995,9 @@ acknowledget->acknowledgement
 acknowledgge->acknowledge
 acknowledgged->acknowledged
 acknowledgges->acknowledges
-acknowledggment->acknowledgment
 acknowledgging->acknowledging
 acknowledggingg->acknowledging
+acknowledggment->acknowledgment
 acknowledgiing->acknowledging
 acknowledgue->acknowledge
 acknowledgued->acknowledged
@@ -8784,8 +8784,6 @@ arument->argument
 arund->around
 as as->as, as is,
 as check->as checked
-farr->far
-ffar->far
 as wett->as well
 asapragus->asparagus
 asas->as, as is,
@@ -41115,6 +41113,7 @@ faries->fairies
 farly->fairly
 farmasudical->pharmaceutical
 farmework->framework
+farr->far
 farse->farce
 fasade->facade
 fasccinated->fascinated
@@ -41441,6 +41440,7 @@ ffamous->famous
 ffanaticism->fanaticism
 ffantastic->fantastic
 ffantasy->fantasy
+ffar->far
 ffascinated->fascinated
 ffascist->fascist
 ffaster than->faster than
@@ -58889,6 +58889,7 @@ lillle->little
 liltle->little
 lime-crilical->time-critical
 limeoul->timeout
+limer->timer, limber,
 limeslamp->timestamp
 limeslamps->timestamps
 limesorl->timesort
@@ -107301,7 +107302,6 @@ waitting->waiting
 wakeus->wakeups
 waktins->watkins
 wakup->wakeup
-limer->timer, limber,
 walchdog->watchdog
 walkong->walk on
 walkthough->walkthrough
