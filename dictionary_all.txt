@@ -43,6 +43,7 @@ aabbreviaations->abbreviations
 aaberraation->aberration
 aabilities->abilities
 aability->ability
+aable->able
 aaborigine->aborigine
 aabortifaacient->abortifacient
 aabout->about
@@ -721,7 +722,10 @@ abitrary->arbitrary
 abitrate->arbitrate
 abizmal->abysmal
 ablae->able
+able too->able to
+ablee->able
 ablity->ability
+ablle->able
 ablocks->blocks
 ablout->about, absolute,
 abnorally->abnormally
@@ -995,6 +999,7 @@ absurdley->absurdly
 absurdy->absurdly
 absuridty->absurdity
 absymal->abysmal
+abte->able, about,
 abtract->abstract
 abudance->abundance
 abudances->abundances
@@ -3219,6 +3224,7 @@ aebbreviaetions->abbreviations
 aeberraetion->aberration
 aebilities->abilities
 aebility->ability
+aeble->able
 aeborigine->aborigine
 aebortifaecient->abortifacient
 aebout->about
@@ -5351,8 +5357,6 @@ allottaed->allotted
 allottedd->allotted
 allotteed->allotted
 allotttted->allotted
-allow one to (\s+)->allow %sing
-allow to (\s+)->allow %sing
 allowaed->allowed
 allowambigouscommands->allowambiguouscommands
 allowd->allowed
@@ -5365,8 +5369,6 @@ allowiing->allowing
 allowingg->allowing
 allowinng->allowing
 allowr->allow
-allows one to (\s+)->allows %sing
-allows to (\s+)->allows %sing
 allowss->allows
 alloww->allow
 allowwed->allowed
@@ -11721,7 +11723,6 @@ bbasically->basically
 bbatch monitor->batch monitor
 bbattleship->battleship
 bbaud rate->baud rate
-bbe referenced bby->be referenced by
 bbe->be
 bbeachhead->beachhead
 bbeautifier->beautifier
@@ -11830,7 +11831,7 @@ bbuffer->buffer
 bbug->bug
 bbuild->build
 bbuilding->building
-bbuilt bby->built by
+bbuilt->built
 bbuoyancy->buoyancy
 bbuoyant->buoyant
 bbureaucracy->bureaucracy
@@ -11853,24 +11854,8 @@ bcause->because
 bceuase->because
 be aable->be able
 be aapplied->be applied
-be ablle->be able
-be abte->be able
-be aeble->be able
-be aepplied->be applied
-be aplied->be applied
-be appliedd->be applied
 be applies->be applied
-be appliied->be applied
-be appllied->be applied
-be apppplied->be applied
-be apptied->be applied
 be be->be
-be ddone->be done
-be donne->be done
-be doone->be done
-be lrealed->be treated
-be referencced by->be referenced by
-be referenced byy->be referenced by
 be referencedd by->be referenced by
 be references by->be referenced by
 be referenked by->be referenced by
@@ -12025,21 +12010,13 @@ becxause->because
 beding->bedding, begging,
 bedone->be done
 bedore->before
-bee ablee->be able
-bee applieed->be applied
 bee done->be done
-bee donee->be done
-bee reefeereenceed by->be referenced by
-bee starteed->be started
-bee treeateed->be treated
 beeachheead->beachhead
 beeak->break, beak,
 beean->been
 beeautifieer->beautifier
 beeautiful->beautiful
 beecamee->became
-beecausee i->because i
-beecausee of->because of
 beecausee->because
 beecomees->becomes
 beecoming->becoming
@@ -12088,7 +12065,6 @@ beesieegeed->besieged
 beesieeging->besieging
 beestiality->bestiality
 beethoveen->beethoven
-beetteer than->better than
 beetteer->better
 beetweeeen->between
 beetween->between
@@ -13948,7 +13924,6 @@ builld->build
 buillding->building
 buillt by->built by
 buillt->built
-built byy->built by
 built-time->build-time
 builter->builder
 builters->builders
@@ -14992,8 +14967,6 @@ campuss->campuses
 camrbidge->cambridge
 can bae paerformaed->can be performed
 can bae->can be
-can bbe performed->can be performed
-can bbe->can be
 can be perfformed->can be performed
 can be perfoormed->can be performed
 can be performedd->can be performed
@@ -21916,21 +21889,15 @@ confing->config
 confins->confines
 confirguration->configuration
 confirmacion->confirmation
-confirmaed by->confirmed by
 confirmaed->confirmed
 confirmas->confirms
 confirmd->confirmed
-confirmed byy->confirmed by
-confirmedd by->confirmed by
 confirmedd->confirmed
-confirmeed by->confirmed by
 confirmeed->confirmed
-confirmes by->confirmed by
+confirmes->confirms
 confirmm->confirm
-confirmmed by->confirmed by
 confirmmed->confirmed
 confirrm->confirm
-confirrmed by->confirmed by
 confirrmed->confirmed
 confise->confines
 confisgated->confiscated
@@ -25051,8 +25018,6 @@ cootdinated->coordinated
 cootdinates->coordinates
 cootdinating->coordinating
 cootdination->coordination
-coould have->could have
-coould noot->could not
 coould->could
 coouldn't->couldn't
 coouncil->council
@@ -25677,10 +25642,6 @@ cought->caught
 couinter->counter
 coul'd->could
 coul->could
-could nnot->could not
-could nol->could not
-could noth->could not
-could nott->could not
 could of->could have
 could'nt->couldn't
 could't->couldn't
@@ -27798,13 +27759,10 @@ ddoing->doing
 ddomain->domain
 ddominant->dominant
 ddomination->domination
-ddon't think->don't think
 ddon't->don't
 ddone->done
-ddonot know->donot know
-ddouble clicking->double clicking
+ddonot->do not, don't,
 ddouble->double
-ddouble-clicking->double-clicking
 ddoubles->doubles
 ddoubt->doubt
 ddownloadd->download
@@ -28420,7 +28378,6 @@ deefiancee->defiance
 deeficieenciees->deficiencies
 deeficieency->deficiency
 deefinee->define
-deefineed as globals->defined as globals
 deefineed->defined
 deefining->defining
 deefinitee->definite
@@ -28773,12 +28730,6 @@ definded->defined, defunded,
 define'd->defined, disabled due to #define
 defineable->definable
 defineatly->definately
-defined as gglobals->defined as globals
-defined as glloballs->defined as globals
-defined as globbals->defined as globals
-defined as gloobals->defined as globals
-defined as gtobats->defined as globals
-defined ass globalss->defined as globals
 defineded->defined
 defineed->defined
 defineition->definition
@@ -28875,11 +28826,10 @@ definityl->definitly
 definjtely->definately
 definltely->definately
 definltey->definitely
-definne->define
-definned as globals->defined as globals
-definned->defined
-definning->defining
-definninng->defining
+definne->define, definn,
+definned->defined, definned,
+definning->defining, definning,
+definninng->defining, definning,
 definnite->definite
 definnitely->definitely
 definnitionn->definition
@@ -31343,7 +31293,7 @@ diasspointed->dissapointed
 diaster->disaster
 diat->dial
 diated->dialed
-dicard->discard
+dicard->discard, discord,
 dicates->dictates
 dicchotomy->dichotomy
 dicctionary->dictionary
@@ -31439,7 +31389,6 @@ diesplay->display
 dieties->deities
 diety->deity
 difenitly->definitly
-diference between->difference between
 diference->difference
 diferences->differences
 diferent->different
@@ -31450,7 +31399,6 @@ diferently->differently
 difering->differing
 diferrent->different
 diferrential->differential
-diffaeraencae baetwaeaen->difference between
 diffaeraencae->difference
 diffaeraencaes->differences
 diffaeraent->different
@@ -31461,7 +31409,6 @@ diffaering->differing
 diffcult->difficult
 diffculties->difficulties
 diffculty->difficulty
-diffeereencee beetweeeen->difference between
 diffeereencee->difference
 diffeereencees->differences
 diffeereent->different
@@ -31487,15 +31434,8 @@ differeces->differences
 differect->different
 differemt->different
 differen->different
-differencce between->difference between
 differencce->difference
 differencces->differences
-difference bbetween->difference between
-difference belween->difference between
-difference bethween->difference between
-difference bettween->difference between
-difference betwen->difference between
-difference betwween->difference between
 differencess->differences
 differencial->differential
 differenciate->differentiate
@@ -31509,7 +31449,6 @@ differenct->different
 differend->different
 differene->difference
 differenes->differences
-differenke between->difference between
 differenke->difference
 differenkes->differences
 differenl->different
@@ -31517,7 +31456,6 @@ differenlial->differential
 differenliale->differentiate
 differenlialions->differentiations
 differenly->differently
-differennce betweenn->difference between
 differennce->difference
 differennces->differences
 differennt->different
@@ -34039,6 +33977,7 @@ don->don, don't,
 don;t->don't, do not,
 donae->done
 doned->done
+donee->done
 donejun->dungeon
 donejuns->dungeons
 donesn't->doesn't, does not,
@@ -34048,14 +33987,13 @@ donlink->downlink
 donlt->don't, do not,
 donn't->don't
 donn->don, done,
+donne->done
 donnot->do not
 donol->don't, do not,
-donot->don't, do not,s
-donot kknow->donot know
-donot knoww->donot know
-donoth know->donot know
-donotknow->donot know
-donott know->donot know
+donot->don't, do not,
+donoth->do not, don't,
+donotknow->do not know, don't know,
+donott->do not, don't,
 dont'->don't
 dont't->do not, don't,
 dont->don't, disabled because of var names
@@ -34115,6 +34053,7 @@ dormtund->dortmund
 dorpped->dropped
 dortmud->dortmund
 dortumnd->dortmund
+dosen"t->doesn't
 dosen't->doesn't
 dosen;t->doesn't
 dosen\"t->doesn\'t
@@ -42510,20 +42449,16 @@ folloiwng->following
 followd->follows, follow, followed,
 followes->follows
 followig->following
-followiing iin->following in
 followiing->following
 followin->following
 followind->following
-followingg in->following in
 followingg->following
 followingin->following in
 followings->following
 followinhg->following
-followinng inn->following in
 followinng->following
 followng->following
 followss->follows
-followwing in->following in
 followwing->following
 followws->follows
 follwed->followed
@@ -46548,11 +46483,6 @@ harware->hardware
 harzardous->hazardous
 has ben->has been
 has has->has
-has nnot->has not
-has nol->has not
-has noot->has nots
-has noth->has not
-has nott->has not
 has'nt->hasn't
 hases->hashes, has,
 hashi->hash
@@ -46587,7 +46517,6 @@ havaen't->haven't
 have ben->have been
 have have->have
 have meen->have been
-have noot->have not
 have noth->have not
 have nott->have not
 have they been->they have been
@@ -47997,10 +47926,7 @@ houuse->house
 hove->hover, love, have,
 hovever->however
 hovewer->however
-how lo->how to
 how log->how long
-how tho->how to
-how tto->how to
 howaevaer->however
 howeeveer->however
 howerver->however
@@ -48523,8 +48449,6 @@ i am dooing->i am doing
 i amm doing->i am doing
 i amm->i am
 i ddidd not->i did not
-i did nol->i did not
-i did noot->i did not
 i did noth->i did not
 i did nott->i did not
 i dnt->i did not
@@ -48538,7 +48462,6 @@ i thinc->i think
 i thinck->i think
 i thing->i think
 i thinkk->i think
-tink->think
 i triaed->i tried
 i triedd->i tried
 i trieed->i tried
@@ -49045,13 +48968,6 @@ iimprovement->improvement
 iimprovements->improvements
 iimproviing->improving
 iimproviisatiion->improvisation
-iin case of->in case of
-iin case->in case
-iin front->in front
-iin future->in future
-iin priinciiple->in principle
-iin spiite->in spite
-iin the->in the
 iin->in
 iinabiiliity->inability
 iinaccessiible->inaccessible
@@ -56124,17 +56040,8 @@ irrrresistibly->irresistibly
 irrrritable->irritable
 irrrritated->irritated
 irrrritates->irritates
-is aable to->is able to
-is abble to->is able to
-is able tho->is able to
 is able to able to->is able to
-is able too->is able to
-is able tto->is able to
 is ablee to->is able to
-is ablle to->is able to
-is abte to->is able to
-is aeble to->is able to
-is calles->is called
 is ccheccked for->is checked for
 is ccheccked that->is checked that
 is cconfigured->is configured
@@ -56183,9 +56090,6 @@ is is->is it, is, it is,
 is khekked for->is checked for
 is khekked that->is checked that
 is konfigured->is configured
-is nol->is not
-is noot->is not
-is nott->is not
 is saet->is set
 is seet->is set
 is sel->is set
@@ -59583,16 +59487,12 @@ llosing->losing
 llothringen->lothringen
 lloudlly->loudly
 llove->love
-llow byte->low byte
+llow->low
 llying->lying
 lmit->limit
 lmits->limits
 lnowledgable->knowledgable
-lo allocale->to allocate
-lo be->to be
-lo connecl lo->to connect to
-lo do->to do
-lo slraighlen->to straighten
+lo->to
 loaader->loader
 loacal->local
 loacality->locality
@@ -59660,7 +59560,7 @@ lod->load
 loday's->today's
 loday->today
 loding->loading
-lodo lisl->todo list
+lodo->todo
 loenard->leonard
 loepard->leopard
 loev->love
@@ -59989,6 +59889,7 @@ lranssexual->transsexual
 lranssexuals->transsexuals
 lraversal->traversal
 lraverse->traverse
+lrealed->treated
 lrealmenl->treatment
 lremolo->tremolo
 lremolos->tremolos
@@ -66158,6 +66059,7 @@ nazarreth->nazareth
 nazereth->nazareth
 nazionalists->nationalists
 nazzareth->nazareth
+nbe->be
 ncis->nsis
 nclude->include
 ncluded->included
@@ -68123,6 +68025,7 @@ obbject->object
 obbjective->objective
 obbjectives->objectives
 obbjects->objects
+obbserve->observe
 obbsessed->obsessed
 obbsession->obsession
 obbsfucator->obsfucator
@@ -68318,16 +68221,20 @@ oblitirated->obliterated
 oblitorated->obliterated
 obliverated->obliterated
 obnject->object
+obsaervae->observe
 obsaessaed->obsessed
 obsaession->obsession
 obscruity->obscurity
 obscuirty->obscurity
 obscur->obscure
 obscurial->obscure
+obseervee->observer
 obseesseed->obsessed
 obseession->obsession
 obselete->obsolete
 obseletes->obsoletes
+obserrve->observe
+observ->observe
 observabil->observable
 observacion->observation
 observaiton->observant
@@ -68336,12 +68243,14 @@ observarse->observers
 observasion->observations
 observating->observation
 observaton->observation
+observee->observe
 observeras->observers
 observerats->observers
 observerd->observed
 observered->observed
 observeres->observers
 observible->observable
+observve->observe
 obsesed->obsessed
 obsesion->obsession
 obsessedd->obsessed
@@ -68383,6 +68292,7 @@ obsollete->obsolete
 obsolte->obsolete
 obsolted->obsoleted
 obsotete->obsolete
+obsserve->observe
 obssesion->obsession
 obssesive->obsessive
 obssessed->obsessed
@@ -69155,6 +69065,7 @@ oobject->object
 oobjective->objective
 oobjectives->objectives
 oobjects->objects
+oobserve->observe
 oobsessed->obsessed
 oobsessioon->obsession
 oobsfucatoor->obsfucator
@@ -72138,8 +72049,6 @@ pathenthed->patented
 pathes->paths
 pathfidner->pathfinder
 pathfindir->pathfinder
-pathh tho thesth->path to test
-pathh to test->path to test
 pathh->path
 pathhs->paths
 pathience->patience
@@ -72222,7 +72131,6 @@ patternstring->string pattern
 patterrn->pattern
 pattersn->patterns
 pattet->pallet
-patth tto ttestt->path to test
 patth->path
 patths->paths
 pattience->patience
@@ -81265,6 +81173,7 @@ re-throww->re-throw
 re-trow->re-throw
 re-tthrow->re-throw
 re-use->reuse
+reaachaable->reachable
 reaached->reached
 reaaching->reaching
 reaad->read
@@ -81289,13 +81198,18 @@ reaassign->reassign
 reacable->reachable
 reacahable->reachable
 reacahble->reachable
+reacchable->reachable
 reacched->reached
 reacching->reaching
 reaccurring->recurring
 reaceive->receive
+reachabble->reachable
+reachablle->reachable
+reachabte->sereachable
 reachead->reached
 reachedd->reached
 reacher->richer
+reachhable->reachable
 reachhed->reached
 reachhing->reaching
 reachiing->reaching
@@ -81357,6 +81271,7 @@ readonl->readonly
 readony->readonly
 readtbqueue->readtbmqueue
 readyn->ready
+reaechaeble->reachable
 reaeched->reached
 reaeching->reaching
 reaed->read
@@ -81376,6 +81291,7 @@ reaesonaeble->reasonable
 reaessign->reassign
 reagrds->regards
 reaise->realise, raise, realize,
+reakhable->reachable
 reakhed->reached
 reakhing->reaching
 reaktivate->reactivate
@@ -82823,17 +82739,13 @@ refence->reference
 refences->references
 refenence->reference
 refenrenced->referenced
-refer lo->refer to
-refer tho->refer to
 refer too->refer to
-refer tto->refer to
 referal->referral
 referance->reference
 referances->references
 referancing->referencing
 referandum->referendum
 referant->referent
-refere to->refer to
 refere->refer, referee,
 referebces->references
 referece->reference
@@ -89408,15 +89320,6 @@ servehs->serves
 serveice->service
 serveile->servile
 serveillance->surveillance
-server nol reachable->server not reachable
-server not reaachaable->server not reachable
-server not reacchable->server not reachable
-server not reachabble->server not reachable
-server not reachablle->server not reachable
-server not reachabte->server not reachable
-server not reachhable->server not reachable
-server not reaechaeble->server not reachable
-server not reakhable->server not reachable
 serveral->several
 serverite->severity
 serverites->severities
@@ -89622,13 +89525,6 @@ shakespere->shakespeare
 shakesperean->shakespeare
 shakesphere->shakespeare
 shal->shall
-shall bae daefinaed global->shall be defined global
-shall bbe defined globbal->shall be defined global
-shall be defined gglobal->shall be defined global
-shall be defined gloobal->shall be defined global
-shall be definned global->shall be defined global
-shall bee deefineed global->shall be defined global
-shallll be defined glloball->shall be defined global
 shallll->shall
 shamann->shaman
 shamanns->shamans
@@ -91071,6 +90967,7 @@ sloughtering->slaughtering
 slowlyy->slowly
 slowwly->slowly
 slowy->slowly
+slraighlen->straighten
 slraighlforward->straightforward
 slrala->strata
 slralegic->strategic
@@ -92624,6 +92521,7 @@ spherrically->spherically
 sphherically->spherically
 spicific->specific
 spiiriitual->spiritual
+spiite->spite
 spiittiing->spitting
 spilnter->splinter
 spilting->spitting
@@ -93780,6 +93678,7 @@ starrting->starting
 startaed->started
 startd->started
 startde->startled
+starteed->started
 startegic->strategic
 startegically->strategically
 startegies->strategies
@@ -99687,6 +99586,7 @@ threateningg->threatening
 threatenned->threatened
 threatenninng->threatening
 threates->threatens
+threathed->treated
 threathmenth->treatment
 threatining->threatening
 threatment->treatment
@@ -100018,6 +99918,7 @@ tindergarten->kindergarten
 tinear->linear
 tinguistic->linguistic
 tinguistics->linguistics
+tink->think
 tinnaean->linnaean
 tinterrupts->interrupts
 tinux->linux
@@ -100086,10 +99987,6 @@ to alloccate->to allocate
 to allokate->to allocate
 to alocate->to allocate
 to attocate->to allocate
-to bae daevaelopaed->to be developed
-to bae->to be
-to bbe developed->to be developed
-to bbe->to be
 to be ddevelopedd->to be developed
 to be deveeloped->to be developed
 to be develloped->to be developed
@@ -100778,6 +100675,7 @@ traenspaerent->transparent
 traensportaetion->transportation
 traenssexuael->transsexual
 traenssexuaels->transsexuals
+traeted->treated
 traetment->treatment
 traeversael->traversal
 traeverse->traverse
@@ -101612,10 +101510,12 @@ travversal->traversal
 travverse->traverse
 tray->try
 tre->tree
+treaated->treated
 treaatment->treatment
 tread->thread, treat,
 treadet->treated
 treading->threading
+treaeted->treated
 treaetment->treatment
 treak->treat, tweak,
 treasue->treasure
@@ -101624,6 +101524,7 @@ treasurery->treasury
 treasurey->treasury
 treasurs->treasures
 treate->treat
+treatedd->treated
 treatement->treatment
 treatened->threatened
 treatening->threatening
@@ -101637,6 +101538,7 @@ treatsie->treaties
 treausre->treasure
 treausres->treasures
 tredning->trending
+treeateed->treated
 treeatmeent->treatment
 treeblocl->treeblock
 treemolo->tremolo
@@ -101927,6 +101829,7 @@ trranssexual->transsexual
 trranssexuals->transsexuals
 trraverrsal->traversal
 trraverrse->traverse
+trreated->treated
 trreatment->treatment
 trremolo->tremolo
 trremolos->tremolos
@@ -102337,6 +102240,7 @@ ttranssexual->transsexual
 ttranssexuals->transsexuals
 ttraversal->traversal
 ttraverse->traverse
+ttreatted->treated
 ttreattmentt->treatment
 ttremolo->tremolo
 ttremolos->tremolos
@@ -105240,10 +105144,7 @@ unxepected->unexpected
 unxepectedly->unexpectedly
 unxpected->unexpected
 unziped->unzipped
-up lo->up to
-up tho->up to
 up too->up to
-up tto->up to
 upaanishaad->upanishad
 upadate->update
 upadated->updated
@@ -107659,12 +107560,10 @@ want;s->wants
 wantaed->wanted
 wantedd->wanted
 wanteed->wanted
-wanth tho->want to
 wanth->want
 wanthed->wanted
 wanths->wants
 wantss->wants
-wantt tto->want to
 wantt->want
 wantted->wanted
 wantto->want to
@@ -107749,9 +107648,6 @@ was ignoreed->was ignored
 was ignorred->was ignored
 was ignroed->was ignored
 was iignored->was ignored
-was nnot->was not
-was nol->was not
-was nott->was not
 was occured->has occurred
 was occurred->has occurred
 was'nt->wasn't, weren't,
@@ -108473,7 +108369,8 @@ wihtheld->withheld
 wihthold->withhold
 wihtin->within
 wihtout->without
-wiider range->wider range
+wiide->wide
+wiider->wider
 wiidespread->widespread
 wiield->wield
 wiielded->wielded
@@ -108483,17 +108380,10 @@ wiil->will
 wiild->wild
 wiildcard->wildcard
 wiildcarded->wildcarded
-wiill be treated->will be treated
-wiill not work->will not work
-wiill observe->will observe
 wiill->will
 wiilliingness->willingness
 wiindow->window
-wiindows 7->windows 7
-wiindows server->windows server
-wiindows xp->windows xp
 wiindows->windows
-wiith one->with one
 wiith->with
 wiithdraw->withdraw
 wiithdrawal->withdrawal
@@ -108513,9 +108403,6 @@ wikipeedia->wikipedia
 wikippedia->wikipedia
 wikkipedia->wikipedia
 wikpedia->wikipedia
-wil be treated->will be treated
-wil not work->will not work
-wil observe->will observe
 wil->well, will,
 wilcard->wildcard
 wilcards->wildcards
@@ -108546,35 +108433,9 @@ wilhhold->withhold
 wilhin->within
 wilhoul->without
 wilingness->willingness
-will bbe treated->will be treated
-will be lrealed->will be treated
-will be threathed->will be treated
-will be traeted->will be treated
-will be treaated->will be treated
-will be treaeted->will be treated
 will be treat->will be treated
-will be treatedd->will be treated
-will be trreated->will be treated
-will be ttreatted->will be treated
-will bee treeateed->will be treated
-will no work->will not work
-will noot woork->will not work
-will not workk->will not work
-will not worrk->will not work
-will not wrok->will not work
-will noth work->will not work
-will nott work->will not work
-will obbserve->will observe
-will obsaervae->will observe
-will obseervee->will observe
-will obserrve->will observe
-will observ->will observe
-will observee->will observe
 will observer->will observe
-will observve->will observe
-will obsserve->will observe
-will oobserve->will observe
-will shall->shall
+will shall->shall, will,
 will will->will
 willaims->williams
 willd->wild
@@ -108868,8 +108729,6 @@ woondered->wondered
 woonderful->wonderful
 woord->word
 woords->words
-woork unit->work unit
-woork units->work units
 woork->work
 woorkaroound->workaround
 woorkaroounds->workarounds
@@ -109085,15 +108944,9 @@ woudl->would
 woudlnt->wouldn't
 woudlve->would've
 woudn't->wouldn't
-would nnot->would not
-would nol->would not
-would noth->would not
-would nott->would not
 would of->would've, would have,
 would'nt->wouldn't
 would't->wouldn't
-wouldd have->would have
-wouldd not->would not
 wouldd->would
 woulddn't->wouldn't
 wouldn'l->wouldn't
