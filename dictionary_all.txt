@@ -102219,7 +102219,7 @@ typechek->typecheck
 typecheking->typechecking
 typeddef->typedef
 typedeff->typedef
-typee>type
+typee->type
 typeeaheead->typeahead
 typeedeef->typedef
 typess->types
@@ -102903,8 +102903,8 @@ unconcsiously->unconsciously
 uncondditional->unconditional
 uncondiitiional->unconditional
 uncondilional->unconditional
-uncondisional->unconditional, >unconditional,
-uncondisionaly->unconditionally, >unconditionally,
+uncondisional->unconditional
+uncondisionaly->unconditionally
 uncondisionnal->unconditional
 uncondisionnaly->unconditionally
 uncondithional->unconditional
