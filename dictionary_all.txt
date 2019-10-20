@@ -43445,7 +43445,7 @@ fujithsu->fujitsu
 fujitssu->fujitsu
 fujittsu->fujitsu
 fujjitsu->fujitsu
-fule->file
+fule->file, fuel,
 fulfiill->fulfill
 fulfiilled->fulfilled
 fulfiils->fulfils
