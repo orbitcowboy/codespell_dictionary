@@ -12204,6 +12204,7 @@ beleaguerred->beleaguered
 beleagured->beleaguered
 beleaguuered->beleaguered
 beleave->believe
+beleaves->believes
 beleif->belief
 beleifable->believable
 beleife->belief, believe,
