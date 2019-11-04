@@ -33758,7 +33758,7 @@ doesent'->doesn't
 doesent->doesn't
 doesing->does in, does, doing, dosing, dozing,
 doesits->does its
-doesn not->does not
+doesn not->does not, doesn't,
 doesn'->doesn't
 doesn'l->doesn't
 doesn'th->doesn't
@@ -47823,6 +47823,7 @@ htikn->think
 hting->thing
 htings->things
 htink->think
+htinked->thought
 htinking->thinking
 htinks->thinks
 htird->third
@@ -58205,6 +58206,7 @@ lhieves->thieves
 lhing->thing
 lhings->things
 lhink->think
+lhinked->linked, thought,
 lhinking->thinking
 lhinks->thinks
 lhird->third
@@ -58462,6 +58464,7 @@ lifesytles->lifestyles
 lifethime->lifetime
 lifetimers->lifetimes
 lifetimme->lifetime
+lifetsyle->lifestyle
 lifetsyles->lifestyles
 lifettime->lifetime
 liffecyle->lifecyle
@@ -77900,6 +77903,9 @@ projectt->project
 projectts->projects
 projectyle->projectile
 projeect->project
+projeected->projected
+projeecting->projecting
+projeection->projection
 projeects->projects
 projekt->project
 projektile->projectile
@@ -79088,6 +79094,9 @@ prrogrressed->progressed
 prrogrressive->progressive
 prrohibition->prohibition
 prroject->project
+prrojected->projected
+prrojecting->projecting
+prrojection->projection
 prrojects->projects
 prrolegomena->prolegomena
 prroliferration->proliferation
@@ -86144,6 +86153,7 @@ riaders->raiders
 richt->right
 rickoshay->ricochet
 rictatorship->dictatorship
+rid off->rid of
 riddiculous->ridiculous
 ridicculous->ridiculous
 ridicilous->ridiculous
@@ -90343,7 +90353,10 @@ siturations->situations
 situtation->situation
 situtations->situations
 sityle->style
+sityled->styled
+sityles->styles
 sitylesheet->stylesheet
+sityling->styling
 sitylisitic->stylistic
 sitylus->stylus
 siutational->situational
@@ -92909,10 +92922,13 @@ sstudy->study
 sstudying->studying
 sstumbled->stumbled
 sstyle->style
+sstyled->styled
+sstyles->styles
 sstylessheet->stylesheet
+sstyling->styling
 sstylisstic->stylistic
 sstyluss->stylus
-ssub folder->sub folder
+ssub->sub
 ssubcategoriess->subcategories
 ssubcategory->subcategory
 ssubclassss->subclass
@@ -93589,7 +93605,12 @@ sthudy->study
 sthudying->studying
 sthumbled->stumbled
 sthyle->style
+sthyled->styled
+sthyleing->styleing
+sthyles->styles
 sthylesheeth->stylesheet
+sthylesheeths->stylesheets
+sthyling->styling
 sthylisthic->stylistic
 sthylus->stylus
 stichted->stitched
@@ -94341,9 +94362,15 @@ sttudying->studying
 sttumbled->stumbled
 sttutering->stuttering
 sttyle->style
+sttyled->styled
+sttyleing->styling
+sttyles->styles
 sttylesheett->stylesheet
+sttylesheetts->stylesheets
+sttyling->styling
 sttylisttic->stylistic
 sttylus->stylus
+sttyluses->styluses
 stubbbbornness->stubbornness
 stubbon->stubborn
 stubboornness->stubbornness
@@ -94405,12 +94432,15 @@ stupidr->stupider
 stupidy->stupidly
 stupied->stupid
 stupire->stupider
+stupit->stupid
 stupitidy->stupidity
 sturct->struct
 sturctural->structural
 sturcture->structure
+sturctured->structured
 sturctures->structures
 sturday->saturday
+sturdays->saturdays
 sturggled->struggled
 sturggles->struggles
 sturggling->struggling
@@ -94419,28 +94449,44 @@ stutterring->stuttering
 stutus->status
 stuubbornness->stubbornness
 stuudio->studio
+stuudios->studios
 stuudy->study
 stuudying->studying
 stuumbled->stumbled
 styhe->style
+styhed->styled
+styhes->styles
+styhing->styling
 stylae->style
+stylaed->styled
+stylaeing->styling
+stylaes->styles
 stylaeshaeaet->stylesheet
+stylaeshaeaets->stylesheets
 style sheet->stylesheet
+style sheets->stylesheets
 stylee->style
 styleed->styles
 styleeed->styled
 styleeing->styling
 styleesheeeet->stylesheet
+styleesheeeets->stylesheets
 styleesheet->stylesheet
+styleesheets->stylesheets
 styleshet->stylesheet
 styleshets->stylesheets
 styleshheet->stylesheet
+styleshheets->stylesheets
 styliistiic->stylistic
 stylisch->stylish
 stylisticc->stylistic
 stylistik->stylistic
 stylle->style
+stylled->styled
+stylles->styles
 styllesheet->stylesheet
+styllesheets->stylesheets
+stylling->styling
 styllistic->stylistic
 styllus->stylus
 stylsheet->stylesheet
@@ -94450,11 +94496,21 @@ styrofaom->styrofoam
 styrofom->styrofoam
 styructs->structs
 styte->style
+styted->styled
+styteing->styling
+stytes->styles
 stytesheet->stylesheet
+stytesheets->stylesheets
+styting->styling
 stytistic->stylistic
-stytus->stylus
+stytus->stylus, status,
+stytuses->styluses
 styyle->style
+styyled->styled
+styyleing->styling
+styyles->styles
 styylesheet->stylesheet
+styyling->styling
 styylistic->stylistic
 styylus->stylus
 suasage->sausage
@@ -98874,10 +98930,13 @@ thimesorth->timesort
 thimesthamp->timestamp
 thimesthamps->timestamps
 thiming->timing
+thimng->thing
 thimngs->things
 thinc->think
+thinced->thought
 thincing->thinking
 thinck->think
+thincked->thought
 thincking->thinking
 thincks->thinks
 thincs->thinks
@@ -98888,6 +98947,7 @@ thingss->things
 thinigs->things
 thinkingg->thinking
 thinkk->think
+thinkked->thought
 thinkking->thinking
 thinkks->thinks
 thinkss->thinks
@@ -99452,6 +99512,9 @@ tinear->linear
 tinguistic->linguistic
 tinguistics->linguistics
 tink->think
+tinked->thought
+tinking->thinking
+tinks->thinks
 tinnaean->linnaean
 tinterrupts->interrupts
 tinux->linux
@@ -99675,6 +99738,7 @@ tokkenizer->tokenizer
 toklenization->tokenization
 toklenized->tokenized
 toklenizer->tokenizer
+tol->tool, toll,
 tolaerancae->tolerance
 tolarable->tolerable
 tolarances->tolerances
@@ -99710,6 +99774,7 @@ tollerant->tolerant
 tollerate->tolerate
 tollerates->tolerates
 tollkien->tolkien
+tols->tools, tolls,
 tomaatoes->tomatoes
 tomae->tome
 tomaetoes->tomatoes
@@ -99800,8 +99865,10 @@ toolkist->toolkits
 toolkitss->toolkits
 toolkkit->toolkit
 toolkkits->toolkits
+tooll->tool, toll,
 toollkit->toolkit
 toollkits->toolkits
+toolls->tools, tolls,
 toolsbox->toolbox
 toolss->tools
 toom->tomb
@@ -101562,10 +101629,12 @@ tsructural->structural
 tsructure->structure
 tsructured->structured
 tsructures->structures
+tsructuring->structuring
 tsruggling->struggling
 tsuanmi->tsunami
 tsubbornness->stubbornness
 tsudio->studio
+tsudios->studios
 tsudy->study
 tsudying->studying
 tsumbled->stumbled
@@ -101573,9 +101642,15 @@ tsunamai->tsunami
 tsunmai->tsunami
 tswitch->switch
 tsyle->style
+tsyled->styled
+tsyleing->styling
+tsyles->styles
 tsylesheet->stylesheet
+tsylesheets->stylesheets
+tsyling->styling
 tsylitsic->stylistic
 tsylus->stylus
+tsyluses->styluses
 ttable->table
 ttake->take
 ttakes->takes
@@ -101709,8 +101784,10 @@ ttongue->tongue
 ttonightt->tonight
 ttoo->too
 ttook->took
+ttool->tool
 ttoolkitt->toolkit
 ttoolkitts->toolkits
+ttools->tools
 ttopic->topic
 ttopics->topics
 ttorch->torch
