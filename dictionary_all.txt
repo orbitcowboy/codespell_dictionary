@@ -33679,33 +33679,22 @@ documentaryy->documentary
 documentataion->documentation
 documentataions->documentations
 documentaties->documentaries
-documentatiion style->documentation style
 documentatiion->documentation
 documentating->documentation
 documentatio->documentation
-documentation sityle->documentation style
-documentation sstyle->documentation style
-documentation stylle->documentation style
-documentation styte->documentation style
-documentation styyle->documentation style
-documentation tsyle->documentation style
 documentato->documentation
 documentaton->documentation
-documentdescription->document_description
-documentencoding->document_encoding
 documenteries->documentaries
 documentery->documentary
 documentes->documents
 documenth->document
 documenthable->documentable
 documenthary->documentary
-documenthathion sthyle->documentation style
 documenthathion->documentation
 documenthed->documented
 documenthing->documenting
 documenths->documents
 documentiing->documenting
-documenting style->documentation style
 documentingg->documenting
 documention->documentation
 documentories->documentaries
@@ -33717,7 +33706,6 @@ documentss->documents
 documentt->document
 documenttable->documentable
 documenttary->documentary
-documenttattion sttyle->documentation style
 documenttattion->documentation
 documentted->documented
 documentting->documenting
@@ -33729,7 +33717,6 @@ documets->documents
 documment->document
 docummentable->documentable
 docummentary->documentary
-docummentation style->documentation style
 docummentation->documentation
 docummented->documented
 docummenting->documenting
@@ -33744,7 +33731,6 @@ docus->docs
 docuument->document
 docuumentable->documentable
 docuumentary->documentary
-docuumentation style->documentation style
 docuumentation->documentation
 docuumented->documented
 docuumenting->documenting
@@ -33807,7 +33793,6 @@ doktrines->doctrines
 dokument->document
 dokumentable->documentable
 dokumentary->documentary
-dokumentation style->documentation style
 dokumentation->documentation
 dokumented->documented
 dokumenting->documenting
@@ -33871,14 +33856,8 @@ dommain->domain
 dommand->command
 domminant->dominant
 dommination->domination
-don'l lhink->don't think
 don'l->don't
-don't htink->don't think
-don't thinc->don't think
-don't thinck->don't think
 don't thing->don't think
-don't thinkk->don't think
-don't tink->don't think
 don'th->don't
 don'tt->don't
 don->don, don't,
@@ -62216,7 +62195,6 @@ metapphor->metaphor
 metapphorical->metaphorical
 metapphors->metaphors
 metapphysical->metaphysical
-metatags->metatag
 metatdata->metadata
 metattic->metallic
 metatturgic->metallurgic
@@ -74492,7 +74470,6 @@ porgressed->progressed
 porgressive->progressive
 porhibition->prohibition
 poriferal->peripheral
-porject goals->project goals
 porject->project
 porjectiles->projectiles
 porjection->projection
@@ -75487,7 +75464,6 @@ pprogress->progress
 pprogressed->progressed
 pprogressive->progressive
 pprohibition->prohibition
-pproject goals->project goals
 pproject->project
 pprojects->projects
 pprolegomena->prolegomena
@@ -77879,7 +77855,6 @@ prohpet->prophet
 prohpets->prophets
 prointer->pointer
 proirity->priority
-projaect goals->project goals
 projaect->project
 projaects->projects
 projcedure->procedure
@@ -77890,7 +77865,6 @@ projctions->projections
 projctor->projector
 projctors->projectors
 projcts->projects
-projecct goals->project goals
 projecct->project
 projeccts->projects
 projecitle->projectiles
@@ -77922,14 +77896,11 @@ projectlie->projectiles
 projectlies->projectiles
 projecto->projection
 projectss->projects
-projectt goals->project goals
 projectt->project
 projectts->projects
 projectyle->projectile
-projeect goals->project goals
 projeect->project
 projeects->projects
-projekt goals->project goals
 projekt->project
 projektile->projectile
 projektion->projection
@@ -77937,7 +77908,6 @@ projekts->projects
 projet->project
 projetcs->projects
 projevt->project
-projject goals->project goals
 projject->project
 projjects->projects
 prokedure->procedure
@@ -79117,7 +79087,6 @@ prrogrress->progress
 prrogrressed->progressed
 prrogrressive->progressive
 prrohibition->prohibition
-prroject goals->project goals
 prroject->project
 prrojects->projects
 prrolegomena->prolegomena
@@ -90979,40 +90948,19 @@ softlinnk->softlink
 softllink->softlink
 softtink->softlink
 softtlink->softlink
-softtware projectt->software project
-softtware ttools->software tools
 softtware->software
-softwaare project->software project
-softwaare tools->software tools
 softwaare->software
-softwaere project->software project
-softwaere tools->software tools
 softwaere->software
-softwarae projaect->software project
-softwarae tools->software tools
 softwarae->software
-software porject->software project
-software pproject->software project
-software projecct->software project
-software projekt->software project
-software projject->software project
-software tols->software tools
-software toolls->software tools
 software toots->software tools
-softwaree projeect->software project
-softwaree tools->software tools
 softwaree->software
 softwareproject->software project
 softwares->software
 softwaretools->software tools
 softwarew->software
-softwarre prroject->software project
-softwarre tools->software tools
 softwarre->software
 softwate->software
 softwear->software
-softwware project->software project
-softwware tools->software tools
 softwware->software
 sofware->software
 sofwares->softwares
