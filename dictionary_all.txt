@@ -31309,8 +31309,6 @@ dicttionary->dictionary
 dicuss->discuss
 dicussed->discussed
 dicussions->discussions
-did noth->did not
-did nott->did not
 did'nt->didn't
 didn'l->didn't
 didn'th->didn't
@@ -33552,10 +33550,7 @@ dloating->floating
 dmesge->dmesg
 dne->done
 do do->do
-do noth->do not
-do nott->do not
 do'nt->don't
-doaes not->does not
 doaes->does
 doaesn't->doesn't
 doalog->dialog
@@ -33735,9 +33730,8 @@ docuumentation->documentation
 docuumented->documented
 docuumenting->documenting
 docuuments->documents
-doe not->does not
+doe not->does not, donut,
 doed->does
-doees not->does not
 doees->does
 doeesn't->doesn't
 doen't->doesn't
@@ -33747,8 +33741,6 @@ doens't->doesn't
 doens->does
 doensn't->doesn't
 does does->does
-does noth->does not
-does nott->does not
 does'nt->doesn't
 does't->doesn't
 doese't->doesn't
@@ -44489,6 +44481,7 @@ gglobals->globals
 gglossary->glossary
 ggluingg->gluing
 ggnawed->gnawed
+ggoals->goals
 ggoddess->goddess
 ggoddesses->goddesses
 ggoingg->going
@@ -44768,10 +44761,14 @@ gnawwed->gnawed
 gnerate->generate
 gnnawed->gnawed
 gnorung->ignoring
+goaals->goals
+goaels->goals
 goalkeaper->goalkeeper
 goalkeepr->goalkeeper
 goalkeeprs->goalkeeper
 goalkepeer->goalkeeper
+goalls->goals
+goalss->goals
 gobal->global
 goblings->goblins
 godafther->godfather
@@ -46361,21 +46358,6 @@ havae->have
 havaen't->haven't
 have ben->have been
 have have->have
-have meen->have been
-have noth->have not
-have nott->have not
-have they been->they have been
-have wriitten->have written
-have wrillen->have written
-have wrilten->have written
-have writen->have written
-have wriththen->have written
-have writlen->have written
-have writtenn->have written
-have writttten->have written
-have wroten->have written
-have wrritten->have written
-have wwritten->have written
 have'nt->haven't
 havea->have, have a,
 havee->have, have a,
@@ -48283,19 +48265,12 @@ i am dooing->i am doing
 i amm doing->i am doing
 i amm->i am
 i ddidd not->i did not
-i did noth->i did not
-i did nott->i did not
 i dnt->i did not
 i fond->i found
-i htink->i think
 i i->i
-i lhink->i think
 i lried->i tried
 i m->i am
-i thinc->i think
-i thinck->i think
 i thing->i think
-i thinkk->i think
 i triaed->i tried
 i triedd->i tried
 i trieed->i tried
@@ -59395,8 +59370,7 @@ lonnger->longer
 lonngest->longest
 lonngitude->longitude
 lonngitudinnal->longitudinal
-loo much lime->too much time
-loo much->too much
+loo->too, lo,
 looback->loopback
 looc->look
 loocal->local
@@ -59417,9 +59391,11 @@ lookes->looks
 lookin->looking, look in, lookin',
 lookk->look
 looknig->looking
+lool->tool, lol,
 loolkil->toolkit
 loolkils->toolkits
 loollipoop->lollipop
+lools->tools
 looneliness->loneliness
 loonely->lonely
 loong->long
@@ -60358,36 +60334,25 @@ managebale->manageable
 manageeablee->manageable
 manageeably->manageably
 manageed->managed
-manageemeent tool->management tool
 manageemeent->management
 manageer->manager
 manageing->managing
 managemenet->management
-managemenl lool->management tool
 managemenl->management
-management tol->management tool
-management tooll->management tool
-management tooool->management tool
-management toot->management tool
-managementh thool->management tool
 managementh->management
-managementt ttool->management tool
 managementt->management
 managemnet->management
 managenment->management
 managerr->manager
 managgeable->manageable
 managgeably->manageably
-managgement tool->management tool
 managgement->management
 managger->manager
 managine->managing
 managmenet->management
-managment too->management tool
 managment->management
 managueable->manageable
 managueably->manageably
-managuement tool->management tool
 managuement->management
 managuer->manager
 manaise->mayonnaise
@@ -60563,7 +60528,6 @@ mann->manner
 mannaer->manner
 mannageable->manageable
 mannageably->manageably
-mannagemennt tool->management tool
 mannagemennt->management
 mannager->manager
 mannal->mammal
@@ -61688,6 +61652,7 @@ meembranophonee->membranophone
 meemeento->memento
 meemorablee->memorable
 meemory->memory
+meen->mean
 meens->means
 meentally->mentally
 meentioneed->mentioned
@@ -77871,19 +77836,19 @@ projcts->projects
 projecct->project
 projeccts->projects
 projecitle->projectiles
-projecl goals->project goals
 projecl->project
+projecled->projected
+projeclile->projectile
+projecling->projecting
+projeclion->projection
 projecls->projects
 projecst->projects
-project ggoals->project goals
-project goaals->project goals
-project goaels->project goals
-project goalls->project goals
-project goalss->project goals
-project goats->project goals
 projecte->projectile
-projecth goals->project goals
 projecth->project
+projecthed->projected
+projecthile->projectile
+projecthing->projecting
+projecthion->projection
 projecths->projects
 projecticle->projectile
 projecticles->projectiles
@@ -90938,20 +90903,14 @@ soemthing->something
 soemthings->somethings
 soemwhere->somewhere
 sofftlink->softlink
-sofftware project->software project
-sofftware tools->software tools
 sofftware->software
 sofisticated->sophisticated
 sofllink->softlink
-soflware lools->software tools
-soflware projecl->software project
 soflware->software
 sofmore->sophomore
 softare->software
 softend->softened
 softhlink->softlink
-softhware projecth->software project
-softhware thools->software tools
 softhware->software
 softliink->softlink
 softlinc->softlink
@@ -90965,7 +90924,6 @@ softtware->software
 softwaare->software
 softwaere->software
 softwarae->software
-software toots->software tools
 softwaree->software
 softwareproject->software project
 softwares->software
@@ -91098,7 +91056,6 @@ somalija->somalia
 somany->so many
 sombody->somebody
 some another->some other
-some times->sometimes
 someboby->somebody
 somee->some
 someeonee->someone
@@ -92752,7 +92709,6 @@ sso->so
 ssocialissm->socialism
 ssocietiess->societies
 ssoftlink->softlink
-ssoftware toolss->software tools
 ssoftware->software
 ssoil->soil
 ssold->sold
@@ -99024,8 +98980,10 @@ thonic->chthonic
 thonighth->tonight
 thoo->too, to,
 thook->took
+thool->tool
 thoolkith->toolkit
 thoolkiths->toolkits
+thools->tools
 thooroough->thorough
 thoorooughly->thoroughly
 thoorugh->thorough
@@ -99878,9 +99836,9 @@ toomoorroow->tomorrow
 toongue->tongue
 toonight->tonight
 tooo->todo
-toooo much time->too much time
-toooo much->too much
+toooo->too
 tooook->took
+tooool->tool
 toooolkit->toolkit
 toooolkits->toolkits
 tooools->stools
