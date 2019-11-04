@@ -58497,7 +58497,6 @@ lighthours->lighthouse
 lighths->lights
 lightining->lighting
 lightinng->lighting
-lightly->slightly
 lightneing->lightening
 lightnig->lightning
 lightnign->lightning
