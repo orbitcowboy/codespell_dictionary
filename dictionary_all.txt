@@ -23015,6 +23015,7 @@ consppirator->conspirator
 conspriacies->conspiracies
 conspriacy->conspiracy
 consqeuences->consequence
+consr->const
 consrotium->consortium
 consrtuct->construct
 consrtucted->constructed
