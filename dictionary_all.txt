@@ -10379,7 +10379,7 @@ australiens->australians
 australiia->australia
 australiian->australian
 australin->australian
-australina->australian, australians
+australina->australian, australians,
 australlia->australia
 australlian->australian
 austratia->australia
@@ -10682,7 +10682,7 @@ automaticlly->automatically
 automaticly->automatically
 automatico->automation, automatic,
 automatied->automated
-automatiek->automatic, automate
+automatiek->automatic, automate,
 automatiically->automatically
 automatiion->automation
 automatikally->automatically
@@ -18528,7 +18528,7 @@ clultered->cluttered
 clummpy->clumpy
 clumn->column
 clumppy->clumpy, clumsy,
-clumpsy->clumpy clumsy,
+clumpsy->clumpy, clumsy,
 clumpyy->clumpy
 clumsly->clumsily
 cluprit->culprit
@@ -30933,7 +30933,7 @@ developpers->developers
 developping->developing
 developpment->development
 developps->develops
-developres->developers, develops
+developres->developers, develops,
 developrs->developers, develops,
 developss->develops
 develp->develop
