@@ -58043,7 +58043,10 @@ lepracy->leporsy
 leran->learn
 leraned->learned
 lerans->learns
+lerminal->terminal
+lerminaled->terminated
 lerminals->terminals
+lerminate->terminate
 lernary->ternary
 lerreslrial->terrestrial
 lerrific->terrific
@@ -67423,10 +67426,6 @@ nul->null
 nularbor->nullarbor
 nulcear->nuclear
 nulk->null
-null-lerminaled slring->null-terminated string
-null-taerminataed string->null-terminated string
-null-teerminateed string->null-terminated string
-null-termiinated striing->null-terminated string
 null-terminaated string->null-terminated string
 null-terminaeted string->null-terminated string
 null-terminate string->null-terminated string
@@ -67438,7 +67437,6 @@ null-terminatedd string->null-terminated string
 null-termminated string->null-terminated string
 null-terrminated strring->null-terminated string
 null-therminathed sthring->null-terminated string
-null-tterminatted->null-terminated
 nullaarbor->nullarbor
 nullabour->nullarbor
 nullaerbor->nullarbor
@@ -67450,8 +67448,7 @@ nullarrborr->nullarbor
 nullfiy->nullify
 nullifiy->nullify
 nulll->null
-nullll pointer->null pointer
-nullll-terminated string->null-terminated string
+nullll->null
 nullllarbor->nullarbor
 nullpointer->null pointer
 nulrienl->nutrient
@@ -70825,6 +70822,8 @@ palleet->pallet
 pallel->pallet
 palleollithic->paleolithic
 pallern->pattern
+pallerned->patterned
+pallerns->patterns
 pallestinian->palestinian
 pallestinians->palestinians
 pallete->palette, pallet,
@@ -88029,7 +88028,6 @@ searcched->searched
 searcches->searches
 searcg->search
 search sitring->search string
-search slring->search string
 search sthring->search string
 search striing->search string
 search stringg->search string
@@ -90627,7 +90625,6 @@ slriclesl->strictest
 slriclly->strictly
 slrikelhrough->strikethrough
 slrikingly->strikingly
-slring pallern->string pattern
 slring->string
 slringenl->stringent
 slrings->strings
@@ -94009,7 +94006,6 @@ striictest->strictest
 striictly->strictly
 striikethrough->strikethrough
 striikiingly->strikingly
-striing pattern->string pattern
 striing->string
 striingent->stringent
 striings->strings
@@ -94039,7 +94035,6 @@ striktly->strictly
 strin->string
 string paattern->string pattern
 string paettern->string pattern
-string pallern->string pattern
 string paltern->string pattern
 string patern->string pattern
 string patlern->string pattern
@@ -97431,6 +97426,12 @@ taentaclaes->tentacles
 taergeted->targeted
 taergeting->targeting
 taerminals->terminals
+taerminatae->terminate
+taerminataed->terminated
+taerminataes->terminates
+taerminate->terminate
+taerminated->terminated
+taerminates->terminates
 taernary->ternary
 taerra->terra
 taerraestrial->terrestrial
@@ -97835,6 +97836,11 @@ teennis playeer->tennis player
 teentaclee->tentacle
 teentaclees->tentacles
 teerminals->terminals
+teerminate->terminate
+teerminated->terminated
+teerminateed->terminated
+teerminatees->terminates
+teerminates->terminates
 teernary->ternary
 teerra->terra
 teerreestrial->terrestrial
@@ -98183,6 +98189,9 @@ termianls->terminals
 termiantor->terminator
 termigator->terminator
 termiinals->terminals
+termiinate->terminate
+termiinated->terminated
+termiinates->terminates
 terminaals->terminals
 terminacion->termination
 terminaels->terminals
@@ -101649,6 +101658,9 @@ ttennis player->tennis player
 ttenttacle->tentacle
 ttenttacles->tentacles
 tterminals->terminals
+tterminatte->terminate
+tterminatted->terminated
+tterminattes->terminates
 tternary->ternary
 tterresttrial->terrestrial
 tterrific->terrific
