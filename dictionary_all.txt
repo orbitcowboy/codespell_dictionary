@@ -23466,6 +23466,7 @@ contaiiner->container
 contaiiners->containers
 contaiiniing->containing
 contaiins->contains
+contails->contains
 contaiminate->contaminate
 contaiminated->contaminated
 contaiminating->contaminating
@@ -48619,7 +48620,9 @@ ifself->itself
 ifset->if set
 iggnored->ignored
 ignitin->ignition
+ignnore->ignore
 ignnored->ignored
+ignnores->ignores
 ignoded->ignored
 ignonre->ignore
 ignoored->ignored
@@ -89093,6 +89096,7 @@ severral->several
 severrely->severely
 severrity->severity
 severs->servers, serves,
+severy->severity
 sevice->service
 seving->serving
 sevirity->severity
@@ -96809,6 +96813,7 @@ symboll->symbol
 symbollic->symbolic
 symbolsg->symbols
 symbolsim->symbolism
+symbon->symbol
 symbool file->symbol file
 symbool files->symbol files
 symbool->symbol
