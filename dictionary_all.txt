@@ -33854,7 +33854,7 @@ don'l->don't
 don't thing->don't think
 don'th->don't
 don'tt->don't
-don->don, don't,
+don->don't do not,
 don;t->don't, do not,
 donae->done
 doned->done
