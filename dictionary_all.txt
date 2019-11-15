@@ -30968,6 +30968,10 @@ deviaation->deviation
 deviaations->deviations
 deviaetion->deviation
 deviaetions->deviations
+deviaited->deviated
+deviaites->deviates
+deviaition->deviation
+deviaitions->deviations
 devialet->deviate
 devialion->deviation
 devialions->deviations
