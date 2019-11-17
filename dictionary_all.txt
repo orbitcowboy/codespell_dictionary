@@ -121,6 +121,7 @@ aacquitted->acquitted
 aacross->across
 aactivaate->activate
 aactivaated->activated
+aactive->active
 aactively->actively
 aactivities->activities
 aactivity->activity
@@ -1701,6 +1702,7 @@ accssor->assessor
 acctimatization->acclimatization
 acctivate->activate
 acctivated->activated
+acctive->active
 acctively->actively
 acctivities->activities
 acctivity->activity
@@ -2260,6 +2262,7 @@ actice->active
 acticles->articles
 actiivate->activate
 actiivated->activated
+actiive->active
 actiively->actively
 actiiviitiies->activities
 actiiviity->activity
@@ -2271,10 +2274,11 @@ actiual->actual
 activ->active
 activacion->activation
 activaded->activated
+activae->activate, active,
 activaed->activated
 activaely->actively
 activaste->activates
-activatae->activate
+activatae->activate, activated,
 activataed->activated
 activatedd->activated
 activatee->activate
@@ -2287,7 +2291,9 @@ activationg->activating
 activeate->activate
 activeated->activated
 actived->activated
+activee->active
 activeely->actively
+activeety->activity
 activeities->activities
 activeity->activity
 activelly->actively
@@ -2325,6 +2331,7 @@ activte->activity
 activties->activities
 activvate->activate
 activvated->activated
+activve->active
 activvely->actively
 activvities->activities
 activvity->activity
@@ -3323,6 +3330,7 @@ aecross->across
 aecstasy->ecstasy
 aectivaete->activate
 aectivaeted->activated
+aective->active
 aectively->actively
 aectivities->activities
 aectivity->activity
@@ -33861,18 +33869,19 @@ don'tt->don't
 don->don't do not,
 don;t->don't, do not,
 donae->done
-doned->done
+doned->donned, done,
 donee->done
 donejun->dungeon
 donejuns->dungeons
 donesn't->doesn't, does not,
 donesticated->domesticated
 donig->doing
+donigs->doings
 donlink->downlink
 donlt->don't, do not,
 donn't->don't
 donn->don, done,
-donne->done
+donne->done, donned,
 donnot->do not
 donol->don't, do not,
 donot->don't, do not,
@@ -66724,9 +66733,9 @@ nnighttime->nighttime
 nninneteennth->nineteenth
 nninnety->ninety
 nninnth->ninth
-nno onne->no one
-nno value->no value
+nno->no
 nnobody->nobody
+nnonn->non, none
 nnonn-innteractive->non-interactive
 nnonncombatannts->noncombatants
 nnonncompliannt->noncompliant
@@ -66759,7 +66768,6 @@ nnowadays->nowadays
 nnuclear->nuclear
 nnuisannce->nuisance
 nnull->null
-nnull-terminnated->null-terminated
 nnumber->number
 nnumberinng->numbering
 nnumbers->numbers
@@ -66770,8 +66778,6 @@ nnutriennt->nutrient
 nnutriennts->nutrients
 no body->nobody
 no necessarily->not necessarily
-no onae->no one
-no onee->no one
 no-onae->no-one
 no-onee->no-one
 no-onne->no-one
@@ -67138,29 +67144,7 @@ nostlagic->nostalgic
 nostriles->nostrils
 nostrills->nostrils
 nostris->nostrils
-not aactive->not active
-not acctive->not active
-not actiive->not active
-not activ->not active
-not activae->not active
-not activee->not active
-not activve->not active
-not aective->not active
-not aktive->not active
 not either->neither
-not naecaessarily->not necessarily
-not neccessarily->not necessarily
-not necesarily->not necessarily
-not necessaarily->not necessarily
-not necessaerily->not necessarily
-not necessariily->not necessarily
-not necessarilly->not necessarily
-not necessarilyy->not necessarily
-not necessarity->not necessarily
-not necessarrily->not necessarily
-not necessssarily->not necessarily
-not neeceessarily->not necessarily
-not nekessarily->not necessarily
 not not->not
 not quit->not quite
 notaable->notable
@@ -67181,13 +67165,13 @@ notae->note
 notaeble->notable
 notaebly->notably
 notaepad->notepad
-notaes->notes
+notaes->notes, notates,
 notaetion->notation
-notaion->notation
+notaion->notation, notion,
 notario->ontario
 notasion->notation
 notatiion->notation
-notatin->notation
+notatin->notation, notating,
 notciable->noticeable
 noteable->notable
 noteably->notably
@@ -67385,7 +67369,7 @@ nsplitt->nsplit
 nsyntax->syntax
 ntification->notification
 ntml->html
-nto->disabled due to \n, disable due to \n, not,
+nto->not, disabled due to \n
 ntpong->ntopng
 ntransfering->ntransferring
 ntroduced->introduced
@@ -67433,17 +67417,7 @@ nul->null
 nularbor->nullarbor
 nulcear->nuclear
 nulk->null
-null-terminaated string->null-terminated string
-null-terminaeted string->null-terminated string
-null-terminate string->null-terminated string
-null-terminated sitring->null-terminated string
-null-terminated sstring->null-terminated string
-null-terminated stringg->null-terminated string
-null-terminated tsring->null-terminated string
-null-terminatedd string->null-terminated string
-null-termminated string->null-terminated string
-null-terrminated strring->null-terminated string
-null-therminathed sthring->null-terminated string
+null-terminate->null-terminated
 nullaarbor->nullarbor
 nullabour->nullarbor
 nullaerbor->nullarbor
@@ -67591,8 +67565,7 @@ nutrrient->nutrient
 nutrrients->nutrients
 nutrutional->nutritional
 nutrutious->nutritious
-nutt pointer->null pointer
-nutt-terminated string->null-terminated string
+nutt->nut, null, not,
 nuttarbor->nullarbor
 nuttons->buttons
 nuttrientt->nutrient
@@ -67600,8 +67573,7 @@ nuttrientts->nutrients
 nuturing->nurturing
 nuuclear->nuclear
 nuuisance->nuisance
-nuull pointer->null pointer
-nuull-terminated string->null-terminated string
+nuull->null
 nuullarbor->nullarbor
 nuumber->number
 nuumbering->numbering
@@ -68598,6 +68570,7 @@ one tthing i->one thing i
 onece->once
 onee->one
 oneerous->onerous
+onees->ones
 oneliners->one-liners
 oneorus->onerous
 onerouss->onerous
@@ -70487,6 +70460,8 @@ paath->path
 paaths->paths
 paatience->patience
 paattern->pattern
+paatterned->patterned
+paatterns->patterns
 paavilion->pavilion
 pacage->package
 pacakge->package
@@ -70666,6 +70641,8 @@ paeths->paths
 paetience->patience
 paetition->petition
 paettern->pattern
+paetterned->patterned
+paetterns->patterns
 paevilion->pavilion
 paficist->pacifist
 pagae->page
@@ -70842,6 +70819,8 @@ pallllet->pallet
 palster->plaster
 palstics->plastics
 paltern->pattern
+palterned->patterned
+palterns->patterns
 paltette->palette
 paltform->platform
 paltformer->platformer
@@ -71615,6 +71594,7 @@ patentedd->patented
 patenterad->patented
 pateotithic->paleolithic
 patern->pattern
+paterned->patterned
 paterns->patterns
 patestinian->palestinian
 patestinians->palestinians
@@ -71647,6 +71627,8 @@ patholigical->pathological
 pathologial->pathological
 pathss->paths
 paththern->pattern
+paththerned->patterned
+paththerns->patterns
 pathtotest->path to test
 patiaencae->patience
 patial->spatial
@@ -71669,6 +71651,8 @@ patition->partition
 patkh->patch
 patkhes->patches
 patlern->pattern
+patlerned->patterned
+patlerns->patterns
 patrairchy->patriarchy
 patrcik->patrick
 patrent->patent, parent, patron,
@@ -71706,9 +71690,12 @@ patryarchy->patriarchy
 patsime->pastime
 patsoral->pastoral
 pattaern->pattern
+pattaerned->patterned
+pattaerns->patterns
 pattch->patch
 pattches->patches
 patteern->pattern
+patteerns->patterns
 pattened->patented
 pattented->patented
 pattentted->patented
@@ -75138,6 +75125,7 @@ ppath->path
 ppaths->paths
 ppatience->patience
 ppattern->pattern
+ppatterns->patterns
 ppavilion->pavilion
 ppeaceful->peaceful
 ppeculiar->peculiar
@@ -79044,6 +79032,7 @@ prrocessorr->processor
 prroclaimed->proclaimed
 prroclaiming->proclaiming
 prroclamation->proclamation
+prroducerr->producer
 prroducts->products
 prrofessed->professed
 prrofession->profession
@@ -86421,7 +86410,7 @@ roughty->roughly
 rougly->roughly
 rouine->routine
 rouines->routines
-rouler->router
+rouler->router, ruler,
 roulines->routines
 round-robbin->round-robin
 roundabaout->roundabout
@@ -86515,7 +86504,6 @@ rreceded->receded
 rreceding->receding
 rreceipt->receipt
 rreceive->receive
-rreceived frrom->received from
 rreceived->received
 rreceiverr->receiver
 rreceiverrs->receivers
@@ -86540,7 +86528,6 @@ rrecommends->recommends
 rreconciliation->reconciliation
 rreconnaissance->reconnaissance
 rreconstrructed->reconstructed
-rrecorrd prroducerr->record producer
 rrecorrd->record
 rrecorrded->recorded
 rrecorrding->recording
@@ -86981,7 +86968,6 @@ saeaeing->seeing
 saeaem->seem
 saeaems->seems
 saeagatae->seagate
-saearch string->search string
 saearch->search
 saearchablae->searchable
 saearchaed->searched
@@ -87623,7 +87609,7 @@ scclera->sclera
 sccratcch->scratch
 sccratcchbox->scratchbox
 sccreenwriter->screenwriter
-sccrew ability->screw ability
+sccrew->screw
 sccript->script
 sccripts->scripts
 sccroll->scroll
@@ -87853,7 +87839,7 @@ scracthing->scratching
 scraeaenwritaer->screenwriter
 scraetch->scratch
 scraetchbox->scratchbox
-scraew ability->screw ability
+scraew->screw
 scralch->scratch
 scralchbox->scratchbox
 scrambe->scramble
@@ -87886,22 +87872,12 @@ screenwriler->screenwriter
 screenwrither->screenwriter
 screenwritter->screenwriter
 screenwwriter->screenwriter
-screew ability->screw ability
+screew ->screw
 screnn->screen
 screnwriter->screenwriter
 scretsch->scratch
-screw aability->screw ability
-screw abbility->screw ability
-screw abiiliity->screw ability
-screw abilily->screw ability
-screw abilithy->screw ability
-screw abilitty->screw ability
-screw abilityy->screw ability
-screw abillity->screw ability
-screw abitity->screw ability
-screw aebility->screw ability
 screwability->screw ability
-screww ability->screw ability
+screww->screw
 scriipt->script
 scriipts->scripts
 scriopts->scripts
@@ -87950,8 +87926,9 @@ scrratch->scratch
 scrratchbox->scratchbox
 scrreenwrriterr->screenwriter
 scrren->screen
-scrrew ability->screw ability
+scrrew->screw
 scrript->script
+scrripted->scripted
 scrripts->scripts
 scrroll->scroll
 scrrutiny->scrutiny
@@ -87993,7 +87970,6 @@ scuulptuures->sculptures
 scyhter->scyther
 sdandard->standard
 seaagaate->seagate
-seaarch string->search string
 seaarch->search
 seaarchaable->searchable
 seaarched->searched
@@ -88007,7 +87983,6 @@ seaching->searching
 seacrchable->searchable
 sead->seat
 seaegaete->seagate
-seaerch string->search string
 seaerch->search
 seaerchaeble->searchable
 seaerched->searched
@@ -88029,24 +88004,17 @@ seantors->senators
 searaches->searches
 searc->search
 searcahble->searchable
-searcch string->search string
 searcch->search
 searcchable->searchable
 searcched->searched
 searcches->searches
 searcg->search
-search sitring->search string
-search sthring->search string
-search striing->search string
-search stringg->search string
-search tsring->search string
 searchabble->searchable
 searchablle->searchable
 searchabte->searchable
 searchd->searched
 searcheable->searchable
 searchedd->searched
-searchh string->search string
 searchh->search
 searchhable->searchable
 searchhed->searched
@@ -88055,12 +88023,10 @@ searchign->searching
 searchin->searching
 searchs->searches
 searchstring->search string
-searkh string->search string
 searkh->search
 searkhable->searchable
 searkhed->searched
 searkhes->searches
-searrch strring->search string
 searrch->search
 searrchable->searchable
 searrched->searched
@@ -88237,6 +88203,7 @@ seession->session
 seet->set
 seeting->setting
 seetings->settings
+seets->seats, sets,
 seetting->setting
 seettings->settings
 seettleemeent->settlement
@@ -90292,7 +90259,6 @@ sitrictesit->strictest
 sitrictly->strictly
 sitrikethrough->strikethrough
 sitrikingly->strikingly
-sitring pattern->string pattern
 sitring->string
 sitringent->stringent
 sitrings->strings
@@ -92557,7 +92523,6 @@ sscriptss->scripts
 sscroll->scroll
 sscrutiny->scrutiny
 ssculpturess->sculptures
-ssearch sstring->search string
 ssearch->search
 ssearchable->searchable
 ssearched->searched
@@ -92862,7 +92827,6 @@ sstrictesst->strictest
 sstrictly->strictly
 sstrikethrough->strikethrough
 sstrikingly->strikingly
-sstring pattern->string pattern
 sstring->string
 sstringent->stringent
 sstringss->strings
@@ -93545,7 +93509,6 @@ sthricthesth->strictest
 sthricthly->strictly
 sthrikethhrough->strikethrough
 sthrikingly->strikingly
-sthring paththern->string pattern
 sthring->string
 sthringenth->stringent
 sthrings->strings
@@ -94042,19 +94005,10 @@ striklethrough->strikethrough
 striktest->strictest
 striktly->strictly
 strin->string
-string paattern->string pattern
-string paettern->string pattern
-string paltern->string pattern
-string patern->string pattern
-string patlern->string pattern
-string pattaern->string pattern
-string patteern->string pattern
-string ppattern->string pattern
 stringaent->stringent
 stringeent->stringent
 stringend->stringent
 stringet->stringent
-stringg pattern->string pattern
 stringg->string
 stringgent->stringent
 stringgs->strings
@@ -94140,7 +94094,6 @@ strrictest->strictest
 strrictly->strictly
 strrikethrrough->strikethrough
 strrikingly->strikingly
-strring patterrn->string pattern
 strring->string
 strringent->stringent
 strrings->strings
@@ -95049,6 +95002,7 @@ substhithuthe->substitute
 substhithuthed->substituted
 substhithuthing->substituting
 substhithuthion->substitution
+substhring->substring
 substhrings->substrings
 substiitute->substitute
 substiituted->substituted
@@ -98203,8 +98157,10 @@ termiinate->terminate
 termiinated->terminated
 termiinates->terminates
 terminaals->terminals
+terminaated->terminated
 terminacion->termination
 terminaels->terminals
+terminaeted->terminated
 terminaison->termination
 terminales->terminals
 terminalis->terminals
@@ -98214,6 +98170,7 @@ terminalss->terminals
 terminarla->terminal
 terminarlo->terminal
 terminaron->terminator
+terminatedd->terminated
 terminater->terminator
 terminaters->terminators
 terminatin->terminating
@@ -98223,15 +98180,17 @@ terminatorn->termination
 terminats->terminals, terminates,
 termindate->terminate
 termine->determine
-termined->terminated
+termined->terminated, determined,
 terminilogy->terminology
 terminnals->terminals
+terminnate->terminate
 terminnated->terminated
 terminolgy->terminology
 terminoligy->terminology
 terminte->terminate
 termintor->terminator
 termminals->terminals
+termminated->terminated
 termnial->terminal
 termnials->terminals
 termostat->thermostat
@@ -98301,6 +98260,7 @@ territoy->territory
 territroies->territories
 territroy->territory
 terrminals->terminals
+terrminated->terminated
 terrnarry->ternary
 terroist->terrorist
 terroorist->terrorist
@@ -98704,6 +98664,7 @@ therien->therein
 theripists->therapists
 thermastat->thermostat
 therminals->terminals
+therminathed->terminated
 thermistat->thermostat
 thermmostat->thermostat
 thermodinamics->thermodynamics
@@ -101590,7 +101551,6 @@ tsrictets->strictest
 tsrictly->strictly
 tsrikethrough->strikethrough
 tsrikingly->strikingly
-tsring pattern->string pattern
 tsring->string
 tsringent->stringent
 tsrings->strings
