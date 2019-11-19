@@ -35414,6 +35414,9 @@ ehtnicities->ethnicities
 ehtnicity->ethnicity
 ehtnocentrism->ethnocentrism
 ehtos->ethos
+eidted->edited
+eidtor->editor
+eidtors->editors
 eifnach->einfach
 eigght->eight
 eigghth->eighth
