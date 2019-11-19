@@ -5526,6 +5526,7 @@ alphabeast->alphabet
 alphabeat->alphabet
 alphabeetically->alphabetically
 alphabelically->alphabetically
+alphabeth->alphabet
 alphabethically->alphabetically
 alphabeticallyy->alphabetically
 alphabeticaly->alphabetically
@@ -9554,6 +9555,7 @@ asteriods->asteroids
 asterisc->asterisk
 asterisck->asterisk
 asteriskk->asterisk
+asterix->asterisk
 asteroidd->asteroid
 asteroides->asteroids
 asteroiid->asteroid
@@ -18876,6 +18878,7 @@ collaborattive->collaborative
 collabore->collaborate
 collaborrations->collaborations
 collaborrative->collaborative
+collabration->collaboration
 collabroations->collaborations
 collabroative->collaborative
 collaction->collection
@@ -81491,6 +81494,9 @@ recoggnise->recognise
 recoggnition->recognition
 recoggnize->recognize
 recoggnized->recognized
+recoginize->recognize
+recoginized->recognized
+recoginizes->recognizes
 recoginizing-->recognizing
 recoginse->recognise
 recoginsed->recognised
@@ -95613,6 +95619,7 @@ sukkessive->successive
 sukkessor->successor
 sumamry->summary
 sumary->summary
+sumation->summation
 sumbarine->submarine
 sumbarines->submarines
 sumberged->submerged
