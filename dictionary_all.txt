@@ -35652,6 +35652,8 @@ elektron->electron
 elektronik->electronic
 elektroniks->electronics
 elelctronics->electronics
+elelement->element
+elelements->elements
 elelments->elements
 elemant->element
 elemantary->elementary
