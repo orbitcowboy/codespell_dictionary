@@ -2493,6 +2493,8 @@ addaptations->adaptations
 addapted->adapted
 addaptedd->adapted
 addapter->adapter
+addative->additive
+addatives->additives
 addcits->addicts
 addd->add
 adddd on->add on
@@ -2649,6 +2651,7 @@ addrressing->addressing
 addrss->address
 addrsses->addresses
 addtion->addition
+addtionai->additional
 addtional->additional
 addtionally->additionally
 addtionaly->additionally
@@ -5544,6 +5547,7 @@ alphanumerric->alphanumeric
 alphanummeric->alphanumeric
 alphanuumeric->alphanumeric
 alphapeticaly->alphabetically
+alphetical->alphabetical
 alphha->alpha
 alphhabetically->alphabetically
 alphhanumeric->alphanumeric
@@ -5834,7 +5838,9 @@ ambientt->ambient
 ambiet->ambient
 ambigguous->ambiguous
 ambigious->ambiguous
+ambigity->ambiguity
 ambigous->ambiguous
+ambigue->ambiguous
 ambiguious->ambiguous
 ambiguitity->ambiguity
 ambiguitiy->ambiguity
@@ -9774,6 +9780,7 @@ atheniian->athenian
 atheniians->athenians
 athenniann->athenian
 athennianns->athenians
+ather->other
 athesim->atheism
 athesitic->atheistic
 athesits->atheists
@@ -13429,6 +13436,7 @@ breadtfeeding->breastfeeding
 breaek->break
 breaekthrough->breakthrough
 breaekthroughs->breakthroughs
+breakble->breakable
 breakdow->breakdown
 breakdows->breakdowns
 breaked->broke, broken, breaks,
@@ -15185,6 +15193,9 @@ capae town->cape town
 capalize->capitalize
 capalized->capitalized
 capasitors->capacitors
+capatalize->capitalize
+capatalized->capitalized
+capatalizes->capitalizes
 capatibilities->capabilities
 capatilism->capitalism
 capatilist->capitalist
@@ -19049,9 +19060,9 @@ cologen->cologne
 colomba->colombia
 colombina->colombia
 colommade->colonnade
+colomn->column
 colomnade->colonnade
 colomns->columns
-colon-seperated->colon-separated
 colonade->colonnade
 colonamode->colonmode
 colonge->cologne
@@ -19180,6 +19191,8 @@ combatans->combatants
 combatents->combatants
 combatibility->compatibility
 combatible->compatible
+combation->combination
+combations->combinations
 combbinations->combinations
 combbined->combined
 combbustion->combustion
@@ -23862,6 +23875,7 @@ continuse->continues
 continused->continued
 continusly->continuously
 continut->continuity
+continutation->continuation
 continute->continue
 continuted->continued
 continuting->continuing
@@ -29555,6 +29569,7 @@ dependencys->dependencies
 dependencyy->dependency
 dependend->depended, dependent,
 dependendent->dependent
+dependendies->dependencies
 dependends->depended
 dependened->depended
 dependenices->dependencies
@@ -32273,6 +32288,7 @@ disbelife->disbelief
 disble->disable
 disbled->disabled
 disbles->disables
+disbling->disabling
 discaard->discard
 discaerd->discard
 discalimer->disclaimer
@@ -32602,6 +32618,7 @@ disgrunted->disgruntled
 disgrunteld->disgruntled
 disgrunteled->disgruntled
 disgruntld->disgruntled
+disguish->distinguish
 disguisted->disguise
 disguntingly->disgustingly
 disgusied->disguised
@@ -33635,6 +33652,7 @@ documeentation->documentation
 documeenteed->documented
 documeenting->documenting
 documeents->documents
+documemntation->documentation
 documemt->document
 documemts->documents
 documen!->document
@@ -37597,6 +37615,7 @@ equatoriial->equatorial
 equatorrial->equatorial
 equatroial->equatorial
 equattorial->equatorial
+equavalent->equivalent
 equel->equal
 equence->sequence
 equialent->equivalent
@@ -40169,6 +40188,7 @@ exstacy->ecstasy
 exsting->existing
 exstream->extreme
 extaant->extant
+extabled->enabled
 extact->extract
 extaction->extraction
 extactly->exactly
@@ -43033,6 +43053,9 @@ framebuffe->framebuffer
 framebuuffer->framebuffer
 frameebuffeer->framebuffer
 framei->frame
+frament->fragment
+framented->fragmented
+framents->fragments
 framesyle->framestyle
 framesyles->framestyles
 framethrower->flamethrower
@@ -53547,6 +53570,7 @@ instantiaties->instantiates
 instantiatioon->instantiation
 instantiatioons->instantiations
 instantion->instantiation
+instantions->instantiates, installations,
 instanty->instantly
 instanze->instance
 instatance->instance
@@ -73856,6 +73880,7 @@ pobular->popular
 pobularity->popularity
 pocess->possess, process,
 pocessed->possessed, processed,
+pocessing->processing
 pocession->possession, procession,
 podule->module
 poeem->poem
@@ -78477,7 +78502,9 @@ propriiety->propriety
 propriotary->proprietary
 proproable->probable
 proproably->probably
+proprocess->preprocess
 proprocessed->preprocessed
+proprocessing->preprocessing
 proprocessor->preprocessor
 proprose->propose
 proproties->properties
@@ -84291,6 +84318,7 @@ reprehinsible->reprehensible
 reprensent->represent
 reprensentation->representation
 reprensents->represents
+reprenting->representing
 reprepresents->represents
 represantation->representation
 represantations->representations
@@ -84387,6 +84415,7 @@ representts->represents
 represet->represents
 represetants->representants, represents,
 represetation->representation
+represeting->representing
 represetnation->representations
 represnet->represent
 represnetation->representations
@@ -91840,6 +91869,7 @@ specilaized->specialize
 speciliast->specialists
 speciliazation->specialization
 speciliazed->specialize
+specilization->specialization
 specilized->specialized
 speciman->specimen
 specimenn->specimen
@@ -93580,6 +93610,7 @@ stingent->stringent
 stings->strings
 stip->slip
 stipped->stripped
+stipping->stripping
 stired->stored
 stiring->stirring
 stirker->striker
@@ -99672,6 +99703,10 @@ tokennizationn->tokenization
 tokennized->tokenized
 tokennizer->tokenizer
 tokinezer->tokenizer
+tokinize->tokenize
+tokinized->tokenized
+tokinizer->tokenizer
+tokinizes->tokenizes
 tokkenization->tokenization
 tokkenized->tokenized
 tokkenizer->tokenizer
@@ -107694,6 +107729,8 @@ whitelisst->whitelist
 whitelits->whitelist
 whitellist->whitelist
 whitelsit->whitelist
+whitepace->whitespace
+whitepaces->whitespaces
 whitepsace->whitespace
 whitepsaces->whitespaces
 whitespaace->whitespace
