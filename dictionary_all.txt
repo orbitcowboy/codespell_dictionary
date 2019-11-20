@@ -61439,6 +61439,7 @@ mclarean->mclaren
 mcreggor->mcgregor
 mcro->macro
 mcros->macros
+mcroship->microchip
 mcrosoft->microsoft
 mdelay->udelay
 mdeling->modeling
@@ -68410,6 +68411,7 @@ offikially->officially
 offikials->officials
 offisde->offside
 offisianado->aficionado
+offlline->offline
 offloded->offloaded
 offpsring->offspring
 offred->offered
