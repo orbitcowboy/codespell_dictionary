@@ -6421,6 +6421,7 @@ angrilly->angrily
 angshus->anxious
 angted->angled
 angualr->angular
+anguluar->angular
 angziety->anxiety
 anhoter->another
 anhtropologist->anthropologist
@@ -8314,8 +8315,10 @@ argentia->argentina
 argentinean->argentinian
 argentinia->argentina
 argentinsk->argentinian
-argessive->agressive
-argeument->arguement
+argessive->aggressive
+argeument->argument
+argeuments->arguments
+argg->argument
 argguably->arguably
 arggument->argument
 argguments->arguments
@@ -9229,6 +9232,7 @@ assingned->assigned
 assings->assigns
 assining->assigning
 assinment->assignment
+assisant->assistant
 assisit->assist
 assisitance->assistance
 assisitant->assistant
@@ -10176,6 +10180,8 @@ attraktion->attraction
 attraktive->attractive
 attrative->attractive
 attrbiute->attribute
+attrbute->attribute
+attrbutes->attributes
 attribbute->attribute
 attribbuted->attributed
 attribbutes->attributes
@@ -11254,6 +11260,7 @@ backgroud->background
 backgrouded->background
 backgroudn->backgrounds
 backgrouds->backgrounds
+backgroun->background
 backgroundd->background
 backgroundds->backgrounds
 backgroundss->backgrounds
@@ -12878,6 +12885,7 @@ blcok->block
 blcoking->blocking
 blcoks->blocks
 bleading->bleeding
+bleding->blending
 bleessing->blessing
 blegian->belgian
 blegium->belgium
@@ -13845,6 +13853,8 @@ bufering->buffering
 bufers->buffers
 buffaer->buffer
 buffeer->buffer
+bufferd->buffered
+buffere->buffer
 buffereed->buffered
 buffereing->buffering
 bufferent->buffered
@@ -14179,6 +14189,7 @@ buusy->busy
 buutterfly->butterfly
 buutton->button
 buxfixes->bugfixes
+buzilla->bugzilla
 bwloe->below
 bwtween->between
 by by->by, bye-bye,
@@ -17286,6 +17297,7 @@ charator->character
 charators->characters
 charcaol->charcoal
 charcater->character
+charcaters->characters
 charcol->charcoal
 charcter->character
 charcters->characters
@@ -29567,6 +29579,7 @@ dependencied->dependency
 dependenciens->dependencies
 dependenciess->dependencies
 dependenciies->dependencies
+dependencing->dependency
 dependencis->dependencies
 dependencys->dependencies
 dependencyy->dependency
@@ -33708,6 +33721,7 @@ documentarsi->documentaries
 documentaryy->documentary
 documentataion->documentation
 documentataions->documentations
+documentated->documented
 documentaties->documentaries
 documentatiion->documentation
 documentating->documentation
@@ -35023,7 +35037,7 @@ eend->end
 eended->ended
 eendeeavors->endeavors
 eendeeavour->endeavour
-eendianneess->endianness
+eendianneess->endianess
 eending->ending
 eendoliths->endoliths
 eends->ends
@@ -36599,6 +36613,7 @@ endianity->endianness
 endianmess->endianness
 endianned->endianness
 endiannes->endianness
+endianness->endianess
 endiannessss->endianness
 endig->ending
 endiianness->endianness
@@ -39399,6 +39414,7 @@ existting->existing
 existts->exists
 existung->existing
 existy->exist
+exitance->existence
 exited->excited
 exiter->exit
 exitsed->existed
@@ -47655,6 +47671,7 @@ horific->horrific
 horifying->horrifying
 horiizontal->horizontal
 horiizontally->horizontally
+horinzontal->horizontal
 horishima->hiroshima
 horisontal->horizontal
 horisontally->horizontally
@@ -47882,6 +47899,7 @@ huanted->haunted
 huanting->haunting
 hueristic->heuristic
 hueristics->heuristics
+huffmann->huffman
 hugarian->hungarian
 hullucination->hallucination
 hullucinations->hallucinations
@@ -52339,6 +52357,7 @@ inheritaence->inheritance
 inheritage->heritage, inheritance,
 inheritancce->inheritance
 inheritanke->inheritance
+inheritated->inherited
 inheritence->inheritance
 inherith->inherit
 inherithance->inheritance
@@ -53275,6 +53294,7 @@ insepection->inspection
 inseperable->inseparable
 insepparable->inseparable
 insepsion->inception
+insered->inserted
 insering->inserting
 inserled->inserted
 inserrted->inserted
@@ -57250,6 +57270,7 @@ kopying->copying
 kopyright->copyright
 kordial->cordial
 koreanos->koreans
+korian->korean, koran,
 korporate->corporate
 korporation->corporation
 korporations->corporations
@@ -60480,6 +60501,7 @@ maneuvvers->maneuvers
 maneveur->maneuver
 maneveurs->maneuvers
 manevuer->maneuver
+manfest->manifest
 manfiest->manifest
 manfiesto->manifesto
 manfiests->manifests
@@ -69834,6 +69856,7 @@ oultiner->outliner
 oultline->outline
 oultlines->outlines
 ountline->outline
+oupput->output
 ouptputs->outputs
 ouptut->output
 ouptuted->outputted
@@ -77501,6 +77524,7 @@ prodused->produced
 produses->produces
 produtcion->productions
 produucts->products
+proecessor->processor
 proecss->process
 proecsses->processes
 proects->projects
@@ -81980,6 +82004,7 @@ redonly->readonly
 redristibutable->redistributable
 reduceable->reducible
 redudancy->redundancy
+redudant->redundant
 redunancy->redundancy
 redunant->redundant
 reduncancy->redundancy
@@ -84526,6 +84551,7 @@ repsecting->respecting
 repsective->respective
 repsectively->respectively
 repsects->respects
+repsented->repented
 repsitories->repositories
 repsitory->repository
 repsond->respond
@@ -87578,6 +87604,8 @@ scannaed->scanned
 scanndinnavia->scandinavia
 scannedd->scanned
 scanneed->scanned
+scannerner->scanner
+scannerners->scanners
 scannig->scanning
 scannign->scanning
 scanniing->scanning
@@ -88991,6 +89019,7 @@ servvers->servers
 servvice->service
 servvile->servile
 serwer->server, sewer,
+sesarch->search
 sesion->session
 sesison->session
 sesitive->sensitive
@@ -98213,6 +98242,7 @@ terminalss->terminals
 terminarla->terminal
 terminarlo->terminal
 terminaron->terminator
+terminatd->terminated
 terminatedd->terminated
 terminater->terminator
 terminaters->terminators
@@ -98221,6 +98251,7 @@ terminatior->terminator
 terminato->termination
 terminatorn->termination
 terminats->terminals, terminates,
+terminats->terminates
 termindate->terminate
 termine->determine
 termined->terminated, determined,
@@ -103145,6 +103176,7 @@ undocumaentaed->undocumented
 undocumeenteed->undocumented
 undocumenled->undocumented
 undocument->undocumented
+undocumentated->undocumented
 undocumenthed->undocumented
 undocumentted->undocumented
 undocummented->undocumented
@@ -103217,6 +103249,7 @@ unexected->unexpected
 unexepcted->unexpected
 unexepected->unexpected
 unexepectedly->unexpectedly
+unexisting->nonexistent
 unexpacted->unexpected
 unexpcted->unexpected
 unexpecetd->unexpected
@@ -104406,6 +104439,7 @@ unsolicted->unsolicited
 unsoliticed->unsolicited
 unsolocited->unsolicited
 unsoportted->unsupported
+unspecializated->unspecialized
 unspecifed->unspecified
 unspecificed->unspecified
 unspported->unsupported
@@ -106558,6 +106592,7 @@ visibillity->visibility
 visibiltiy->visibility
 visibilty->visibility
 visibily->visibly, visibility,
+visibl->visible
 visiblae->visible
 visibleable->visible
 visiblee->visible
