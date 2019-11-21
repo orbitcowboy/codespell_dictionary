@@ -14386,6 +14386,7 @@ caculating->calculating
 caculation->calculation
 caculations->calculations
 caculator->calculator
+caculats->calculates
 cacuses->caucuses
 cadidate->candidate
 caeched->cached
@@ -101522,6 +101523,7 @@ troublles->troubles
 troubtes->troubles
 troug->trough
 trouggh->trough
+trough->through
 troughh->trough
 troughout->throughout
 troughput->throughput
