@@ -20492,9 +20492,8 @@ competiitiions->competitions
 competiitiive->competitive
 competiitiiveness->competitiveness
 competiitors->competitors
-competion->competition, completion,
-competion->completion
-competions->completions
+competion->completion, competition,
+competions->completions, competitions,
 competiors->competitors
 competitavely->competitively
 competiters->competitors
@@ -40923,7 +40922,6 @@ fahrenhiet->fahrenheit
 fahrennheit->fahrenheit
 fahrrenheit->fahrenheit
 faied->fade, failed,
-faied->failed
 faield->failed
 faiils->fails
 faiilure->failure
@@ -52521,7 +52519,6 @@ initaling->initialing
 initalisation->initialisation, initialization,
 initalisations->initialisations
 initalise->initialise, initialize,
-initalise->initialize
 initalised->initialised, initialized,
 initaliser->initialiser
 initalisers->initialisers
@@ -55964,7 +55961,6 @@ isn;t->isn't
 isnn't->isn't
 isnpiron->inspiron
 isnt'->isn't
-isnt->isn't
 isnt->isn't, is not,
 isnt;->isn't
 isntallation->installation
@@ -56269,7 +56265,6 @@ javascritp->javascript
 javasript->javascript
 javasrript->javascript
 jave->have, java,
-jave->java
 jeapardy->jeopardy
 jeeopardy->jeopardy
 jeeweelleery->jewellery
@@ -59399,7 +59394,6 @@ loggging->logging
 loggical->logical
 loggiing->logging
 loggin->logging, login,
-loggin->login
 logginng->logging
 loggling->toggling
 logguer->logger
@@ -60759,7 +60753,6 @@ manoeuverable->manoeuvrable
 manoeuvere->manoeuvre
 manoeuvered->manoeuvred
 manoeuveres->manoeuvres
-manoeuvering->maneuvering
 manoeuvering->maneuvering, manoeuvring,
 manoeuverrability->manoeuverability
 manoeuvrabbility->manoeuvrability
@@ -68462,7 +68455,6 @@ offesnively->offensively
 offest->offset
 offests->offsets
 offet->offer, offset,
-offet->offset
 offets->offers, offsets,
 offffered->offered
 offfferings->offerings
@@ -76018,7 +76010,6 @@ precisou->precious
 precisse->precise
 precissely->precisely
 precission->precession, percussion, precision,
-precission->precision
 precist->precise
 precize->precise
 precodition->precondition
@@ -87012,7 +87003,6 @@ rumuors->rumours
 runable->runnable
 runing->running
 runming->running
-runned->ran
 runned->ran, run,
 runnging->running
 runnig->running
@@ -107750,7 +107740,6 @@ westmnister->westminster
 westmonster->westminster
 westrbook->westbrook
 wether->weather, whether,
-wether->whether
 wett->well
 wettet->wetted
 wew->we
