@@ -752,7 +752,7 @@ aboortifacient->abortifacient
 aboout->about
 aboove->above
 abor->abort
-abord->abort
+abord->aboard, abort,
 aborginial->aboriginal
 aboriganal->aboriginal
 aborigenal->aboriginal
@@ -101500,7 +101500,7 @@ troopps->troops
 troopss->troops
 trooso->trousseau
 trooubles->troubles
-troough->trough
+troough->trough, through,
 trooupe->troupe
 trooupes->troupes
 tropcial->tropical
@@ -101521,13 +101521,13 @@ troubleshotting->troubleshooting
 troubless->troubles
 troublles->troubles
 troubtes->troubles
-troug->trough
-trouggh->trough
-trough->through
-troughh->trough
+troug->trough, through,
+trouggh->trough, through,
+trough->through, trough,
+troughh->trough, through,
 troughout->throughout
 troughput->throughput
-trought->through
+trought->through, throughout, trough,
 troup->troupe
 troupae->troupe
 troupaes->troupes
@@ -101537,9 +101537,9 @@ troupess->troupes
 trouppe->troupe
 trouppes->troupes
 troups->troops, troupes,
-trourgh->trough
+trourgh->trough, through,
 trouubles->troubles
-trouugh->trough
+trouugh->trough, through,
 trouupe->troupe
 trouupes->troupes
 trown->thrown
@@ -101606,7 +101606,7 @@ trrivial->trivial
 trrolling->trolling
 trroops->troops
 trroubles->troubles
-trrough->trough
+trrough->trough, through,
 trroupe->troupe
 trroupes->troupes
 trruly->truly
@@ -102034,7 +102034,7 @@ ttrivial->trivial
 ttrolling->trolling
 ttroops->troops
 ttroubles->troubles
-ttrough->trough
+ttrough->trough, through,
 ttroupe->troupe
 ttroupes->troupes
 ttruly->truly
