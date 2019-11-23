@@ -8329,7 +8329,7 @@ argentinsk->argentinian
 argessive->aggressive
 argeument->argument
 argeuments->arguments
-argg->argument
+argg->arg
 argguably->arguably
 arggument->argument
 argguments->arguments
@@ -35078,7 +35078,7 @@ eend->end
 eended->ended
 eendeeavors->endeavors
 eendeeavour->endeavour
-eendianneess->endianess
+eendianneess->endianness
 eending->ending
 eendoliths->endoliths
 eends->ends
@@ -36656,7 +36656,6 @@ endianity->endianness
 endianmess->endianness
 endianned->endianness
 endiannes->endianness
-endianness->endianess
 endiannessss->endianness
 endig->ending
 endiianness->endianness
