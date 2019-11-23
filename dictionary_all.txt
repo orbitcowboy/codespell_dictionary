@@ -12899,7 +12899,7 @@ blcok->block
 blcoking->blocking
 blcoks->blocks
 bleading->bleeding
-bleding->blending
+bleding->bleeding, blending,
 bleessing->blessing
 blegian->belgian
 blegium->belgium
@@ -13871,7 +13871,7 @@ bufers->buffers
 buffaer->buffer
 buffeer->buffer
 bufferd->buffered
-buffere->buffer
+buffere->buffer, buffered,
 buffereed->buffered
 buffereing->buffering
 bufferent->buffered
