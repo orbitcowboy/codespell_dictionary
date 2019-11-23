@@ -51238,6 +51238,7 @@ incudes->includes
 incuding->including
 inculde->include
 inculded->included
+inculdes->includes
 inculding->including
 incunaabulaa->incunabula
 incunabbula->incunabula
@@ -52985,6 +52986,10 @@ innefficient->inefficient
 inneficient->inefficient
 innense->immense
 innequalities->inequalities
+innerface->interface
+innerfaced->interfaced
+innerfaces->interfaces
+innerfacing->interfacing
 innersection->intersection
 innerstellar->interstellar
 innertial->inertial
@@ -53286,6 +53291,9 @@ inremented->incremented
 inrements->increments
 inreractive->interactive
 inrerface->interface
+inrerfaced->interfaced
+inrerfaces->interfaces
+inrerfacing->interfacing
 inresponsible->irresponsible
 inresponsive->unresponsive
 inrested->inserted
@@ -55128,7 +55136,12 @@ intrepreted->interpreted
 intrepreter->interpreter
 intrepreting->interpreting
 intrerrupt->interrupt
+intrerrupted->interrupted
+intrerrupting->interrupting
+intrerrupts->interrupts
 intrerupt->interrupt
+intrerupting->interrupting
+intrerupts->interrupts
 intrerupted->interrupted
 intrest->insert, interest,
 intrested->interested
@@ -62176,6 +62189,7 @@ messengger->messenger
 messenging->messaging
 messenguer->messenger
 messennger->messenger
+messgae->message
 messgaed->messaged
 messgaes->messages
 messge->message
@@ -75841,9 +75855,11 @@ praktike->practice
 praktitioner->practitioner
 praktitioners->practitioners
 pramater->parameter
+pramaters->parameters
 prameter->parameter
 prameters->parameters
 prarameter->parameter
+prarameters->parameters
 prarie->prairie
 praries->prairies
 prasied->praised
@@ -83573,7 +83589,7 @@ rellocates->reallocates, relocates,
 relly->really
 relm->realm
 reloadale->reloadable
-reloade->reload
+reloade->reload, reloaded,
 relocateable->relocatable
 relocatin->relocating
 reloccate->relocate
@@ -85428,9 +85444,15 @@ respriatory->respiratory
 respsect->respect
 respwan->respawn
 resreve->reserve
+resreved->reserved
+resreves->reserves
 resrouce->resource
+resrouced->resourced
+resrouces->resources
+resroucing->resourcing
 resrve->reserve
 resrved->reserved
+resrves->reserves
 ressapee->recipe
 ressearch->research
 ressemblance->resemblance
@@ -85543,8 +85565,8 @@ restauurateuurs->restaurateurs
 reste->reset
 resteraunt->restaurant
 resteraunts->restaurants
-restes->reset
-restesting->retesting
+restes->reset, retest,
+restesting->retesting, retesting,
 resth of->rest of
 restharthed->restarted
 resthauranth->restaurant
@@ -86053,6 +86075,7 @@ reuseability->reusability
 reussability->reusability
 reusse->reuse
 reussing->reusing
+reutnr->return
 reutnred->returned
 reutrn->return
 reutrns->returns
@@ -90300,8 +90323,8 @@ sincerrely->sincerely
 sincs->sinks, since, syncs,
 sinees->sines
 singal->signal, single,
-singaled->signaled
-singals->signals
+singaled->signaled, singled,
+singals->signals, singles,
 singapoo->singapore
 singature->signature
 singatures->signatures
@@ -100514,6 +100537,7 @@ tranaction->transaction
 tranactional->transactional
 tranactions->transactions
 tranasction->transaction
+tranasctions->transactions
 trancate->truncate
 tranceiver->transceiver
 tranceivers->transceivers
@@ -100675,6 +100699,7 @@ transcendentational->transcendental
 transcendiing->transcending
 transcendingg->transcending
 transcevier->transceiver
+transceviers->transceivers
 transciever->transceiver
 transcievers->transceivers
 transciprt->transcripts
