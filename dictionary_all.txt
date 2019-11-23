@@ -403,7 +403,6 @@ aarchitecture->architecture
 aarchitectures->architectures
 aarchived->archived
 aarchiving->archiving
-aare creaated->are created
 aare->are
 aareaa->area
 aarguaably->arguably
@@ -3773,7 +3772,6 @@ aerchitecture->architecture
 aerchitectures->architectures
 aerchived->archived
 aerchiving->archiving
-aere creaeted->are created
 aere->are
 aereae->area
 aerguaebly->arguably
@@ -3952,7 +3950,7 @@ aesymmetric->asymmetric
 aesymmetricael->asymmetrical
 aesynchronous->asynchronous
 aesynchronously->asynchronously
-aet->eat, at,
+aet->eat, ate, at,
 aetc->etc
 aetheism->atheism
 aetheist->atheist
@@ -4755,9 +4753,7 @@ aktivity->activity
 akts->acts
 aktual->actual
 aktually->actually
-al leasl->at least
-al lhe->at the
-al of->all of
+al->at, all,
 al-time->all-time
 alaready->already
 albaeit->albeit
@@ -6343,12 +6339,9 @@ ancillllary->ancillary
 ancinets->ancients
 ancittary->ancillary
 anction->action
-and al->and all
 and and->and
-and att->and all
 and the all->and all the
 and then and then->and then
-and und->and
 andd->and
 anddrogynous->androgynous
 anddrogyny->androgyny
@@ -7953,7 +7946,6 @@ aquitted->acquitted
 aquueduuct->aqueduct
 arabinc->arabic
 aracnid->arachnid
-arae craeataed->are created
 arae->are
 araea->area
 aramgeddon->armageddon
@@ -8291,18 +8283,10 @@ ardiuno->arduino
 ardound->around
 ardvark->aardvark
 are are->are
-are ccreated->are created
-are craeted->are created
-are crealed->are created
 are create->are created
-are createdd->are created
-are creathed->are created
-are creatted->are created
-are kreated->are created
 are'nt->aren't
 aready->already
 areal->aerial
-aree creeateed->are created
 aree->are
 areea->area
 aregument->arguement
@@ -8627,7 +8611,6 @@ arrchitecturre->architecture
 arrchitecturres->architectures
 arrchived->archived
 arrchiving->archiving
-arre crreated->are created
 arre->are
 arrea->area
 arreesteed->arrested
@@ -16308,6 +16291,7 @@ ccompletes->completes
 ccompletion->completion
 ccompliancce->compliance
 ccompliant->compliant
+ccompliccated->complicated
 ccomponent->component
 ccomponents->components
 ccompound->compound
@@ -19941,6 +19925,7 @@ commpletion->completion
 commplex->complex
 commpliance->compliance
 commpliant->compliant
+commplicated->complicated
 commplied->complied
 commpn->common
 commponent->component
@@ -20689,7 +20674,7 @@ compleetly->completely
 compleetness->completeness
 compleid->complied
 compleion->completion
-compleled lhe->completed the
+compleled->completed
 complelely->completely
 compleles->completes
 complelion->completion
@@ -20779,14 +20764,19 @@ compliants->complaints
 compliantt->compliant
 compliation->compilation
 compliations->compilation
+complicaated->complicated
 complicacion->complication
 complicaed->complicate
+complicaeted->complicated
 complicaitons->complication
+complicaled->complicated
 complicance->compliance
 complicances->compliances
 complicare->complicate
 complicarte->complicate
+complicatedd->complicated
 complicateed->complicated
+complicathed->complicated
 complicati->complicit
 complicatie->complicit
 complicatied->complicate
@@ -20796,6 +20786,7 @@ complicatin->complicit
 complicato->complication
 complicatred->complicate
 complicatted->complicate
+complicatted->complicated
 complicite->complicate
 complict->complicit
 complictaed->complicate
@@ -20811,6 +20802,7 @@ complier->compiler
 compliers->compilers
 compliiance->compliance
 compliiant->compliant
+compliicated->complicated
 complilation->compilation, complication,
 complilations->compilations, complications,
 complile->compile
@@ -20844,6 +20836,7 @@ complletes->completes
 complletion->completion
 complliance->compliance
 complliant->compliant
+compllicated->complicated
 complmenet->complement
 complment->compliment
 complte->complete
@@ -20960,6 +20953,7 @@ comppletes->completes
 comppletion->completion
 comppliance->compliance
 comppliant->compliant
+compplicated->complicated
 compponent->component
 compponents->components
 comppound->compound
@@ -21065,6 +21059,7 @@ comptiance->compliance
 comptiant->compliant
 comptibility->compatibility
 comptible->compatible
+compticated->complicated
 comptown->compton
 comptue->compute
 comptuers->computers
@@ -48714,23 +48709,8 @@ ie.->i.e.
 iechart->piechart
 ierland->ireland
 if if->if
-if onee seets->if one sets
 if ones set->if one sets
-if onne sets->if one sets
-if oone sets->if one sets
 if will->it will
-if yoou want->if you want
-if you waant->if you want
-if you waent->if you want
-if you wanl->if you want
-if you wannt->if you want
-if you wanth->if you want
-if you wantt->if you want
-if you wwant->if you want
-if youu want->if you want
-if yyou want->if you want
-iff one sets->if one sets
-iff you want->if you want
 iff->disabled due to valid mathematical concept, if,
 ifnded->ifndef
 ifonfig->ifconfig
@@ -67163,8 +67143,6 @@ nontriviat->nontrivial
 nontrivvial->nontrivial
 nontrrivial->nontrivial
 nonttrivial->nontrivial
-noo oone->no one
-noo value->no value
 noo->no
 noo-oone->no-one
 nooboody->nobody
@@ -68849,13 +68827,9 @@ oomitting->omitting
 oommits->commits
 oomnivooroous->omnivorous
 oomnivooroously->omnivorously
-oonce again->once again
-oone nice->one nice
-oone oor moore->one or more
-oone thing i->one thing i
+oonce->once, ounce,
 ooneroous->onerous
 oonline->online
-oonly oonce->only once
 oonly->only
 oonstructor->constructor
 oonstructors->constructors
@@ -68891,7 +68865,6 @@ ooptimized->optimized
 ooptimizing->optimizing
 ooptioonal->optional
 ooptioons->options
-oor withoout->or without
 oor->or
 oorally->orally
 oorbiting->orbiting
@@ -70190,18 +70163,6 @@ oveheads->overheads
 ovelap->overlap
 oveload->overload
 oveloading->overloading
-over ccompliccated->over complicated
-over commplicated->over complicated
-over complicaated->over complicated
-over complicaeted->over complicated
-over complicaled->over complicated
-over complicatedd->over complicated
-over complicathed->over complicated
-over complicatted->over complicated
-over compliicated->over complicated
-over compllicated->over complicated
-over compplicated->over complicated
-over compticated->over complicated
 over head->overhead
 over htere->over there
 over komplikated->over complicated
@@ -107253,9 +107214,9 @@ vyer->very
 vyre->very
 waait->wait
 waaiting->waiting
-waant to->want to
 waant->want
 waanted->wanted
+waanting->wanting
 waants->wants
 waardrobe->wardrobe
 waarning->warning
@@ -107295,8 +107256,9 @@ waeirdnaess->weirdness
 waeit->wait
 waeiting->waiting
 waell->well
-waent->want
+waent->want, went,
 waented->wanted
+waenting->wanting
 waents->wants
 waeponry->weaponry
 waer->wear
@@ -107343,12 +107305,10 @@ wan;t->want, wasn't,
 wand->warned
 wandering->wondering
 wandring->wondering
-wanl lo->want to
 wanl->want
 wanled->wanted
 wanls->wants
 wanna->want to, disabled because one might want to allow informal spelling
-wannt to->want to
 wannt->want
 wannted->wanted
 wannts->wants
@@ -107363,10 +107323,12 @@ wantedd->wanted
 wanteed->wanted
 wanth->want
 wanthed->wanted
+wanthing->wanting
 wanths->wants
 wantss->wants
 wantt->want
 wantted->wanted
+wantting->wanting
 wantto->want to
 wantts->wants
 wappers->wrappers
@@ -108284,8 +108246,6 @@ witdraw->withdraw
 witdrawal->withdrawal
 wite->write, white, rite,
 with on->with one
-with onne->with one
-with oone->with one
 with out->without
 with with->with
 witha->with a, with,
@@ -108856,9 +108816,9 @@ wuth->with
 ww->www
 wwait->wait
 wwaiting->waiting
-wwant to->want to
 wwant->want
 wwanted->wanted
+wwanting->wanting
 wwants->wants
 wwardrobe->wardrobe
 wwarning->warning
@@ -109136,7 +109096,6 @@ ymbols->symbols
 yoesmite->yosemite
 yoman->woman
 yon->you
-yoou are at->you are at
 yoou're->you're
 yoou've->you've
 yoou->you
@@ -109155,14 +109114,6 @@ yosemitie->yosemite
 yosimete->yosemite
 yot->yacht
 yotube->youtube
-you aare aat->you are at
-you aere aet->you are at
-you arae at->you are at
-you are al->you are at
-you are ath->you are at
-you are att->you are at
-you aree at->you are at
-you arre at->you are at
 you you->you
 you'ld->you would
 you'rae->you're
@@ -109195,8 +109146,8 @@ yourselvs->yourselves
 yoursetf->yourself
 yoursleves->yourselves
 yoursself->yourself
-yousaef->yousef
-youseef->yousef
+yousaef->yourself, yousef,
+youseef->yourself, yousef,
 youseff->yourself, yousef,
 youself->yourself
 youssef->yousef
@@ -109206,7 +109157,6 @@ youttube->youtube
 youtubae->youtube
 youtubbe->youtube
 youtubee->youtube
-youu are at->you are at
 youu're->you're
 youu've->you've
 youu->you
@@ -109232,7 +109182,6 @@ yyears->years
 yyellow->yellow
 yyield->yield
 yyielding->yielding
-yyou are at->you are at
 yyou're->you're
 yyou've->you've
 yyou->you
