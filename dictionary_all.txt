@@ -17713,7 +17713,6 @@ childres->children
 childresn->childrens
 childrren->children
 childs's->child's
-childs->children
 childs->children, child's,
 chiled->child
 chiledren->children
