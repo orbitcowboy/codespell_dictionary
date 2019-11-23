@@ -17714,7 +17714,7 @@ childresn->childrens
 childrren->children
 childs's->child's
 childs->children, child's,
-chiled->child
+chiled->chilled, child,
 chiledren->children
 chillade->chilled
 chilld's->child's
