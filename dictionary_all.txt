@@ -18759,6 +18759,7 @@ cofficients->coefficients
 coffie->coffee
 cofidence->confidence
 cofiguration->configuration
+cofigurations->configurations
 cofigure->configure
 cofigured->configured
 cofigures->configures
@@ -50297,6 +50298,8 @@ improvementt->improvement
 improvementts->improvements
 improvemnt->improvement
 improvemnts->improvements
+improvenmet->improvement
+improvenmets->improvements
 improvents->improves
 improvie->improvised
 improvingg->improving
