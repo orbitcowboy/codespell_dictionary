@@ -30647,7 +30647,6 @@ detectie->detectives
 detectiona->detection
 detectivs->detectives
 detectoare->detector
-detectrename->detectrenames
 detectss->detects
 detegates->delegates
 detekt->detect
@@ -35539,6 +35538,7 @@ ekonomik->economic
 ekonomy->economy
 ekstasy->ecstasy
 elaapsed->elapsed
+elaboraetd->elaborated
 elaepsed->elapsed
 elagant->elegant
 elamentry->elementary
@@ -50805,6 +50805,7 @@ incompatiable->incompatible
 incompatibbilities->incompatibilities
 incompatibbility->incompatibility
 incompatibble->incompatible
+incompatibe->incompatible
 incompatibil->incompatible
 incompatibile->incompatible
 incompatibilies->incompatibilities
@@ -96234,6 +96235,7 @@ supressor->suppressor
 supressors->suppressors
 supresss->suppress, suppresss,
 supresssion->suppression
+supricingly->surprisingly
 suprimacist->supremacist
 suprious->spurious
 suprisd->suprised
