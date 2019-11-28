@@ -18611,6 +18611,7 @@ cnat->can't
 cnife->knife
 cnitializing->initializing
 cnives->knives
+cnosole->console
 cnow->know
 cnowing->knowing
 cnowledge->knowledge
@@ -99711,6 +99712,7 @@ tkaing->taking
 tkes->takes
 tlaking->talking
 tmis->this
+tnesting->testing
 to aallocaate->to allocate
 to aellocaete->to allocate
 to allllocate->to allocate
@@ -108365,6 +108367,7 @@ wnated->wanted
 wnating->wanting
 wnats->wants
 wndow->window
+wnidows->windows, widows,
 wo->who
 wod->word
 wohle->whole
