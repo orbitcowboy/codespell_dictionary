@@ -108367,6 +108367,7 @@ wnated->wanted
 wnating->wanting
 wnats->wants
 wndow->window
+wnidow->window, widow,
 wnidows->windows, widows,
 wo->who
 wod->word
