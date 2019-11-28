@@ -10347,6 +10347,8 @@ aulomalically->automatically
 aulomalion->automation
 aulomobile->automobile
 aulonomous->autonomous
+aumated->automated
+aumates->automates
 aumplitude->amplitude
 aunthenticate->authenticate
 aunthenticated->authenticated
