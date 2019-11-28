@@ -90615,7 +90615,10 @@ skillsto->skillshots
 skimrish->skirmish
 skintilla->scintilla
 skipd->skipped
+skipe->skipped, skype, skip,
+skiped->skipped
 skiped->skipped, skyped,
+skipes->skips
 skiping->skipping
 skipp->skip, skipped,
 skippd->skipped
