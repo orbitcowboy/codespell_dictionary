@@ -2009,6 +2009,7 @@ acknowleedge->acknowledge
 acknowleedgeed->acknowledged
 acknowleedgees->acknowledges
 acknowleedging->acknowledging
+acknowlegd->acknowledged
 acknowlegde->acknowledge
 acknowlegded->acknowledged
 acknowlegdement->acknowledgement
@@ -44194,6 +44195,7 @@ geerman->german
 geet->get
 geetting->getting
 gefault->default
+gehts->gets
 gel->gael
 gelaaned->gelaned
 gelaened->gelaned
@@ -44301,6 +44303,7 @@ generatedd->generated
 generater->generator
 generaters->generators
 generatess->generates
+generateted->generated
 generathe->generate
 generathed->generated
 generathes->generates
@@ -50757,6 +50760,7 @@ incombatibility->incompatibility
 incomfortable->uncomfortable
 incomfortably->uncomfortably
 incomingg->incoming
+incomlete->incomplete
 incomme->income
 incomming->incoming
 incommpatibilities->incompatibilities
@@ -70042,6 +70046,8 @@ outperfoms->outperform
 outperfrom->outperform
 outperfroms->outperform
 outplayd->outplayed
+outpout->output
+outpouts->outputs
 outpput->output
 outpputs->outputs
 outpputting->outputting
@@ -70270,6 +70276,7 @@ overlaod->overload
 overlaoded->overloaded
 overlaped->overlapped
 overlaping->overlapping
+overlapp->overlap
 overlappping->overlapping
 overlapps->overlaps
 overlapsing->overlapping
@@ -77549,6 +77556,7 @@ procrastinazione->procrastination
 procrastion->procreation
 procrastonating->procrastinating
 procreatin->procreation
+procress->progress, process,
 procrestinating->procrastinating
 procrestination->procrastination
 procriation->procreation
@@ -97163,6 +97171,7 @@ synchrionization->synchronization
 synchrnization->synchronization
 synchroizing->synchronizing
 synchromized->synchronized
+synchron->synchronous
 synchroneous->synchronous
 synchroneously->synchronously
 synchroniizatiion->synchronization
@@ -99652,6 +99661,7 @@ timne->time
 timoeut->timeout
 timout->timeout
 timsort->timesort
+timting->timing
 timtout->timeout
 timzeone->timezone
 timzone->timezone
@@ -101171,6 +101181,7 @@ traslations->translations
 traslucency->translucency
 trasmission->transmission
 trasmit->transmit
+trasmnit->transmit
 trasnaction->transaction
 trasncript->transcript
 trasncripts->transcripts
@@ -101192,6 +101203,7 @@ trasnlated->translated
 trasnlation->translation
 trasnlator->translator
 trasnmission->transmissions
+trasnmit->transmit
 trasnmitted->transmitted
 trasnmitter->transmitter
 trasnparency->transparency
