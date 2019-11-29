@@ -27817,6 +27817,9 @@ deaal->deal
 deaallocaated->deallocated
 deacctivated->deactivated
 deacitivation->deactivation
+deacivated->deactivated
+deacivates->deactivates
+deacivation->deactivation
 deaclivaled->deactivated
 deacthivathed->deactivated
 deactiavted->deactivated
