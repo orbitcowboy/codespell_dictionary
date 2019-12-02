@@ -90628,7 +90628,7 @@ skintilla->scintilla
 skipd->skipped
 skipe->skipped, skype, skip,
 skiped->skipped, skyped,
-skipes->skips
+skipes->skips, skypes,
 skiping->skipping
 skipp->skip, skipped,
 skippd->skipped
@@ -99655,12 +99655,12 @@ timmesort->timesort
 timmestammp->timestamp
 timmestammps->timestamps
 timmestamp->timestamp
-timming->timing
+timming->timing, trimming,
 timne->time
 timoeut->timeout
 timout->timeout
 timsort->timesort
-timting->timing
+timting->tinting, timing,
 timtout->timeout
 timzeone->timezone
 timzone->timezone
