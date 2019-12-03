@@ -70341,6 +70341,7 @@ overriddenn->overridden
 overriddes->overrides
 overridding->overriding
 overrideable->overridable
+overrideables->overridables
 overrided->overrides, overridden, overrode,
 overriden->overridden
 overrident->overridden
@@ -108061,6 +108062,7 @@ widows 7->windows 7
 widows xp->windows xp
 widtd->width
 widthn->width
+widthout->without
 wieeld->wield
 wieeldeed->wielded
 wief->wife
