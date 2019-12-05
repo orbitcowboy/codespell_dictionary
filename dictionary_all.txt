@@ -18200,6 +18200,8 @@ civilziation->civilizations
 civitian->civilian
 civizilation->civilizations
 civvilian->civilian
+cjanged->changed
+cjanges->changes
 cjoice->choice
 cjoices->choices
 ckeckbox->checkbox
