@@ -3498,6 +3498,9 @@ aelleges->alleges
 aellegiaence->allegiance
 aelleviaete->alleviate
 aellocaete->allocate
+aellocaeted->allocated
+aellocaetes->allocates
+aellocaeting->allocating
 aellocaetion->allocation
 aellophone->allophone
 aellophones->allophones
@@ -5298,6 +5301,9 @@ alllleges->alleges
 allllegiance->allegiance
 alllleviate->alleviate
 allllocate->allocate
+allllocated->allocated
+allllocates->allocates
+allllocating->allocating
 allllocation->allocation
 allllophone->allophone
 allllophones->allophones
@@ -5323,9 +5329,16 @@ allocale->allocate
 allocalion->allocation
 allocat->allocate
 allocatae->allocate
+allocataed->allocated
+allocataes->allocates
+allocataing->allocating
 allocatbale->allocatable
 allocatd->allocated
 allocatee->allocate
+allocateed->allocated
+allocateeing->allocating
+allocateeng->allocating
+allocatees->allocates
 allocathe->allocate
 allocathion->allocation
 allocatiion->allocation
@@ -5337,6 +5350,9 @@ allocats->allocates
 allocatte->allocate
 allocattion->allocation
 alloccate->allocate
+alloccated->allocated
+alloccates->allocates
+alloccating->allocating
 alloccation->allocation
 alloced->allocated
 allocing->allocating
@@ -5351,11 +5367,17 @@ alloes->allows
 alloews->allows
 allogelher->altogether
 allokate->allocate
+allokated->allocated
+allokates->allocates
+allokating->allocating
 allokation->allocation
 allolled->allotted
 allolted->allotted
 allone->all one, alone,
 alloocate->allocate
+alloocated->allocated
+alloocates->allocates
+alloocating->allocating
 alloocatioon->allocation
 alloophoone->allophone
 alloophoones->allophones
@@ -27069,14 +27091,23 @@ dacquiri->daiquiri
 dactivate->deactivate
 dadlock->deadlock
 daeactivataed->deactivated
+daeactivation->deactivation
 daeal->deal
+daealer->dealer
 daeallocataed->deallocated
+daeallocated->deallocated
+daeallocates->deallocates
+daeals->deals
+daealt->dealt
 daebatablae->debatable
 daebian->debian
 daebug->debug
 daebuggaed->debugged
 daebuggaer->debugger
+daebugger->debugger
+daebuggers->debuggers
 daebugging->debugging
+daebugs->debugs
 daecaeivaed->deceived
 daecidablae->decidable
 daecidae->decide
@@ -27873,16 +27904,34 @@ dealilng->dealing
 deall->deal
 deallllocated->deallocated
 dealloacte->deallocate
+deallocale->deallocate
 deallocaled->deallocated
+deallocales->deallocates
+deallocaling->deallocating
+deallocateed->deallocated
+deallocateeing->deallocating
+deallocateeng->deallocating
+deallocathe->deallocate
 deallocathed->deallocated
+deallocathes->deallocates
+deallocathing->deallocating
+deallocatte->deallocate
 deallocatted->deallocated
+deallocattes->deallocates
+deallocatting->deallocating
+dealloccate->deallocate
 dealloccated->deallocated
+dealloccates->deallocates
+dealloccating->deallocating
 deallocte->deallocate
+deallocted->deallocated
 dealloctes->deallocates
 deallokated->deallocated
 dealloocated->deallocated
 dealocate->deallocate
 dealocated->deallocated
+dealocates->deallocates
+dealocating->deallocating
 dealte->delete
 dealying->delaying
 deamenor->demeanor
@@ -28355,6 +28404,8 @@ dedupliated->deduplicated
 deeactivateed->deactivated
 deeal->deal
 deeallocateed->deallocated
+deeallocateeing->deallocating
+deeallocateeng->deallocating
 deebatablee->debatable
 deebian->debian
 deebug->debug
@@ -64844,6 +64895,7 @@ mtuually->mutually
 muated->mutated
 muation->mutation
 muations->mutations
+mucch->much
 muccous->mucous
 mucisians->musicians
 mucnhies->munchies
@@ -99728,18 +99780,14 @@ tje->the
 tjhe->the
 tjpanishad->upanishad
 tkae->take
+tkaer->taker
 tkaes->takes
 tkaing->taking
 tkes->takes
 tlaking->talking
 tmis->this
-tnesting->testing
-to aallocaate->to allocate
-to aellocaete->to allocate
-to allllocate->to allocate
-to allocatae->to allocate
+tnesting->testing, nesting,
 to allocated->to allocate
-to allocatee->to allocate
 to alloccate->to allocate
 to allokate->to allocate
 to alocate->to allocate
@@ -99979,8 +100027,7 @@ toniight->tonight
 tonngue->tongue
 tonnight->tonight
 tonuges->tongues
-too alloocate->to allocate
-too be develooped->to be developed
+too allocate->to allocate
 too be->to be
 too coonnect too->to connect to
 too doo with->to do with
