@@ -26066,6 +26066,8 @@ craeted->created
 craeting->crating, creating,
 craetion->creation
 craetor->creator
+crahed->crashed
+crahes->crashes
 crahing->crashing
 crahses->crashes
 cralwed->crawled
@@ -26076,6 +26078,7 @@ crankenstein->frankenstein
 craotia->croatia
 crapenter->carpenter
 crashaes->crashes
+crasheed->crashed
 crashees->crashes
 crasher->crash, disabled because it denotes something that crashes
 crashers->crashes, disabled because it denotes things that crash
@@ -38819,6 +38822,7 @@ examing->examining
 examinining->examining
 examinned->examined
 examle->example
+examles->examples
 exammined->examined
 exammple->example
 exampel->example
@@ -55190,6 +55194,7 @@ intrerupt->interrupt
 intrerupted->interrupted
 intrerupting->interrupting
 intrerupts->interrupts
+intressted->interested
 intrest->insert, interest,
 intrested->interested
 intresting->interesting
