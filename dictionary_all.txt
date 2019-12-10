@@ -79532,6 +79532,10 @@ ptichfork->pitchfork
 ptichforks->pitchforks
 ptoblem->problem
 ptorions->portions
+ptotect->protect
+ptotected->protected, projected,
+ptotectes->protects
+ptotects->protects
 ptrss->press
 ptug->plug, tug, pug,s
 ptuggabte->pluggable
