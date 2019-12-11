@@ -90038,6 +90038,7 @@ siiziing->sizing
 silabus->syllabus
 silbings->siblings
 silbling->sibling
+silder->slider
 silders->sliders
 silentely->silently
 silenty->silently
