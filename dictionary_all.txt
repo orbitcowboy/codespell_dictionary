@@ -11329,6 +11329,7 @@ backtics->backticks
 backtransparant->backtransparent
 backupp->backup
 backupped->backed up, backed-up,
+backupt->backup, backups,
 backuup->backup
 backwad->backwards
 backwardd->backward
@@ -108331,6 +108332,7 @@ witdcarded->wildcarded
 witdh->width
 witdraw->withdraw
 witdrawal->withdrawal
+witdth->width
 wite->write, white, rite,
 with on->with one
 with out->without
