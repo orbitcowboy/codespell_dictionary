@@ -266,6 +266,7 @@ aalternaatives->alternatives
 aalthough->although
 aaltogether->altogether
 aalwaays->always
+aam->am
 aamaalgaamaated->amalgamated
 aamaateur->amateur
 aambient->ambient
@@ -3525,6 +3526,7 @@ aelternaetives->alternatives
 aelthough->although
 aeltogether->altogether
 aelwaeys->always
+aem->am
 aemaelgaemaeted->amalgamated
 aemaeteur->amateur
 aemanatae->emanate
@@ -5964,6 +5966,7 @@ aminations->animations
 aminosity->animosity
 amke->make
 amking->making
+amm->am
 ammalgammated->amalgamated
 ammateur->amateur
 ammbient->ambient
@@ -27684,6 +27687,7 @@ ddiamondds->diamonds
 ddichotomy->dichotomy
 ddictionary->dictionary
 ddidd not->did not
+ddidd->did, didn't,
 ddiddn't->didn't
 ddie->die
 ddifference between->difference between
@@ -33695,6 +33699,7 @@ dlb_min->dbl_min
 dloating->floating
 dmesge->dmesg
 dne->done
+dnt->don't, do not, did not, dmt,
 do do->do
 do'nt->don't
 doaes->does
@@ -48428,49 +48433,20 @@ hyydrophilic->hydrophilic
 hyydrophobe->hydrophobe
 hyydrophobic->hydrophobic
 hyygiene->hygiene
-hyyper threading->hyper threading
-hyyper-v->hyper-v
+hyyper->hyper
 hyyperlink->hyperlink
 hyyphenation->hyphenation
 hyypocrisyy->hypocrisy
 hyypocrite->hypocrite
 hyypocrites->hypocrites
 hyypothetical->hypothetical
-i aam doing->i am doing
-i aam->i am
-i aem doing->i am doing
-i aem->i am
-i am ddoing->i am doing
-i am doingg->i am doing
-i am doinng->i am doing
-i am dooing->i am doing
-i amm doing->i am doing
-i amm->i am
-i ddidd not->i did not
-i dnt->i did not
 i fond->i found
 i i->i
-i lried->i tried
-i m->i am
+i m->i'm, i am,
+i speck->i speak
 i thing->i think
 i triaed->i tried
-i triedd->i tried
-i trieed->i tried
 i tries->i tried
-i trried->i tried
-i ttried->i tried
-i waas trying->i was trying
-i wad trying->i was trying
-i waes trying->i was trying
-i was lrying->i was trying
-i was thrying->i was trying
-i was trrying->i was trying
-i was tryingg->i was trying
-i was tryinng->i was trying
-i was tryying->i was trying
-i was ttrying->i was trying
-i wass trying->i was trying
-i wwas trying->i was trying
 i'am->i am
 i'mm->i'm
 i'v->i've
@@ -58367,9 +58343,10 @@ lewow->luau
 lewtenant->lieutenant
 lexial->lexical
 lexigraphically->lexicographically
-lexl box->text box
+lexl->text, pixel,
 leyer->layer
-lfiesteal->lifesteal
+leyered->layered
+lfiesteal->lifestyle
 lgoical->logical
 lhal's->that's
 lhal->that
@@ -58573,18 +58550,17 @@ liccencce->licence
 liccense->license
 liccensed->licensed
 liccenses->licenses
-lice many parts->like many parts
 liced->liked
-liceencee->licence
-liceensee->license
+liceencee->licensee, licence,
+liceensee->licensee, license,
 liceenseed->licensed
-liceensees->licenses
+liceensees->licensee, licenses,
 licelihood->likelihood
 licely->likely
 licenced->licensed
 licenceing->licencing
 licences->licenses
-licencie->licence
+licencie->licensee, licence,
 licencse->licence
 licennce->licence
 licennse->license
@@ -58598,7 +58574,6 @@ licenssess->licenses
 licese->license
 licesence->license
 licesences->licenses
-licke many parts->like many parts
 licke->like
 lickelihood->likelihood
 lickely->likely
@@ -58631,38 +58606,58 @@ lieutentant->lieutenant
 lieuthenanth->lieutenant
 lieuttenantt->lieutenant
 lieuutenant->lieutenant
-lieved->lived
-lifaecylae->lifecyle
+lieved->lived, believed,
+lifaecylae->lifecycle
+lifaecylaes->lifecycles
 lifaetimae->lifetime
+lifaetimaes->lifetimes
 lifceycle->lifecycle
+lifceycles->lifecycles
 lifcycle->lifecycle
-lifcyle->lifecyle
-lifeccyle->lifecyle
-lifecyle->lifecycle
-lifecyyle->lifecyle
-lifeecylee->lifecyle
+lifcycles->lifecycles
+lifcyle->lifecycle, lifestyle,
+lifcyles->lifecycles, lifestyles,
+lifeccyle->lifecycle
+lifeccyles->lifecycles
+lifecyle->lifecycle, lifestyle,
+lifecyles->lifecycles, lifestyles,
+lifecyyle->lifecycle, lifestyle,
+lifecyyles->lifecycles, lifestyles,
+lifeecylee->lifecycle, lifestyle,
+lifeecylees->lifecycles, lifestyles,
+lifeetime->lifetime
 lifeetimee->lifetime
-lifekyle->lifecyle
-lifelime->lifetime
+lifeetimees->lifetimes
+lifeetimes->lifetimes
+lifekyle->lifecycle, lifestyle,
+lifekyles->lifecycles, lifestyles,
+lifelime->lifeline, lifetime,
 lifepsan->lifespan
+lifepsans->lifespans
 lifes->lives
 lifespawn->lifespan
-lifestel->lifesteal
+lifestel->lifestyle
 lifestiles->lifestyles
 lifestlye->lifestyle
 lifestlyes->lifestyles
 lifestye->lifestyle
-lifesystem->filesystem
+lifesystem->filesystem, living system,
 lifesytles->lifestyles
 lifethime->lifetime
-lifetimers->lifetimes
+lifethimes->lifetimes
+lifetimers->lifetimes, lifetimers,
 lifetimme->lifetime
+lifetimmes->lifetimes
 lifetsyle->lifestyle
 lifetsyles->lifestyles
 lifettime->lifetime
-liffecyle->lifecyle
+lifettimes->lifetimes
+liffecyle->lifecycle
+liffecyles->lifecycles
 liffetime->lifetime
+liffetimes->lifetimes
 liftime->lifetime
+liftimes->lifetimes
 ligghc->libghc
 ligght year->light year
 ligght years->light years
@@ -58763,12 +58758,11 @@ liicense->license
 liicensed->licensed
 liicenses->licenses
 liieutenant->lieutenant
-liifecyle->lifecyle
+liifecyle->lifecycle
 liifetiime->lifetime
-liight year->light year
-liight years->light years
+liifetime->lifetime
+liight->light
 liightiing->lighting
-liike many parts->like many parts
 liike->like
 liiked->liked
 liikeliihood->likelihood
@@ -58802,25 +58796,13 @@ liittle->little
 liived->lived
 liively->lively
 lik->like, lick, link,
-likae many parts->like many parts
 likae->like
 likaed->liked
 likaelihood->likelihood
 likaely->likely
-like maany paarts->like many parts
-like manny parts->like many parts
-like many parls->like many parts
-like many parrts->like many parts
-like many parst->like many parts
-like many parths->like many parts
-like many partss->like many parts
-like many partts->like many parts
-like may parts->like many parts
-like mmany parts->like many parts
 likeable->likable
 likebale->likeable
 likedd->liked
-likee many parts->like many parts
 likee->like
 likeed->liked
 likeelihood->likelihood
@@ -58839,13 +58821,11 @@ likensed->licensed
 likenses->licenses
 likewis->likewise
 likey->likely
-likke many parts->like many parts
 likke->like
 likked->liked
 likkelihood->likelihood
 likkely->likely
 likkud->likud
-likle many parts->like many parts
 likle->like
 likled->liked
 liklelihood->likelihood
@@ -59295,12 +59275,11 @@ llicense->license
 llicensed->licensed
 llicenses->licenses
 llieutenant->lieutenant
-llifecylle->lifecyle
+llifecylle->lifecycle
 llifetime->lifetime
 llight year->light year
 llight years->light years
 llighting->lighting
-llike many parts->like many parts
 llike->like
 lliked->liked
 llikellihood->likelihood
@@ -59786,7 +59765,7 @@ lrunk->trunk
 lrusl->trust
 lruslworlhiness->trustworthiness
 lry->try
-lrying->trying
+lrying->trying, lying,
 lsat->last
 lsit->list
 lsits->lists
@@ -64041,7 +64020,7 @@ mmusicians->musicians
 mmuslimm->muslim
 mmuslimms->muslims
 mmussels->mussels
-mmust exist->must exist
+mmust->must
 mmutilated->mutilated
 mmyriad->myriad
 mmyself->myself
@@ -66826,6 +66805,7 @@ nightmates->nightmares
 nightmears->nightmares
 nightmeres->nightmares
 nighttfall->nightfall
+nighttiime->nighttime
 nighttimae->nighttime
 nighttimee->nighttime
 nighttimme->nighttime
@@ -66875,13 +66855,13 @@ ninetyy->ninety
 ninht->ninth
 ninjs->ninja
 ninlh->ninth
-nint->ninth
+nint->ninth, mint,
 ninteenth->nineteenth
 ninthh->ninth
 ninties->1990s
 nintth->ninth
 nintveral->interval
-ninty->ninety
+ninty->ninety, nitty,
 nipticking->nitpicking
 nirtogen->nitrogen
 nirvanna->nirvana
@@ -70643,6 +70623,7 @@ paarenthesis->parenthesis
 paarents->parents
 paarliaament->parliament
 paarliaamentaariaan->parliamentarian
+paart->part
 paartiaally->partially
 paarticipaants->participants
 paarticulaar->particular
@@ -70651,6 +70632,7 @@ paartiell->partiell
 paartitioning->partitioning
 paartitions->partitions
 paartly->partly
+paarts->parts
 paarty->party
 paassed->passed
 paassengers->passengers
@@ -71407,6 +71389,7 @@ parititions->partitions
 parititon->partition
 parituclar->particular
 parkay->parquet
+parl->pearl, part,
 parlaiment->parliament
 parlaimentary->parliamentary
 parlament->parliament
@@ -71448,6 +71431,7 @@ parllel->parallel
 parlliament->parliament
 parlliamentarian->parliamentarian
 parlly->partly
+parls->pearls, parts,
 parmaeter->parameter
 parmaeters->parameters
 parmasen->parmesan
@@ -71482,21 +71466,25 @@ parrenthesis->parenthesis
 parrents->parents
 parrliament->parliament
 parrliamentarrian->parliamentarian
+parrt->part, parrot,
 parrtially->partially
 parrticipants->participants
 parrticularr->particular
 parrticularrly->particularly
-parrtiell->partiell
+parrtiell->partiell, partial,
 parrtitioning->partitioning
 parrtitions->partitions
 parrtly->partly
-parrty->party
+parrts->parts, parrots,
+parrty->party, partly,
 parseing->parsing
 parsering->parsing
 parshally->partially
 parsin->parsing
-parsting->parsing
-parstree->parse tree
+parst->parts, past, parsed,
+parsting->parsing, pasting,
+parstree->parse tree, pastry
+parsts->parts, parses,
 partaining->pertaining
 partations->partitions
 partchett->pratchett
@@ -71511,6 +71499,7 @@ parterned->partnered
 parterns->partners
 parternship->partnership
 parternships->partnership
+parth->part
 parthially->partially
 parthicipanths->participants
 parthicular->particular
@@ -71519,6 +71508,7 @@ parthiell->partiell
 parthithioning->partitioning
 parthithions->partitions
 parthly->partly
+parths->parts
 parthy->party
 partiaell->partiell
 partialllly->partially
@@ -71660,6 +71650,7 @@ partnetship->partnership
 partols->patrols
 partonizing->patronizing
 partsian->partisan
+partss->parts
 parttially->partially
 partticipantts->participants
 partticular->particular
@@ -71668,6 +71659,7 @@ parttiell->partiell
 parttittioning->partitioning
 parttittions->partitions
 parttly->partly
+partts->parts
 partty->partly, party,
 partyl->partly
 partyy->party
@@ -91061,8 +91053,6 @@ snyergy->synergy
 snyopsis->synopsis
 snythesis->synthesis
 snythetic->synthetic
-so manny->so many
-so mmany->so many
 soalris->solaris
 soberity->sobriety
 sobreity->sobriety
@@ -99608,7 +99598,7 @@ tiemstamp->timestamp
 tieth->tithe
 tieutenant->lieutenant
 tieves->thieves
-tifecyte->lifecyle
+tifecyte->lifecycle
 tifetime->lifetime
 tigger->trigger
 tiggered->triggered
@@ -99634,7 +99624,6 @@ tihkn->think
 tihs->this
 tiilt->tilt
 tiime->time
-tiime-criitiical->time-critical
 tiimed->timed
 tiimeout->timeout
 tiimer->timer
@@ -99645,7 +99634,7 @@ tiimestamps->timestamps
 tiimiing->timing
 tiitle->title
 tiitlebar->titlebar
-tike many parts->like many parts
+tike->tike, like,
 tiked->liked
 tiketihood->likelihood
 tikety->likely
@@ -99657,6 +99646,8 @@ tim->tim,  time, disabled due to being a person's name
 timae->time
 timae-critical->time-critical
 timaeout->timeout
+timaer->timer
+timaers->timers
 timaesort->timesort
 timaestamp->timestamp
 timaestamps->timestamps
@@ -99675,6 +99666,8 @@ timedlta->timedelta
 timee->time
 timee-critical->time-critical
 timeeout->timeout
+timeer->timer
+timeers->timers
 timeesort->timesort
 timeestamp->timestamp
 timeestamps->timestamps
@@ -99683,6 +99676,8 @@ timeoout->timeout
 timeouot->timeout
 timeouut->timeout
 timere->timer
+timerr->timer
+timerrs->timers
 timesamp->timestamp
 timesitamp->timestamp
 timesitamps->timestamps
@@ -99718,6 +99713,8 @@ timits->limits
 timme->time
 timme-critical->time-critical
 timmeout->timeout
+timmer->timer
+timmers->timers
 timmesort->timesort
 timmestammp->timestamp
 timmestammps->timestamps
@@ -101995,6 +101992,8 @@ ttime-crittical->time-critical
 ttimeout->timeout
 ttimeouts->timeouts
 ttimeoutt->timeout
+ttimer->timer
+ttimers->timers
 ttimesortt->timesort
 ttimesttamp->timestamp
 ttimesttamps->timestamps
@@ -107312,8 +107311,6 @@ waarraant->warrant
 waarraanty->warranty
 waarriors->warriors
 waarship->warship
-waas ignored->was ignored
-waas not->was not
 waas->was
 waasn't->wasn't
 waasteful->wasteful
@@ -107516,8 +107513,6 @@ wasnn't->wasn't
 wasnt'->wasn't
 wasnt->was not, wasn't,
 wasnt;->wasn't
-wass ignored->was ignored
-wass not->was not
 wass->was
 wassn't->wasn't
 wassteful->wasteful
@@ -107534,30 +107529,27 @@ wastteful->wasteful
 wasy->ways
 wat's->what's
 wat->what
-watcchdog timer->watchdog timer
 watcchdog->watchdog
-watchddog timer->watchdog timer
+watcchdogs->watchdogs
 watchddog->watchdog
-watchdog tiimer->watchdog timer
-watchdog timaer->watchdog timer
-watchdog timeer->watchdog timer
-watchdog timerr->watchdog timer
-watchdog timmer->watchdog timer
-watchdogg timer->watchdog timer
+watchddogs->watchdogs
 watchdogg->watchdog
-watchdogtimer->watchdog timer
-watchdoog timer->watchdog timer
+watchdoggs->watchdogs
 watchdoog->watchdog
+watchdoogs->watchdogs
 watchemn->watchmen
-watchhdog timer->watchdog timer
 watchhdog->watchdog
+watchhdogs->watchdogs
 watchign->watching
 watchodg->watchdog
 watchog->watchdog
 watemark->watermark
+watemarked->watermarked
+watemarks->watermarks
 waterdection->waterdetection
 waterlemon->watermelon
 watermak->watermark
+watermaked->watermarked
 watermaks->watermarks
 watermalon->watermelon
 watermask->watermark
@@ -107571,6 +107563,7 @@ wathchdog->watchdog
 wathcing->watching
 wathcmen->watchmen
 wathdog->watchdog
+wathdogs->watchdogs
 wathever->whatever
 waths->whats
 watiers->waiters
@@ -107578,13 +107571,13 @@ wating->waiting
 watkhdog->watchdog
 watkings->watkins
 watn->want
-wats->waste
+wats->waste, what's,
 watse->waste
 watseful->wasteful
 watsefull->wasteful
 watsefully->wastefully
-wattchdog ttimer->watchdog timer
 wattchdog->watchdog
+wattchdogs->watchdogs
 wavelegnth->wavelength
 wavelegnths->wavelength
 wavelengh->wavelength
@@ -107604,10 +107597,6 @@ wbdp->wpdb
 wbose->whose
 wduration->duration
 we decides->we decided
-we mmust point->we must point
-we most point->we must point
-we musit point->we must point
-we musst point->we must point
 we speck->we speak
 we we->we
 we'rre->we're
@@ -107634,9 +107623,9 @@ weaponrry->weaponry
 weaponryy->weaponry
 weapoonry->weaponry
 weapponry->weaponry
-wearr->wear, we are,
+wearr->wear, we are, we're,
 weas->was
-weater->weather, wheter,
+weater->weather, whether, sweater,
 weatherr->weather
 weathher->weather
 weathliest->wealthiest
@@ -107891,11 +107880,12 @@ whereabouuts->whereabouts
 wheread->whereas
 whereaebouts->whereabouts
 whereaes->whereas
+wherearse->whereas
 wherease->whereas
 whereass->whereas
 whereever->wherever
 whereh->where
-wherether->whether
+wherether->whether, where the,
 whereveer->wherever
 wherevr->wherever
 wherevver->wherever
@@ -107906,8 +107896,8 @@ wherreas->whereas
 wherreverr->wherever
 whery->where
 whet->what, wet, when,
-whetehr->whether
-wheter->whether
+whetehr->whether. weather,
+wheter->whether, weather,
 whethe->whether
 whetherr->whether
 whethher->whether
