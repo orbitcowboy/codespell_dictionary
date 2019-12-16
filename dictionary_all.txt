@@ -84156,6 +84156,9 @@ reocurring->recurring, reoccurring,
 reoder->reorder
 reogranisation->reorganisation
 reolve->resolve
+reomve->remove
+reomved->removed
+reomves->removes
 reonly->read-only
 reoopen->reopen
 reoorder->reorder
