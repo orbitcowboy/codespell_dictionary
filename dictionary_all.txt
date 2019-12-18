@@ -54241,6 +54241,7 @@ intenddedd->intended
 intendes->intends
 intendet->intended
 intendos->intends
+intened->intended
 inteneded->intended
 intenet->internet
 intenisty->intensity
