@@ -35463,6 +35463,7 @@ efficienttly->efficiently
 efficientty->efficiently
 efficienty->efficiently
 efficieny->efficiency, efficiently,
+effictient->efficient
 effictiveness->effectiveness
 effiency->efficiency
 effient->efficient
