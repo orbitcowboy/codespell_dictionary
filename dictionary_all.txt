@@ -4019,11 +4019,10 @@ aeuxiliaery->auxiliary
 aevaeilaebility->availability
 aevaeilaeble->available
 aevaelaenche->avalanche
-aevaen though->even though
+aevaen->even
 aevaent->event
 aevaents->events
 aevaentually->eventually
-aevaery timae->every time
 aevaery->every
 aevaerybody->everybody
 aevaerything->everything
@@ -16383,7 +16382,9 @@ ccongratulations->congratulations
 ccongressional->congressional
 cconjeccture->conjecture
 cconjuncction->conjunction
+cconnecct->connect
 cconneccted->connected
+cconneccting->connecting
 cconnecction->connection
 cconnecctix->connectix
 cconnived->connived
@@ -20096,8 +20097,10 @@ comnando->commando
 comnandos->commandos
 comnands->commands
 comnas->commas
+comnect->connect
 comnected->connected
 comnecticut->connecticut
+comnecting->connecting
 comnection->connection
 comnectix->connectix
 comnemorate->commemorate
@@ -22249,10 +22252,13 @@ conmando->commando
 conmandos->commandos
 conmands->commands
 conmas->commas
+conmect->connect
 conmected->connected
 conmecticut->connecticut
+conmecting->connecting
 conmection->connection
 conmectix->connectix
+conmector->connector
 conmemorate->commemorate
 conmemorated->commemorated
 conmemorates->commemorates
@@ -22295,10 +22301,12 @@ conna->comma
 connad->command
 connads->commands
 connaect->connect
+connaect->connecting
 connaectaed->connected
 connaecticut->connecticut
 connaection->connection
 connaectix->connectix
+connaector->connector
 connand line->command line
 connand->command
 connand-line->command-line
@@ -22403,10 +22411,15 @@ connectticutt->connecticut
 connecttion->connection
 connecttix->connectix
 connectts->connects
+conneect->connect
+conneected->connected
 conneecteed->connected
 conneecticut->connecticut
+conneecting->connecting
 conneection->connection
 conneectix->connectix
+conneector->connector
+conneects->connects
 conneiction->connection
 connektikut->connecticut
 connektors->connectors
@@ -22475,9 +22488,13 @@ connnecting->connecting
 connnection->connection
 connnections->connections
 connnects->connects
+connnnect->connect
 connnnected->connected
 connnnecticut->connecticut
+connnnecting->connecting
+connnnection->connection
 connnnectionn->connection
+connnnections->connections
 connnnectix->connectix
 connnnived->connived
 connnnotationn->connotation
@@ -32519,11 +32536,19 @@ disconneting->disconnecting
 disconnets->disconnects
 disconnnect->disconnect
 disconnnected->disconnected
+disconnnecting->disconnecting
+disconnnects->disconnects
+disconnnnect->disconnect
 disconnnnected->disconnected
+disconnnnecting->disconnecting
+disconnnnection->disconnection
+disconnnnections->disconnections
 disconnnnects->disconnects
 disconntennt->discontent
 discontaent->discontent
+discontaentment->discontentment
 disconteent->discontent
+disconteentment->discontentment
 discontentment->discontent
 disconthenth->discontent
 discontigous->discontiguous
@@ -32818,6 +32843,9 @@ diskard->discard
 diskiplined->disciplined
 diskomfort->discomfort
 diskonnekted->disconnected
+diskonnekting->disconnecting
+diskonnektion->disconnection
+diskonnektions->disconnections
 diskonnekts->disconnects
 diskontent->discontent
 diskouraged->discouraged
@@ -35236,11 +35264,11 @@ eevaluateed->evaluated
 eevaluatees->evaluates
 eevaluation->evaluation
 eevaluations->evaluations
-eeveen though->even though
+eeveen->even
+eeveenly->evenly
 eeveent->event
 eeveents->events
 eeveentually->eventually
-eeveery timee->every time
 eeveery->every
 eeveerybody->everybody
 eeveerything->everything
@@ -38556,11 +38584,6 @@ everthing->everything
 evertyime->everytime
 evertything->everything
 everwhere->everywhere
-every lime->every time
-every thime->every time
-every tiime->every time
-every timme->every time
-every ttime->every time
 everybbody->everybody
 everyboddy->everybody
 everybodies->everybody, everybody's,
@@ -38588,13 +38611,13 @@ everythink->everything
 everythinng->everything
 everytiem->everytime
 everytiime->everytime
+everytimae->everytime
 everytime->every time
 everytimme->everytime
 everyting->everything
 everytthing->everything
 everyttime->everytime
 everytyhing->everything
-everyy time->every time
 everyy->every
 everyybodyy->everybody
 everyything->everything
@@ -38676,7 +38699,6 @@ evovling->evolving
 evreyones->everyones
 evreything->everything
 evreytime->everytime
-evry time->every time
 evry->every
 evrybody->everybody
 evrythign->everything
@@ -38692,7 +38714,6 @@ evven though->even though
 evvent->event
 evvents->events
 evventually->eventually
-evvery time->every time
 evvery->every
 evverybody->everybody
 evverything->everything
@@ -41792,7 +41813,6 @@ fiiercely->fiercely
 fiifths->fifths
 fiightiing->fighting
 fiilament->filament
-fiile tiime->file time
 fiile->file
 fiilename->filename
 fiilenames->filenames
@@ -41813,7 +41833,6 @@ fiixed->fixed
 fiixes->fixes
 fiktitious->fictitious
 filaament->filament
-filae timae->file time
 filae->file
 filaement->filament
 filaenamae->filename
@@ -41832,7 +41851,6 @@ filcker->flicker
 filder->folder
 filds->fields
 file lime->file time
-file thime->file time
 file timme->file time
 file ttime->file time
 file-name->filename
@@ -41841,7 +41859,6 @@ filed name->field name
 filedescriptor->file descriptor
 fileding->fielding
 fileds->fields
-filee timee->file time
 filee->file
 fileenamee->filename
 fileenamees->filenames
@@ -57262,9 +57279,14 @@ konklusion->conclusion
 konklusions->conclusions
 konkrete->concrete
 konkurrent->concurrent
+konnekt->connect
 konnekted->connected
+konnekting->connecting
 konnektion->connection
+konnektions->connections
 konnektix->connectix
+konnektor->connector
+konnekts->connects
 konnived->connived
 konnotation->connotation
 konnotations->connotations
@@ -58348,6 +58370,8 @@ lexigraphically->lexicographically
 lexl->text, pixel,
 leyer->layer
 leyered->layered
+leyering->layering
+leyers->layers
 lfiesteal->lifestyle
 lgoical->logical
 lhal's->that's
@@ -58613,6 +58637,8 @@ lifaecylae->lifecycle
 lifaecylaes->lifecycles
 lifaetimae->lifetime
 lifaetimaes->lifetimes
+lifaetime->lifetime
+lifaetimes->lifetimes
 lifceycle->lifecycle
 lifceycles->lifecycles
 lifcycle->lifecycle
@@ -58786,7 +58812,9 @@ liinux->linux
 liipiizzaner->lipizzaner
 liiquefy->liquefy
 liist->list
+liisted->listed
 liisteners->listeners
+liists->lists
 liiteral->literal
 liiterally->literally
 liiterals->literals
@@ -59065,7 +59093,9 @@ lisl->list
 lisleners->listeners
 lispticks->lipsticks
 lisst->list
+lissted->listed
 lisstenerss->listeners
+lissts->lists
 listaenaers->listeners
 listbbox->listbox
 listeen->listen
@@ -61520,7 +61550,6 @@ maxrmal->maximal
 maxumum->maximum
 maxximum->maximum
 may has been->may have been
-may have ben->may have been
 mayabe->maybe
 mayalsia->malaysia
 mayalsian->malaysian
@@ -61631,6 +61660,7 @@ meanntime->meantime
 meanss->means
 meanthime->meantime
 meantiime->meantime
+meantimae->meantime
 meanttime->meantime
 mear->mere, mare, wear,
 mearly->merely, nearly,
@@ -64885,6 +64915,7 @@ muation->mutation
 muations->mutations
 mucch->much
 muccous->mucous
+muchh->much
 mucisians->musicians
 mucnhies->munchies
 mucoous->mucous
@@ -64898,6 +64929,7 @@ muffings->muffins
 muffinus->muffins
 muhammadan->muslim
 muiltiple->multiple
+mukh->muck, much,
 mukous->mucous
 muktitasking->multitasking
 mulilaled->mutilated
@@ -65445,6 +65477,7 @@ muttithread->multithread
 muttithreaded->multithreaded
 muttitine->multiline
 mutully->mutually
+muuch->much
 muucouus->mucous
 muulti->multi
 muulti-thread->multi-thread
@@ -66774,8 +66807,10 @@ nieghbourhoods->neighbourhood
 nieghbours->neighbours
 nieke->niece
 niether->neither
-nieve->naive
+nieve->naive, neice,
 nieveatay->naivete
+nievetay->naivete
+nievete->naivetess
 nife->knife
 nigghtfall->nightfall
 nigghttime->nighttime
@@ -66807,6 +66842,7 @@ nightmates->nightmares
 nightmears->nightmares
 nightmeres->nightmares
 nighttfall->nightfall
+nightthime->nighttime
 nighttiime->nighttime
 nighttimae->nighttime
 nighttimee->nighttime
@@ -90505,6 +90541,9 @@ sitops->stops
 sitore->store
 sitories->stories
 sitory->story
+sitraight->straight
+sitraighten->straighten
+sitraightening->straightening
 sitraightforward->straightforward
 sitrand->strand
 sitrange->strange
@@ -91331,6 +91370,7 @@ somethihng->somethin
 somethiing->somethin, something,
 somethijng->somethin
 somethikng->somethin
+somethime->sometime
 somethimes->sometimes
 somethimg->something
 somethimng->somethin
@@ -91355,6 +91395,7 @@ somethn->somethin
 sometiems->sometimes
 sometihn->somethin
 sometihng->something
+sometiime->sometime
 sometiimes->sometimes
 sometims->sometimes
 sometines->sometimes
@@ -91762,6 +91803,12 @@ spaeaech->speech
 spaeaechaes->speeches
 spaeaed->speed
 spaeaeds->speeds
+spaeak->speak
+spaeaked->spoke
+spaeaker->speaker
+spaeakers->speakers
+spaeaking->speaking
+spaeaks->speaks
 spaece->space
 spaecfific->specfific
 spaeciaes->species
@@ -93078,6 +93125,10 @@ sstopss->stops
 sstore->store
 sstoriess->stories
 sstory->story
+sstraighten->straighten
+sstraightened->straightened
+sstraightening->straightening
+sstraightens->straightens
 sstraightforward->straightforward
 sstrand->strand
 sstrange->strange
@@ -93939,6 +93990,10 @@ storyy->story
 stowty->slowly
 stoyr->story
 stpo->stop
+straaighten->straighten
+straaightened->straightened
+straaightening->straightening
+straaightens->straightens
 straaightforwaard->straightforward
 straand->strand
 straange->strange
@@ -93952,6 +94007,10 @@ strack->stack
 stradegies->strategies
 stradegy->strategy
 straeamlining->streamlining
+straeighten->straighten
+straeightened->straightened
+straeightening->straightening
+straeightens->straightens
 straeightforwaerd->straightforward
 straem->stream
 straemed->streamed
@@ -93983,16 +94042,36 @@ stragetically->strategically
 strageties->strategies
 stragety->strategy
 stragey->strategy
+straigghten->straighten
+straigghtened->straightened
+straigghtening->straightening
+straigghtens->straightens
 straigghtforward->straightforward
 straigh-forward->straightforward
 straighforward->straightforward
+straighhten->straighten
+straighhtened->straightened
+straighhtening->straightening
+straighhtens->straightens
 straighhtforward->straightforward
 straight forward->straightforward
+straightaen->straighten
+straightaened->straightened
+straightaening->straightening
+straightaens->straightens
 straightaway->straight away
 straightden->straightened
 straighted->straightened
+straighteen->straighten
+straighteened->straightened
+straighteening->straightening
+straighteens->straightens
 straightend->straightened
 straightenend->straightened
+straightenn->straighten
+straightenned->straightened
+straightenning->straightening
+straightenns->straightens
 straightfforward->straightforward
 straightfoorward->straightforward
 straightforeward->straightforward
@@ -94011,9 +94090,15 @@ straignt->straighten
 straigntened->straightened
 straigt->straight
 straigth->straight
-straigthen->straighten
-straigthened->straightened
+straigthen->straighten, strengthen,
+straigthened->straightened, strengthened,
+straigthening->straightening, strengthening,
+straigthens->straightens, strengthens,
 straigthforward->straightforward
+straiighten->straighten
+straiightened->straightened
+straiightening->straightening
+straiightens->straightens
 straiightforward->straightforward
 straind->strained
 straines->strains
@@ -94341,6 +94426,10 @@ stroyline->storyline
 stroylines->storylines
 stroytelling->storytelling
 strpie->stripe
+strraighten->straighten
+strraightened->straightened
+strraightening->straightening
+strraightens->straightens
 strraightforrwarrd->straightforward
 strrand->strand
 strrange->strange
@@ -98867,7 +98956,7 @@ thendency->tendency
 thenes->themes
 thenm->then
 thenn->then
-thennis player->tennis player
+thennis->tennis
 thenthacle->tentacle
 thenthacles->tentacles
 theocracry->theocracy
@@ -99019,8 +99108,8 @@ thetrahedron->tetrahedron
 thev->the
 theves->thieves
 thex->the, then,
-thexth box->text box
-they have ben->they have been
+thexth->text
+they speck->they speak
 they they->they
 they'rre->they're
 theyr->they're, there, their,
@@ -99140,13 +99229,16 @@ thiks->thinks
 thilth->tilt
 thime->time, thyme,
 thime-crithical->time-critical
+thimed->timed
+thimely->timely
 thimeouth->timeout
 thimer->timer
+thimes->times
 thimesorth->timesort
 thimesthamp->timestamp
 thimesthamps->timestamps
 thiming->timing
-thimng->thing
+thimng->thing, timing,
 thimngs->things
 thinc->think
 thinced->thought
@@ -99168,7 +99260,7 @@ thinkking->thinking
 thinkks->thinks
 thinkss->thinks
 thinn->thin
-thinng->thing
+thinng->thing, thinning,
 thinngs->things
 thinnk->think
 thinnkinng->thinking
@@ -99399,9 +99491,10 @@ threathmenth->treatment
 threatining->threatening
 threatment->treatment
 threatments->treatments
-threatning->threatening, threating,
+threatning->threatening, threading,
 thred->thread
 threded->threaded
+thredening->threatening, threading,
 thredhold->threshold
 threding->threading
 threds->threads
@@ -99647,9 +99740,12 @@ tikud->likud
 tilling->telling
 tillt->tilt
 tilte->title
-tim->tim,  time, disabled due to being a person's name
+tim->tim, time, disabled due to being a person's name
 timae->time
 timae-critical->time-critical
+timaed->timed
+timaeed->timed
+timaeing->timing
 timaeout->timeout
 timaer->timer
 timaers->timers
@@ -99670,6 +99766,7 @@ timecritial->time-critical
 timedlta->timedelta
 timee->time
 timee-critical->time-critical
+timeed->timed
 timeeout->timeout
 timeer->timer
 timeers->timers
@@ -99717,13 +99814,16 @@ timited->limited
 timits->limits
 timme->time
 timme-critical->time-critical
+timmed->timed, trimmed,
 timmeout->timeout
-timmer->timer
-timmers->timers
+timmer->timer, trimmer,
+timmers->timers, trimmers,
+timmes->times, trims,
 timmesort->timesort
 timmestammp->timestamp
 timmestammps->timestamps
 timmestamp->timestamp
+timmestamps->timestamps
 timming->timing, trimming,
 timne->time
 timoeut->timeout
@@ -99803,53 +99903,15 @@ tlaking->talking
 tmis->this
 tnesting->testing, nesting,
 to allocated->to allocate
-to alloccate->to allocate
-to allokate->to allocate
-to alocate->to allocate
-to attocate->to allocate
-to be ddevelopedd->to be developed
-to be deveeloped->to be developed
-to be develloped->to be developed
-to be developped->to be developed
-to be devetoped->to be developed
-to be devloped->to be developed
-to be devveloped->to be developed
 to be send->to be sent
-to bee deeveelopeed->to be developed
 to bee->to be
-to cconnecct to->to connect to
-to commect to->to connect to
-to comnect to->to connect to
-to conect to->to connect to
-to conmect to->to connect to
-to connaect to->to connect to
-to connects to->to connect to
-to conneect to->to connect to
-to connnnect to->to connect to
 to ddo with->to do with
 to developed->to be developed
-to do wiht->to do with
-to do wiith->to do with
 to do wit->to do with
-to do wwith->to do with
 to from->to form
-to konnekt to->to connect to
-to much time->too much time
 to much->too much
-to sitraighten->to straighten
-to so with->to do with
-to sstraighten->to straighten
-to straaighten->to straighten
-to straeighten->to straighten
-to straigghten->to straighten
-to straighhten->to straighten
+to so->to do
 to straight->to straighten
-to straightaen->to straighten
-to straighteen->to straighten
-to straightenn->to straighten
-to straigthen->to straighten
-to straiighten->to straighten
-to strraighten->to straighten
 to thee->to the
 to to->to, to do,
 toally->totally
@@ -99887,13 +99949,9 @@ todayy's->today's
 todayy->today
 todday's->today's
 todday->today
-toddo list->todo list
-todo liist->todo list
-todo lisit->todo list
-todo lisst->todo list
-todo lits->todo list
-todo llist->todo list
-todo tist->todo list
+toddo->todo
+toddos->todos
+tist->list
 todolist->todo list
 todya->today
 togaethaer->together
@@ -100044,20 +100102,8 @@ tonnight->tonight
 tonuges->tongues
 too allocate->to allocate
 too be->to be
-too coonnect too->to connect to
-too doo with->to do with
-too mich->too much
-too mucch time->too much time
-too mucch->too much
-too much tiime->too much time
-too much timae->too much time
-too much timee->too much time
-too muchh time->too much time
-too muchh->too much
-too mukh time->too much time
-too mukh->too much
-too muuch time->too much time
-too muuch->too much
+too coonnect->to connect
+too do->to do
 too straighten->to straighten
 too the->to the
 toobaccoo->tobacco
@@ -100163,14 +100209,19 @@ toriodal->toroidal
 toritlla->tortilla
 toritllas->tortillas
 tork->torque
-torkh->torch
+torkh->torque, torch,
 torlling->trolling
 tormaentors->tormentors
+tormaentor->tormentor
 tormeentors->tormentors
+tormeentor->tormentor
 tormenntors->tormentors
+tormenntor->tormentor
 tormenters->tormentors
+tormenter->tormentor
 tormentorss->tormentors
 tormmentors->tormentors
+tormmentor->tormentor
 tornaado->tornado
 tornaddo->tornado
 tornadoe->tornado
@@ -107319,16 +107370,15 @@ waarship->warship
 waas->was
 waasn't->wasn't
 waasteful->wasteful
-waatchdog timer->watchdog timer
 waatchdog->watchdog
 waay->way
 waaywaard->wayward
 waayyy->way
 waclott->walcott
 wacther->watcher
-wae must point->we must point
-wae spaeak->we speak
+wad->was, wad,
 wae'rae->we're
+wae->we
 waeaekaend->weekend
 waeaponry->weaponry
 waear->wear
@@ -107358,7 +107408,7 @@ waerraent->warrant
 waerraenty->warranty
 waerriors->warriors
 waership->warship
-waes->was
+waes->was, ways,
 waesn't->wasn't
 waesteful->wasteful
 waetchdog->watchdog
@@ -108918,8 +108968,8 @@ wwarship->warship
 wwas->was
 wwasn't->wasn't
 wwasteful->wasteful
-wwatchdog timer->watchdog timer
 wwatchdog->watchdog
+wwatchdogs->watchdogs
 wway->way
 wwaywward->wayward
 wwe'd->we'd
@@ -109202,6 +109252,7 @@ yosemitie->yosemite
 yosimete->yosemite
 yot->yacht
 yotube->youtube
+you speck->you speak
 you you->you
 you'ld->you would
 you'rae->you're
