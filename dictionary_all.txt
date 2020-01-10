@@ -60715,6 +60715,7 @@ maniipulator->manipulator
 manikin->mannequin
 manipluate->manipulate
 manipluated->manipulated
+manipluates->manipulates
 manipluating->manipulating
 manipluation->manipulation
 manippulator->manipulator
@@ -80007,6 +80008,8 @@ qualifires->qualifiers
 qualifiy->qualify
 qualifyers->qualifiers
 qualiifiicatiion->qualification
+qualitification->qualification
+qualitifications->qualifications
 qualitying->qualifying
 quallification->qualification
 qualtitative->quantitative
