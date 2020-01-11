@@ -95893,8 +95893,7 @@ suggesttion->suggestion
 suggesttions->suggestions
 sugget->suggest
 suggeted->suggested
-suggets->suggest
-suggets->suggests
+suggets->suggest, suggests,
 suggetsed->suggested
 suggetsing->suggesting
 suggetsion->suggestion
