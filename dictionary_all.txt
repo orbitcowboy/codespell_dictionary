@@ -70074,6 +70074,7 @@ oustiders->outsiders
 oustpoken->outspoken
 ousttanding->outstanding
 out off->out of
+out out->out
 out put->output
 out puts->outputs
 out-of-bound->out-of-band
@@ -91339,6 +91340,7 @@ somalija->somalia
 somany->so many
 sombody->somebody
 some another->some other
+some times->sometimes
 someboby->somebody
 somee->some
 someeonee->someone
