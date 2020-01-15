@@ -14147,6 +14147,7 @@ bussy->busy
 bust->must
 busyy->busy
 butcherd->butchered
+butens->buttons
 buterfly->butterfly
 buthcered->butchered
 buththerfly->butterfly
