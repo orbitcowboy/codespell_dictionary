@@ -26132,6 +26132,7 @@ creamic->ceramic
 creasoat->creosote
 creastor->creator
 creat->create
+creata->create, create a,
 creataed->created
 creatation->creation
 creatd->created
