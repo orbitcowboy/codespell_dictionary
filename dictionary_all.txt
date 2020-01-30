@@ -6098,6 +6098,8 @@ amplittude->amplitude
 amplitudae->amplitude
 amplitudde->amplitude
 amplitudee->amplitude
+amplitutde->amplitude
+amplitutdes->amplitudes
 amplituude->amplitude
 ampllitude->amplitude
 amplrifier->amplifier
