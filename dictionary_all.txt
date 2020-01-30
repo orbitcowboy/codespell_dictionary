@@ -6085,6 +6085,8 @@ amphetmaine->amphetamines
 amphetmaines->amphetamines
 ampilfy->amplify
 ample->sample
+amplidude->amplitude
+amplidudes->amplitudes
 amplifer->amplifier
 amplifiy->amplify
 amplifly->amplify
