@@ -47829,6 +47829,7 @@ horisontally->horizontally
 horizantal->horizontal
 horizantally->horizontally
 horizntal->horizontal
+horizntaly->horizontally
 horizonal->horizontal
 horizonally->horizontally
 horizonatal->horizontal
@@ -106525,6 +106526,7 @@ verssionss->versions
 verstaile->versatile
 versu->versus
 vertabim->verbatim
+vertcialy->vertically
 vertexes->vertices
 vertextes->vertices
 vertexts->vertices
