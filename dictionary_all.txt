@@ -42050,9 +42050,11 @@ finishe->finished, finish,
 finishs->finishes
 finisse->finishes
 finitae->finite
+finitail->final, initial,
 finitee->finite
 finitel->finite
 finithe->finite
+finitial->final, initial,
 finitte->finite
 finnalize->finalize
 finnally->finally
