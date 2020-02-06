@@ -33921,6 +33921,7 @@ docuumented->documented
 docuumenting->documenting
 docuuments->documents
 doe not->does not, donut,
+doe snot->does not
 doed->does
 doees->does
 doeesn't->doesn't
