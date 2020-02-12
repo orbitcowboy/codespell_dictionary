@@ -52299,6 +52299,8 @@ informationon->information
 informations->information
 informativo->information
 informaton->information
+informatrion->information
+informatrions->information
 informattion->information
 informella->informal
 informerad->informed
