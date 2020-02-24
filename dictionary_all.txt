@@ -31099,6 +31099,7 @@ developps->develops
 developres->developers, develops,
 developrs->developers, develops,
 developss->develops
+developtment->development
 develp->develop
 develped->developed
 develper->developer
@@ -31106,6 +31107,7 @@ develpers->developers
 develpment->development
 develpoment->development
 develpoments->developments
+develptment->development
 devels->delves, developers, devils,
 devensive->defensive
 devensively->defensively
