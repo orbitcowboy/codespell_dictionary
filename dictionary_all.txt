@@ -91456,6 +91456,9 @@ songle->dongle, single,
 songled->dongled, singled,
 songles->dongles, singles,
 songling->dongling, singling,
+sonsor->sensor
+sonsored->sensors, sensor,
+sonsors->sensors
 soo->so, sew,
 sooaside->suicide
 soocialism->socialism
