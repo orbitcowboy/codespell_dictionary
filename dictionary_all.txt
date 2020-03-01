@@ -60284,6 +60284,7 @@ magnoolia->magnolia
 magnotia->magnolia
 magolia->magnolia
 mahcine->machine
+maht->math
 mahtematical->mathematical
 mahtematically->mathematically
 mahtematician->mathematician
