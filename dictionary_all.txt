@@ -49501,8 +49501,10 @@ imense->immense
 imeplement->implement
 imexperience->inexperience
 imfamus->infamous
+imgag->image
 imgage->image
 imgages->images
+imgags->images
 imgrants->migrants
 imidiately->immediately
 imigrant->emigrant, immigrant,
@@ -50719,6 +50721,8 @@ inccrement->increment
 inccremental->incremental
 inccrementally->incrementally
 inccunabula->incunabula
+incdue-include
+incdues-includes
 incedentally->incidentally
 incement->increment
 incementally->incrementally
@@ -57089,6 +57093,7 @@ knowlegeable->knowledgeable
 knowlledge->knowledge
 knowlledgeablle->knowledgeable
 knowning->knowing
+knownnig->knowing
 knowss->knows
 knowtedge->knowledge
 knowtedgeabte->knowledgeable
