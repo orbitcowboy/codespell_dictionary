@@ -34229,8 +34229,11 @@ douible->double
 douibled->doubled
 doulbe->double
 doulbelift->doublelift
+doument->document
 doumentation->documentation
 doumentc->document
+doumented->documented
+douments->documents
 dout->doubt
 douuble->double
 douuble-clicking->double-clicking
