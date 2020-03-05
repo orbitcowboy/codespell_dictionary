@@ -50724,8 +50724,8 @@ inccrement->increment
 inccremental->incremental
 inccrementally->incrementally
 inccunabula->incunabula
-incdue-include
-incdues-includes
+incdue-include, induce,
+incdues-includes, induced,
 incedentally->incidentally
 incement->increment
 incementally->incrementally
@@ -91466,9 +91466,9 @@ songle->dongle, single,
 songled->dongled, singled,
 songles->dongles, singles,
 songling->dongling, singling,
-sonsor->sensor
-sonsored->sensors, sensor,
-sonsors->sensors
+sonsor->sponsor, sensor, 
+sonsored->sponsored, sensors, sensor,
+sonsors->sponsors, sensors,
 soo->so, sew,
 sooaside->suicide
 soocialism->socialism
