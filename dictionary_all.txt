@@ -34046,7 +34046,7 @@ don'l->don't
 don't thing->don't think
 don'th->don't
 don'tt->don't
-don->don't do not,
+don->don't, do not,
 don;t->don't, do not,
 donae->done
 doned->donned, done,
@@ -50724,8 +50724,8 @@ inccrement->increment
 inccremental->incremental
 inccrementally->incrementally
 inccunabula->incunabula
-incdue-include, induce,
-incdues-includes, induced,
+incdue->include, induce,
+incdues->includes, induced,
 incedentally->incidentally
 incement->increment
 incementally->incrementally
@@ -67002,7 +67002,7 @@ nninnety->ninety
 nninnth->ninth
 nno->no
 nnobody->nobody
-nnonn->non, none
+nnonn->non, none,
 nnonn-innteractive->non-interactive
 nnonncombatannts->noncombatants
 nnonncompliannt->noncompliant
@@ -71552,7 +71552,7 @@ parshally->partially
 parsin->parsing
 parst->parts, past, parsed,
 parsting->parsing, pasting,
-parstree->parse tree, pastry
+parstree->parse tree, pastry,
 parsts->parts, parses,
 partaining->pertaining
 partations->partitions
@@ -91466,7 +91466,7 @@ songle->dongle, single,
 songled->dongled, singled,
 songles->dongles, singles,
 songling->dongling, singling,
-sonsor->sponsor, sensor, 
+sonsor->sponsor, sensor,
 sonsored->sponsored, sensors, sensor,
 sonsors->sponsors, sensors,
 soo->so, sew,
@@ -107996,7 +107996,7 @@ wherreas->whereas
 wherreverr->wherever
 whery->where
 whet->what, wet, when,
-whetehr->whether. weather,
+whetehr->whether, weather,
 wheter->whether, weather,
 whethe->whether
 whetherr->whether
