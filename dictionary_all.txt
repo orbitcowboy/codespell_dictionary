@@ -21929,6 +21929,7 @@ configurred->configured
 configurres->configures
 configurring->configuring
 configurses->configures
+configurtation->configuration
 configurting->configuring
 configurtion->configuration
 configury->configurable
@@ -90622,6 +90623,7 @@ situatinal->situational
 situationals->situations
 situationly->situational
 situationnal->situational
+situatuion->situation
 situatution->situation
 situbbornness->stubbornness
 situdio->studio
