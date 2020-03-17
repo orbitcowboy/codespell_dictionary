@@ -14938,6 +14938,7 @@ camerra->camera
 cammbridge->cambridge
 camme->came
 cammera->camera
+cammonial->canonical
 cammot->cannot
 cammouflage->camouflage
 cammpaign->campaign
@@ -14946,6 +14947,7 @@ camnot->cannot
 camoflage->camouflage
 camoflague->camouflage
 camofluage->camouflage
+camonial->canonical
 camoouflage->camouflage
 camoufalge->camouflage
 camoufflage->camouflage
@@ -15106,6 +15108,7 @@ canistters->canisters
 canitser->canister
 canitsers->canisters
 canm->can
+canmonial->canonical
 canmot->cannot
 cann't->can't
 cann->can
@@ -15137,6 +15140,7 @@ cannocolize->canonicalize
 cannoical->canonical
 cannoicalize->canonicalize
 cannol->cannot
+cannonial->canonical
 cannonical->canonical
 cannonicalize->canonicalize
 cannonnical->canonical
@@ -15156,6 +15160,7 @@ canonalized->canonicalized
 canonalizes->canonicalizes
 canonalizing->canonicalizing
 canoncial->canonical
+canonial->canonical
 canonicalise->canonicalize
 canonicalizae->canonicalize
 canonicalizaed->canonicalized
