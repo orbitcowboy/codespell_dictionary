@@ -28052,6 +28052,7 @@ debuggings->debugging
 debugginng->debugging
 debuggued->debugged
 debugguer->debugger
+debugin->debugging
 debuging->debugging
 debuug->debug
 debuugged->debugged
@@ -69497,6 +69498,7 @@ optimzed->optimized
 optimzes->optimizes
 optimziation->optimization
 optimzie->optimize
+optimzized->optimized
 optin->option
 optinal->optional
 optinally->optionally
