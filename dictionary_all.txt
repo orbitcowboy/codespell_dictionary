@@ -39214,6 +39214,7 @@ execising->exercising
 execitioner->executioner
 execl->excel
 execmple->example
+execptins->exceptions, exemptions,
 execption->exception
 execptional->exceptional
 execptions->exceptions
@@ -82210,6 +82211,7 @@ redialling->redialing
 redict->redirect
 rediculous->ridiculous
 redifinition->redefinition
+redifinitions->redefinition, definitions,
 redifintion->redefinition
 redifintions->redefinitions
 rediistriibutable->redistributable
@@ -99332,6 +99334,7 @@ thirten->thirteen
 thirtsy->thirsty
 thirtyth->thirtieth
 this requirements->these requirements
+this rules are->these rules are
 this this->this, this is, is this,
 this'd->this would
 thise->these, this,
