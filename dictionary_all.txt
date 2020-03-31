@@ -48803,6 +48803,7 @@ iechart->piechart
 ierland->ireland
 if if->if
 if ones set->if one sets
+if were->if we're, if we are,
 if will->it will
 iff->disabled due to valid mathematical concept, if,
 ifnded->ifndef
