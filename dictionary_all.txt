@@ -1756,6 +1756,7 @@ accurarcy->accuracy
 accurary->accuracy, actuary,
 accuratelly->accurately
 accuratley->accurately
+accuratly->accurately
 accuray->accuracy, actuary,
 accurences->occurrences
 accurracy->accuracy
@@ -21971,6 +21972,8 @@ confirguration->configuration
 confirmacion->confirmation
 confirmaed->confirmed
 confirmas->confirms
+confirmatino->confirmation
+confirmatinon->confirmation
 confirmd->confirmed
 confirmedd->confirmed
 confirmeed->confirmed
@@ -86369,6 +86372,7 @@ rewitable->rewritable
 rewite->rewrite
 rewitten->rewritten
 reworkd->reworked
+rewriable->rewritable, reliable,
 rewriet->rewrite
 rewriite->rewrite
 rewriitiing->rewriting
