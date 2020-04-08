@@ -40442,6 +40442,7 @@ extepect->expect
 extepecting->expecting
 extepects->expects
 exteral->external
+exterals->externals
 extered->exerted
 exterioara->exterior
 exterioare->exterior
@@ -100713,7 +100714,9 @@ tranditions->transitions
 tranfer->transfer
 tranfered->transferred
 tranfering->transfering, transferring,
+tranferr->transfer, transferred,
 tranferred->transferred
+tranferrs->transfers
 tranfers->transfers
 tranfert->transfert
 tranform->transform
