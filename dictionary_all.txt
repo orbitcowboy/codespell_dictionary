@@ -6101,6 +6101,7 @@ amplitudde->amplitude
 amplitudee->amplitude
 amplitutde->amplitude
 amplitutdes->amplitudes
+amplitutds->amplitudes
 amplituude->amplitude
 ampllitude->amplitude
 amplrifier->amplifier
@@ -32451,6 +32452,7 @@ discapline->discipline
 discarde->discarded
 discarrd->discard
 discart->discard
+discarts->discards
 disccard->discard
 discciplined->disciplined
 disccomfort->discomfort
@@ -41384,6 +41386,8 @@ fclosse->fclose
 fconfig->config
 fcound->found
 fctose->fclose
+fcuntion->function
+fcuntions->functions
 feaasible->feasible
 feaature->feature
 feaesible->feasible
@@ -70429,6 +70433,7 @@ overlowed->overflowed
 overlows->overflows
 overmapping->overlapping
 overnurfed->overturned
+overoaded->overloaded
 overpad->overpaid
 overpaied->overpaid
 overpiad->overpaid
