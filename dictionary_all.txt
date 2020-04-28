@@ -35618,6 +35618,7 @@ eidtors->editors
 eifnach->einfach
 eigght->eight
 eigghth->eighth
+eigher->either
 eighht->eighth
 eighhthh->eighth
 eighl->eight
@@ -44327,6 +44328,7 @@ gemu->qemu
 genaelogical->genealogical
 genaelogies->genealogies
 genaelogy->genealogy
+genaeration->generation
 genarate->generate
 genarated->generated
 genarating->generating
@@ -93797,6 +93799,7 @@ stength->strength
 steorid->steroid
 steorids->steroids
 stepst->steps
+stept->stepped, steps,
 steram->stream
 stereootypes->stereotypes
 stereotipe->stereotype
@@ -98586,6 +98589,9 @@ termendously->tremendously
 termial->terminal
 termianls->terminals
 termiantor->terminator
+termiate->terminate
+termiated->terminated
+termiates->terminates
 termigator->terminator
 termiinals->terminals
 termiinate->terminate
