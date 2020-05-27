@@ -42462,6 +42462,7 @@ fnaatic->fanatic
 fnction->function
 fo the->for the
 fo->for, of,
+fo->of
 foccus->focus
 foccused->focused
 foccuses->focuses
@@ -49719,6 +49720,7 @@ imminet->imminent
 imminnennt->imminent
 immitate->imitate
 immitated->imitated
+immitates->imitates
 immitating->imitating
 immitator->imitator
 immmediate->immediate
@@ -55164,6 +55166,7 @@ intity->entity
 intiution->intuition
 intiutive->intuitive
 intiutively->intuitively
+into into->into
 intoduced->introduced
 intolarant->intolerant
 intolerace->intolerance
@@ -77539,6 +77542,10 @@ procclaimed->proclaimed
 procclaiming->proclaiming
 procclamation->proclamation
 procdure->procedure
+proceceed->proceed
+proceceeded->proceeded
+proceceeding->proceeding
+proceceedings->proceedings
 procecess->process
 procecure->procedure
 procecures->procedures
