@@ -41732,6 +41732,7 @@ ffuthark->futhark
 ffuthorc->futhorc
 ffuture->future
 ffutures->futures
+fgest->fgets
 fhurter->further
 fiaeld namae->field name
 fiaeld->field
@@ -60349,6 +60350,7 @@ mainfesto->manifesto
 mainfests->manifests
 mainfraime->mainframe
 maininly->mainly
+mainipulated->manipulated
 mainlain->maintain
 mainlainabilily->maintainability
 mainlained->maintained
