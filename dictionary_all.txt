@@ -48657,6 +48657,7 @@ identhifying->identifying
 identhithies->identities
 identiable->identificable
 idential->identical
+identic->identical
 identicaal->identical
 identicael->identical
 identicall->identical
@@ -81524,6 +81525,8 @@ recalulates->recalculates
 recalulation->recalculation
 recalulations->recalculations
 recan->rescan
+recangle->rectangle
+recangles->rectangles
 recatcutate->recalculate
 recatcutation->recalculation
 recatcutations->recalculations
