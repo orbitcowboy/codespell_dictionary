@@ -17950,6 +17950,7 @@ churrch->church
 churrches->churches
 chuurch->church
 chuurches->churches
+cicrcular->circular
 cicrle->circle
 cicruit->circuit
 cicruits->circuits
@@ -94570,6 +94571,9 @@ structre->structure
 structred->structured
 structres->structures
 structrual->structural
+structrue->structure
+structrued->structured
+structrues->structures
 structual->structural
 structude->structured
 structue->structure
