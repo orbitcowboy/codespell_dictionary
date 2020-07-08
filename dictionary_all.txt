@@ -79028,6 +79028,8 @@ protostant->protestant
 protostants->protestants
 prototipes->prototypes
 protototype->prototype
+prototoype->prototype
+prototoypes->prototypes
 prototpy->prototype
 prototpye->prototype
 prototpyes->prototypes
@@ -90024,11 +90026,13 @@ signeddness->signedness
 signednes->signedness
 signeedneess->signedness
 signes->signs
+signfcant->significant
 signficant->significant
 signficantly->significantly
 signficiant->significant
 signfies->signifies
 signfiy->signify
+signflcant->significant
 signguature->signature
 signifanct->significant
 signifant->significant
@@ -90080,6 +90084,8 @@ signifikant->significant
 signifikantly->significantly
 signifiy->signify
 signigns->signings
+signilcant->significant
+signilicant->significant
 signins->signings
 signitories->signatories
 signitory->signatory
