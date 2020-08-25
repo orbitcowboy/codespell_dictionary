@@ -5743,6 +5743,7 @@ altimenter->altimeter
 altimeterr->altimeter
 altimmeter->altimeter
 altitide->altitude
+altitidue->altitude
 altitute->altitude
 altnerately->alternately
 altogaethaer->altogether
