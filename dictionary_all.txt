@@ -42727,6 +42727,7 @@ foregin->foreign
 foreginer->foreigner
 foreginers->foreigners
 foregorund->foreground
+foregrond->foreground
 foregroud->foreground
 foregroundd->foreground
 foregrounnd->foreground
