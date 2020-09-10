@@ -26971,6 +26971,7 @@ custommer->customer
 custommers->customers
 custommization->customization
 custommize->customize
+customn->custom
 customsied->customised
 customzed->customized
 customzied->customized
@@ -82683,6 +82684,7 @@ refector->refactor
 refectored->refactored
 refectoring->refactoring
 refects->reflects
+refed->referred
 refedendum->referendum
 refeeres->referees
 refeinement->refinement
