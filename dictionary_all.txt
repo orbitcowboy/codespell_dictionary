@@ -66975,6 +66975,7 @@ nknown->unknown
 nkow->know
 nkwo->know
 nmae->name
+nmbrs->numbers
 nnaive->naive
 nname->name
 nnamely->namely
