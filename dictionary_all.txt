@@ -46143,6 +46143,7 @@ hadding->adding, having,
 hade->had, hate,
 haders->headers, haters, shaders,
 hadling->handling
+hadware->hardware
 hae->have
 haeadaer->header
 haeadquartaer->headquarter
