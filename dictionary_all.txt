@@ -74230,7 +74230,7 @@ poinnts->points
 poins->points
 pointaer->pointer
 pointaers->pointer
-pointe->point
+pointe->pointer, pointed, point,
 pointeer->pointer
 pointeers->pointer
 pointere->pointer
