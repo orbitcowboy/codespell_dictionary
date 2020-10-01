@@ -7223,6 +7223,8 @@ aplications->applications
 aplied->applied
 aplies->applies
 aplikay->appliqu&eacute;
+aplleid->applied
+aplleis->applies
 apllicatin->application
 apllication->application
 apllications->applications
@@ -68297,6 +68299,7 @@ ocassionaly->occasionally
 ocassioned->occasioned
 ocassions->occasions
 ocatal->octal
+ocatl->octal
 occaasion->occasion
 occaasionaal->occasional
 occaasionaally->occasionally
@@ -92382,6 +92385,7 @@ speficied->specified
 speficies->specifies
 speficy->specify
 spefific->specific
+spefifier->specifier
 spefixic->specific
 spefixied->specified
 spehres->spheres
