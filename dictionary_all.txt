@@ -28237,6 +28237,7 @@ declataions->declarations
 declate->declare
 declation->declaration
 declations->declarations
+declatory->declaratory
 decleare->declare
 decleared->declared
 declears->declares
@@ -77320,6 +77321,7 @@ pristen->pristine
 priting->printing
 pritnf->printf
 privaate->private
+privacty->privacy
 privaete->private
 privale->private
 privalege->privilege
