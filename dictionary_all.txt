@@ -77643,6 +77643,9 @@ potatoe->potato
 potatoees->potatoes
 potatoess->potatoes
 potatos->potatoes
+potect->protect
+potected->protected
+potects->protects
 poteential->potential
 poteentially->potentially
 poteintial->potential
