@@ -109434,6 +109434,7 @@ vbsrcript->vbscript
 vctor->vector
 vctorization->vectorization
 vctors->vectors
+vdhl->vhdl
 veacuum->vacuum
 veagaries->vagaries
 vealgrind->valgrind
