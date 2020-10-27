@@ -1152,7 +1152,7 @@ acccuracy->accuracy
 acccurate->accurate
 acccurately->accurately
 acccused->accused
-accdiently->accidently
+accdiently->accidentally
 accecpted->accepted
 accedentally->accidentally
 acceeleerateed->accelerated
@@ -21356,6 +21356,8 @@ complinace->compliance
 complinance->compliance
 complination->complication
 compling->compiling
+complire->compiler
+complires->compilers
 complirs->compilers
 complitation->complication
 complition->completion
@@ -34648,6 +34650,7 @@ dmesge->dmesg
 dne->done
 dnt->don't, do not, did not, dmt,
 do do->do
+do to->due to
 do'nt->don't
 doaes->does
 doaesn't->doesn't
@@ -40542,6 +40545,7 @@ exempth->exempt
 exemptifies->exemplifies
 exemptt->exempt
 exended->extended
+exender->extender
 exension->extension
 exensions->extensions
 exensively->extensively
@@ -57314,6 +57318,8 @@ intrusivee->intrusive
 intrusivve->intrusive
 intrussive->intrusive
 intrusted->entrusted
+intrustion->instruction
+intrustions->instructions
 intruusive->intrusive
 intsall a->install a
 intsall->install
@@ -59650,6 +59656,7 @@ lackbuster->lackluster
 lacker->lacquer
 lacklaster->lackluster
 lacklusture->lackluster
+lackof->lack of
 lackrimose->lachrymose
 laeads->leads
 laeaguae->league
@@ -82313,6 +82320,7 @@ puritannical->puritanical
 purithanical->puritanical
 purittanical->puritanical
 purkhasing->purchasing
+purly->purely
 purpendicular->perpendicular
 purpetrators->perpetrators
 purpetuating->perpetuating
@@ -83969,6 +83977,7 @@ reasonnable->reasonable
 reasonnably->reasonably
 reasoon->reason
 reasoonable->reasonable
+reasor->reason
 reassemblied->reassembled
 reassiggn->reassign
 reassignn->reassign
@@ -84602,6 +84611,7 @@ recongized->recognized
 recongizes->recognizes
 recongizing->recognizing
 recongnises->recognises
+recongnized->recognized
 recongnizes->recognizes
 reconicle->reconcile
 reconisder->reconsider
@@ -86379,6 +86389,7 @@ relinquisshment->relinquishment
 relinqushment->relinquishment
 relinquuishment->relinquishment
 relitavely->relatively
+relitive->relative
 relized->realised, realized,
 rellated->related
 rellation->relation
@@ -96852,6 +96863,8 @@ steeles->steelers
 steereeotypees->stereotypes
 steerng->steering
 steeroids->steroids
+steet->street
+steets->streets
 stelathy->stealthy
 stength->strength
 steorid->steroid
