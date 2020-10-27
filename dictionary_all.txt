@@ -35954,6 +35954,7 @@ ectastic->ecstatic
 ectectic->eclectic
 ectipse->eclipse
 ectsasy->ecstasy
+ecxcept->except
 ecxept->except
 ecxtracted->extracted
 eczecutive->executive
@@ -91647,6 +91648,7 @@ sensistively->sensitively, sensitivity,
 sensistve->sensitive
 sensithive->sensitive
 sensithiveness->sensitiveness
+sensitifity->sensitivity
 sensititivity->sensitivity
 sensitiv->sensitive
 sensitivee->sensitive
