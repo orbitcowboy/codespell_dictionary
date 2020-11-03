@@ -19332,6 +19332,8 @@ coleague->colleague
 coleagues->colleagues
 colect->collect
 colected->collected
+colectes->collects
+colecting->collecting
 colection->collection
 colections->collections
 colective->collective
@@ -37906,6 +37908,7 @@ enitities->entities
 enitity->entity
 enitrely->entirely
 enity->entity
+enitys->entities
 enivitable->inevitable
 enivornment->environment
 enivornments->environments
@@ -99200,7 +99203,9 @@ supeerfluous->superfluous
 supeerinteendeent->superintendent
 supeerseedee->supersede
 supeerseedeed->superseded
+supend->suspend
 supended->suspended
+supends->suspends
 superblc->superblock
 superbloc->superblock
 superbock->superblock
