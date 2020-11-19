@@ -46497,6 +46497,7 @@ gernerate->generate
 gernerated->generated
 gernerates->generates
 gerneric->generic
+gernerics->generics
 gerogia->georgia
 gerrilla->guerrilla
 gerrillas->guerrillas
