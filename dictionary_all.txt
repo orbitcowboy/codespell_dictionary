@@ -48742,7 +48742,6 @@ heigths->heights
 heigts->heights
 heiidelberg->heidelberg
 heiight->height
-heir->hier
 heirachies->hierarchies
 heirachy->hierarchy
 heirarchic->hierarchic
