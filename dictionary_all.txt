@@ -22457,7 +22457,6 @@ configuralion->configuration
 configurare->configure
 configurarion->configuration
 configurartion->configuration
-configurate->configure
 configurathion->configuration
 configuratin->configurating, configuration,
 configuratiom->configuration
