@@ -26649,6 +26649,7 @@ cppchecck->cppcheck
 cppcheckk->cppcheck
 cppcheeck->cppcheck
 cppchek->cppcheck
+cppchgeck->cppcheck
 cppchheck->cppcheck
 cppckeck->cppcheck
 cppecheck->cppcheck
