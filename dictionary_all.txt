@@ -58224,6 +58224,11 @@ itnerest->interest
 itnerface->interface
 itnerfaces->interfaces
 itnernal->internal
+itnerprelation->interpretation
+itnerpret->interpret
+itnerpretation->interpretation
+itnerpretaton->interpretation
+itnerpreter->interpreter
 itnervals->intervals
 itnroduced->introduced
 itreration->iteration
