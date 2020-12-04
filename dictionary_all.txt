@@ -22626,6 +22626,8 @@ confugure->configure
 confugured->configured
 confugures->configures
 confuguring->configuring
+confuigration->configuration
+confuigrations->configurations
 confuing->confusing
 confuising->confusing
 confunction->conjunction
