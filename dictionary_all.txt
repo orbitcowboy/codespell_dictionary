@@ -37803,6 +37803,7 @@ enforcingg->enforcing
 enforcmement->enforcement
 enforcment->enforcement
 enfore->enforce
+enfores->enforces
 enforke->enforce
 enforking->enforcing
 enforrce->enforce
@@ -105837,6 +105838,7 @@ uintt32_tt->uint32_t
 uintt64_tt->uint64_t
 uintt8_tt->uint8_t
 uique->unique
+uis->is
 uise->use
 uisng->using
 uite->suite
