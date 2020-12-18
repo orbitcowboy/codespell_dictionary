@@ -50961,7 +50961,7 @@ iinhabiitants->inhabitants
 iinherently->inherently
 iinheriitance->inheritance
 iiniitiial->initial
-iiniitiialiisatiion->initialisation
+iiniitiialiisatiion->initialization
 iiniitiialiise->initialise
 iiniitiialiizatiion->initialization
 iiniitiialiize->initialize
@@ -74917,7 +74917,9 @@ perfoormed->performed
 perfoormers->performers
 perfoorming->performing
 perfoorms->performs
+perfor->perform
 perforamnce->performances
+perford->performed
 perform of->performing of
 performa->perform
 performaance->performance
@@ -74968,6 +74970,7 @@ performms->performs
 performnace->performance
 performous->performs
 performss->performs
+perfors->performs
 perfrom->perform
 perfromance->performance
 perfromances->performances
@@ -76872,6 +76875,7 @@ polymorpic->polymorphic
 polynnomial->polynomial
 polynnomials->polynomials
 polynom->polynomial
+polynomal->polynomial
 polynomiaal->polynomial
 polynomiaals->polynomials
 polynomiael->polynomial
@@ -86612,10 +86616,13 @@ removeing->removing
 removep->remove
 removerd->removed
 removve->remove
+remve->remove
 remved->removed
+remves->removes
 remvoe->remove
 remvoed->removed
 remvoved->removed
+remvs->removes
 renable->reenable
 renabled->re-enabled
 renaiisance->renaissance
