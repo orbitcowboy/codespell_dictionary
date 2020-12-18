@@ -11567,7 +11567,7 @@ backbround->background
 backdooor->backdoor
 backdor->backdoor
 backeast->backseat
-backed->backend
+backed->backend, backed,
 backenda->backend
 backerds->backers
 backfeild->backfield
@@ -92822,7 +92822,7 @@ sightly->slightly
 sightstine->sightstone
 sightted->sighted
 sigificance->significance
-sigill->sigkill
+sigill->sigil, sigkill, sigill,
 siginificant->significant
 siginificantly->significantly
 siginify->signify
