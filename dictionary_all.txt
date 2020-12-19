@@ -63074,6 +63074,7 @@ manuffactured->manufactured
 manuffacturing->manufacturing
 manulally->manually
 manully->manually
+manuly->manually
 manupilated->manipulated
 manupilating->manipulating
 manupilations->manipulations
