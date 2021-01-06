@@ -40334,6 +40334,7 @@ exectuable->executable
 exectuableness->executableness
 exectuables->executables
 exectued->executed
+exectues->executes, executives,
 exectuing->executing
 exectuion->execution
 exectuioner->executioner
