@@ -95831,6 +95831,8 @@ spuuriouus->spurious
 spwaned->spawned
 spwaning->spawning
 sqale->squale
+sqare->square
+sqared->squared
 sqashing->squashing
 sqaudron->squadron
 sqaure->square
@@ -107188,6 +107190,7 @@ uninitialzes->uninitializes
 uninitiatized->uninitialized
 uninitizlized->uninitialized
 uninittialized->uninitialized
+uninivar->uninitvar
 uninlerrupled->uninterrupted
 uninsipred->uninspired
 uninsitalled->uninstalled
