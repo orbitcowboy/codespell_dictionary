@@ -7772,6 +7772,8 @@ approciate->appreciate, appropriate,
 approciated->appreciated
 approciates->appreciates
 approiate->appropriate
+approimation->approximation
+approimations->approximations
 appron->apron
 approoach->approach
 approoaches->approaches
@@ -7934,6 +7936,8 @@ aproch->approach
 aproched->approached
 aproches->approaches
 aproching->approaching
+aproimation->approximation
+aproimations->approximations
 apronn->apron
 aproon->apron
 aproove->approve
