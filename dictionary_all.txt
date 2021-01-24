@@ -95835,6 +95835,7 @@ spuuriouus->spurious
 spwaned->spawned
 spwaning->spawning
 sqale->squale
+sqard->squared
 sqare->square
 sqared->squared
 sqashing->squashing
