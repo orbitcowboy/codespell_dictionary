@@ -78563,6 +78563,7 @@ precentage->percentage
 precentages->percentages
 precentile->percentile
 precesion->precision
+precessing->processing
 precessor->predecessor, processor,
 prechage->precharge
 precice->precise
@@ -102692,6 +102693,8 @@ thousandds->thousands
 thousannd->thousand
 thousannds->thousands
 thousends->thousands
+thousens->thousands
+thousent->thousand
 thoussand->thousand
 thoussandss->thousands
 thouugh->though
