@@ -15392,7 +15392,6 @@ canbe->can be
 cancaellation->cancellation
 cancatenation->concatenation
 canceellation->cancellation
-cancelability->cancellability
 cancelaltion->cancellation
 cancelas->cancels
 cancelation->cancellation
@@ -15420,7 +15419,6 @@ cancle->cancel
 cancled->canceled
 cancles->cancels
 cancres->cancers
-cancuks->canucks
 candadate->candidate
 candadates->candidates
 canddiddate->candidate
