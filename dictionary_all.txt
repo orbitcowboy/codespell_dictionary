@@ -17036,6 +17036,7 @@ ceiveing->ceiving
 ceivingg->ceiving
 ceivinng->ceiving
 ceivving->ceiving
+celanup->cleanup
 celcius->celsius
 celebartion->celebrations
 celebirties->celebrities
