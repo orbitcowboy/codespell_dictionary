@@ -6901,6 +6901,7 @@ anothe->another
 anotheer->another
 anotherr->another
 anothher->another
+anothr->another
 anotther->another
 anounce->announce
 anounced->announced
@@ -12416,6 +12417,7 @@ begginging->beginning
 begginig->beginning
 beggining->beginning
 begginings->beginnings
+beggininng->beginning
 begginner->beginner
 begginners->beginners
 begginng->begging
