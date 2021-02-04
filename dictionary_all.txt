@@ -98898,6 +98898,7 @@ succsessive->successive
 succssful->successful
 succsss->success
 succussfully->successfully
+suceding->seceding, succeeding,
 suceed->succeed
 suceeded->succeeded
 suceeding->succeeding
@@ -107031,6 +107032,7 @@ unfortuntely->unfortunately
 unforunate->unfortunate
 unforunately->unfortunately
 unforuntately->unfortunately
+unforuntatly->unfortunately
 unforutunate->unfortunate
 unforutunately->unfortunately
 unfotunately->unfortunately
