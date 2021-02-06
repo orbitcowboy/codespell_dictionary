@@ -29686,6 +29686,7 @@ deflecticon->deflection
 deflectin->deflection
 deflecto->deflection
 deflektion->deflection
+deflt->default
 defnese->defense
 defniately->definately
 defnietly->definitely
