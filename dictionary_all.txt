@@ -64896,6 +64896,7 @@ migrianes->migraines
 migrrate->migrate
 migrration->migration
 migth->might
+mihgt->might
 mihtraic->mithraic
 miichiigan->michigan
 miicro->micro
