@@ -891,6 +891,7 @@ absolue->absolute
 absoluely->absolutely
 absoluet->absolute
 absoluetly->absolutely
+absolul->absolute
 absolule->absolute
 absolulely->absolutely
 absolulte->absolute
