@@ -392,6 +392,7 @@ unverholen->unverhohlen
 unzufireden->unzufrieden
 ursprünglcih->ursprünglich
 verschiendenen->verschiedenen
+vielleict->vielleicht
 vor haben->vorhaben
 vorraus->voraus
 warden->wurden
