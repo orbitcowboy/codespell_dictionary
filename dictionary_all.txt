@@ -48427,6 +48427,7 @@ hardwarae->hardware
 hardward->hardware
 hardwared->hardwired
 hardwaree->hardware
+hardwasre->hardware
 hardwdare->hardware
 hardwere->hardware
 hardwirted->hardwired
