@@ -5189,6 +5189,7 @@ aliver->alive, liver,
 alk->alt
 alkohol->alcohol
 alkoholik->alcoholic
+all all->all
 all off->all of
 all-lime->all-time
 all-thime->all-time
