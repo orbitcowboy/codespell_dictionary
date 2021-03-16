@@ -14519,7 +14519,6 @@ busness->business
 busniessmen->businessmen
 busrting->bursting
 buss->bus
-busses->buses
 bussess->buses
 bussiness->business
 bussinessss->business
