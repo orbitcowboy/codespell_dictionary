@@ -81498,6 +81498,7 @@ protektion->protection
 protelariat->proletariat
 protential->potential
 protess->protests
+testes->tests, tested,
 protesses->process
 protestans->protests
 protestantes->protestants
