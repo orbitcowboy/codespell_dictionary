@@ -2349,6 +2349,9 @@ activityy->activity
 activizion->activision
 activley->actively
 activly->actively
+activste->activate
+activsted->activated
+activstes->activates
 activte->activity
 activties->activities
 activvate->activate
@@ -14021,6 +14024,8 @@ bristool->bristol
 britaain->britain
 britaein->britain
 britainn->britain
+brite->bright
+briter->brighter
 brithain->britain
 brithday->birthday
 brithdays->birthdays
@@ -17502,7 +17507,9 @@ champiosnhip->championships
 champoinship->championship
 champpagne->champagne
 chanage->change
+chanaged->changed
 chanages->changes
+chanaging->changing
 chancae->chance
 chancee->chance
 chancel->cancel
@@ -31104,6 +31111,7 @@ desings->designs
 desintegrated->disintegrated
 desintegration->disintegration
 desinterested->disinterested
+desinty->density, destiny
 desipite->despite
 desiraable->desirable
 desirabble->desirable
@@ -43740,6 +43748,7 @@ finilizes->finalizes
 fininsh->finish, finnish,
 finised->finished
 finishe->finished, finish,
+finishied->finished
 finishs->finishes
 finisse->finishes
 finitae->finite
@@ -81498,7 +81507,6 @@ protektion->protection
 protelariat->proletariat
 protential->potential
 protess->protests
-testes->tests, tested,
 protesses->process
 protestans->protests
 protestantes->protestants
@@ -89905,6 +89913,8 @@ rrose->rose
 rroughly->roughly
 rrouterr->router
 rroutines->routines
+rrror->error
+rrrors->errors
 rrudimentarry->rudimentary
 rrue->true
 rrule->rule
@@ -93419,6 +93429,7 @@ sintakts->syntax
 sintax->syntax
 sionist->zionist
 sionists->zionists
+sircular->circular
 sirculations->circulation
 sirvaylence->surveillance
 sise->size
@@ -99602,6 +99613,11 @@ supptanted->supplanted
 supptemented->supplemented
 supptementing->supplementing
 suppty->supply
+suppurt->support
+suppurted->supported
+suppurting->supporting
+suppurtive->supportive
+suppurts->supports
 suppy->supply
 suppying->supplying
 supramacist->supremacist
@@ -100291,6 +100307,11 @@ sycall->syscall
 sychronisly->synchronously
 sychronmode->synchronmode
 sychronously->synchronously
+sycle->cycle
+sycled->cycled
+sycles->cycles
+syclic->cyclic
+syclical->cyclical
 sycning->syncing
 sycology->psychology
 sycremotes->syncremotes
@@ -100322,6 +100343,8 @@ sylabuses->syllabi, syllabuses,
 syle->style
 syles->styles
 sylibol->syllable
+sylinder->cylinder
+sylinders->cylinders
 sylistic->stylistic
 syllabe->syllable
 syllabel->syllable
@@ -101991,6 +102014,7 @@ testdocuemts->testdocuments
 teste->test
 testedd->tested
 testeing->testing
+testes->tests, tested,
 testestorone->testosterone
 testet->tested
 testiccular->testicular
@@ -104881,6 +104905,7 @@ triigonometriic->trigonometric
 triigraphs->trigraphs
 triilogy->trilogy
 triiviial->trivial
+trilinar->trilinear
 trillogy->trilogy
 triloggy->trilogy
 trilogoy->trilogy
