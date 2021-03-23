@@ -67520,6 +67520,7 @@ musikal->musical
 musikian->musician
 musikians->musicians
 musilms->muslims
+musisc->music
 musit->must
 muskles->muscles
 musl->must
