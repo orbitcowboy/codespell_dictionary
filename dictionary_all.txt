@@ -17235,6 +17235,7 @@ cerimonies->ceremonies
 cerimonious->ceremonious
 cerimony->ceremony
 ceritfication->certifications
+ceritication->certification
 cerlain->certain
 cerlainly->certainly, certainty,
 cerlificale->certificate
@@ -17282,6 +17283,7 @@ certanity->certainty
 certanly->certainly
 certficate->certificate
 certficates->certificates
+certfication->certification
 certhain->certain
 certhainly->certainly
 certhainthy->certainty
@@ -17317,6 +17319,7 @@ certificationkits->certifications
 certificationn->certification
 certificatioon->certification
 certificato->certification
+certificaton->certification
 certificats->certificates
 certifice->certificate
 certificiate->certificate
@@ -17344,6 +17347,7 @@ cessationalism->sensationalism
 cessationalist->sensationalist
 cesspol->cesspool
 cesspoool->cesspool
+cetification->certification
 cetlics->celtics
 cetsius->celsius
 cett->cell
@@ -40284,6 +40288,7 @@ excpet->except
 excpetion->exception
 excpetional->exceptional
 excpetionally->exceptionally
+excpetioned->expedition
 excpetions->exceptions
 excplicit->explicit
 excplicitly->explicitly
