@@ -14319,6 +14319,7 @@ buildinng->building
 buildins->buildings
 buildot->buildbot
 buildpackge->buildpackage
+buildung->building
 builing->building
 builitn->builtin
 buill by->built by
@@ -112520,6 +112521,7 @@ wswidgets->wxwidgets
 wth->with
 wtiches->witches
 wtih->with
+wtihout->without
 wtth->with
 wunderful->wonderful
 wunderfull->wonderful
