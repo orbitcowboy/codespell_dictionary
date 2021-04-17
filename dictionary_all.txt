@@ -6764,6 +6764,7 @@ annoyingy->annoyingly
 annoymous->anonymous
 annoymously->anonymously
 annoynace->annoyance
+annoyuing->annoying
 annoyyed->annoyed
 annoyying->annoying
 annswer->answer
@@ -76396,7 +76397,9 @@ platofrm->platform
 platofrmer->platformer
 platofrms->platforms
 platorm->platform
+platorm>platform
 platorms->platforms
+platorms>platforms
 platteau->plateau
 plattform->platform
 plattforms->platforms
@@ -97378,6 +97381,7 @@ strawbrary->strawberry
 strawbrerry->strawberry
 strawburries->strawberries
 strawburry->strawberry
+strcitly->strictly
 strctures->structures
 strcutre->structure
 strcutural->structural
