@@ -7677,6 +7677,7 @@ appraoched->approached
 appraoches->approaches
 appraoching->approaching
 apprearance->appearance
+apprearances->appearances
 apprecaite->appreciate
 apprecaited->appreciated
 apprecaites->appreciates
@@ -20598,6 +20599,9 @@ comnittee->committee
 comnitting->committing
 comnived->connived
 comnmand->command
+comnment->comment
+comnmented->commented
+comnments->comments
 comnon->common
 comnonly->commonly
 comnonwealth->commonwealth
