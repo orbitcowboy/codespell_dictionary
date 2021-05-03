@@ -53497,6 +53497,7 @@ indext->index, indent, indexed,
 indexx->index
 indexxes->indexes
 indiaan->indiana
+indiactes->indicates
 indiactor->indicator
 indianaoplis->indianapolis
 indianapols->indianapolis
