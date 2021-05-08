@@ -14224,6 +14224,7 @@ btog->blog
 btter->better
 btton->button
 buad->baud
+bub->bug
 bubbels->bubbles
 bubblews->bubbles
 buda->buddha
@@ -111185,6 +111186,7 @@ wathdogs->watchdogs
 wathever->whatever
 waths->whats
 watiers->waiters
+watiing->waiting
 wating->waiting
 watkhdog->watchdog
 watkings->watkins
