@@ -11862,6 +11862,8 @@ banndwidth->bandwidth
 bannet->bayonet
 bannkruptcy->bankruptcy
 banruptcy->bankruptcy
+baord->board
+baords->boards
 baordwalk->boardwalk
 baout->about, bout,
 baoynet->bayonet
