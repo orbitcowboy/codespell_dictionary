@@ -92393,6 +92393,7 @@ shakespere->shakespeare
 shakesperean->shakespeare
 shakesphere->shakespeare
 shal->shall
+shall be shall->shall be
 shallll->shall
 shamann->shaman
 shamanns->shamans
