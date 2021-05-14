@@ -110041,7 +110041,7 @@ verticaal->vertical
 verticael->vertical
 verticale->vertical
 verticall->vertical
-verticallity-> verticality, vertically,
+verticallity->verticality, vertically,
 verticaly->vertically
 verticat->vertical
 verticcal->vertical
