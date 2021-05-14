@@ -76406,9 +76406,7 @@ platofrm->platform
 platofrmer->platformer
 platofrms->platforms
 platorm->platform
-platorm>platform
 platorms->platforms
-platorms>platforms
 platteau->plateau
 plattform->platform
 plattforms->platforms
