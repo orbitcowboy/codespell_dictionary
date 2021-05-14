@@ -103994,6 +103994,7 @@ tranactional->transactional
 tranactions->transactions
 tranasction->transaction
 tranasctions->transactions
+trancaperency->transparency
 trancate->truncate
 tranceiver->transceiver
 tranceivers->transceivers
@@ -104002,6 +104003,7 @@ trancending->transcending
 tranclate->translate
 tranclucent->translucent
 trancode->transcode
+trancparent->transparent
 trandgender->transgender
 tranditional->transitional
 tranditions->transitions
