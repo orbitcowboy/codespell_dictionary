@@ -84978,6 +84978,7 @@ redneckest->rednecks
 rednerer->renderer
 redners->renders
 redonly->readonly
+redrawin->redrawn
 redristibutable->redistributable
 reduceable->reducible
 redudancy->redundancy
@@ -85364,6 +85365,7 @@ refactores->refactors
 refactoriing->refactoring
 refactoringg->refactoring
 refactorings->refactoring
+refactorings->refatorings
 refactorinng->refactoring
 refactroing->refactoring
 refacttoring->refactoring
@@ -85372,6 +85374,8 @@ refaktoring->refactoring
 refartor->refactor, refractor,
 refartored->refactored, refracted,
 refartoring->refactoring, refractoring,
+refatored->refactored
+refatoring->refactoring
 refcound->refcount
 refcounf->refcount
 refect->reflect
