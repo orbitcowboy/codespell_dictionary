@@ -111073,6 +111073,8 @@ warninsg->warnings
 warninsgs->warnings
 warniong->warning
 warniongs->warnings
+warnkng->warning
+warnkngs->warnings
 warnninng->warning
 warnninngs->warnings
 warrandyte->warranty
