@@ -101994,7 +101994,6 @@ terrrritorries->territories
 terrrritorry->territory
 terrrrorrist->terrorist
 terrurists->terrorists
-terse->these
 tescase->testcase
 tescases->testcases
 tese requirements->these requirements
