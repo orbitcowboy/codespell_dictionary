@@ -101997,8 +101997,8 @@ terrurists->terrorists
 tescase->testcase
 tescases->testcases
 tese requirements->these requirements
-tese->these
-tesed->teased, used,
+tese->these, tease,
+tesed->teased, tested, used,
 tesellate->tessellate
 tesellated->tessellated
 tesellation->tessellation
