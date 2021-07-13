@@ -86532,7 +86532,7 @@ remainst->remains
 remainter->remainder
 remakrs->remarks
 remane->remain
-remanin->remain
+remanin->remaining, remain,
 remaning->remaining
 remannt->remnant
 remannts->remnants
