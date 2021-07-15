@@ -9338,6 +9338,9 @@ assignemt->assignment
 assignemtn->assignment
 assignend->assigned
 assignenent->assignment
+assignenment->assignment
+assignenmentes->assignments
+assignenments->assignments
 assignenmet->assignment
 assignents->assignments
 assignes->assigns
