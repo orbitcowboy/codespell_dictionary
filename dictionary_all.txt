@@ -6806,6 +6806,7 @@ annywhere->anywhere
 anobject->an object
 anoerxia->anorexia
 anoerxic->anorexic
+anoher->another
 anohter->another
 anoiint->anoint
 anoiinted->anointed
