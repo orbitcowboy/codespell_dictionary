@@ -20170,6 +20170,9 @@ commilmenls->commitments
 commilted->committed
 commiltee->committee
 commilting->committing
+commimt->commit
+commimted->committed
+commimts->commits
 comming->coming
 comminicate->communicate
 comminicated->communicated
