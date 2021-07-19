@@ -30995,6 +30995,7 @@ descritptive->descriptive
 descritptor->descriptor
 descritptors->descriptors
 descrpition->descriptions
+descrption->description
 descrptor->descriptor
 descrptors->descriptors
 descrribe->describe
