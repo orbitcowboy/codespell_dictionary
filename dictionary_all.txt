@@ -85717,6 +85717,7 @@ regerts->regrets
 regession->regression
 regester->register
 regestered->registered
+regestery->register, registry,
 regestration->registration
 regestry->registry
 regexess->regexes
