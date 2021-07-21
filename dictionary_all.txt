@@ -26383,6 +26383,8 @@ councitors->councilors
 councittor->councillor
 councittors->councillors
 cound->could, count,
+cound->count
+counded->counted
 counding->counting
 coundition->condition
 coundown->countdown
