@@ -9010,6 +9010,8 @@ ascpect->aspect
 ascpects->aspects
 asdded->added
 asddress->address
+asdignment->assignment
+asdignments->assignments
 aseembly->assembly
 asemble->assemble
 asembled->assembled
