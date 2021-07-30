@@ -49183,7 +49183,6 @@ hiaeroglyphics->hieroglyphics
 hiaeroglyphs->hieroglyphs
 hiarchical->hierarchical
 hiarchy->hierarchy
-hid->hide
 hidae->hide
 hiddaen->hidden
 hidddden->hidden
