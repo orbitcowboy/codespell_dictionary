@@ -29099,6 +29099,8 @@ decsend->descend
 decsendants->descendants
 decsended->descended
 decsending->descending
+decsion->decision
+decsions->decisions
 decsiptors->descriptors
 decsribed->described
 decsriptor->descriptor
