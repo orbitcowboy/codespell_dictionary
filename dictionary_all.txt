@@ -27432,6 +27432,7 @@ currect->correct, current,
 currectly->correctly
 curreent->current
 curreently->currently
+curremtly->currently
 curren->current
 currence->currencies
 currenct->current
