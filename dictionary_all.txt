@@ -104748,7 +104748,6 @@ traveles->travels
 traveller->traveler
 travellerhd->travelled
 travellers->travelers
-travelling->traveling
 travellodge->travelled
 travelodge->traveled
 travelsal->traversal
