@@ -69421,6 +69421,7 @@ nolicing->noticing
 nolificalion->notification
 noloriely->notoriety
 nolwilhslanding->notwithstanding
+nom->no
 nomber->number
 nome->gnome
 nomimal->nominal
@@ -112827,6 +112828,7 @@ yemmenite->yemenite
 yera->year
 yeras->years
 yersa->years
+yesm->yes
 yesturday->yesterday
 yettow->yellow
 yhe->the
