@@ -19673,6 +19673,8 @@ colummn->column
 colummns->columns
 columms->columns
 columnas->columns
+columnm->column
+columnms->columns
 columnn->column
 columnns->columns
 columnss->columns
@@ -24066,6 +24068,9 @@ consttructtion->construction
 consttructtor->constructor
 consttructtors->constructors
 consttructts->constructs
+consttuct->construct
+consttucted->constructed
+consttucts->constructs
 constuct->construct
 constucted->constructed
 constucter->constructor
@@ -52397,6 +52402,7 @@ impusle->impulse
 impusles->impulses
 impuslive->impulsive
 imput->input
+imroper->improper
 imrovement->improvement
 imrpove->improve
 imrpoved->improved
@@ -69784,6 +69790,8 @@ notciable->noticeable
 noteable->notable
 noteably->notably
 notebok->notebook
+noteboko->notebook
+notebokos->notebooks
 noteboook->notebook
 notee->note
 noteepad->notepad
@@ -96937,6 +96945,7 @@ stayeed->stayed
 stayyed->stayed
 stcokbrush->stockbrush
 std::stirng->std::string
+std:string->std::string
 stdanard->standard
 stdudio->studio
 steadilly->steadily
