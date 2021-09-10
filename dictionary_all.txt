@@ -41717,7 +41717,8 @@ explainn->explain
 explainned->explained
 explainninng->explaining
 explaintory->explanatory
-explanaiton->explanations
+explanaiton->explanation
+explanaitons->explanations
 explanalion->explanation
 explanathion->explanation
 explanatiion->explanation
