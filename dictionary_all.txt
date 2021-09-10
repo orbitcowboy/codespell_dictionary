@@ -102733,7 +102733,6 @@ thornes->thrones
 thoroidal->toroidal
 thorouggh->thorough
 thorougghly->thoroughly
-thorough->through
 thoroughlly->thoroughly
 thoroughlyy->thoroughly
 thoroughty->thoroughly
