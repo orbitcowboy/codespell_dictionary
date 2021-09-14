@@ -5708,7 +5708,6 @@ alternatievely->alternatively
 alternatievly->alternatively
 alternatiive->alternative
 alternatiives->alternatives
-alternation->alteration
 alternativ->alternative
 alternativee->alternative
 alternativees->alternatives
