@@ -5678,7 +5678,7 @@ altended->attended
 altention->attention
 alteracion->alteration
 alterante->alternate
-alterantions->alternations
+alterantions->alternations, alterations,
 alterantive->alternative
 alterantively->alternatively
 alterantives->alternatives
