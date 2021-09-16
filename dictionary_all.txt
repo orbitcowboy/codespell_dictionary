@@ -32984,6 +32984,7 @@ directoryy->directory
 directos->directors
 directoty->directory
 directoy->directory
+directoys->directories
 directpries->directories
 directpry->directory
 directries->directories
