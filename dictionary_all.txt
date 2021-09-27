@@ -7433,6 +7433,7 @@ appearrs->appears
 appearss->appears
 appeas->appease, appears,
 appeating->appealing
+appebnd->append
 appeciate->appreciate
 appedn->append
 appeealing->appealing
