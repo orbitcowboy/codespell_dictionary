@@ -22067,7 +22067,6 @@ conctusions->conclusions
 conculsion->conclusion
 conculsions->conclusions
 conculsive->conclusive
-concur->conquer
 concurence->concurrence
 concurency->concurrency
 concurent->concurrent
