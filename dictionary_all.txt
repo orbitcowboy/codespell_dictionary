@@ -6412,6 +6412,7 @@ anddrogyny->androgyny
 anddroidd->android
 andeas->andes, andreas,
 andlers->handlers, antlers,
+andm->and
 andoid->android
 andoirds->androids
 andora->andorra
@@ -7525,6 +7526,7 @@ applicabilily->applicability
 applicabilithy->applicability
 applicabilitty->applicability
 applicabilityy->applicability
+applicabled->applicable
 applicablity->applicability
 applicacion->application
 applicaion->application
@@ -8671,6 +8673,7 @@ arosee->arose
 aross->across
 arosse->arose
 aroud->around
+aroudn->around
 aroundd->around
 arounded->around
 aroung->around
@@ -10743,6 +10746,9 @@ authenticor->authenticator
 authentiction->authentication
 authenticty->authenticity
 authenticy->authenticity
+authentificate->authenticate
+authentificated->authenticated
+authentificates->authenticates
 authentification->authentication
 authentiicate->authenticate
 authentiicatiion->authentication
@@ -15257,6 +15263,7 @@ callis->calls
 calll->call
 callled->called
 calllee->callee
+callling->calling
 callllback->callback
 callllbacks->callbacks
 calllligraphy->calligraphy
@@ -26565,6 +26572,7 @@ coutdn't->couldn't
 couted->counted
 couter->counter
 couterpart->counterpart
+couterparts->counterparts
 couthurier->couturier
 couting->counting
 coutner->counter
@@ -28991,6 +28999,7 @@ decompresed->decompressed
 decompreser->decompressor
 decompreses->decompresses
 decompresing->decompressing
+decompresion->decompression
 decompresor->decompressor
 decompressd->decompressed
 decompresser->decompressor
@@ -32823,6 +32832,7 @@ diminutivve->diminutive
 diminuttive->diminutive
 diminuutive->diminutive
 dimissed->dismissed
+dimissing->dismissing
 dimm->dim, dims,
 dimmension->dimension
 dimmensional->dimensional
@@ -42323,6 +42333,7 @@ extraxted->extracted
 extraxting->extracting
 extraxtors->extractors
 extraxts->extracts
+extre->extra
 extream->extreme
 extreamely->extremely
 extreamily->extremely
@@ -55483,6 +55494,7 @@ insertes->inserts
 inserthed->inserted
 insertin->inserting
 insertino->inserting
+insertiongs->insertions
 insertos->inserts
 insertted->inserted
 insesitive->insensitive
@@ -55762,6 +55774,7 @@ instantation->instantiation
 instantations->instantiations
 instanteneous->instantaneous
 instantenious->instantaneous
+instantenous->instantaneous
 instantianted->instantiated
 instantiataed->instantiated
 instantiatedd->instantiated
@@ -58294,6 +58307,7 @@ itreration->iteration
 its is->it is, it's,
 itsef->itself
 itsel->itself
+itselfm->itself
 itselfs->itself
 itselt->itself
 itsems->items
@@ -66645,6 +66659,7 @@ monnths->months
 monntserrat->montserrat
 monocchrome->monochrome
 monochhrome->monochrome
+monochome->monochrome
 monochorme->monochrome
 monochorome->monochrome
 monochromae->monochrome
@@ -71195,6 +71210,7 @@ oncae->once
 oncce->once
 oncee->once
 onces->ounces, ones, once,
+onconditionally->unconditionally
 ond->one
 one nike->one nice
 one thiing ii->one thing i
@@ -72234,6 +72250,7 @@ origginally->originally
 origgination->origination
 origial->original
 origially->originally
+origian->origin
 origianal->orginal, original,
 origianally->orginally, originally,
 origianaly->orginally, originally,
@@ -77029,6 +77046,7 @@ poolyphoonic->polyphonic
 poolysaccharide->polysaccharide
 poomegranate->pomegranate
 pooname->poolname
+poonter->pointer
 poop up->pop up
 poop ups->pop ups
 poopping up->popping up
@@ -81383,6 +81401,7 @@ proprotional->proportional
 proprotionally->proportionally
 proprotions->proportions
 proprtion->proportion
+proprty->property
 propse->propose
 propsect->prospect
 propsective->prospective
@@ -84475,6 +84494,9 @@ reciver->receiver
 recivership->receivership
 recives->receives
 reciving->receiving
+reclaculate->recalculate
+reclaculated->recalculated
+reclaculates->recalculates
 reclaimation->reclamation
 reclami->reclaim
 recliam->reclaim
@@ -84855,6 +84877,8 @@ rectanlge->rectangle
 rectengular->rectangular
 rectifiy->rectify
 rectiinear->rectilinear
+rectrangle->rectangle
+rectrangles->rectangles
 recude->reduce
 recuiting->recruiting
 reculrively->recursively
@@ -87851,6 +87875,7 @@ reregisteration->reregistration
 rererences->references
 reresents->represents
 reresh->refresh
+rereshing->refreshing
 rerference->reference
 rerferences->references
 reroder->reorder
@@ -91591,6 +91616,7 @@ selekt->select
 selekted->selected
 selektions->selections
 selektor->selector
+seletected->selected
 seleted->selected
 selets->selects
 self-comparisson->self-comparison
@@ -93308,6 +93334,7 @@ simulatanously->simultaneously
 simulatation->simulation
 simulatenous->simultaneous
 simulatenously->simultaneously
+simulateously->simultaneously
 simulathor->simulator
 simulatie->simulate
 simulaties->simulate
@@ -99426,6 +99453,10 @@ supllemental->supplemental
 supllies->supplies
 suply->supply
 supoose->suppose
+supoprt->support
+supoprted->supported
+supoprtes->supportes
+supoprting->supporting
 suport->support
 suported->supported
 suporting->supporting
@@ -100799,6 +100830,7 @@ syntehsized->synthesized
 syntehtic->synthetic
 syntesis->synthesis
 syntethic->synthetic
+syntethized->synthesized
 syntetic->synthetic
 syntetize->synthesize
 syntetized->synthesized
@@ -100809,6 +100841,7 @@ synthax->syntax
 synthesasia->synthesis
 synthesesia->synthesis
 synthethic->synthetic
+synthetize->synthesize
 synthetized->synthesized
 synthetizer->synthesizer
 synthetizers->synthesizers
@@ -104669,6 +104702,7 @@ transylvnia->transylvania
 tranthlator->translator
 tranversal->traversal
 tranverse->traverse
+tranversed->traversed
 tranversing->traversing
 tranzformer->transformer
 tranzistor->transistor
@@ -106873,6 +106907,7 @@ undetectabte->undetectable
 undetectaeble->undetectable
 undetektable->undetectable
 undetekted->undetected
+undeterminated->undetermined
 undethecthable->undetectable
 undethecthed->undetected
 undettecttable->undetectable
@@ -110111,6 +110146,7 @@ vessles->vessels
 vetex->vertex
 vetexes->vertices
 vetinarian->veterinarian
+vetoe->veto
 vetor->vector
 vetween->between
 veulnerability->vulnerability
