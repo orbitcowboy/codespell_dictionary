@@ -90370,6 +90370,7 @@ samller->smaller
 sammba->samba
 samme->same
 sammery->summery
+sammler->smaller
 sammon->salmon
 sammple->sample
 samori->samurai
