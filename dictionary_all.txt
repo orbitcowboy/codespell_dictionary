@@ -38940,6 +38940,9 @@ erata->errata
 eratic->erratic
 eratically->erratically
 eraticly->erratically
+erease->erase
+ereased->erased
+ereases->erases
 ereccted->erected
 erecled->erected
 erectedd->erected
