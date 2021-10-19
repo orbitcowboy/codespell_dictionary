@@ -15164,6 +15164,7 @@ calfs->calves
 calgarry->calgary
 calholic->catholic
 calholicism->catholicism
+calib->calibration
 calibaer->caliber
 calibartion->calibration
 calibber->caliber
@@ -46232,6 +46233,7 @@ gelanned->gelaned
 gellaned->gelaned
 gelting->getting
 gemerate->generate
+gemessen->measured
 gemetrical->geometrical
 gemetry->geometry
 gemoetry->geometry
@@ -49337,6 +49339,7 @@ highhest->highest
 highjack->hijack
 highlane->highlander
 highlighed->highlighted
+highlighes->highlights
 highlighing->highlighting
 highlighl->highlight
 highlighled->highlighted
@@ -71520,6 +71523,7 @@ opemness->openness
 opems->opens
 openbrower->openbrowser
 opend->opened
+opend-drain->open-drain
 opended->opened
 openedd->opened
 openeded->opened
@@ -77524,6 +77528,7 @@ posittioning->positioning
 posittions->positions
 posittive->positive
 posittives->positives
+positv->positive
 positve->positive
 positves->positives
 posivites->positives
@@ -89214,6 +89219,7 @@ revotutionary->revolutionary
 revoultion->revolution
 revoultionary->revolutionary
 revoultions->revolutions
+revovery->recovery
 revovler->revolver
 revovles->revolves
 revrese->reverse
@@ -101954,6 +101960,7 @@ terminnate->terminate
 terminnated->terminated
 terminolgy->terminology
 terminoligy->terminology
+termintate->terminate
 terminte->terminate
 termintor->terminator
 termminals->terminals
