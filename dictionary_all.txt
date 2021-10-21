@@ -1,3 +1,4 @@
+-compatibiltiy->-compatibility
 .aendmacro->.endmacro
 .eendmacro->.endmacro
 .enddmacro->.endmacro
@@ -18730,7 +18731,7 @@ clarfiy->clarify
 clarificaiton->clarification
 clarifiy->clarify
 clarskon->clarkson
-clas->class, disabled because of name clash in c++
+clas->class
 clases->classes, clashes,
 clasic->classic
 clasical->classical
@@ -112735,6 +112736,7 @@ wwxmaxima->wxmaxima
 wwxwidgets->wxwidgets
 wwysiwwyg->wysiwyg
 wx wingets->wxwidgets
+wxframemananger->wxframemanager
 wxmaaximaa->wxmaxima
 wxmaeximae->wxmaxima
 wxmasima->wxmaxima
