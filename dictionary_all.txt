@@ -52636,6 +52636,10 @@ inauuguurated->inaugurated
 inauuguurates->inaugurates
 inauuguuration->inauguration
 inavlid->invalid
+inavlidat->invalidate
+inavlidate->invalidate
+inavlidated->invalidated
+inavlidates->invalidates
 inbalance->imbalance
 inbalanced->imbalanced
 inbankment->embankment
