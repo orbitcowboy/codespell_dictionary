@@ -37494,6 +37494,7 @@ enameld->enameled
 enameledd->enameled
 enameted->enameled
 enammeled->enameled
+enanched->enhanced
 enaugh->enough
 enbale->enable
 enbaled->enabled
@@ -97240,6 +97241,7 @@ stopps->stops
 stopry->story
 storae->store
 storag->storage
+storages->storage
 storeage->storage
 stoream->stream
 storee->store
