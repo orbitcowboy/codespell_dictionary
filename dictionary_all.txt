@@ -35402,6 +35402,7 @@ dramtic->dramatic
 dran->drawn
 drang and drop->drag and drop
 drankenstein->frankenstein
+dras->draw, draws,
 drasitcally->drastically
 drasticaly->drastically
 drasticlly->drastically
