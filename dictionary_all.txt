@@ -22139,6 +22139,8 @@ condesend->condensed
 condesned->condensed
 condfiguration->configuration
 condiate->candidate
+condiation->condition
+condiations->conditions
 condicional->conditional
 condict->conduct
 condicted->conducted
