@@ -54542,6 +54542,8 @@ inidicates->indicates
 inidicator->indicator
 inidvidual->individual
 iniection->injection
+inierface->interface
+inierfaces->interfaces
 inifinite->infinite
 inifinte->infinite
 inifity->infinity
