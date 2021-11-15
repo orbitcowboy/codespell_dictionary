@@ -56836,6 +56836,9 @@ interracting->interacting
 interractive->interactive
 interracts->interacts
 interragation->interrogation
+interral->internal
+interrales->internals
+interrals->internals
 interratial->interracial
 interrbrred->interbred
 interrbrreed->interbreed
