@@ -41756,6 +41756,7 @@ explannationn->explanation
 explanotory->explanatory
 explantion->explanation
 explantions->explanations
+explantory->explanatory
 explcit->explicit
 explcitly->explicitly
 explecit->explicit
