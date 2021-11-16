@@ -90925,6 +90925,7 @@ schhedule->schedule
 schholarly->scholarly
 schholarshhip->scholarship
 schholastic->scholastic
+schientific->scientific
 schisophrenic->schizophrenic
 schiziphrenic->schizophrenic
 schizophernia->schizophrenia
