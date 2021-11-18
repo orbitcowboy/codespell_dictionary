@@ -8566,6 +8566,7 @@ arithmaetic->arithmetic
 arithmatic->arithmetic
 arithmeetic->arithmetic
 arithmentic->arithmetic
+arithmentics->arithmetic
 arithmethic->arithmetic
 arithmeticc->arithmetic
 arithmetics->arithmetic
