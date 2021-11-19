@@ -15608,6 +15608,7 @@ capabality->capability
 capabbilities->capabilities
 capabbility->capability
 capabble->capable
+capabiblity->capability
 capabicity->capability
 capabiiliitiies->capabilities
 capabiiliity->capability
@@ -24604,6 +24605,7 @@ continuuity->continuity
 continuuouus->continuous
 continuuouusly->continuously
 continuuum->continuum
+contious->continuous
 contiously->contentiously
 contirb->contrib
 contirbute->contribute
@@ -76798,6 +76800,8 @@ pojnt->point
 poket->pocket
 polaloes->potatoes
 polariy->polarity
+polarties->polarities
+polarty->polarity
 polcy->policy
 polenlial->potential
 polenlially->potentially
