@@ -111315,6 +111315,7 @@ wavelenghs->wavelength
 wavelenght->wavelength
 wavelenghth->wavelength
 wavelenghts->wavelengths
+wavelenth->wavelength
 wavelnes->wavelines
 waviers->waivers
 wawrick->warwick
