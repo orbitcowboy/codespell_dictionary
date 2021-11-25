@@ -5645,6 +5645,7 @@ alrready->already
 alrteady->already
 als->also
 alse->also, else,
+alse->else
 alsog->also
 alsoneeds->also_needs
 alsoo->also
@@ -26699,6 +26700,7 @@ cpcheck->cppcheck
 cpecial->special
 cphertext->cyphertext
 cpoy->copy, coy,
+cpoy->coy
 cpp check->cppcheck
 cpp-check->cppcheck
 cppchaeck->cppcheck
@@ -32328,6 +32330,7 @@ didnt;->didn't
 didplayed->displayed
 didsapointed->dissapointed
 diea->die, idea,
+diea->idea
 dieabling->disabling
 diectly->directly
 diee->die
@@ -35138,6 +35141,7 @@ dota->data
 dotrmund->dortmund
 dou->do
 doub->daub, doubt,
+doub->doubt
 doubble->double
 doubble-clicking->double-clicking
 doubbled->doubled
@@ -42547,6 +42551,7 @@ exxtremophile->extremophile
 eyaas->eyas
 eyaes->eyas
 eyar->eyas, year,
+eyar->year
 eyars->eyas, years,
 eyasr->eyas, years,
 eyass->eyas
@@ -44468,6 +44473,7 @@ fomatted->formatted
 fomed->formed
 fommalhaut->fomalhaut
 fomr->form, from,
+fomr->from
 fomula->formula
 fonction->function
 fonctional->functional
@@ -49995,6 +50001,7 @@ hte->the, that,
 hteater->theater
 hteir->their
 htemselves->themselves
+hten->then
 hten->then, the, hen,
 hteorem->theorem
 hteory->theory
@@ -50174,6 +50181,7 @@ huusband->husband
 hvae->have
 hvaing->having
 hve->have
+hvea->have
 hvea->have, heave,
 hweaton->wheaton
 hwihc->which
@@ -70029,6 +70037,7 @@ nsplitt->nsplit
 nsyntax->syntax
 ntification->notification
 ntml->html
+nto->not
 nto->not, disabled due to \n
 ntpong->ntopng
 ntransfering->ntransferring
@@ -71287,6 +71296,7 @@ onnlinne->online
 onnly->only
 onoly->only
 onomonopea->onomatopoeia
+onot->note
 onot->note, not,
 ons->owns
 onsalught->onslaught
@@ -86243,6 +86253,7 @@ rekursion->recursion
 rekursive->recursive
 rekursively->recursively
 rela->disabled due to lots of false positives, real,
+rela->real
 relaated->related
 relaation->relation
 relaations->relations
@@ -90542,6 +90553,7 @@ sastisfies->satisfies
 sasuage->sausage
 sasuages->sausages
 sasy->sassy, says,
+sasy->says
 sataellitae->satellite
 sataellitaes->satellites
 sataisfy->satisfy
@@ -92927,6 +92939,7 @@ sience->since
 siera->sierra
 siez->size
 siezable->sizeable
+sieze->seize
 sieze->seize, size,
 siezed->seized, sized,
 siezing->seizing, sizing,
@@ -93532,6 +93545,7 @@ sinngsonng->singsong
 sinnic->cynic
 sinply->simply
 sinse->since, sines,
+sinse->sines
 sinsiter->sinister
 sintac->syntax
 sintacks->syntax
@@ -94663,6 +94677,7 @@ souht->south
 souhtbridge->southbridge
 souhtern->southern
 sould'nt->shouldn't
+sould->could
 sould->should
 sould->should, could, sold, soul,
 souldn't->shouldn't
@@ -97732,6 +97747,7 @@ strores->stores
 stroring->storing
 strotage->storage
 stroy->destroy, story,
+stroy->story
 stroyline->storyline
 stroylines->storylines
 stroytelling->storytelling
@@ -102428,6 +102444,7 @@ theorry->theory
 theoryy->theory
 theosore->theodore
 ther->the, other, their, there,
+ther->there
 theraefter->thereafter
 therafter->thereafter
 therapautic->therapeutic
@@ -103148,6 +103165,7 @@ tidyed->tidied
 tief->thief
 tieing->tying
 tiem->tim, time, item,
+tiem->time
 tiemout->timeout
 tiemstamp->timestamp
 tieth->tithe
@@ -108230,6 +108248,7 @@ unsccessful->unsuccessful
 unsearcahble->unsearchable
 unseccessful->unsuccessful
 unsed->unused, unsaid, used,
+unsed->used
 unseful->useful
 unselcted->unselected
 unselctes->unselects
