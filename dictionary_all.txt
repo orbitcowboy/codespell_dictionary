@@ -639,7 +639,6 @@ abbreviathe->abbreviate
 abbreviathed->abbreviated
 abbreviathion->abbreviation
 abbreviathions->abbreviations
-abbreviatin->abbreviation
 abbreviatin->abbreviation, abbreviating,
 abbreviationn->abbreviation
 abbreviationns->abbreviations
@@ -909,8 +908,7 @@ absolutaely->absolutely
 absolutee->absolute
 absoluteely->absolutely
 absolutelly->absolutely
-absolutelys->absolutely
-absolutelys->absolutes
+absolutelys->absolutely, absolutes,
 absolutelyy->absolutely
 absolutey->absolutely
 absoluth->absolute
@@ -998,7 +996,6 @@ abstinense->abstinence
 abstinince->abstinence
 abstraccion->abstraction
 abstracto->abstract, abstraction,
-abstracto->abstraction
 abstraktion->abstraction
 abstrass->abstract
 abstration->abstraction
