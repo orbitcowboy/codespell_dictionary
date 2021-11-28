@@ -20886,9 +20886,7 @@ compatabable->compatible
 compatabiity->compatibility
 compatabile->compatible
 compatabilities->compatibilities
-compatability->compatibility
 compatability->compatibility, comparability,
-compatabillity->compatibility
 compatabillity->compatibility, comparability,
 compatabilty->compatibility
 compatabily->compatibility
