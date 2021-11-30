@@ -10478,6 +10478,7 @@ attttributted->attributed
 attttributtes->attributes
 attusion->allusion
 atuhentication->authentication
+atuosar->autosar
 atways->always
 auccess->success
 auccessive->successive
