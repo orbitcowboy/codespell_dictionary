@@ -101995,6 +101995,8 @@ terminatior->terminator
 terminato->termination
 terminatorn->termination
 terminats->terminals, terminates,
+terminatted->terminated
+terminattes->terminates
 termindate->terminate
 termine->determine
 termined->terminated, determined,
