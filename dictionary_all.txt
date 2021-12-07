@@ -48060,6 +48060,7 @@ habbeas->habeas
 habbit->habit
 habbits->habits
 habbsbburg->habsburg
+habe->have
 habeass->habeas
 habeeas->habeas
 habenero->habanero
