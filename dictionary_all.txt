@@ -1969,6 +1969,7 @@ acknnowledginng->acknowledging
 acknoledge->acknowledge
 acknoledged->acknowledged
 acknoledges->acknowledges
+acknoledget->acknowledged
 acknoledging->acknowledging
 acknolwedge->acknowledge
 acknolwedged->acknowledged
