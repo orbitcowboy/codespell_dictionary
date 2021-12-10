@@ -26705,6 +26705,7 @@ cpoy->coy
 cpp check->cppcheck
 cpp-check->cppcheck
 cppchaeck->cppcheck
+cppchceck->cppcheck
 cppchcek->cppcheck
 cppchck->cppcheck
 cppchecc->cppcheck
