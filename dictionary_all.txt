@@ -14908,6 +14908,7 @@ caertilaege->cartilage
 caertograepher->cartographer
 caertridge->cartridge
 caervical->cervical
+caes->case, cases,
 caesaede->casade
 caesarian->caesarean
 caesarr->caesar
