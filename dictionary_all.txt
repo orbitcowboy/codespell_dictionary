@@ -5552,6 +5552,8 @@ alogrithm->algorithm
 alogrithmic->algorithmic
 alogrithmically->algorithmically
 alogrithms->algorithms
+alogrtihm->logarithm, algorithm,
+alogrtihms->logarithms, algorithms,
 alomically->atomically
 alomost->almost
 alomst->almost
