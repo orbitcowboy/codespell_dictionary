@@ -1447,7 +1447,6 @@ accommodatiion->accommodation
 accommodatiions->accommodations
 accommodatingg->accommodating
 accommodatinng->accommodating
-accommodation->accommodation
 accommodationn->accommodation
 accommodationns->accommodations
 accommodationss->accommodations
