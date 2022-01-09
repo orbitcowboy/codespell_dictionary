@@ -18049,6 +18049,7 @@ chemmically->chemically
 chemmistry->chemistry
 chemsitry->chemistry
 chenged->changed
+chercksum->checksum
 chernboyl->chernobyl
 chernobl->chernobyl
 chernobly->chernobyl
