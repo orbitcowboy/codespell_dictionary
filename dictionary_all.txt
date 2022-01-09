@@ -88228,6 +88228,7 @@ resognized->recognized
 resoiurce->resource
 resollution->resolution
 resoltion->resolution
+resoltions->resolutions
 resoltuion->resolutions
 resoltuions->resolutions
 resolucion->resolution
