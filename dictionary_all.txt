@@ -44594,6 +44594,7 @@ foraetaelling->foretelling
 foraeword->foreword
 foramatting->formatting
 foramt->format
+foramts->formats
 forasken->forsaken
 forat->format
 forbaade->forbade
