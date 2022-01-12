@@ -2438,7 +2438,7 @@ acustommed->accustomed
 acutal->actual
 acutality->actuality
 acutally->actually
-acutaly->actualy
+acutaly->actually
 acutions->auctions
 acutual->actual
 acyrlic->acrylic
