@@ -2426,6 +2426,7 @@ acumulator->accumulator
 acuqire->acquire
 acuracy->accuracy
 acurate->accurate
+acurte->accurate
 acusation->accusation, causation,
 acuse->accuse, cause,
 acused->accused, caused,
@@ -23565,6 +23566,7 @@ consistance->consistency
 consistancy->consistency
 consistant->consistent
 consistantly->consistently
+consistants->constants
 consistecy->consistency
 consisteency->consistency
 consisteent->consistent
@@ -61593,6 +61595,7 @@ localtion->location
 localtions->locations
 localy->locally
 localzation->localization
+locaport->localport
 locataed->located
 locatedd->located
 locateed->located
