@@ -30118,7 +30118,6 @@ delpoyed->deployed
 delpoying->deploying
 delpoyment->deployment
 delrimenlal->detrimental
-deltavalue->deltavaluez
 delte->delete
 delted->deleted
 deltes->deletes
