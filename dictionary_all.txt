@@ -68235,23 +68235,23 @@ nec->neg
 necassery->necessary
 necassry->necessary
 necause->because
-neccccessary->neccessary
+neccccessary->necessary
 neccecarily->necessarily
 neccecary->necessary
 neccesarily->necessarily
 neccesary->necessary
-neccessaary->neccessary
-neccessaery->neccessary
+neccessaary->necessary
+neccessaery->necessary
 neccessarily->necessarily
-neccessarry->neccessary, necessary,
+neccessarry->necessary, necessary,
 neccessary->necessary
-neccessaryy->neccessary
+neccessaryy->necessary
 neccessery->necessary
 neccessitate->necessitate
 neccessitates->necessitates
 neccessities->necessities
 neccessity->necessity
-neccessssary->neccessary
+neccessssary->necessary
 neccsessary->necessary
 neceassary->necessary
 necesarily->necessarily
