@@ -60194,7 +60194,6 @@ leapyears->leap years
 learnn->learn
 learnns->learns
 learnss->learns
-learnt->learned
 learrn->learn
 learrns->learns
 leary->leery
