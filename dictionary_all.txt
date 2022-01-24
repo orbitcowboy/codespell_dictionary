@@ -48291,8 +48291,7 @@ handfull->handful
 handhake->handshake
 handicape->handicapped
 handicaped->handicapped
-handiing->handing
-handing->handling
+handiing->handing, handling,
 handingg->handing
 handlade->handled
 handlae->handle
