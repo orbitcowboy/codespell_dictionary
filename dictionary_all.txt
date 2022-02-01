@@ -85475,8 +85475,6 @@ refactooring->refactoring
 refactores->refactors
 refactoriing->refactoring
 refactoringg->refactoring
-refactorings->refactoring
-refactorings->refatorings
 refactorinng->refactoring
 refactroing->refactoring
 refacttoring->refactoring
@@ -85487,6 +85485,7 @@ refartored->refactored, refracted,
 refartoring->refactoring, refractoring,
 refatored->refactored
 refatoring->refactoring
+refatorings->refactorings, refactoring,
 refcound->refcount
 refcounf->refcount
 refect->reflect
