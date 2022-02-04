@@ -14248,6 +14248,7 @@ btoated->bloated
 btog->blog
 btter->better
 btton->button
+bu->by
 buad->baud
 bub->bug
 bubbels->bubbles
@@ -14634,6 +14635,7 @@ buutterfly->butterfly
 buutton->button
 buxfixes->bugfixes
 buzilla->bugzilla
+bv->by
 bwloe->below
 bwtween->between
 by by->by, bye-bye,
