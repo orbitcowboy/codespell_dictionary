@@ -91475,6 +91475,7 @@ seemantical->semantical
 seemaphoree->semaphore
 seemes->seems
 seemicolon->semicolon
+seemlesly->seamlessly
 seemless->seamless
 seemlessly->seamlessly
 seemm->seem
