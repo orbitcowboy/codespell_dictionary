@@ -18882,6 +18882,8 @@ cliamtes->climates
 cliantro->cilantro
 cliboard->clipboard
 cliboards->clipboards
+clibpoard->clipboard
+clibpoards->clipboards
 cliccing->clicking
 cliccking->clicking
 clickare->clicker
@@ -43066,6 +43068,7 @@ fasion->fashion
 fasiter->faster
 faskinated->fascinated
 faskist->fascist
+fasle->false
 faslely->falsely
 fasler->faster
 fasodd->facade
@@ -55955,6 +55958,7 @@ instrcutor->instructors
 instrcuts->instructs
 instread->instead
 instrinsic->intrinsic
+instrinsics->intrinsics
 instrruction->instruction
 instrructions->instructions
 instrrument->instrument
@@ -78972,6 +78976,7 @@ prefectches->prefetches
 prefecth->prefetch
 prefection->perfection
 prefectly->perfectly
+prefeerred->preferred
 prefence->preference
 preferaable->preferable
 preferaably->preferably
