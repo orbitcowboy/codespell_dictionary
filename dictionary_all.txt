@@ -24946,7 +24946,7 @@ conttentts->contents
 conttenttypes->contenttypes
 conttiguous->contiguous
 conttingentt->contingent
-conttinious->continious
+conttinious->continuous
 conttinually->continually
 conttinue->continue
 conttinued->continued
