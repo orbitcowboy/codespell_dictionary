@@ -30036,6 +30036,7 @@ deliever->deliver
 delievered->delivered
 delievers->delivers
 delievery->delivery
+delifery->delivery
 delightlful->delightful
 deligthful->delightful
 deliiberately->deliberately
