@@ -94114,6 +94114,7 @@ snaeaezae->sneeze
 snaeaks->sneaks
 snaeks->sneaks
 snaepshotted->snapshotted
+snanning->scanning
 snaped->snapped
 snaphost->snapshot
 snaphosts->snapshots
