@@ -110148,7 +110148,7 @@ versiom->version
 versiomed->versioned
 versioming->versioning
 versioms->versions
-versionaddded->versionadded
+versionaddded->version added
 versionccontrol->version control
 versionconlrol->version control
 versionconthrol->version control
@@ -110209,7 +110209,7 @@ verticess->vertices
 verticies->vertices
 verticies->vertices, vertices's,
 verticle->vertical
-verticlealign->verticalalign
+verticlealign->vertical align
 vertiece->vertex
 vertieces->vertices
 vertification->certification
