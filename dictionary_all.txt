@@ -110185,6 +110185,7 @@ versoin->version
 verson->version
 versoned->versioned
 versons->versions
+versose->verbose
 verssatility->versatility
 verssion->version
 verssioncontrol->version control
