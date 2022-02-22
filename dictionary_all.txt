@@ -34911,6 +34911,7 @@ docummentation->documentation
 docummented->documented
 docummenting->documenting
 documments->documents
+documnenation->documentation
 documnent->document
 documnet->document
 documnets->documents
@@ -52094,6 +52095,7 @@ implemntaion->implementation
 implemntation->implementation
 implemntations->implementations
 implemnted->implemented
+implemntion->implementation
 implemtation->implementation
 implemtentation->implementation
 implenented->implemented
