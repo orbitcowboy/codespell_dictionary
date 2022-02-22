@@ -1344,6 +1344,7 @@ accidentallyy->accidentally
 accidentaly->accidentally
 accidentat->accidental
 accidentatty->accidentally
+accidentay->accidental
 accidentely->accidentally
 accidentes->accidents
 accidenthal->accidental
@@ -75526,6 +75527,7 @@ persisthenth->persistent
 persisttence->persistence
 persisttentt->persistent
 persited->persisted
+persitent->persistent
 persits->persist
 persitsence->persistence
 persitsent->persistent
