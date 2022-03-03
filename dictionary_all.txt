@@ -35072,9 +35072,8 @@ donot->don't, do not,
 donoth->do not, don't,
 donotknow->do not know, don't know,
 donott->do not, don't,
-dont'->don't
-dont't->do not, don't,
-dont't->don't
+dont'->don't,do not,
+dont't->don't,do not,
 dont->don't
 dont->don't, disabled because of var names
 donwgrade->downgrade
