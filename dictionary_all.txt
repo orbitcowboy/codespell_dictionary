@@ -38910,7 +38910,7 @@ equivalant->equivalent
 equivalants->equivalents
 equivalencce->equivalence
 equivalency->equivalence
-equivalenet->equivalents
+equivalenet->equivalent, equivalents,
 equivalenke->equivalence
 equivalenl->equivalent
 equivalennce->equivalence
