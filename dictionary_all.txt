@@ -35371,6 +35371,9 @@ dpendent->dependent
 dpkg-buildpackge->dpkg-buildpackage
 dpuble->double
 dpubles->doubles
+dqcument->document
+dqcumented->documented
+dqcuments->documents
 draag aand drop->drag and drop
 draagging->dragging
 draained->drained
