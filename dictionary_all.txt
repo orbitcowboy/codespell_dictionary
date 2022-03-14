@@ -83954,6 +83954,8 @@ reaerraengement->rearrangement
 reaeson->reason
 reaesonaeble->reasonable
 reaessign->reassign
+reagrd->regard
+reagrding->regarding
 reagrds->regards
 reaise->realise, raise, realize,
 reakhable->reachable
