@@ -14934,6 +14934,9 @@ caetegorized->categorized
 caetegory->category
 caeterpillaer->caterpillar
 caeterpillaers->caterpillars
+caetgorise->categorize
+caetgorised->categorized
+caetgorises->categorizes
 caetholic->catholic
 caetholicism->catholicism
 caetiline->catiline
@@ -29925,6 +29928,7 @@ delapidated->dilapidated
 delaraction->declaration
 delaractions->declarations
 delarations->declarations
+delaratkon->declaration
 delare->declare
 delared->declared
 delares->declares
@@ -109313,6 +109317,9 @@ vaccum->vacuum
 vaccume->vacuum
 vaccuum->vacuum
 vacestomy->vasectomy
+vacinate->vaccinate
+vacinated->vaccinated
+vacinates->vaccinates
 vacination->vaccination
 vacinity->vicinity
 vactors->vectors
