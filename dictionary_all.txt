@@ -68433,6 +68433,8 @@ neext->next
 nefarios->nefarious
 negaative->negative
 negaetive->negative
+negagtive->negative
+negagtives->negatives
 negaive->negative
 negalive->negative
 negarive->negative
