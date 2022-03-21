@@ -17907,6 +17907,7 @@ check box->checkbox
 check-box->checkbox
 checkare->checker
 checkbock->checkbox
+checkboxs->checkbox, checkboxes,
 checkconections->checkconnections
 checkd->checked
 checkear->checker
