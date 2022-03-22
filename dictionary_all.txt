@@ -93000,8 +93000,10 @@ siezure->seizure
 siezures->seizures
 sigal->sigil, signal,
 sigaled->signaled
+sigantur->signature
 siganture->signature
 sigantures->signatures
+siganturs->signatures
 sigen->sign
 sigghted->sighted
 siggnals->signals
