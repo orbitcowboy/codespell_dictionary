@@ -11429,6 +11429,7 @@ aviable->available
 aviaiton->aviation
 avialability->availability
 avialable->available
+avialibale->available
 avialion->aviation
 aviathion->aviation
 aviationn->aviation
