@@ -88160,6 +88160,7 @@ resiistiible->resistible
 resiizable->resizable
 resiize->resize
 resiiziing->resizing
+resilence->resilience
 resilent->resilient
 resinged->resigned
 resintall->reinstall
@@ -88251,6 +88252,7 @@ reslauraleurs->restaurateurs
 reslauranl->restaurant
 reslauranls->restaurants
 reslection->reselection
+reslience->resilience
 resloralion->restoration
 reslore->restore
 reslored->restored
