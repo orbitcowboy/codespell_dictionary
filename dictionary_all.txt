@@ -56560,6 +56560,7 @@ interchangueably->interchangeably
 interchhangeability->interchangeability
 interchhangeable->interchangeable
 interchhangeably->interchangeably
+interchnagable->interchangeable
 intercoarse->intercourse
 intercollegate->intercollegiate
 intercontinentaal->intercontinental
