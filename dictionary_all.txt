@@ -44522,6 +44522,7 @@ fonlier->fontier
 fonntier->fontier
 fontain->contain, fountain,
 fontains->contains, fountains,
+fontend->frontend
 fonthier->fontier
 fontiaer->fontier
 fontieer->fontier
