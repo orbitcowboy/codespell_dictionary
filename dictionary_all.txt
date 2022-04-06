@@ -85985,6 +85985,8 @@ regresion->regression
 regresives->regressive
 regresos->regress
 regresse->regressive
+regresseion->regression
+regresseions->regressions
 regressivo->regression
 regresso->regression
 regresssion->regression
