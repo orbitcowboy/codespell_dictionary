@@ -92977,6 +92977,7 @@ siblins->siblings
 sice->since
 sicinctly->succinctly
 sicne->since
+sicurity->security
 sidaeraeal->sidereal
 sidde->side
 siddereal->sidereal
