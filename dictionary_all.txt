@@ -96882,6 +96882,7 @@ staminia->stamina
 stamnia->stamina
 stampade->stamped
 stampeed->stamped
+stanadalone->standalone
 stanadard->standard
 stancels->stances
 stancers->stances
