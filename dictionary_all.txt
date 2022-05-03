@@ -102713,6 +102713,8 @@ thhrough->through
 thhroughh->through
 thhroughhout->throughout
 thhroughouth->throughout
+thhrow->throw
+thhrows->throws
 thhus->thus
 thi->the, this,
 thiaef->thief
