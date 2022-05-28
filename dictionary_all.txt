@@ -27252,6 +27252,7 @@ cruze->cruise
 crypitc->cryptic
 crypographically->cryptographically
 crypted->encrypted
+crypto->crypt
 cryptocraphic->cryptographic
 cryptogaphic->cryptographic
 cryptograhy->cryptography
@@ -58982,6 +58983,7 @@ keychian->keychain
 keycopde->keycode
 keyensian->keynesian
 keyesnian->keynesian
+keylengths->key lengths
 keynode->keynote
 keynseian->keynesian
 keyords->keywords
