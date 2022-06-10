@@ -33510,6 +33510,8 @@ discoovering->discovering
 discoovers->discovers
 discoovery->discovery
 discoruage->discourage
+discoruaged->discouraged
+discoruages->discourages
 discosure->discourse
 discound->discounted
 discountined->discontinued
