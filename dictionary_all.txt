@@ -27252,7 +27252,6 @@ cruze->cruise
 crypitc->cryptic
 crypographically->cryptographically
 crypted->encrypted
-crypto->crypt
 cryptocraphic->cryptographic
 cryptogaphic->cryptographic
 cryptograhy->cryptography
