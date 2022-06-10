@@ -33509,7 +33509,7 @@ discoovered->discovered
 discoovering->discovering
 discoovers->discovers
 discoovery->discovery
-discoruage->discourages
+discoruage->discourage
 discosure->discourse
 discound->discounted
 discountined->discontinued
@@ -33517,7 +33517,6 @@ discouraaged->discouraged
 discouraeged->discouraged
 discouragaed->discouraged
 discourageed->discouraged
-discourages->discouraged
 discouragged->discouraged
 discouragued->discouraged
 discouranged->discouraged
