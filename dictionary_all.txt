@@ -103174,7 +103174,8 @@ thuis->thus
 thumbbnail->thumbnail
 thumbmails->thumbnails
 thumbnailers->thumbnails
-thumbnal->thumbnails
+thumbnal->thumbnail
+thumbnals->thumbnails
 thunb->thumb
 thunberbolt->thunderbolt
 thunbnail->thumbnail
