@@ -26293,6 +26293,7 @@ cosoling->consoling
 cossine->cosine
 costant->constant
 costantly->constantly
+costexpr->constexpr
 costitution->constitution
 costom->custom
 costomizable->customizable
