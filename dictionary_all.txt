@@ -16377,6 +16377,8 @@ catostrophic->catastrophic
 catpcha->captcha
 catpture->capture
 catpure->capture
+catpured->captured
+catpures->captures
 cattalina->catalina
 cattasttrophic->catastrophic
 cattback->callback
