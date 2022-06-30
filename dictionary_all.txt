@@ -88327,6 +88327,8 @@ resopnse->response
 resorce->resource
 resorces->resources
 resore->restore
+resorece->resource
+resoreces->resources
 resored->restored
 resores->restores
 resoruces->resources
