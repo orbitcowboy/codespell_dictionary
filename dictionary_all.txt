@@ -30731,6 +30731,7 @@ dereferencabte->dereferencable
 dereferencaeble->dereferencable
 dereferenccable->dereferencable
 dereferencce->dereference
+dereferencced->dereferenced
 dereferencces->dereferences
 dereferenccing->dereferencing
 dereferenceable->dereferencable
