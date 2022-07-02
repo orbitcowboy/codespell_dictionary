@@ -54259,6 +54259,7 @@ infintiely->infinitely
 infintiy->infinity
 infintrator->infiltrator
 infinty->infinity
+infite->infinite
 infittrate->infiltrate
 infittrated->infiltrated
 infittration->infiltration
