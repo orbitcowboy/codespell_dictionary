@@ -22560,6 +22560,7 @@ configurses->configures
 configurtation->configuration
 configurting->configuring
 configurtion->configuration
+configurtoin->configuring
 configury->configurable
 configutation->configuration
 configutration->configuration
