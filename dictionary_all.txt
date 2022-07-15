@@ -56053,6 +56053,8 @@ instrummental->instrumental
 instrummentation->instrumentation
 instrummentations->instrumentations
 instrumments->instruments
+instrumnet->instrument
+instrumnets->instruments
 instruuction->instruction
 instruuctions->instructions
 instruument->instrument
@@ -73683,6 +73685,7 @@ panding->pending
 pandoria->pandora
 pandorra->pandora
 pandroa->pandora
+paned->planed
 panedmic->pandemic
 paneels->panels
 panelised->panelized
