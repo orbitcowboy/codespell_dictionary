@@ -1,3 +1,4 @@
+#prag->#pragma
 -compatibiltiy->-compatibility
 .aendmacro->.endmacro
 .eendmacro->.endmacro
