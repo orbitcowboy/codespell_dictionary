@@ -90578,6 +90578,7 @@ sanndwich->sandwich
 sannhedrinn->sanhedrin
 sanotrum->santorum
 sanpshot->snapshot
+sanpsnots->snapshots
 santcuary->sanctuary
 santiation->sanitation
 santioned->sanctioned
