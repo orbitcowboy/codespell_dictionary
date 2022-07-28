@@ -19400,6 +19400,9 @@ colecting->collecting
 colection->collection
 colections->collections
 colective->collective
+colector->collector
+colects->collects
+colectss->collects
 coleeg->colleague
 colelction->collection
 colelctive->collective
