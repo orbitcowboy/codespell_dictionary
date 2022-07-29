@@ -87709,6 +87709,7 @@ reprocucing->reprocuring, reproducing,
 reprodducibility->reproducibility
 reprodducible->reproducible
 reprodducibly->reproducibly
+reproduacble->reproducible
 reproducabely->reproducibly
 reproducability->reproducibility
 reproducable->reproducible
@@ -87716,7 +87717,7 @@ reproducablitity->reproducibility
 reproducably->reproducibly
 reproduccibility->reproducibility
 reproduccible->reproducible
-reproduccibly->reproducibly
+reproduccibly->reproducible
 reproduccion->reproduction
 reproduceable->reproducible
 reproducibbility->reproducibility
