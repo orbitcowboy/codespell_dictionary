@@ -5169,6 +5169,7 @@ alignmenl->alignment
 alignmenth->alignment
 alignmentt->alignment
 alignmet->alignment
+alignmets->alignments
 alignmment->alignment
 alignmnet->alignment
 alignmnt->alignment
