@@ -75039,6 +75039,7 @@ perfecly->perfectly
 perfectably->perfectly
 perfecty->perfectly
 perfecxion->perfection
+perfecyly->perfectly
 perfektion->perfection
 perfer->prefer
 perferable->preferable
