@@ -15454,9 +15454,7 @@ cancellatiion->cancellation
 cancellatioon->cancellation
 cancellato->cancellation
 cancellattion->cancellation
-cancelled->canceled
 cancelles->cancels
-cancelling->canceling
 cancellllation->cancellation
 cancells->cancels
 canceltation->cancellation
