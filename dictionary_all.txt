@@ -21170,7 +21170,7 @@ compilaton->compilation
 compilator->compiler
 compilators->compilers
 compilattion->compilation
-compilcated->complicate
+compilcated->complicated
 compilcations->complication
 compileable->compilable
 compiledd->compiled
