@@ -9646,7 +9646,6 @@ assuembly->assembly
 assulated->assaulted
 assum->assume
 assuma->assume
-assumably->assumedly
 assumad->assumed
 assumae->assume
 assumaed->assumed
