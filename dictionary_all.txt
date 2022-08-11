@@ -57069,10 +57069,10 @@ intervento->intervention
 intervenue->intervene
 interveres->interferes
 intervewing->intervening
-intervied->interviewed
-interviened->interviewed
-intervieni->interviewing
-interviening->interviewing
+intervied->intervened, interviewed,
+interviened->intervened, interviewed,
+intervieni->intervene, intervening, interviewing,
+interviening->intervening, interviewing,
 intervier->interviewer
 intervies->interviews
 intervieuw->interviews
