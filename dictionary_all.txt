@@ -1,5 +1,4 @@
 #prag->#pragma
--compatibiltiy->-compatibility
 .aendmacro->.endmacro
 .eendmacro->.endmacro
 .enddmacro->.endmacro
@@ -20951,6 +20950,7 @@ compatibilityy->compatibility
 compatibiliy->compatibility
 compatibillities->compatibilities
 compatibillity->compatibility
+compatibiltiy->-compatibility
 compatibiltiy->compatibility
 compatibilty->compatibility
 compatibily->compatibility
@@ -26678,6 +26678,7 @@ covere->cover
 coveredd->covered
 coverered->covered
 coveres->covers
+covergae->coverage
 coverge->coverage
 coveriity->coverity
 coverily->coverity
@@ -107893,6 +107894,7 @@ unndocumennted->undocumented
 unndoubtedly->undoubtedly
 unnecassarily->unnecessarily
 unnecassary->unnecessary
+unnecceasry->unnecessary
 unneccecarily->unnecessarily
 unneccecary->unnecessary
 unneccesarily->unnecessarily
