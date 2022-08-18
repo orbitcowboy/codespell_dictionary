@@ -14366,6 +14366,7 @@ builth by->built by
 builting->builtin
 builtt by->built by
 buipd->build
+buisiness->business
 buisness->business
 buisnesses->businesses
 buisnessman->businessman
@@ -105845,6 +105846,7 @@ turnapound->turnaround
 turnaroud->turnaround
 turncey->turnkey
 turnckey->turnkey
+turnes->turns
 turnk->trunk, turnkey,
 turnkaey->turnkey
 turnkeey->turnkey
@@ -110777,6 +110779,8 @@ vocabularily->vocabulary
 vocabularity->vocabulary
 vocabularly->vocabulary
 vociemail->voicemail
+vodcast->podcast
+vodcasts->podcasts
 voicemal->voicemail
 voif->void
 voilates->violates
