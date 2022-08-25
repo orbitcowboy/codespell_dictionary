@@ -40450,6 +40450,7 @@ exectuable->executable
 exectuableness->executableness
 exectuables->executables
 exectued->executed
+exectues->executes
 exectues->executes, executives,
 exectuing->executing
 exectuion->execution
@@ -71310,6 +71311,7 @@ oncae->once
 oncce->once
 oncee->once
 onces->ounces, ones, once,
+onche->once
 onconditionally->unconditionally
 ond->one
 one nike->one nice
@@ -82419,6 +82421,9 @@ publsiher->publisher
 publsihing->publishing
 publuc->public
 publucation->publication
+publuish->publish
+publuished->published
+publuishes->publishes
 publusher->publisher
 pubticty->publicly
 pubtished->published
@@ -87565,6 +87570,9 @@ repproducibility->reproducibility
 repproducible->reproducible
 repproducibly->reproducibly
 repraesentation->representation
+reprduce->reproduce
+reprduced->reproduced
+reprduces->reproduces
 reprecussion->repercussion
 reprecussions->repercussions
 repreesnt->represent
