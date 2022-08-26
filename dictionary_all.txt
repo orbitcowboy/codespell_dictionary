@@ -54696,6 +54696,7 @@ initalizer->initializer
 initalizers->initializers
 initalizes->initializes
 initalizing->initializing
+initalizs->initializes
 initalled->initialled
 initalling->initialling
 initally->initially
