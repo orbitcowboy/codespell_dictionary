@@ -56054,6 +56054,7 @@ instrumentall->instrumental
 instrumentat->instrumental
 instrumentatioon->instrumentation
 instrumentatioons->instrumentations
+instrumentes->instruments
 instrumentos->instruments
 instrumentul->instrumental
 instrumetal->instrumental
@@ -56064,6 +56065,7 @@ instrummentations->instrumentations
 instrumments->instruments
 instrumnet->instrument
 instrumnets->instruments
+instrumnted->instrumented
 instruuction->instruction
 instruuctions->instructions
 instruument->instrument
