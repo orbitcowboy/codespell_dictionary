@@ -103432,6 +103432,7 @@ tinear->linear
 tinguistic->linguistic
 tinguistics->linguistics
 tink->think
+tinke->tinker
 tinked->thought
 tinking->thinking
 tinks->thinks
