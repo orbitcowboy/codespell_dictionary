@@ -26679,6 +26679,7 @@ covere->cover
 coveredd->covered
 coverered->covered
 coveres->covers
+coverga->coverage
 covergae->coverage
 coverge->coverage
 coveriity->coverity
