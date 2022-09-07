@@ -7141,6 +7141,7 @@ anyhing->anything
 anyhting->anything
 anyhwere->anywhere
 anylhing->anything
+anymow->any new
 anynmore->anymore
 anynomity->anonymity
 anynomous->anonymous
@@ -18019,6 +18020,7 @@ chek->check
 chekc->check
 chekcer->checker
 chekcmate->checkmate
+chekcs->checks
 chekd->checked
 cheked->checked
 chekers->checkers
@@ -29172,8 +29174,11 @@ dectected->detected
 dectecting->detecting
 dectection->detection
 dectector->detector
+dected->detected
+dectes->detects
 dectivate->deactivate
 dectivated->deactivated
+dects->detects
 decutable->deductible
 decutables->deductibles
 decypher->decipher
@@ -53543,6 +53548,7 @@ independece->independence
 independed->independent
 independedly->independently
 independencce->independence
+independency->independence
 independend->independent
 independendet->independent
 independendly->independently
@@ -61109,6 +61115,7 @@ lilerally->literally
 lilerals->literals
 lileralure->literature
 lilers->liters
+lilink->lilnk
 lille->title
 lillebar->titlebar
 lillle->little
@@ -69087,6 +69094,8 @@ nerwork->network
 nescessarily->necessarily
 nescessary->necessary
 nesesarily->necessarily
+nesesary->necessary
+nesesery->necessary
 nesited->nested
 nesiting->nesting
 neslave->enslave
@@ -69103,6 +69112,7 @@ nessecary->necessary
 nesseccary->necessary
 nessesarily->necessarily
 nessesary->necessary
+nessesery->necessary
 nessessarily->necessarily
 nessessary->necessary
 nessicary->necessary
@@ -70977,6 +70987,7 @@ ocurring->occurring
 ocurs->occurs
 ocuurences->occurrences
 od having->of having
+od->odd
 od->of
 odasee->odyssey
 oder->odor, order,
@@ -92228,6 +92239,7 @@ seprator->separator
 seprators->separators
 sepreate->separate
 septemer->september
+septmber->september
 septmeber->september
 sepulccher->sepulcher
 sepulcchre->sepulchre
@@ -105097,6 +105109,7 @@ trianers->trainers
 triange->triangle
 triangel->triangle
 triangels->triangles
+trianglar->triangular
 triangls->triangles
 trianglular->triangular
 trianglutaion->triangulation
