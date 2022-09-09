@@ -7141,6 +7141,7 @@ anyhing->anything
 anyhting->anything
 anyhwere->anywhere
 anylhing->anything
+anylysis->analysis
 anymow->any new
 anynmore->anymore
 anynomity->anonymity
@@ -65843,6 +65844,7 @@ missedd some->missed some
 misseed somee->missed some
 missen->mizzen
 misserable->miserable
+missformated->miss-formatted
 missfortuness->misfortunes
 missign->missing
 missigno->mission
@@ -79378,6 +79380,7 @@ prepres->prepares
 prepresent->represent
 prepresented->represented
 prepresents->represents
+preproccessed->preprocessed
 preproccessor->preprocessor
 preproces->preprocess
 preprocesing->preprocessing
