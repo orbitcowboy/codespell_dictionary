@@ -24014,6 +24014,8 @@ constrcutor->constructor
 constrcutors->constructors
 constrcuts->constructs
 constriants->constraints
+constribution->contribution
+constributions->contributions
 constrrains->constrains
 constrraint->constraint
 constrraints->constraints
@@ -44955,6 +44957,7 @@ forrerrunnerr->forerunner
 forresaw->foresaw
 forreseeable->foreseeable
 forresst->forrest
+forrest->forest
 forretelling->foretelling
 forreworrd->foreword
 forrfeit->forfeit
@@ -59938,6 +59941,7 @@ langages->languages
 langauage->language
 langauge->language
 langauges->languages
+langer->lander
 langerie->lingerie
 langerray->lingerie
 langeuage->language
@@ -69328,6 +69332,7 @@ nighlfall->nightfall
 nighllime->nighttime
 nighltime->nighttime
 nighlty->nightly
+nighmarish->nightmarish
 nightfa;;->nightfall
 nightfaall->nightfall
 nightfaell->nightfall
@@ -102281,6 +102286,7 @@ tessting->testing
 tessts->tests
 tesstss->tests
 testasterone->testosterone
+testd->tested
 testdocuemts->testdocuments
 teste->test
 testedd->tested
