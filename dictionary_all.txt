@@ -1708,6 +1708,7 @@ accrodion->accordion
 accronym->acronym
 accronyms->acronyms
 accrording->according
+accros->across
 accrose->across
 accross->across
 accrreditation->accreditation
@@ -46952,6 +46953,7 @@ globaly->globally
 globbal->global
 globbals->globals
 globel->global
+globlal->global
 globle->global
 glocal->global
 glodberg->goldberg
@@ -55847,6 +55849,8 @@ instanciates->instantiates
 instanciating->instantiating
 instanciation->instantiation
 instanciations->instantiations
+instanciatoin->instantiate
+instanciatoins->instantiates
 instane->instance
 instanke->instance
 instanse->instances
@@ -93402,6 +93406,7 @@ simpleer->simpler
 simpleest->simplest
 simplefying->simplifying
 simplei->simply
+simpleir->simpler
 simplerr->simpler
 simpleset->simplest
 simplesit->simplest
