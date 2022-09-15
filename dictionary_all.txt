@@ -12,6 +12,7 @@
 .endmmacro->.endmacro
 .enmacro->.endmacro
 .enndmacro->.endmacro
+19 century->19th century
 1990ss->1990s
 1nd->1st
 __attribyte__->__attribute__
@@ -89632,6 +89633,8 @@ roachers->roaches
 roaddmap->roadmap
 roadmapp->roadmap
 roadmmap->roadmap
+roadmpa->roadmap
+roadmpas->roadmaps
 roaedmaep->roadmap
 roahces->roaches
 roally->orally
