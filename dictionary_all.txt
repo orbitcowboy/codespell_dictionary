@@ -8422,6 +8422,8 @@ archtiects->architects
 archtiecture->architecture
 archtype->archetype
 archtypes->archetypes
+archutecture->architecture
+archutectures->architectures
 archvie->archive
 archvies->archives
 archving->archiving
@@ -22534,6 +22536,7 @@ configuraed->configured
 configuraes->configures
 configuraetion->configuration
 configuraion->configuration
+configuraions->configurations
 configuraiton->configuration
 configuralion->configuration
 configurare->configure
@@ -46482,6 +46485,7 @@ generrates->generates
 generrating->generating
 generration->generation
 genersl->generals
+genertion->generation
 genertor->generator
 geneticaly->genetically
 geneticlly->genetically
@@ -55414,6 +55418,7 @@ inpending->impending
 inpenetrable->impenetrable
 inperfections->imperfections
 inpersonating->impersonating
+inpired->inspired
 inplement->implement
 inplementation->implementation
 inplementations->implementations
@@ -82438,6 +82443,7 @@ publishor->publisher
 publishre->publisher
 publisshed->published
 publissher->publisher
+publisshing->publishing
 publliclly->publicly
 publlished->published
 publlisher->publisher
@@ -84026,6 +84032,7 @@ reaerraengement->rearrangement
 reaeson->reason
 reaesonaeble->reasonable
 reaessign->reassign
+reagarding->regarding
 reagrd->regard
 reagrding->regarding
 reagrds->regards
