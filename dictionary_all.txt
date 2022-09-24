@@ -4781,6 +4781,7 @@ aksing->asking
 aksreddit->askreddit
 aktivate->activate
 aktivated->activated
+aktivates->activates
 aktive->active
 aktively->actively
 aktivities->activities
@@ -11349,6 +11350,7 @@ availble->available
 availeable->available
 availeble->available
 availiable->available
+availibe->available
 availibility->availability
 availibilty->availability
 availible->available
@@ -27491,6 +27493,7 @@ curraent->current
 curraently->currently
 currancies->currencies
 currate->curate
+currated->curated
 currecny->currency
 currect->correct, current,
 currectly->correctly
@@ -61507,6 +61510,7 @@ livliehood->livelihood
 livly->lively
 livved->lived
 livvely->lively
+lizenze->licence
 lke->like
 llabell->label
 llabelled->labeled
@@ -79965,6 +79969,7 @@ priotities->priorities
 priotitize->prioritize
 priotity->priority
 prioty->priority
+priozization->prioritization
 priroities->priorities
 priroitization->prioritization
 priroity->priority
@@ -109132,6 +109137,7 @@ userr->user
 userrs->users
 usersapce->userspace
 userspase->userspace
+usesd->used
 usesfull->useful
 usespace->userspace
 usesrs->users
