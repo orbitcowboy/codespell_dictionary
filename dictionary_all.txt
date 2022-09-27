@@ -10193,6 +10193,7 @@ attache->attached, attach, attaché,
 attachedd->attached
 attacheed->attached
 attachement->attachment
+attachementes->attachments
 attachements->attachments
 attachemnt->attachment
 attachemnts->attachments
@@ -26669,6 +26670,7 @@ coveereed->covered
 coveerity->coverity
 coveeted->coveted
 coveeteed->coveted
+coveirty->coverity
 coveled->coveted
 covenaant->covenant
 covenaent->covenant
@@ -27422,6 +27424,7 @@ cummbersomme->cumbersome
 cummulated->cumulated
 cummulative->cumulative
 cummunicate->communicate
+cummunicates->communicates
 cumpolsory->compulsory
 cumpus->compass
 cumulaative->cumulative
@@ -28093,6 +28096,7 @@ darw->draw
 dasdot->dashdot
 dashbaord->dashboard
 dashboad->dashboard
+dashboads->dashboards
 dashbord->dashboard
 dashbords->dashboards
 dashs->dashes
@@ -33090,6 +33094,7 @@ diretory->directory
 dirfting->drifting
 diring->during
 dirived->derived
+diriving->deriving
 dirrectly->directly
 dirrectorry->directory
 dirst->first
@@ -38763,6 +38768,7 @@ enviroonmental->environmental
 enviroonmentalist->environmentalist
 enviroonmentally->environmentally
 enviroonments->environments
+envirornment->environment
 envirronment->environment
 envirronmental->environmental
 envirronmentalist->environmentalist
@@ -38793,6 +38799,7 @@ enxtend->extend
 eny->any
 eode->code
 epecifica->especifica
+epecification->specification
 epect->expect
 epected->expected
 epectedly->expectedly
@@ -43213,9 +43220,12 @@ featues->features
 featur->feature
 featurre->feature
 featurs->features
+featus->features
 featuure->feature
 feautre->feature
 feautres->features
+feautue->feature
+feautues->features
 feauture->feature
 feautures->features
 febbruary->february
@@ -49998,6 +50008,7 @@ hothsot->hotshot
 hotiday->holiday
 hotizontal->horizontal
 hotname->hostname
+hotos->howto
 hotplut->hotplug
 hotpsot->hotspot
 hotpug->hotplug
@@ -52452,6 +52463,8 @@ improvemenths->improvements
 improvementss->improvements
 improvementt->improvement
 improvementts->improvements
+improvemment->improvement
+improvemments->improvements
 improvemnt->improvement
 improvemnts->improvements
 improvenmet->improvement
@@ -71095,6 +71108,7 @@ offfficials->officials
 offfset->offset
 offic->office
 officaers->officers
+officail->official
 officailly->officially
 offical->official
 offically->officially
@@ -78454,6 +78468,7 @@ ppseudo->pseudo
 ppseudocode->pseudocode
 ppseudonym->pseudonym
 ppseudonymous->pseudonymous
+ppsitives->positives
 ppsychic->psychic
 ppsychology->psychology
 ppublicly->publicly
@@ -79968,6 +79983,7 @@ priot->prior
 priotities->priorities
 priotitize->prioritize
 priotity->priority
+priotitzation->prioritization
 prioty->priority
 priozization->prioritization
 priroities->priorities
@@ -83982,6 +83998,7 @@ readabitity->readability
 readablity->readability
 readapted->re-adapted
 readbable->readable
+readbility->readability
 readble->readable
 readby->read, read by,
 readd->re-add, read,
@@ -88871,6 +88888,7 @@ resullts->results
 resulotion->resolution
 resulsets->resultsets
 resulst->results
+resultes->results, resulted,
 resulths->results
 resultion->resolution
 resultions->resolutions
@@ -89454,6 +89472,7 @@ rewritting->rewriting
 rewritttten->rewritten
 rewtched->wretched
 rewuired->required
+rewultes->results
 rewwrite->rewrite
 rewwriting->rewriting
 rewwritten->rewritten
