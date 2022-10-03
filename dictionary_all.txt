@@ -56713,6 +56713,8 @@ interfaece->interface
 interfake->interface
 interfase->interfaces
 interfave->interface
+interfcae->interface
+interfcaes->interfaces
 interfce->interface
 interfear->interfere
 interfearence->interference
@@ -111773,6 +111775,9 @@ whare->where
 what'ss->what's
 whataver->whatever
 whatchdog->watchdog
+whatche->watcher
+whatched->watched
+whatches->watches
 whatepsace->whitespace
 whatepsaces->whitespaces
 whath's->what's
