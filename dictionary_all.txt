@@ -17244,6 +17244,8 @@ centuty->century
 centuuries->centuries
 centuury->century
 cerate->create
+cerated->created
+cerates->creates
 ceratin->certain, keratin,
 ceratine->creatine
 cerberal->cerebral
@@ -20663,6 +20665,7 @@ comnmand->command
 comnment->comment
 comnmented->commented
 comnments->comments
+comnmon->common
 comnon->common
 comnonly->commonly
 comnonwealth->commonwealth
@@ -21208,6 +21211,7 @@ compille->compile
 compilled->compiled
 compiller->compiler
 compillers->compilers
+compilles->compiles
 compilling->compiling
 compilments->compliments
 compilor->compiler
@@ -39125,6 +39129,7 @@ errorr->error
 errorss->errors
 errorstring->error string
 erros->errors
+errosr->errors
 errro condition->error condition
 errro->error
 errror->error
@@ -89230,6 +89235,7 @@ reuests->requests
 reuinon->reunion
 reulator->regulator
 reult->result
+reults->results
 reume->resume
 reuplad->reupload
 reupladad->reuploaded
