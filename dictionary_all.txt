@@ -30907,6 +30907,7 @@ desacriptor->descriptor
 desacriptors->descriptors
 desactivate->deactivate
 desactivated->deactivated
+desactivates->deactivates
 desallocate->deallocate
 desallocated->deallocated
 desallocates->deallocates
@@ -110411,6 +110412,7 @@ vgetable->vegetable
 vgetables->vegetables
 vgetarian->vegetarian
 vhicle->vehicle
+vhicles->vehicles
 vhild->child
 viabiliy->viability
 viaew->view
