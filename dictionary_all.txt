@@ -45626,6 +45626,7 @@ fualt->fault
 fualts->faults
 fucntion->function
 fucntional->functional
+fucntionaliety->functionality
 fucntionality->functionality
 fucntionally->functionally
 fucntioning->functioning
@@ -52211,6 +52212,7 @@ implikit->implicit
 implikitly->implicitly
 implimenation->implementation
 impliment->implement
+implimentaiton->implementation
 implimentation->implementation
 implimentation-spacific->implementation-specific
 implimentations->implementations
@@ -67430,6 +67432,7 @@ multidimensioonal->multidimensional
 multidimenssional->multidimensional
 multidimentional->multidimensional
 multidimentionnal->multidimensional
+multiepe->multiple
 multiffunction->multifunction
 multifuction->multifunction
 multifuncction->multifunction
@@ -109169,6 +109172,7 @@ usesd->used
 usesfull->useful
 usespace->userspace
 usesrs->users
+usest->used
 usetnet->usenet
 usetnet->usenet, usenet,
 usfull->useful
