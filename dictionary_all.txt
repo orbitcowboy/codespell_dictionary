@@ -49014,6 +49014,9 @@ henderence->hindrance
 hendler->handler
 henious->heinous
 henke->hence
+henlde->handle
+henlded->handled
+henldes->handles
 henn->hen
 hennce->hence
 hense->hence
