@@ -25184,7 +25184,6 @@ convertirle->convertible
 convertirme->converter
 convertirte->converter
 convertis->converts
-convertor->converter
 convertr->converter
 convertss->converts
 convertt->convert
