@@ -87778,7 +87778,15 @@ repressin->repression
 repressivo->repression
 represso->repression
 represssion->repression
+represssions->repressions
+reprezent->represent
+reprezentation->representation
+reprezentations->representations
 reprezentative->representative
+reprezentatives->representatives
+reprezented->represented
+reprezenting->representing
+reprezents->represents
 reprhase->rephrase
 repricussions->repercussions
 reprihensible->reprehensible
