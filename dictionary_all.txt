@@ -86353,6 +86353,8 @@ reistered->registered
 reisters->registers
 reitrement->retirement
 reitres->retires
+reivew->review
+reivewed->reviewed
 reivews->reviews
 reiviews->reviews
 reivison->revision
@@ -91367,6 +91369,7 @@ scritps->scripts
 scritpt->script
 scritpts->scripts
 scritpures->scriptures
+scrits->scripts
 scroates->socrates
 scrol->scroll
 scrolbar->scrollbar
@@ -109120,6 +109123,7 @@ usagge->usage
 usague->usage
 usal->usual
 usally->usually
+usaually->usually
 uscaled->unscaled
 useability->usability
 useable->usable
