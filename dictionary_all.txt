@@ -88963,6 +88963,8 @@ resursive->recursive, resourceful,
 resursively->recursively
 resusable->reusable
 resuse->reuse
+resusult->result
+resusults->results
 resuthls->resutls
 resuting->resulting
 resutlls->resutls
