@@ -89670,6 +89670,8 @@ rivalrly->rivalry
 rivarlies->rivalries
 rivarly->rivalry
 rivised->revised
+rivision->revision
+rivisions->revisions
 rivlaries->rivalries
 rivlary->rivalry
 rizes->rises
