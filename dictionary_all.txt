@@ -7943,6 +7943,7 @@ appties->applies
 appty->apply
 appy->apply
 appying->applying
+appyling->applying
 apratheid->apartheid
 apreciate->appreciate
 apreciated->appreciated
@@ -24673,6 +24674,7 @@ contiuning->containing
 contiunity->continuity
 contiuously->continuously
 contnet->content
+contninues->continuess
 contnt->content
 contol->control
 contoler->controller
@@ -100956,6 +100958,7 @@ syncrhonise->sychronise
 syncrhonised->synchronised
 syncrhonize->sychronize
 syncrhonized->synchronized
+syncronisation->synchronization
 syncronise->synchronise
 syncronised->synchronised
 syncronises->synchronises
