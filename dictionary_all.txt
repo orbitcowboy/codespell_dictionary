@@ -50875,6 +50875,7 @@ idlae->idle
 idlee->idle
 idlle->idle
 idnentifier->identifier
+idnetify->identify
 idstrubutions->distributions
 idte->idle
 ie.->i.e.
@@ -105061,6 +105062,7 @@ traveles->travels
 traveller->traveler
 travellerhd->travelled
 travellers->travelers
+travelling->traveling
 travellodge->travelled
 travelodge->traveled
 travelsal->traversal
@@ -109009,6 +109011,7 @@ uploades->uploads
 uplod->upload
 uplodad->uploaded
 uplodaded->uploaded
+uplodading->uploading
 uploded->uploaded
 uploder->uploader
 uploders->uploaders
