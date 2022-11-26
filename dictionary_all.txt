@@ -19238,6 +19238,7 @@ codde->code, coddle, coded,
 coddedd->coded
 coddespell->codespell
 codeand->code and
+codechecer->codechecker
 codee->code
 codeed->coded
 codeen->codeine
@@ -23856,7 +23857,9 @@ constaents->constants
 constaernation->consternation
 constain->constrain
 constained->constrained
+constained->contained
 constains->constrains, contains,
+constains->contains
 constaints->constraints
 constallation->constellation
 constan->constant
@@ -75155,6 +75158,7 @@ perfforming off->performing of
 perfforms->performs
 perfix->prefix
 perfmormance->performance
+perfoce->perforce
 perfom->perform
 perfomance->performance
 perfomances->performances
