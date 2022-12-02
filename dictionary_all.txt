@@ -6952,6 +6952,7 @@ ansswer->answer
 ansswered->answered
 ansswerss->answers
 anstance->instance
+anstract->abstract
 answaer->answer
 answaeraed->answered
 answaers->answers
@@ -52259,6 +52260,7 @@ implment->implement
 implmentation->implementation
 implmentations->implementations
 implmented->implemented
+implmentes->implements
 implmenting->implementing
 implments->implements
 imploed->implode
@@ -90896,6 +90898,7 @@ saturdsy->saturdays
 saturrday->saturday
 saturrdays->saturdays
 satus->status
+satuses->status
 satuurday->saturday
 satuurdays->saturdays
 satyrr->satyr
@@ -103520,6 +103523,8 @@ timming->timing, trimming,
 timne->time
 timoeut->timeout
 timout->timeout
+timoute->timeout
+timoutes->timeouts
 timsort->timesort
 timting->tinting, timing,
 timtout->timeout
