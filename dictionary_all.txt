@@ -23886,6 +23886,7 @@ constcurts->constructs
 consteallation->constellation
 consteernation->consternation
 constently->constantly
+constepxr->constexpr
 consternaation->consternation
 consternaetion->consternation
 consternatiion->consternation
@@ -52169,6 +52170,7 @@ implemntaion->implementation
 implemntation->implementation
 implemntations->implementations
 implemnted->implemented
+implemntes->implements
 implemntion->implementation
 implemtation->implementation
 implemtentation->implementation
@@ -69574,6 +69576,7 @@ nnutriennt->nutrient
 nnutriennts->nutrients
 no body->nobody
 no necessarily->not necessarily
+no,w->now
 no-onae->no-one
 no-onee->no-one
 no-onne->no-one
