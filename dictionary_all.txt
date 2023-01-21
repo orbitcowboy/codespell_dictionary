@@ -25825,6 +25825,8 @@ copenhaven->copenhagen
 copenhegan->copenhagen
 coperation->cooperation
 coperations->cooperations
+copetence->competence
+copetences->competences
 copiable->copyable
 copiing->copying
 copiler->compiler
@@ -28143,6 +28145,7 @@ datadefintion->datadefinition
 datafile->data file
 datafiles->data files
 dataheet->datasheet
+datails->details
 datanase->database
 datas->data
 datase->database
@@ -36160,6 +36163,7 @@ educathional->educational
 educatiional->educational
 educationall->educational
 educationat->educational
+educationla->educational
 educationnal->educational
 educatioonal->educational
 educattional->educational
@@ -38785,6 +38789,7 @@ envirronmental->environmental
 envirronmentalist->environmentalist
 envirronmentally->environmentally
 envirronments->environments
+envoirnment->environment
 envoke->invoke
 envolutionary->evolutionary
 envolved->involved
@@ -52336,6 +52341,7 @@ impossiblity->impossibly
 impossiblly->impossibly
 impossibry->impossibly
 impossibul->impossibly
+impotant->important
 impotite->impolite
 impove->improve
 impoved->improved
@@ -66599,6 +66605,8 @@ modifuable->modifiable
 modifued->modified
 modifx->modify
 modifyable->modifiable
+modifyed->modified
+modifyes->modifies
 modifyingg->modifying
 modifyinng->modifying
 modifyy->modify
