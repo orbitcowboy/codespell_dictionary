@@ -2452,6 +2452,7 @@ adagee->adage
 adagge->adage
 adague->adage
 adament->adamant
+adap->adapt
 adapated->adapted
 adapater->adapter
 adapaters->adapters
@@ -55782,6 +55783,8 @@ inspriational->inspirational
 inspried->inspired
 inspries->inspires
 insrugency->insurgency
+insrumented->instrumented
+insrumentes->instrumentes
 inssectivorouss->insectivorous
 inssenssitive->insensitive
 insseparable->inseparable
@@ -70282,6 +70285,9 @@ numbert->number
 numbes->numbers
 numbet->number
 numbmer->number
+numbner->number
+numbnered->numbered
+numbners->numbers
 numbrer->number
 numbres->numbers
 numbrs->numbers
@@ -73382,6 +73388,7 @@ paatterned->patterned
 paatterns->patterns
 paavilion->pavilion
 pacage->package
+pacages->packages
 pacakge->package
 pacakged->packaged
 pacakges->packages
@@ -88060,6 +88067,7 @@ requirenments->requirements
 requiress->requires
 requirmeents->requirements
 requirment->requirement
+requirmentes->requirements
 requirments->requirements
 requisit->requisite
 requisits->requisites
@@ -101403,6 +101411,7 @@ tage->tag, stage, tagged, take,
 taged->tagged
 tages->stages
 taget->target
+tagets->targets
 tagggen->taggen
 tagliate->tailgate
 tagnet->tangent
