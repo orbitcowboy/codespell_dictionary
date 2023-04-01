@@ -45920,6 +45920,8 @@ funnnily->funnily
 funrel->funeral
 funsction->function
 funstion->function
+funtcion->function
+funtcions->functions
 funtion->function
 funtional->functional
 funtionalities->functionalities
@@ -52881,6 +52883,8 @@ incidently->incidentally
 incidenttally->incidentally
 incidentul->incidental
 inclanation->inclination
+inclde->include
+incldes->includes
 inclding->including
 incldue->include
 incldued->included
@@ -54418,6 +54422,7 @@ infomration->information
 infoormatioon->information
 infor->info, information,
 inforamtion->information
+inforamtions->information
 inforation->information
 inforational->informational
 inforbar->infobar
@@ -58376,6 +58381,9 @@ iteerator->iterator
 iteerators->iterators
 iteger->integer
 itegers->integers
+itegrate->integrate
+itegrated->integrated
+itegrates->integrates
 itelf->itself
 itemm->item
 itemn->item
@@ -70928,6 +70936,7 @@ occure->occur, occurred,
 occured->occurred
 occurence->occurrence
 occurences->occurrences
+occurencs->occurrences
 occures->occurs
 occuring->occurred, occurring,
 occuring->occurring
@@ -76429,6 +76438,7 @@ pipetine->pipeline
 pipleine->pipeline
 pireced->pierced
 pirric->pyrrhic
+pisition->position
 pitcch->pitch
 pitchferks->pitchforks
 pitchfolks->pitchforks
@@ -111792,6 +111802,8 @@ werid->weird
 weridest->weirdest
 weridly->weirdly
 weridos->weirdos
+werning->warning
+wernings->warnings
 werstle->wrestle
 werstler->wrestler
 wery->wary, very, weary,
