@@ -73998,6 +73998,8 @@ paramters->parameters
 paramtrical->parametrical
 parana->piranha
 paraniac->paranoiac
+devlievery->delivery
+devlivery->delivery
 paranioa->paranoia
 paraniod->paranoid
 paranoa->paranoia
