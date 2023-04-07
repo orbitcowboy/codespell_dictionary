@@ -20985,6 +20985,7 @@ compatibte->compatible
 compatiibiiliitiies->compatibilities
 compatiibiiliity->compatibility
 compatiible->compatible
+compatilbity->compatibility
 compatitbility->compatibility
 compativle->compatible
 compattibilitties->compatibilities
@@ -69914,6 +69915,7 @@ normlly->normally
 normmalization->normalization
 normmally->normally
 normnal->normal
+nornal->normal
 nornally->normally
 norrmalization->normalization
 norrmally->normally
