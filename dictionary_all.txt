@@ -32093,6 +32093,8 @@ devleoper->developer
 devleopers->developers
 devleopper->developer
 devleoppers->developers
+devlievery->delivery
+devlivery->delivery
 devlop->develop
 devloped->developed
 devloper's->developer's
@@ -73998,8 +74000,6 @@ paramters->parameters
 paramtrical->parametrical
 parana->piranha
 paraniac->paranoiac
-devlievery->delivery
-devlivery->delivery
 paranioa->paranoia
 paraniod->paranoid
 paranoa->paranoia
