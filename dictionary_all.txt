@@ -83095,6 +83095,7 @@ queueud->queued
 queus->queues
 quew->queue
 quiaet->quiet
+quialified->qualified
 quicc->quick
 quicck->quick
 quicckly->quickly
@@ -109210,6 +109211,7 @@ usefutty->usefully
 useg->usage, user,
 usege->usage
 useing->using
+usename->username
 user aaccount->user account
 user accccount->user account
 user accoount->user account
