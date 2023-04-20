@@ -81633,8 +81633,10 @@ propse->propose
 propsect->prospect
 propsective->prospective
 propsects->prospects
+propsed->proposed
 propserity->prosperity
 propserous->prosperous
+propses->proposes
 propt->prompt
 proptects->protects
 propted->prompted
