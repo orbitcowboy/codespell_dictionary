@@ -64226,6 +64226,8 @@ meedieeval->medieval
 meediteerraneean->mediterranean
 meeds->needs
 meeeerkat->meerkat
+meeing->meeting
+meeings->meetings
 meembeer->member
 meembranophonee->membranophone
 meemeento->memento
@@ -79785,6 +79787,7 @@ previoous->previous
 previoously->previously
 previos->previous
 previosly->previously
+previosu->previous
 previosuly->previously
 previou->previous
 previoulsy->previously
