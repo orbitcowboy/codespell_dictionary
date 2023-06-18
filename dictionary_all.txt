@@ -1235,6 +1235,7 @@ acceptablle->acceptable
 acceptabte->acceptable
 acceptannce->acceptance
 acceptence->acceptance
+accepteod->accepted
 accepterad->accepted
 acceptes->accepts
 accepth->accept
@@ -19997,6 +19998,7 @@ commaercial->commercial
 commaercially->commercially
 commaes->commas
 comman->command, common,
+command command->command
 command liine->command line
 command linae->command line
 command linee->command line
@@ -35094,6 +35096,8 @@ dominats->dominates
 dominattion->domination
 dominent->dominant
 dominiant->dominant
+domininated->dominated
+domininates->dominates
 dominnannt->dominant
 dominnationn->domination
 dominno->dominion
@@ -37013,6 +37017,7 @@ elicitedd->elicited
 elicithed->elicited
 elicitted->elicited
 eligable->eligible
+eligble->eligible
 eliggible->eligible
 eligibble->eligible
 eliiciited->elicited
@@ -41844,6 +41849,7 @@ explaning->explaining
 explanitary->explanatory
 explannationn->explanation
 explanotory->explanatory
+explansion->expansion
 explantion->explanation
 explantions->explanations
 explantory->explanatory
@@ -42032,6 +42038,8 @@ exponnenntiationn->exponentiation
 expoonential->exponential
 expoonentiatioon->exponentiation
 expoort->export
+expordes->exportes
+expordet->exported
 expore->explore
 exporl->export
 exporpriated->expropriated
@@ -47643,6 +47651,7 @@ grpahical->graphical
 grpahically->graphically
 grpahics->graphics
 grpahite->graphite
+grpahviz->graphs, graphviz,
 grraceful->graceful
 grradient->gradient
 grraffiti->graffiti
@@ -48392,6 +48401,7 @@ handlaers->handlers
 handlaes->handles
 handlare->handler
 handlder->handler
+handle handle->handle
 handlebards->handlebars
 handledy->handedly
 handlee->handle
@@ -63380,6 +63390,8 @@ marchmallows->marshmallows
 marcked->marked
 marcketing->marketing
 marcks->marks
+marcro->macro
+marcros->macros
 maree->mare
 marevlous->marvelous
 marganilize->marginalized
@@ -65903,6 +65915,7 @@ misrepresentativ->misrepresentation
 misrepresention->misrepresenting
 misrepreseted->misrepresented
 missaed somae->missed some
+missaligned->misaligned
 missassssignment->misassignment
 misscellaneouss->miscellaneous
 misschievouss->mischievous
@@ -67393,6 +67406,7 @@ mulltistring->multistring
 mulltithread->multithread
 mulltithreaded->multithreaded
 mulsims->muslims
+multbit->multibit
 multhi thhread->multi thread
 multhi-thhread->multi-thread
 multhichar->multichar
@@ -69213,6 +69227,7 @@ nestwork->network
 netacpe->netscape
 netboook->netbook
 netcape->netscape
+netfow->netflow
 nethertheless->nevertheless
 nethods->methods
 nethwork->network
@@ -83746,6 +83761,7 @@ re-dethermine->re-determine
 re-dettermine->re-determine
 re-engeneer->re-engineer
 re-engeneering->re-engineering
+re-entrant->reentrant
 re-evaulated->re-evaluated
 re-execcuted->re-executed
 re-execuled->re-executed
@@ -85983,6 +85999,7 @@ regart->regard
 regarted->regarded
 regarting->regarding
 regartless->regardless
+regaurdless->regardless
 regeister->register
 regeistered->registered
 regeistration->registration
@@ -87663,6 +87680,8 @@ repostory->repository
 repostus->reposts
 repote->remote, report,
 repoted->reported
+repoter->reporter
+repoters->reporters
 reppartition->repartition
 reppeat->repeat
 reppeatedly->repeatedly
@@ -96244,6 +96263,7 @@ sqaudron->squadron
 sqaure->square
 sqaurely->squarely
 sqaures->squares
+sqaushing->squashing
 sqeuaky->squeaky
 sqeuence->sequence
 sqilte->sqlite
@@ -97435,6 +97455,7 @@ sthylus->stylus
 stichted->stitched
 stichting->stitching
 stickes->stickers
+stickness->stickiness
 sticthed->stitched
 sticthes->stitches
 sticthing->stitching
@@ -97763,6 +97784,7 @@ strcutures->structures
 streaamlining->streamlining
 streaching->stretching
 streaemlining->streamlining
+stream stream->stream
 streamade->streamed
 streamare->streamer
 streamd->streamed
@@ -103204,6 +103226,7 @@ threaetened->threatened
 threaetening->threatening
 threashold->threshold
 threasholds->thresholds
+threass->threads
 threataning->threatening
 threatend->threatened
 threatended->threatened
@@ -104736,6 +104759,7 @@ transkribing->transcribing
 transkript->transcript
 transkription->transcription
 translastion->translations
+translateable->translatable
 translateing->translating
 translater->translator
 translaters->translators
@@ -112620,6 +112644,8 @@ workaorunds->workarounds
 workaraound->workaround
 workarbound->workaround
 workardound->workaround
+workarond->workaround
+workaronds->workarounds
 workarould->workaround
 workaroundd->workaround
 workaroundds->workarounds
