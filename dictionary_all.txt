@@ -66433,6 +66433,7 @@ mmystical->mystical
 mnaged->manged
 mnay->many
 mnultiply->multiply
+moar->more
 mobilitiy->mobility
 mobiliy->mobility
 mobiltiy->mobility
