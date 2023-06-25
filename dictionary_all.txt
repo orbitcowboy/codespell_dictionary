@@ -16458,6 +16458,7 @@ cavarly->cavalry
 cavlary->cavalry
 cavren->cavern
 cayonlands->canyonlands
+cazuse->cause
 cbds->cdbs
 ccacched->cached
 ccacching->caching
@@ -45427,6 +45428,7 @@ friaend->friend
 friaendly->friendly
 friaends->friends
 fricton->friction
+fridaay->friday
 friednship->friendships
 friednzone->friendzoned
 frieend->friend
@@ -46084,6 +46086,7 @@ fxes->fixes
 fysical->physical
 fysisist->physicist
 fysisit->physicist
+für->for
 gaael->gael
 gaalaactic->galactic
 gaalaatiaans->galatians
@@ -51711,6 +51714,7 @@ immedaiate->immediate
 immedaite->immediate
 immedate->immediate
 immedately->immediately
+immedatly->immediately
 immeddiate->immediate
 immeddiately->immediately
 immedeately->immediately
@@ -52482,6 +52486,7 @@ improsonment->imprisonment
 improtant->important
 improtantly->importantly
 improted->imported
+improtnat->important
 improv->improve
 improvae->improve
 improvaemaent->improvement
@@ -70200,6 +70205,7 @@ nowadayys->nowadays
 nowaddays->nowadays
 nowadys->nowadays
 nowaedaeys->nowadays
+nowbody->nobody
 nowdays->nowadays
 nowdelay->nodelay
 nowe->now
@@ -111657,6 +111663,7 @@ wbdp->wpdb
 wbose->whose
 wduration->duration
 we decides->we decided
+we on't->we won't
 we speck->we speak
 we we->we
 we'rre->we're
