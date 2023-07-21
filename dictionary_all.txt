@@ -4779,6 +4779,7 @@ akquitted->acquitted
 akransas->arkansas
 akross->across
 aks->ask
+aksed->asked
 aksing->asking
 aksreddit->askreddit
 aktivate->activate
@@ -9292,6 +9293,7 @@ assemmbly->assembly
 assemnly->assembly
 assemple->assemble
 assempling->assembling
+assemply->assembly
 assenbly->assembly
 asser->assert
 asserion->assertion
@@ -43186,6 +43188,7 @@ faveor->favor
 faveourable->favourable
 favoor->favor
 favoourable->favourable
+favorible->favorable
 favoritisme->favorites
 favorits->favorites
 favorr->favor
@@ -44420,6 +44423,7 @@ follod->followed
 folloeing->following
 folloing->following
 folloiwng->following
+folloiwning->following
 follong->following
 followd->follows, follow, followed,
 followes->follows
@@ -48385,6 +48389,7 @@ handelbars->handlebars
 handeld->handheld, handled,
 handeldy->handedly
 handeled->handheld, handled,
+handeled->handled
 handeler->handler
 handelers->handlers
 handeles->handles
@@ -76502,6 +76507,8 @@ pixelx->pixel, pixels,
 pixes->pixels
 pixet->pixel
 pixets->pixels
+pixle->pixel
+pixles->pixels
 pixxel->pixel
 pixxels->pixels
 pkaythroughs->playthroughs
@@ -80866,6 +80873,7 @@ programner->programmer
 programners->programmers
 programning->programming
 programss->programs
+progran->program
 progranmable->programmable
 progranmatic->programmatic
 progranmatically->programmatically
