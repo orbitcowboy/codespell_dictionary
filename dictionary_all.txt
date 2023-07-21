@@ -107773,7 +107773,10 @@ unintuitivelely->intuitively
 unintuive->unintuitive
 unip->unique
 uniq->unique
+uniq_ptr->unique_ptr
 uniqe->unique
+uniqe_ptr->unique_ptr
+uniqeu_ptr->unique_ptr
 uniqque->unique
 uniqquely->uniquely
 uniqu->unique
