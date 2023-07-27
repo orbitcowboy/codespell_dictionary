@@ -10452,6 +10452,7 @@ attritube->attribute
 attritubes->attributes
 attriubtes->attributes
 attriubute->attribute
+attriubuttes->attributes
 attriute->attribute
 attrocities->atrocities
 attrocitties->atrocities
@@ -32474,6 +32475,7 @@ differenciation->differentiation
 differenciations->differentiation, differentiations,
 differencies->differences
 differenct->different
+differenctes->differences
 differend->different
 differene->difference
 differenes->differences
@@ -44249,6 +44251,8 @@ florescent->fluorescent
 floresent->fluorescent
 floride->fluoride
 floridia->florida
+flormatted->formatted
+flormattes->formattes
 floruide->fluoride
 floruish->flourish
 flose->fclose
@@ -71430,6 +71434,7 @@ omnsicient->omniscient
 ompiler->compiler
 omplementaion->implementation
 omplementation->implementation
+omptimization->optimization
 omre->more
 on line->online
 on or more->one or more
@@ -103885,6 +103890,7 @@ too straighten->to straighten
 too the->to the
 toobaccoo->tobacco
 tooc->took
+toochain->toolchain
 toock->took
 tood->todo
 tooday's->today's
@@ -107515,6 +107521,7 @@ unfortuntaly->unfortunately
 unfortuntately->unfortunately
 unfortuntely->unfortunately
 unforunate->unfortunate
+unforunatelly->unfortunately
 unforunately->unfortunately
 unforuntately->unfortunately
 unforuntatly->unfortunately
