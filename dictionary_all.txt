@@ -11316,6 +11316,7 @@ availabbility->availability
 availabble->available
 availabe->available
 availabed->available
+availabee->available
 availabel->available
 availabele->available
 availabelity->availability
@@ -30770,6 +30771,7 @@ derefenced->dereferenced
 derefencing->dereferencing
 dereferance->dereference
 derefereced->dereferenced
+dereferecing->dereferencing
 dereferenc->dereference
 dereferencaable->dereferencable
 dereferencabble->dereferencable
@@ -48148,7 +48150,7 @@ haanged->hanged
 haangover->hangover
 haangs->hangs
 haappen->happen
-haappend->happend
+haappend->happened
 haappened->happened
 haappening->happening
 haappens->happens
@@ -80989,6 +80991,8 @@ proirity->priority
 projaect->project
 projaects->projects
 projcedure->procedure
+projcet->project
+projcets->projects
 projct's->project's
 projct->project
 projction->projection
@@ -83687,6 +83691,8 @@ rangee->range
 rangeing->ranging
 rangge->range
 rangue->range
+raninbow->rainbow
+raninbows->rainbows
 ranndom->random
 rannge->range
 raoches->roaches
@@ -100405,6 +100411,7 @@ susecptible->susceptible
 susepect->suspect
 suseptable->susceptible
 suseptible->susceptible
+susequently->subsequently
 susinctly->succinctly
 susinkt->succinct
 suskeptible->susceptible
@@ -109125,6 +109132,7 @@ uppanishad->upanishad
 uppcoming->upcoming
 uppdate->update
 uppdated->updated
+uppdatera->update
 uppdates->updates
 uppeer->upper
 upperr->upper
