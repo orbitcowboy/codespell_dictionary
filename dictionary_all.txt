@@ -113123,12 +113123,14 @@ wwxmaxima->wxmaxima
 wwxwidgets->wxwidgets
 wwysiwwyg->wysiwyg
 wx wingets->wxwidgets
+wxclipboad->wxclipboard
 wxframemananger->wxframemanager
 wxmaaximaa->wxmaxima
 wxmaeximae->wxmaxima
 wxmasima->wxmaxima
 wxmaxiima->wxmaxima
 wxmaximma->wxmaxima
+wxuse_lonlong->wxuse_longlong
 wxwdigets->wxwidgets
 wxwiddgets->wxwidgets
 wxwidets->wxwidgets
