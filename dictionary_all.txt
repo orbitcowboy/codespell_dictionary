@@ -56992,6 +56992,7 @@ interpretet->interpreted
 interpretier->interpreter
 interpretingg->interpreting
 interpretion->interpretation
+interpretions->interpretations
 interpretoor->interpretor
 interpretor->interpreter
 interpretro->interpretor
