@@ -17956,6 +17956,7 @@ checkoout->checkout
 checkoslovakia->czechoslovakia
 checkoul->checkout
 checkouth->checkout
+checkoutn->checkout
 checkoutt->checkout
 checkouut->checkout
 checkpiont->checkpoint
@@ -21681,6 +21682,7 @@ comprress->compress
 comprression->compression
 comprromise->compromise
 compsable->composable
+compser->composer
 compsers->compress
 compsite->composite
 comptability->compatibility
@@ -24676,6 +24678,7 @@ contiribute->contribute
 contiributed->contributed
 contiributes->contributes
 contiributing->contributing
+contitionally->conditionally
 contitnent->contingent
 contiue->continue
 contiugous->contiguous
@@ -34675,6 +34678,7 @@ distubring->disturbing
 distuingish->distinguish
 distuingished->distinguished
 distuingishing->distinguishing
+distuinguished->distinguished
 distunguish->distinguish
 disturbace->disturbance
 disturbante->disturbance
@@ -34684,6 +34688,7 @@ disturbence->disturbance
 disturping->disrupting
 distustingly->disgustingly
 disuade->dissuade
+disucssed->discussed
 disucssing->discussing
 disucssion->discussion
 disucssions->discussions
@@ -39748,6 +39753,7 @@ everwhere->everywhere
 everybbody->everybody
 everyboddy->everybody
 everybodies->everybody, everybody's,
+everybodys->everybody's
 everyboody->everybody
 everybuddy->everybody
 everyhing->everything
@@ -54562,6 +54568,7 @@ infringemment->infringement
 infringgement->infringement
 infringuement->infringement
 infro->info
+infrom->inform
 infromal->informal
 infromation->information
 infromative->informative
@@ -69687,6 +69694,7 @@ nominativo->nomination
 nominato->nomination
 nominatons->nominations
 nominet->nominate
+non- integer->non-integer
 non-alphanumunder->non-alphanumeric
 non-asii->non-ascii
 non-assiged->non-assigned
@@ -74689,6 +74697,7 @@ patronis->patrons
 patronos->patrons
 patronozing->patronizing
 patryarchy->patriarchy
+patsh->paths
 patsime->pastime
 patsoral->pastoral
 pattaern->pattern
@@ -77981,6 +77990,7 @@ postioning->positioning
 postions->positions
 postition->position
 postitive->positive
+postitve->positive
 postive->positive
 postives->positives
 postix->postfix
@@ -82937,6 +82947,7 @@ qualfier->qualifier
 qualfiers->qualifiers
 qualfiiers->qualifiers
 qualfy->qualify
+qualication->qualification
 qualifacation->qualification
 qualifed->qualified
 qualifer->qualifier
@@ -87709,6 +87720,7 @@ repote->remote, report,
 repoted->reported
 repoter->reporter
 repoters->reporters
+repots->repository
 reppartition->repartition
 reppeat->repeat
 reppeatedly->repeatedly
@@ -102750,6 +102762,7 @@ theorrem->theorem
 theorry->theory
 theoryy->theory
 theosore->theodore
+theprogram->the program
 ther->the, other, their, there,
 ther->there
 theraefter->thereafter
