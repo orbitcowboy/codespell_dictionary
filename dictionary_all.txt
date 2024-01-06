@@ -90346,6 +90346,7 @@ rrunning->running
 rsizing->resizing
 rsource->resource
 rsunc->rsync
+rteturns->returns
 rturn->return
 rturns->returns
 rubarb->rhubarb
@@ -101574,6 +101575,7 @@ talse->false
 talsiman->talisman
 taltoo->tattoo
 taltoos->tattoos
+tandalone->standalone
 tanenhill->tannehill
 tangeant->tangent
 tangeantial->tangential
@@ -108596,6 +108598,7 @@ unsatisified->unsatisfied
 unsccessful->unsuccessful
 unsearcahble->unsearchable
 unseccessful->unsuccessful
+unsecure->insecure
 unsed->unused, unsaid, used,
 unsed->used
 unseful->useful
@@ -112194,6 +112197,7 @@ whta->what
 whther->whether
 whtielist->whitelist
 whule->while
+whyever->whatever
 whyth->with
 whythout->without
 wiaeld->wield
