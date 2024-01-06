@@ -75724,6 +75724,7 @@ persisttentt->persistent
 persited->persisted
 persitent->persistent
 persits->persist
+persits->persists
 persitsence->persistence
 persitsent->persistent
 persoanlly->personally
@@ -102451,6 +102452,7 @@ tesiting->testing
 tesitmony->testimony
 tesits->tests
 tesitss->tests
+tess->test
 tessealte->tessellate
 tessealted->tessellated
 tesselatad->tessellated
