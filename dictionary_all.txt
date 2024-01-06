@@ -52589,6 +52589,7 @@ impusle->impulse
 impusles->impulses
 impuslive->impulsive
 imput->input
+impved->improved
 imroper->improper
 imrovement->improvement
 imrpove->improve
