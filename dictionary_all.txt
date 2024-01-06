@@ -12589,6 +12589,7 @@ behvaiour->behaviour
 behvaiours->behaviours
 behvior->behavior
 behviour->behaviour
+beign->being
 beiing sent->being sent
 beiing->being
 beind->behind
@@ -18700,6 +18701,7 @@ cjanged->changed
 cjanges->changes
 cjoice->choice
 cjoices->choices
+ckeck->check
 ckeckbox->checkbox
 ckecked->checked
 ckeckes->checks
@@ -19932,6 +19934,7 @@ comhy->comphy
 comibination->combination
 comibinations->combinations
 comiing->coming
+comile_commands->compile_commands
 comiler->compiler
 comilers->compilers
 comination->combination
@@ -29240,6 +29243,7 @@ deductables->deductibles
 deductiable->deductible
 deductibe->deductible
 deductie->deductible
+deducton->deduction
 dedupication->deduplication
 deduplacate->deduplicate
 deduplacated->deduplicated
@@ -31415,6 +31419,7 @@ dessication->desiccation
 dessiccated->desiccated
 dessign ruless->design rules
 dessign->design
+dessignated->designated
 dessigned->designed
 dessigner->designer
 dessigning->designing
@@ -55329,6 +55334,7 @@ innitiated->initiated
 innitiationn->initiation
 innitiative->initiative
 innlinninng->inlining
+innner->inner
 innnnocennce->innocence
 innnnumerable->innumerable
 innoavtion->innovations
@@ -63935,6 +63941,7 @@ mayalsian->malaysian
 maybae->maybe
 mayballine->maybelline
 maybbe->maybe
+maybe_unsed->maybe_unused
 maybee->maybe
 maybelle->maybelline
 maybelleine->maybelline
@@ -92485,6 +92492,7 @@ sequenze->sequence
 sequenzes->sequences
 sequeuce->sequence
 sequeze->sequence, squeeze,
+sequience->sequence
 sequnce->sequence
 sequnces->sequences
 sequnece->sequence
@@ -98627,6 +98635,7 @@ subexpession->subexpression
 subexpessions->subexpressions
 subexpresssion->subexpression
 subexpresssions->subexpressions
+subexression->subexpression
 subffolder->subfolder
 subfoldaer->subfolder
 subfoldder->subfolder
