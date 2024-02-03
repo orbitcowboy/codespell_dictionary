@@ -4420,6 +4420,7 @@ aggreegatee->aggregate
 aggreegatees->aggregates
 aggreeingg->agreeing
 aggreement->agreement
+aggreements->agreements
 aggreession->aggression
 aggreessivee->aggressive
 aggreessiveely->aggressively
@@ -40835,6 +40836,7 @@ exhasuted->exhausted
 exhasuting->exhausting
 exhasution->exhaustion
 exhaused->exhausted
+exhausive->exhaustive
 exhaustin->exhaustion
 exhaustivo->exhaustion
 exhaustn->exhaustion
