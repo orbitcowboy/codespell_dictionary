@@ -21851,7 +21851,9 @@ concalenale->concatenate
 concalenaled->concatenated
 concalenales->concatenates
 concalenalion->concatenation
+concant->constant
 concantenated->concatenated
+concants->constants
 concataenatae->concatenate
 concataenataed->concatenated
 concataenataes->concatenates
@@ -61804,6 +61806,7 @@ locla->local
 lod->load
 loday's->today's
 loday->today
+lode->load
 loding->loading
 lodo->todo
 loenard->leonard
@@ -63857,6 +63860,7 @@ mathmatician->mathematician
 mathmaticians->mathematicians
 mathmatics->mathematics
 mathod->method
+mathods->methods
 mathrices->matrices
 mathther->matter
 maththered->mattered
@@ -91659,6 +91663,7 @@ secod->second
 secoend->second
 seconadry->secondary
 seconday->secondary
+seconde->seconds
 secondiory->secondary
 secondy->secondary, secondly,
 seconly->secondly
