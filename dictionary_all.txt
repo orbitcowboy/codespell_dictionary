@@ -63944,6 +63944,7 @@ maxrmal->maximal
 maxumum->maximum
 maxximum->maximum
 may has been->may have been
+may may->may
 mayabe->maybe
 mayalsia->malaysia
 mayalsian->malaysian
@@ -67182,6 +67183,7 @@ mosquitero->mosquito
 mosquiters->mosquitoes
 mosquitto->mosquito
 mosqutio->mosquito
+most be->must be
 mostlky->mostly
 mosture->moisture
 mosty->mostly
